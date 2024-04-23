@@ -1,1 +1,1 @@
-[![Generate EPG](https://github.com/mbahnunung/stb/actions/workflows/gen-epg.yml/badge.svg)](https://github.com/mbahnunung/stb/actions/workflows/gen-epg.yml)
+[![Generate EPG](https://github.com/mbahnunung/stb/actions/workflows/gen-epg.yml/badge.svg)](https://github.com/WaroenkTV/m3u8/actions/workflows/epg.yml)
