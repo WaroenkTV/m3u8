@@ -1,8 +1,9 @@
 name: Scrape Data
 
 on:
-  schedule:
-    - cron: '0 */3 * * *' # Run every 3 hours
+  push:
+    branches:
+      - main
 
 jobs:
   scrape-data:
