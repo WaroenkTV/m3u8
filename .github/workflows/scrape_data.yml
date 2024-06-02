@@ -1,0 +1,39 @@
+name: Scrape Data
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Run every 3 hours
+
+jobs:
+  scrape-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install beautifulsoup4 requests
+
+      - name: Scrape Data
+        run: python scrape_data.py
+
+      - name: Save Data to File
+        run: echo "${{ steps.scrape-data.outputs.data }}" > data.txt
+        id: scrape-data
+        shell: bash
+
+      - name: Commit Changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add data.txt
+          git commit -m "Update data.txt"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
