@@ -6,28 +6,22 @@ on:
       - main
 
 jobs:
-  scrape-data:
+  scrape:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v2
         with:
-          python-version: '3.x'
+          node-version: '14'
 
-      - name: Install dependencies
-        run: pip install beautifulsoup4 requests
+      - name: Install Puppeteer
+        run: npm install puppeteer
 
-      - name: Scrape Data
-        run: python scrape_data.py
-
-      - name: Save Data to File
-        run: echo "${{ steps.scrape-data.outputs.data }}" > data.txt
-        id: scrape-data
-        shell: bash
+      - name: Run Puppeteer Script
+        run: node scrape_data.js
 
       - name: Commit Changes
         run: |
