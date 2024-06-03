@@ -32,7 +32,7 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add tokendata.txt
-          git commit -m 'Update session_id'
+          git commit -m 'Update tokendata'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
