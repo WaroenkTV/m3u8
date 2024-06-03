@@ -1,34 +1,38 @@
-name: Run Selenium Script
+name: Extract Session ID
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
-  run-selenium:
+  extract_session_id:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.8'
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install selenium webdriver-manager
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install selenium webdriver-manager
 
-    - name: Run Selenium script
-      run: python extract.py
+      - name: Run extraction script
+        run: python extract.py
 
-    - name: Upload tvs_token.txt
-      if: success()
-      uses: actions/upload-artifact@v2
-      with:
-        name: tvs_token
-        path: tvs_token.txt
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add tokendata.txt
+          git commit -m 'Update session_id'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
