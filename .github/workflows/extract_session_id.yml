@@ -31,8 +31,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add tokendata.txt
-          git commit -m 'Update tokendata'
+          git add tvs_token.txt
+          git commit -m 'Update tvs_token'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
