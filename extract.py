@@ -23,26 +23,33 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 # Open the URL
 driver.get(url)
 
-# Wait for the page to load
-time.sleep(5)  # Adjust the sleep time if necessary
+# Set the timeout to 50 seconds
+driver.set_page_load_timeout(50)
 
-# Extract cookies
-cookies = driver.get_cookies()
-tvs_token = None
+try:
+    # Wait for the page to load
+    time.sleep(5)  # Additional sleep time if needed
+    # Extract cookies
+    cookies = driver.get_cookies()
+    tvs_token = None
 
-# Find the tvs_token in cookies
-for cookie in cookies:
-    if cookie['name'] == 'tvs_token':
-        tvs_token = cookie['value']
-        break
+    # Find the tvs_token in cookies
+    for cookie in cookies:
+        if cookie['name'] == 'tvs_token':
+            tvs_token = cookie['value']
+            break
 
-# Check if tvs_token is found and save only the value to a file
-if tvs_token:
-    with open(output_file, 'w') as file:
-        file.write(tvs_token)
-    print(f'tvs_token found and saved to {output_file}')
-else:
-    print('tvs_token not found')
+    # Check if tvs_token is found and save only the value to a file
+    if tvs_token:
+        with open(output_file, 'w') as file:
+            file.write(tvs_token)
+        print(f'tvs_token found and saved to {output_file}')
+    else:
+        print('tvs_token not found')
 
-# Close the browser
-driver.quit()
+except Exception as e:
+    print(f'An error occurred: {e}')
+
+finally:
+    # Close the browser
+    driver.quit()
