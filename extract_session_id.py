@@ -1,48 +1,48 @@
+import os
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options
-import base64
-import json
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 
+# Define the URL
+url = 'https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be58644c5901&genreId=10'
+# Use GITHUB_WORKSPACE environment variable to define the output file path
+output_file = os.path.join(os.getenv('GITHUB_WORKSPACE', ''), 'tvs_token.txt')
+
 # Set up Chrome options
-options = Options()
-options.headless = True  # Run in headless mode
-options.add_argument("--no-sandbox")
-options.add_argument("--disable-dev-shm-usage")
+chrome_options = Options()
+chrome_options.add_argument('--headless')  # Run in headless mode for faster execution
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--disable-dev-shm-usage')
 
-# Set up the Chrome driver
-driver_service = Service(executable_path="/usr/local/bin/chromedriver")  # Ensure this path is correct
-driver = webdriver.Chrome(service=driver_service, options=options)
+# Initialize the WebDriver using WebDriver Manager
+service = ChromeService(executable_path=ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service, options=chrome_options)
 
-try:
-    # Navigate to the URL
-    url = "https://www.cubmu.com/play/live-tv?id=4028c68574537fcd0174be58644c5901&genreId=10"
-    driver.get(url)
+# Open the URL
+driver.get(url)
 
-    # Allow some time for the page to load and the token to be set
-    time.sleep(10)  # Adjust the sleep time if needed
+# Wait for the page to load
+time.sleep(5)  # Adjust the sleep time if necessary
 
-    # Extract the session token from cookies
-    cookies = driver.get_cookies()
-    for cookie in cookies:
-        if cookie['name'] == 'tvs_token':
-            tvs_token = cookie['value']
-            break
+# Extract cookies
+cookies = driver.get_cookies()
+tvs_token = None
 
-    # Decode the JWT token to get the sessionId
-    base64_url = tvs_token.split('.')[1]
-    base64_str = base64_url.replace('-', '+').replace('_', '/')
-    json_payload = base64.b64decode(base64_str).decode('utf-8')
+# Find the tvs_token in cookies
+for cookie in cookies:
+    if cookie['name'] == 'tvs_token':
+        tvs_token = cookie['value']
+        break
 
-    payload = json.loads(json_payload)
-    session_id = payload['currentSessionId']
+# Check if tvs_token is found and save only the value to a file
+if tvs_token:
+    with open(output_file, 'w') as file:
+        file.write(tvs_token)
+    print(f'tvs_token found and saved to {output_file}')
+else:
+    print('tvs_token not found')
 
-    # Write the sessionId to a text file
-    with open('session_id.txt', 'w') as file:
-        file.write(session_id)
-
-finally:
-    # Close the driver
-    driver.quit()
+# Close the browser
+driver.quit()
