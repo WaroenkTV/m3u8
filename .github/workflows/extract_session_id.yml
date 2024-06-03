@@ -24,7 +24,7 @@ jobs:
         pip install selenium webdriver-manager
 
     - name: Run Selenium script
-      run: python WaroenkTV/m3u8/extract.py
+      run: python m3u8/extract.py
 
     - name: Upload tvs_token.txt
       if: success()
