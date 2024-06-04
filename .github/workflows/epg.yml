@@ -37,3 +37,4 @@ jobs:
           git add -A
           git commit -m "Generate EPG every day"
           git push
+          
