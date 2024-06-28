@@ -1,4 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7373146
-https://cors-proxy.cooks.fyi/http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191869.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10,
+https://cors-proxy.cooks.fyi/http://mytv-extra.com/live/t12mgxyb335/9832948789/191869.ts
