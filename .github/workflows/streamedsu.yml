@@ -29,7 +29,7 @@ jobs:
       run: |
         php generate.php || exit 1  # Fail the workflow if PHP script fails
 
-    - name: Squash and force push changes
+    - name: push changes
       if: success()
       run: |
         # Setting up git config
@@ -37,8 +37,8 @@ jobs:
         git config --global user.name "github-actions[bot]"
 
         # Reset to the first commit
-        FIRST_COMMIT=$(git rev-list --max-parents=0 HEAD)
-        git reset --soft $FIRST_COMMIT
+        # FIRST_COMMIT=$(git rev-list --max-parents=0 HEAD)
+        # git reset --soft $FIRST_COMMIT
 
         # Add all changes and create a single new commit
         git add streamedsu.m3u8
