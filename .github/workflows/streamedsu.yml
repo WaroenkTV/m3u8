@@ -5,9 +5,9 @@ on:
     - cron: '* */4 * * *'
   workflow_dispatch:
 
-  push:
-    branches:
-      - main  # Trigger on push to the main branch as well
+#  push:
+#    branches:
+#      - main  # Trigger on push to the main branch as well
 
 
 jobs:
