@@ -1,13 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Arizona State vs New Mexico" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",11:30 - Arizona State vs New Mexico [Alpha] - (29/11/2024)
-https://rr.vipstreams.in/Alpha/js/new-mexico-vs-arizona-st/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Arizona State vs New Mexico" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",11:30 - Arizona State vs New Mexico [Bravo] - (29/11/2024)
-https://rr.vipstreams.in/Bravo/js/1732854600000-new-mexico-vs-arizona-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="25 Mississippi St v UNLV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:30 - 25 Mississippi St v UNLV [Alpha] - (29/11/2024)
-https://rr.vipstreams.in/Alpha/js/25-mississippi-st-vs-unlv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kent State vs Towson" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:30 - Kent State vs Towson [Alpha] - (29/11/2024)
-https://rr.vipstreams.in/Alpha/js/kent-st-vs-towson/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Brisbane Heat W v Sydney Thunder W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:15 - Brisbane Heat W v Sydney Thunder W [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/brisbane-heat-w-vs-sydney-thunder-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Africa v Sri Lanka" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:30 - South Africa v Sri Lanka [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/south-africa-vs-sri-lanka/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Africa v Sri Lanka" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:30 - South Africa v Sri Lanka [Charlie] - (29/11/2024)
+https://rr.vipstreams.in/Charlie/js/south-africa-vs-sri-lanka-1629412661/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ECS Spain, Encore, 2024 | Day 12 |" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:15 - ECS Spain, Encore, 2024 | Day 12 | [Charlie] - (29/11/2024)
+https://rr.vipstreams.in/Charlie/js/ecs-spain-encore-2024-or-day-12-or-1629413997/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Freedom v Unicorns" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:00 - Freedom v Unicorns [Charlie] - (29/11/2024)
+https://rr.vipstreams.in/Charlie/js/freedom-vs-unicorns-1629412660/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -54,18 +56,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="TBC v TBC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:00 - TBC v TBC [Charlie] - (29/11/2024)
-https://rr.vipstreams.in/Charlie/js/tbc-vs-tbc-1629412660/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ECS Malta, 2024 | Day 20 | 10 Nov 2024 |" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:00 - ECS Malta, 2024 | Day 20 | 10 Nov 2024 | [Charlie] - (29/11/2024)
-https://rr.vipstreams.in/Charlie/js/ecs-malta-2024-or-day-20-or-10-nov-2024-or-1629413997/1/playlist.m3u8
-#EXTINF:-1 tvg-name="South Africa v Sri Lanka" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:30 - South Africa v Sri Lanka [Alpha] - (29/11/2024)
-https://rr.vipstreams.in/Alpha/js/south-africa-vs-sri-lanka/1/playlist.m3u8
-#EXTINF:-1 tvg-name="South Africa v Sri Lanka" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:30 - South Africa v Sri Lanka [Charlie] - (29/11/2024)
-https://rr.vipstreams.in/Charlie/js/south-africa-vs-sri-lanka-1629412661/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Brisbane Heat W v Sydney Thunder W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:15 - Brisbane Heat W v Sydney Thunder W [Alpha] - (29/11/2024)
-https://rr.vipstreams.in/Alpha/js/brisbane-heat-w-vs-sydney-thunder-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="International Series Qatar, Third Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",15:30 - International Series Qatar, Third Round [Charlie] - (29/11/2024)
-https://rr.vipstreams.in/Charlie/js/international-series-qatar-third-round-1629413998/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Adelaide Lightning vs Townsville Fire" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - Adelaide Lightning vs Townsville Fire [Alpha] - (29/11/2024)
 https://rr.vipstreams.in/Alpha/js/adelaide-lightning-w-vs-townsville-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cairns Taipans vs Sydney Kings" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEGykrECjAgQvENJMgSIGObOIselkgpYRcxvtUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Basketball",15:30 - Cairns Taipans vs Sydney Kings [Alpha] - (29/11/2024)
@@ -96,6 +86,8 @@ https://rr.vipstreams.in/Alpha/js/fia-formula-1-2024-qatar-f1-academy-practice-1
 https://rr.vipstreams.in/Delta/js/chrudim-vs-taborsko-317367/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Viktoria Žižkov vs Vysočina Jihlava" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",17:00 - Viktoria Žižkov vs Vysočina Jihlava [Delta] - (29/11/2024)
 https://rr.vipstreams.in/Delta/js/viktoria-zizkov-vs-vysocina-jihlava-317368/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NPB(R) v Taiwan(S)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",17:05 - NPB(R) v Taiwan(S) [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/npb-r-vs-taiwan-s/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fukuoka v Aomori" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:05 - Fukuoka v Aomori [Alpha] - (29/11/2024)
 https://rr.vipstreams.in/Alpha/js/fukuoka-vs-aomori/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth Wildcats vs Brisbane Bullets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCwhpCViBggSIXttNGDR6SEQQQzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",17:30 - Perth Wildcats vs Brisbane Bullets [Alpha] - (29/11/2024)
@@ -130,6 +122,8 @@ https://rr.vipstreams.in/Alpha/js/shenzhen-vs-beijing/1/playlist.m3u8
 https://rr.vipstreams.in/Delta/js/vlasim-vs-sigma-olomouc-ii-317369/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Prachuap vs Nakhon Ratchasima FC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:00 - Prachuap vs Nakhon Ratchasima FC [Alpha] - (29/11/2024)
 https://rr.vipstreams.in/Alpha/js/prachuap-vs-nakhon-ratchasima-fc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PFL MENA Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",19:15 - PFL MENA Championship [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/pfl-mena-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ONE Friday Fights 89" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",19:30 - ONE Friday Fights 89 [Alpha] - (29/11/2024)
 https://rr.vipstreams.in/Alpha/js/one-friday-fights-89/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PDRM FC v Negeri Sembilan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - PDRM FC v Negeri Sembilan [Alpha] - (29/11/2024)
@@ -146,7 +140,61 @@ https://rr.vipstreams.in/Charlie/js/uk-championships-snooker-day-7-table-1-16294
 https://rr.vipstreams.in/Alpha/js/andalucia-costa-del-sol-open-de-espana-second-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Andalucia Costa del Sol Open de Espana, Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",20:00 - Andalucia Costa del Sol Open de Espana, Second Round [Charlie] - (29/11/2024)
 https://rr.vipstreams.in/Charlie/js/andalucia-costa-del-sol-open-de-espana-second-round-1629414001/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sunny Edwards v Galal Yafai Weigh-In" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",20:00 - Sunny Edwards v Galal Yafai Weigh-In [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/sunny-edwards-vs-galal-yafai-weigh-in/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Terengganu v Melaka FC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Terengganu v Melaka FC [Alpha] - (29/11/2024)
 https://rr.vipstreams.in/Alpha/js/terengganu-vs-melaka-fc/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hapoel Kiryat Shmona vs Hapoel Haifa" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu0FIEIEKRC8Q0oyAgGQKEIjOGULbTAEi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",20:00 - Hapoel Kiryat Shmona vs Hapoel Haifa [Alpha] - (29/11/2024)
 https://rr.vipstreams.in/Alpha/js/kiryat-shmona-vs-hapoel-haifa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FIA Formula 1 2024: Qatar F1GP Practice 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",20:30 - FIA Formula 1 2024: Qatar F1GP Practice 1 [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/fia-formula-1-2024-qatar-f1gp-practice-1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Novi Pazar vs Vojvodina" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvhAoOYEMGkgYIXiAMpjFkiGsnqIeCyQUsIuYxRhV2nWXhFqctr4rMBgnuJiEEA.webp" group-title="Football",20:30 - Novi Pazar vs Vojvodina [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/novi-pazar-vs-vojvodina/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Qatar Grand Prix Practice 1" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrxBkUYabmohNWEDBBmSIFCGlnDWlkgpYRcxjtUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Motor Sports",20:30 - Qatar Grand Prix Practice 1 [Charlie] - (29/11/2024)
+https://rr.vipstreams.in/Charlie/js/formula-1-qatar-airways-qatar-grand-prix-2024-lusail-friday-practice-1629412683/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chennai Brave Jaguars v UP Nawabs" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",20:45 - Chennai Brave Jaguars v UP Nawabs [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/chennai-brave-jaguars-vs-up-nawabs/1/playlist.m3u8
+#EXTINF:-1 tvg-name="LALIGA News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:00 - LALIGA News [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/laliga-news/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Qadsiah vs Al Khaleej" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:25 - Al Qadsiah vs Al Khaleej [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/al-qadsiah-vs-al-khaleej/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Qadsiah vs Al Khaleej" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:25 - Al Qadsiah vs Al Khaleej [Delta] - (29/11/2024)
+https://rr.vipstreams.in/Delta/js/alqadisiyah-fc-vs-al-khaleej-saihat-314347/1/playlist.m3u8
+#EXTINF:-1 tvg-name="2024 PFL World Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",21:30 - 2024 PFL World Championship [Charlie] - (29/11/2024)
+https://rr.vipstreams.in/Charlie/js/2024-pfl-world-championship-1629412682/1/playlist.m3u8
+#EXTINF:-1 tvg-name="2024 PFL World Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",21:30 - 2024 PFL World Championship [Charlie] - (29/11/2024)
+https://rr.vipstreams.in/Charlie/js/pfl-or-2024-world-championship-1629414180/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Nassr v Damac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:40 - Al Nassr v Damac [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/al-nassr-vs-damac/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Nassr v Damac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:40 - Al Nassr v Damac [Charlie] - (29/11/2024)
+https://rr.vipstreams.in/Charlie/js/al-nassr-vs-damac-19191860/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Nassr v Damac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:40 - Al Nassr v Damac [Delta] - (29/11/2024)
+https://rr.vipstreams.in/Delta/js/alnassr-vs-damac-314340/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Nassr v Damac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:40 - Al Nassr v Damac [Echo] - (29/11/2024)
+https://rr.vipstreams.in/Echo/js/al-nassr-damac-22609/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Nassr v Damac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:40 - Al Nassr v Damac [Foxtrot] - (29/11/2024)
+https://rr.vipstreams.in/Foxtrot/js/al-nassr-vs-damac-202411272345/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FIA Formula 1 2024: Qatar F1 Academy Practice 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",22:00 - FIA Formula 1 2024: Qatar F1 Academy Practice 2 [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/fia-formula-1-2024-qatar-f1-academy-practice-2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Septemvri Sofia vs Cherno More" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihDwwSEDGAAGMNJC8QWUyE0Q9lklpBX8wJBSwi5jFGFUoeP8kZqOT9nejAfcTEIIA.webp" group-title="Football",22:00 - Septemvri Sofia vs Cherno More [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/septemvri-sofia-vs-cherno-more/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Botoșani vs Farul Constanta" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmPwh+WENWAAGbSF3UQMc5d56bMFkgpYRcxijCqUPd+Ub6xn-FZgMHdxMQggA.webp" group-title="Football",22:00 - FC Botoșani vs Farul Constanta [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/fc-botosani-vs-fc-farul-constanta/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cukaricki vs Spartak Subotica" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmHkgQ8vrBC8Q0kCgNmS2s9pgskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",22:30 - Cukaricki vs Spartak Subotica [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/cukaricki-vs-sp-subotica/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Formula 2 Qatar Qualifying" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",23:00 - Formula 2 Qatar Qualifying [Charlie] - (29/11/2024)
+https://rr.vipstreams.in/Charlie/js/formula-2-qatar-qualifying-1629412685/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Northern Warriors v Ajman Bolts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",23:00 - Northern Warriors v Ajman Bolts [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/northern-warriors-vs-ajman-bolts/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Palestine W v Saudi Arabia W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - Palestine W v Saudi Arabia W [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/palestine-w-vs-saudi-arabia-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="14 Indiana v Providence" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - 14 Indiana v Providence [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/14-indiana-vs-providence/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Manisa v Tofas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Manisa v Tofas [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/manisa-vs-tofas/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bílí Tygři Liberec vs Pardubice" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:00 - Bílí Tygři Liberec vs Pardubice [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/liberec-vs-pardubice/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oceláři Třinec vs Olomouc" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:00 - Oceláři Třinec vs Olomouc [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/trinec-vs-olomouc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FIA Formula 2 2024: Qatar F2GP Qualifying Session" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",23:10 - FIA Formula 2 2024: Qatar F2GP Qualifying Session [Alpha] - (29/11/2024)
+https://rr.vipstreams.in/Alpha/js/fia-formula-2-2024-qatar-f2gp-qualifying-session/1/playlist.m3u8
