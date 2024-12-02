@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Milan P1 Day 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - Milan P1 Day 1 [Charlie] - (02/12/2024)
+https://rr.vipstreams.in/Charlie/js/milan-p1-day-1-1629414283/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FA Cup Round 2 Highlights" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - FA Cup Round 2 Highlights [Alpha] - (02/12/2024)
+https://rr.vipstreams.in/Alpha/js/fa-cup-round-2-highlights/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Janakpur Bolts v Karnali Yaks" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:30 - Janakpur Bolts v Karnali Yaks [Alpha] - (02/12/2024)
 https://rr.vipstreams.in/Alpha/js/janakpur-bolts-vs-karnali-yaks/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ECS Spain, Encore, 2024 | Day 15 |" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:15 - ECS Spain, Encore, 2024 | Day 15 | [Charlie] - (02/12/2024)
@@ -52,8 +56,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Milan P1 Day 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - Milan P1 Day 1 [Charlie] - (02/12/2024)
-https://rr.vipstreams.in/Charlie/js/milan-p1-day-1-1629414283/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NPB(W) v JABA" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",17:05 - NPB(W) v JABA [Alpha] - (02/12/2024)
 https://rr.vipstreams.in/Alpha/js/npb-w-vs-jaba/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Saga v Nagasaki" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:05 - Saga v Nagasaki [Alpha] - (02/12/2024)
@@ -96,6 +98,8 @@ https://rr.vipstreams.in/Alpha/js/abu-dhabi-t10-league-final-deccan-gladiators-v
 https://rr.vipstreams.in/Alpha/js/universitatea-cluj-vs-uta-arad/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Akhmat v Dynamo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - Akhmat v Dynamo [Delta] - (02/12/2024)
 https://rr.vipstreams.in/Delta/js/akhmat-vs-dynamo-284621/1/playlist.m3u8
+#EXTINF:-1 tvg-name="All American" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",23:00 - All American [Alpha] - (02/12/2024)
+https://rr.vipstreams.in/Alpha/js/all-american/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darussafaka v Merkezefendi" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Darussafaka v Merkezefendi [Alpha] - (02/12/2024)
 https://rr.vipstreams.in/Alpha/js/darussafaka-vs-merkezefendi/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al-Ahli Saudi FC vs Esteghlal" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlhZKMEmBgDIXiCwhqIEudOXNtyfmBIKWEXMa7VKHmDLwi1HLejvRgvuJiEEA.webp" group-title="Football",23:00 - Al-Ahli Saudi FC vs Esteghlal [Alpha] - (02/12/2024)
@@ -116,3 +120,27 @@ https://rr.vipstreams.in/Delta/js/alwasl-fc-vs-alrayyan-sc-316997/1/playlist.m3u
 https://rr.vipstreams.in/Foxtrot/js/al-wasl-fc-vs-al-rayyan-sc-202412021545/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Podcetrtek v KK Triglav Kranj" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Podcetrtek v KK Triglav Kranj [Alpha] - (02/12/2024)
 https://rr.vipstreams.in/Alpha/js/podcetrtek-vs-kk-triglav-kranj/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Slovenia W v Austria W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Slovenia W v Austria W [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/slovenia-w-vs-austria-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Poland W v Spain W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Poland W v Spain W [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/poland-w-vs-spain-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="North Macedonia W v Hungary W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - North Macedonia W v Hungary W [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/north-macedonia-w-vs-hungary-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Denmark W v Iceland W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Denmark W v Iceland W [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/denmark-w-vs-iceland-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Denmark W v Iceland W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Denmark W v Iceland W [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/denmark-w-vs-iceland-w-316999/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Galil Elyon v Hapoel Haifa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Galil Elyon v Hapoel Haifa [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/galil-elyon-vs-hapoel-haifa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sakaryaspor vs Boluspor" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFliQfMOBAheILCGqnziExHMgWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",00:00 - Sakaryaspor vs Boluspor [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/sakaryaspor-vs-boluspor/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fenerbahce vs Gaziantep FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJADtYENRC8Q0kChAw9FiCZBWsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",00:00 - Fenerbahce vs Gaziantep FK [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/fenerbahce-vs-gaziantep-fk/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fenerbahce vs Gaziantep FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJADtYENRC8Q0kChAw9FiCZBWsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",00:00 - Fenerbahce vs Gaziantep FK [Charlie] - (03/12/2024)
+https://rr.vipstreams.in/Charlie/js/fenerbahce-vs-gaziantep-fk-19172135/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fenerbahce vs Gaziantep FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJADtYENRC8Q0kChAw9FiCZBWsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",00:00 - Fenerbahce vs Gaziantep FK [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/fenerbahce-vs-gazisehir-gaziantep-316988/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hatayspor vs Besiktas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSgwQvEPSw6Q0kChDbqICyTOHpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",00:00 - Hatayspor vs Besiktas [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/hatayspor-vs-besiktas/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hatayspor vs Besiktas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSgwQvEPSw6Q0kChDbqICyTOHpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",00:00 - Hatayspor vs Besiktas [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/hatayspor-vs-besiktas-317000/1/playlist.m3u8
