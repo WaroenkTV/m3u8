@@ -1,13 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Kosovo W v Estonia W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:00 - Kosovo W v Estonia W [Delta] - (02/12/2024)
+https://rr.vipstreams.in/Delta/js/kosovo-w-vs-estonia-w-316962/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Juan Open, Day 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",19:00 - San Juan Open, Day 1 [Charlie] - (02/12/2024)
+https://rr.vipstreams.in/Charlie/js/san-juan-open-day-1-1629414284/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NPB(W) v JABA" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",17:05 - NPB(W) v JABA [Alpha] - (02/12/2024)
+https://rr.vipstreams.in/Alpha/js/npb-w-vs-jaba/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Milan P1 Day 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - Milan P1 Day 1 [Charlie] - (02/12/2024)
 https://rr.vipstreams.in/Charlie/js/milan-p1-day-1-1629414283/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FA Cup Round 2 Highlights" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - FA Cup Round 2 Highlights [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/fa-cup-round-2-highlights/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Janakpur Bolts v Karnali Yaks" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:30 - Janakpur Bolts v Karnali Yaks [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/janakpur-bolts-vs-karnali-yaks/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ECS Spain, Encore, 2024 | Day 15 |" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:15 - ECS Spain, Encore, 2024 | Day 15 | [Charlie] - (02/12/2024)
-https://rr.vipstreams.in/Charlie/js/ecs-spain-encore-2024-or-day-15-or-1629414282/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -56,26 +56,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NPB(W) v JABA" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",17:05 - NPB(W) v JABA [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/npb-w-vs-jaba/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Saga v Nagasaki" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:05 - Saga v Nagasaki [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/saga-vs-nagasaki/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Zhejiang Guangsha v Jilin" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Zhejiang Guangsha v Jilin [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/zhejiang-guangsha-vs-jilin/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Shandong v Shanghai" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Shandong v Shanghai [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/shandong-vs-shanghai/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Qingdao v Fujian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Qingdao v Fujian [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/qingdao-vs-fujian/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Guangzhou v Beijing" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Guangzhou v Beijing [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/guangzhou-vs-beijing/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kosovo W v Estonia W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:00 - Kosovo W v Estonia W [Delta] - (02/12/2024)
-https://rr.vipstreams.in/Delta/js/kosovo-w-vs-estonia-w-316962/1/playlist.m3u8
-#EXTINF:-1 tvg-name="San Juan Open, Day 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",19:00 - San Juan Open, Day 1 [Charlie] - (02/12/2024)
-https://rr.vipstreams.in/Charlie/js/san-juan-open-day-1-1629414284/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Xinjiang v Zhejiang Chouzhou" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",19:00 - Xinjiang v Zhejiang Chouzhou [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/xinjiang-vs-zhejiang-chouzhou/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Madura United vs Persebaya" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWCz+EEChBYQvENL0gYBs4mP7pLJBSwi5jFGFUoe78o01jP+KzAYO7iYhBAA.webp" group-title="Football",19:00 - Madura United vs Persebaya [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/madura-united-vs-persebaya/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi T10 Qualifier 2: Delhi Bulls v Morrisville Samp Army" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",20:00 - Abu Dhabi T10 Qualifier 2: Delhi Bulls v Morrisville Samp Army [Alpha] - (02/12/2024)
 https://rr.vipstreams.in/Alpha/js/abu-dhabi-t10-qualifier-2-delhi-bulls-vs-morrisville-samp-army/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WDF World Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",20:00 - WDF World Championship [Alpha] - (02/12/2024)
@@ -92,8 +72,12 @@ https://rr.vipstreams.in/Delta/js/persepolis-fc-vs-al-shorta-316982/1/playlist.m
 https://rr.vipstreams.in/Foxtrot/js/persepolis-fc-vs-al-shorta-202412021345/1/playlist.m3u8
 #EXTINF:-1 tvg-name="West Indies v Bangladesh" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:00 - West Indies v Bangladesh [Alpha] - (02/12/2024)
 https://rr.vipstreams.in/Alpha/js/west-indies-vs-bangladesh/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi T10 League Final: Deccan Gladiators vs" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:30 - Abu Dhabi T10 League Final: Deccan Gladiators vs [Alpha] - (02/12/2024)
-https://rr.vipstreams.in/Alpha/js/abu-dhabi-t10-league-final-deccan-gladiators-vs/1/playlist.m3u8
+#EXTINF:-1 tvg-name="West Indies v Bangladesh" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:00 - West Indies v Bangladesh [Charlie] - (02/12/2024)
+https://rr.vipstreams.in/Charlie/js/west-indies-vs-bangladesh-2nd-test-day-3-1629414684/1/playlist.m3u8
+#EXTINF:-1 tvg-name="TBC v TBC - Final" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:15 - TBC v TBC - Final [Charlie] - (02/12/2024)
+https://rr.vipstreams.in/Charlie/js/tbc-vs-tbc-final-1629414745/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi T10 League Final: Deccan Gladiators v TBC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:30 - Abu Dhabi T10 League Final: Deccan Gladiators v TBC [Alpha] - (02/12/2024)
+https://rr.vipstreams.in/Alpha/js/abu-dhabi-t10-league-final-deccan-gladiators-vs-tbc/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Universitatea Cluj vs Uta Arad" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimBgQgiCHjaQvHSGogY5y8bPGQLJBSwi5jFGFWaO78o2pzN+Kxa7uJiEEA.webp" group-title="Football",22:30 - Universitatea Cluj vs Uta Arad [Alpha] - (02/12/2024)
 https://rr.vipstreams.in/Alpha/js/universitatea-cluj-vs-uta-arad/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Akhmat v Dynamo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - Akhmat v Dynamo [Delta] - (02/12/2024)
@@ -144,3 +128,107 @@ https://rr.vipstreams.in/Delta/js/fenerbahce-vs-gazisehir-gaziantep-316988/1/pla
 https://rr.vipstreams.in/Alpha/js/hatayspor-vs-besiktas/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hatayspor vs Besiktas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSgwQvEPSw6Q0kChDbqICyTOHpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",00:00 - Hatayspor vs Besiktas [Delta] - (03/12/2024)
 https://rr.vipstreams.in/Delta/js/hatayspor-vs-besiktas-317000/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Koge v Hillerod" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:30 - Koge v Hillerod [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/koge-vs-hillerod/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Nassr v Al Sadd" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:00 - Al Nassr v Al Sadd [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/al-nassr-vs-al-sadd/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Nassr v Al Sadd" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:00 - Al Nassr v Al Sadd [Charlie] - (03/12/2024)
+https://rr.vipstreams.in/Charlie/js/al-nassr-vs-al-sadd-19265816/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Nassr v Al Sadd" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:00 - Al Nassr v Al Sadd [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/alnassr-vs-al-sadd-316994/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Nassr v Al Sadd" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:00 - Al Nassr v Al Sadd [Echo] - (03/12/2024)
+https://rr.vipstreams.in/Echo/js/al-nassr-al-sadd-sc-22710/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Nassr v Al Sadd" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:00 - Al Nassr v Al Sadd [Foxtrot] - (03/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/al-nassr-vs-al-sadd-202412021745/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ironi Kiryat Ata v Elitzur Maccabi Netanya" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:00 - Ironi Kiryat Ata v Elitzur Maccabi Netanya [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/ironi-kiryat-ata-vs-elitzur-maccabi-netanya/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Copenhagen vs FC Nordsjælland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdongJxKYEhC8Q0kCeMnqITQZCL8eilhFzGKMKt0c35RtTm679GBu4mIQQA.webp" group-title="Football",01:00 - FC Copenhagen vs FC Nordsjælland [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/fc-copenhagen-vs-nordsjaelland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Copenhagen vs FC Nordsjælland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdongJxKYEhC8Q0kCeMnqITQZCL8eilhFzGKMKt0c35RtTm679GBu4mIQQA.webp" group-title="Football",01:00 - FC Copenhagen vs FC Nordsjælland [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/fc-copenhagen-vs-fc-nordsjaelland-263958/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maccabi Bnei Raina vs Maccabi Tel Aviv" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKon6z4YWdJC8QWAyBQgIIGCZKmQJFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",01:00 - Maccabi Bnei Raina vs Maccabi Tel Aviv [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/maccabi-raina-vs-maccabi-tel-aviv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arka Gdynia vs Stal Rzeszów" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjmUgU4xLxBYQMECZQgIB7SBKn8wJBSwi5jFGFU6O78o2pyddvRg7uJiEEA.webp" group-title="Football",01:00 - Arka Gdynia vs Stal Rzeszów [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/arka-gdynia-vs-s-rzeszow/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Motor Lublin vs Radomiak Radom" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGm5eIQWDAgQOrEd0gUp6WYgh4LJBSwi5jFGFUoe78o2pzP+KzA+mKMoUA.webp" group-title="Football",01:00 - Motor Lublin vs Radomiak Radom [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/motor-lublin-vs-radomiak-radom/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Motor Lublin vs Radomiak Radom" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGm5eIQWDAgQOrEd0gUp6WYgh4LJBSwi5jFGFUoe78o2pzP+KzA+mKMoUA.webp" group-title="Football",01:00 - Motor Lublin vs Radomiak Radom [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/motor-lublin-vs-radomiak-radom-317001/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hogsbo v Nassjo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:05 - Hogsbo v Nassjo [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/hogsbo-vs-nassjo/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Otelul Galati vs FCSB" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtRD9+JEDBDStILCE37zRzbxAoWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",01:30 - Otelul Galati vs FCSB [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/otelul-galati-vs-fcsb/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guimaraes vs Gil Vicente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBCCSIRhBDSQvLSGohNOxIh1YQIFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",01:45 - Guimaraes vs Gil Vicente [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/guimaraes-vs-gil-vicente/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guimaraes vs Gil Vicente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBCCSIRhBDSQvLSGohNOxIh1YQIFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",01:45 - Guimaraes vs Gil Vicente [Charlie] - (03/12/2024)
+https://rr.vipstreams.in/Charlie/js/vitoria-sc-vs-gil-vicente-19160607/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guimaraes vs Gil Vicente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBCCSIRhBDSQvLSGohNOxIh1YQIFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",01:45 - Guimaraes vs Gil Vicente [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/guimaraes-vs-gil-vicente-317003/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guimaraes vs Gil Vicente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBCCSIRhBDSQvLSGohNOxIh1YQIFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",01:45 - Guimaraes vs Gil Vicente [Echo] - (03/12/2024)
+https://rr.vipstreams.in/Echo/js/guimaraes-gil-vicente-19268/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guimaraes vs Gil Vicente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBCCSIRhBDSQvLSGohNOxIh1YQIFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",01:45 - Guimaraes vs Gil Vicente [Foxtrot] - (03/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/guimaraes-vs-gil-vicente-202411302345/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FA Cup Round 2 Review Show" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - FA Cup Round 2 Review Show [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/fa-cup-round-2-review-show/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gottingen v Bamberg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - Gottingen v Bamberg [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/gottingen-vs-bamberg/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Club Deportivo Guabirá vs Always Ready" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFkQQJELxAoQ2-dJ2ajF6uawhm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",02:00 - Club Deportivo Guabirá vs Always Ready [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/guabira-vs-always-ready/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Jong AZ vs MVV Maastricht" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvFwp5fJiF4hpIEiBTHz1EFcvwWSClhFzGKMKu0c35RtTnb8rMBgbuJiEEA.webp" group-title="Football",02:00 - Jong AZ vs MVV Maastricht [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/jong-az-vs-mvv-maastricht/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FA Cup Round 3 Draw" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:10 - FA Cup Round 3 Draw [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/fa-cup-round-3-draw/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Norwid Czestochowa v Gdansk" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",02:30 - Norwid Czestochowa v Gdansk [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/norwid-czestochowa-vs-gdansk/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Turkey W v Sweden W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",02:30 - Turkey W v Sweden W [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/turkey-w-vs-sweden-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Slovakia W v Norway W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",02:30 - Slovakia W v Norway W [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/slovakia-w-vs-norway-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Portugal W v France W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",02:30 - Portugal W v France W [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/portugal-w-vs-france-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Germany W v Italy W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:30 - Germany W v Italy W [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/germany-w-vs-italy-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Germany W v Italy W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:30 - Germany W v Italy W [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/germany-w-vs-italy-w-317008/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Eibar vs Cartagena FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPCCkrTiF4gs+kChAkQFmMasn8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Football",02:30 - Eibar vs Cartagena FC [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/eibar-vs-fc-cartagena/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Eibar vs Cartagena FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPCCkrTiF4gs+kChAkQFmMasn8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Football",02:30 - Eibar vs Cartagena FC [Charlie] - (03/12/2024)
+https://rr.vipstreams.in/Charlie/js/sd-eibar-vs-fc-cartagena-19144840/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Eibar vs Cartagena FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPCCkrTiF4gs+kChAkQFmMasn8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Football",02:30 - Eibar vs Cartagena FC [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/eibar-vs-fc-cartagena-317013/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Roma vs Atalanta" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmFjZgYENJAoQvEFhDUQMIyZAkQd21hZIKj9qPEowqlDy-lG1HI++Kw6XuJiEEA.webp" group-title="Football",02:45 - Roma vs Atalanta [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/as-roma-vs-atalanta/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Roma vs Atalanta" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmFjZgYENJAoQvEFhDUQMIyZAkQd21hZIKj9qPEowqlDy-lG1HI++Kw6XuJiEEA.webp" group-title="Football",02:45 - Roma vs Atalanta [Charlie] - (03/12/2024)
+https://rr.vipstreams.in/Charlie/js/roma-vs-atalanta-19155204/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Roma vs Atalanta" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmFjZgYENJAoQvEFhDUQMIyZAkQd21hZIKj9qPEowqlDy-lG1HI++Kw6XuJiEEA.webp" group-title="Football",02:45 - Roma vs Atalanta [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/as-roma-vs-atalanta-317019/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Roma vs Atalanta" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmFjZgYENJAoQvEFhDUQMIyZAkQd21hZIKj9qPEowqlDy-lG1HI++Kw6XuJiEEA.webp" group-title="Football",02:45 - Roma vs Atalanta [Echo] - (03/12/2024)
+https://rr.vipstreams.in/Echo/js/as-roma-atalanta-19247/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Roma vs Atalanta" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmFjZgYENJAoQvEFhDUQMIyZAkQd21hZIKj9qPEowqlDy-lG1HI++Kw6XuJiEEA.webp" group-title="Football",02:45 - Roma vs Atalanta [Foxtrot] - (03/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/as-roma-vs-atalanta-202411302345/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Codigo F1 | Qatar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",03:00 - Codigo F1 | Qatar [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/codigo-f1-qatar/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sevilla vs Osasuna" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoLGNZABmBIQvEFkMgUIEiGkhEEUzBZIKWEXMYowqlD0-lG1OW98VmAwT3EtIA.webp" group-title="Football",03:00 - Sevilla vs Osasuna [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/sevilla-vs-osasuna/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sevilla vs Osasuna" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoLGNZABmBIQvEFkMgUIEiGkhEEUzBZIKWEXMYowqlD0-lG1OW98VmAwT3EtIA.webp" group-title="Football",03:00 - Sevilla vs Osasuna [Charlie] - (03/12/2024)
+https://rr.vipstreams.in/Charlie/js/sevilla-vs-osasuna-19135399/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sevilla vs Osasuna" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoLGNZABmBIQvEFkMgUIEiGkhEEUzBZIKWEXMYowqlD0-lG1OW98VmAwT3EtIA.webp" group-title="Football",03:00 - Sevilla vs Osasuna [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/sevilla-vs-osasuna-317020/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sevilla vs Osasuna" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoLGNZABmBIQvEFkMgUIEiGkhEEUzBZIKWEXMYowqlD0-lG1OW98VmAwT3EtIA.webp" group-title="Football",03:00 - Sevilla vs Osasuna [Echo] - (03/12/2024)
+https://rr.vipstreams.in/Echo/js/sevilla-osasuna-19258/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sevilla vs Osasuna" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoLGNZABmBIQvEFkMgUIEiGkhEEUzBZIKWEXMYowqlD0-lG1OW98VmAwT3EtIA.webp" group-title="Football",03:00 - Sevilla vs Osasuna [Foxtrot] - (03/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/sevilla-vs-osasuna-202411302345/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Barracas Central vs Tigre" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsDBiwwAAysEIXiCxGQJEBDOJEF+CyQUsIuYxRaOKHlvKNqcr3xWTQ9GMQggA.webp" group-title="Football",03:00 - Barracas Central vs Tigre [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/barracas-central-vs-tigre/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Barracas Central vs Tigre" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsDBiwwAAysEIXiCxGQJEBDOJEF+CyQUsIuYxRaOKHlvKNqcr3xWTQ9GMQggA.webp" group-title="Football",03:00 - Barracas Central vs Tigre [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/barracas-central-vs-tigre-317022/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto vs Casa Pia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWAAGENRC8a2fSCy6QMECRCJEV05PzAkFLCLmMUYVSh5fyjTTEfR3owL3ExCCA.webp" group-title="Football",03:45 - FC Porto vs Casa Pia [Alpha] - (03/12/2024)
+https://rr.vipstreams.in/Alpha/js/fc-porto-vs-casa-pia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto vs Casa Pia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWAAGENRC8a2fSCy6QMECRCJEV05PzAkFLCLmMUYVSh5fyjTTEfR3owL3ExCCA.webp" group-title="Football",03:45 - FC Porto vs Casa Pia [Charlie] - (03/12/2024)
+https://rr.vipstreams.in/Charlie/js/porto-vs-casa-pia-19160601/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto vs Casa Pia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWAAGENRC8a2fSCy6QMECRCJEV05PzAkFLCLmMUYVSh5fyjTTEfR3owL3ExCCA.webp" group-title="Football",03:45 - FC Porto vs Casa Pia [Delta] - (03/12/2024)
+https://rr.vipstreams.in/Delta/js/fc-porto-vs-casa-pia-317021/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto vs Casa Pia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWAAGENRC8a2fSCy6QMECRCJEV05PzAkFLCLmMUYVSh5fyjTTEfR3owL3ExCCA.webp" group-title="Football",03:45 - FC Porto vs Casa Pia [Echo] - (03/12/2024)
+https://rr.vipstreams.in/Echo/js/fc-porto-casa-pia-19269/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto vs Casa Pia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWAAGENRC8a2fSCy6QMECRCJEV05PzAkFLCLmMUYVSh5fyjTTEfR3owL3ExCCA.webp" group-title="Football",03:45 - FC Porto vs Casa Pia [Foxtrot] - (03/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/fc-porto-vs-casa-pia-202411302345/1/playlist.m3u8
