@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Snooker Shoot-Out" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",20:00 - Snooker Shoot-Out [Alpha] - (04/12/2024)
+https://rr.vipstreams.in/Alpha/js/snooker-shoot-out/1/playlist.m3u8
 #EXTINF:-1 tvg-name="South Africa W v England W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",19:00 - South Africa W v England W [Alpha] - (04/12/2024)
 https://rr.vipstreams.in/Alpha/js/south-africa-w-vs-england-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="South Africa W v England W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",19:00 - South Africa W v England W [Charlie] - (04/12/2024)
@@ -20,12 +22,8 @@ https://rr.vipstreams.in/Delta/js/bangkok-united-vs-nam-dinh-288317/1/playlist.m
 https://rr.vipstreams.in/Delta/js/shanghai-shenhua-vs-ulsan-hyundai-fc-317418/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Shanghai Greenland Shenhua vs Ulsan Hyundai FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiA6wwY8LxD6sIaiBLGQRs9NMWWSClhFzGKHRxQ8d5RtTkf8rMBgboxiEEA.webp" group-title="Football",19:00 - Shanghai Greenland Shenhua vs Ulsan Hyundai FC [Foxtrot] - (04/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/shanghai-shenhua-vs-ulsan-hyundai-fc-202412041145/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Uganda v Botswana" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",18:15 - Uganda v Botswana [Charlie] - (04/12/2024)
-https://rr.vipstreams.in/Charlie/js/uganda-vs-botswana-1629414797/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kawasaki Frontale vs Shandong Luneng" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrKQgcW+tRC9tIfSWNHT0kKawskFG+1HiUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",17:00 - Kawasaki Frontale vs Shandong Luneng [Foxtrot] - (04/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/kawasaki-frontale-vs-shandong-luneng-202412040945/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Milan P1 Day 3" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - Milan P1 Day 3 [Charlie] - (04/12/2024)
-https://rr.vipstreams.in/Charlie/js/milan-p1-day-3-1629414738/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -72,10 +70,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Snooker Shoot-Out" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",20:00 - Snooker Shoot-Out [Alpha] - (04/12/2024)
-https://rr.vipstreams.in/Alpha/js/snooker-shoot-out/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FC Arges v FC Botosani" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:30 - FC Arges v FC Botosani [Alpha] - (04/12/2024)
-https://rr.vipstreams.in/Alpha/js/fc-arges-vs-fc-botosani/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PAOK v PAE Egaleo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:30 - PAOK v PAE Egaleo [Alpha] - (04/12/2024)
 https://rr.vipstreams.in/Alpha/js/paok-vs-pae-egaleo/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PAOK v PAE Egaleo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:30 - PAOK v PAE Egaleo [Delta] - (04/12/2024)
@@ -558,3 +552,7 @@ https://rr.vipstreams.in/Echo/js/arsenal-manchester-united-19272/1/playlist.m3u8
 https://rr.vipstreams.in/Foxtrot/js/arsenal-vs-manchester-united-202412031930/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Nassr Today" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:30 - Al Nassr Today [Alpha] - (05/12/2024)
 https://rr.vipstreams.in/Alpha/js/al-nassr-today/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UTSA FB Presser" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",04:00 - UTSA FB Presser [Alpha] - (05/12/2024)
+https://rr.vipstreams.in/Alpha/js/utsa-fb-presser/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Florida FB National Signing Day Show" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",04:00 - South Florida FB National Signing Day Show [Alpha] - (05/12/2024)
+https://rr.vipstreams.in/Alpha/js/south-florida-fb-national-signing-day-show/1/playlist.m3u8
