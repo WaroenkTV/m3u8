@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="UTEP W v Oklahoma W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",04:00 - UTEP W v Oklahoma W [Bravo] - (07/12/2024)
+https://rr.vipstreams.in/Bravo/js/1733518800000-utep-w-oklahoma-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Illinois W v Northern Iowa W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",04:00 - Illinois W v Northern Iowa W [Bravo] - (07/12/2024)
+https://rr.vipstreams.in/Bravo/js/1733518800000-illinois-w-northern-iowa-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Universitario de Vinto vs San Antonio Bulo Bulo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Universitario de Vinto vs San Antonio Bulo Bulo [Bravo] - (07/12/2024)
+https://rr.vipstreams.in/Bravo/js/1733518800000-universitario-de-vinto-sa-bulo-bulo/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zach Kittley Introductory Press Conference" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",03:30 - Zach Kittley Introductory Press Conference [Alpha] - (07/12/2024)
 https://rr.vipstreams.in/Alpha/js/zach-kittley-introductory-press-conference/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Braga vs Estoril-Praia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAowY-KzAgQvEFhDUQMECRCJE1wyhZIKWEXMbbVKHjvKNqct569GA64mIQQA.webp" group-title="Football",03:15 - Braga vs Estoril-Praia [Alpha] - (07/12/2024)
@@ -16,8 +22,6 @@ https://rr.vipstreams.in/Echo/js/sc-braga-estoril-20603/1/playlist.m3u8
 https://rr.vipstreams.in/Foxtrot/js/sc-braga-vs-estoril-202412072345/1/playlist.m3u8
 #EXTINF:-1 tvg-name="San Juan Open, Day 5" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",03:00 - San Juan Open, Day 5 [Charlie] - (07/12/2024)
 https://rr.vipstreams.in/Charlie/js/san-juan-open-day-5-1629414335/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Free Practice 1: Sao Paulo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",03:00 - Free Practice 1: Sao Paulo [Charlie] - (07/12/2024)
-https://rr.vipstreams.in/Charlie/js/free-practice-1-sao-paulo-1629414924/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Florianopolis v Center Court Chwalinska/Pigossi - Gamarra Martins/Papamichail" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",03:00 - WTA Florianopolis v Center Court Chwalinska/Pigossi - Gamarra Martins/Papamichail [Bravo] - (07/12/2024)
 https://rr.vipstreams.in/Bravo/js/1733515200000-wta-florianopolis-center-court-chwalinska-pigossi-gamarra-martins-papamichail/1/playlist.m3u8
 #EXTINF:-1 tvg-name="FIA Formula E Sao Paulo ePrix Practice 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",03:00 - FIA Formula E Sao Paulo ePrix Practice 1 [Bravo] - (07/12/2024)
@@ -182,110 +186,20 @@ https://rr.vipstreams.in/Delta/js/mirandes-vs-levante-317928/1/playlist.m3u8
 https://rr.vipstreams.in/Bravo/js/1733513400000-polonia-warszawa-wisla-krakow/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Olympiacos v Paris" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:15 - Olympiacos v Paris [Alpha] - (07/12/2024)
 https://rr.vipstreams.in/Alpha/js/olympiacos-vs-paris/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Olympiacos v Paris" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:15 - Olympiacos v Paris [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733512500000-olympiacos-paris/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Olympiacos v Paris" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:15 - Olympiacos v Paris [Charlie] - (07/12/2024)
 https://rr.vipstreams.in/Charlie/js/olympiacos-piraeus-vs-paris-basketball-1629414311/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Thun vs FC Wil" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjJpheIQRBA7pIYyhAxjIEhZ3wWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",02:15 - Thun vs FC Wil [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733512500000-thun-wil/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Manchester City U18 v Crystal Palace U18" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Manchester City U18 v Crystal Palace U18 [Delta] - (07/12/2024)
+https://rr.vipstreams.in/Delta/js/manchester-city-u18-vs-crystal-palace-u18-317917/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grimsby Town U18 v West Ham United U18" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Grimsby Town U18 v West Ham United U18 [Delta] - (07/12/2024)
 https://rr.vipstreams.in/Delta/js/grimsby-town-u18-vs-west-ham-united-u18-317916/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Preston North End U18 v Liverpool U18" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Preston North End U18 v Liverpool U18 [Delta] - (07/12/2024)
 https://rr.vipstreams.in/Delta/js/preston-north-end-u18-vs-liverpool-u18-317913/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rodez v PAU" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Rodez v PAU [Delta] - (07/12/2024)
-https://rr.vipstreams.in/Delta/js/rodez-vs-pau-317901/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rodez v PAU" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Rodez v PAU [Delta] - (07/12/2024)
-https://rr.vipstreams.in/Delta/js/manchester-city-u18-vs-crystal-palace-u18-317917/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Verona v Taranto" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",02:00 - Verona v Taranto [Bravo] - (07/12/2024)
 https://rr.vipstreams.in/Bravo/js/1733511600000-verona-taranto/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Snooker Shoot-Out" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",02:00 - Snooker Shoot-Out [Bravo] - (07/12/2024)
 https://rr.vipstreams.in/Bravo/js/1733511600000-snooker-shoot-out/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tottenham U21 v Monaco II" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Tottenham U21 v Monaco II [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-tottenham-u21-monaco-ii/1/playlist.m3u8
-#EXTINF:-1 tvg-name="VVV Venlo v FC Oss" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - VVV Venlo v FC Oss [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-vvv-venlo-fc-oss/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Helmond v Den Bosch" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Helmond v Den Bosch [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-helmond-den-bosch/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Dordrecht v Telstar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Dordrecht v Telstar [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-dordrecht-telstar/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Deinze v Seraing" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Deinze v Seraing [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-deinze-seraing/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Club Brugge KV U23 v Anderlecht U23" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Club Brugge KV U23 v Anderlecht U23 [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-club-brugge-kv-u23-anderlecht-u23/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Alftanes v Stjarnan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - Alftanes v Stjarnan [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-alftanes-stjarnan/1/playlist.m3u8
-#EXTINF:-1 tvg-name="William & Mary v McNeese (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - William & Mary v McNeese (W) [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-william-marymcneese-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="San Diego State v Bethesda University (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - San Diego State v Bethesda University (W) [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-san-diego-statebethesda-university-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Incarnate Word v Northwestern State (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - Incarnate Word v Northwestern State (W) [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-incarnate-wordnorthwestern-state-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Istres v St. Raphael" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",02:00 - Istres v St. Raphael [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/istres-vs-st-raphael/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Always Ready vs GV San José" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Always Ready vs GV San José [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-always-ready-gv-san-jose/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Laval vs Caen" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlWkheYMfwjaQWENRCJjKEyBJmzLJBSwi5jFLo4oeu8o2pzP+KzAYO6MYhBAA.webp" group-title="Football",02:00 - Laval vs Caen [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/stade-laval-vs-caen/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Laval vs Caen" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlWkheYMfwjaQWENRCJjKEyBJmzLJBSwi5jFLo4oeu8o2pzP+KzAYO6MYhBAA.webp" group-title="Football",02:00 - Laval vs Caen [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-laval-caen/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Laval vs Caen" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlWkheYMfwjaQWENRCJjKEyBJmzLJBSwi5jFLo4oeu8o2pzP+KzAYO6MYhBAA.webp" group-title="Football",02:00 - Laval vs Caen [Delta] - (07/12/2024)
-https://rr.vipstreams.in/Delta/js/laval-vs-caen-317903/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lorient vs Troyes" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZKlMEjDTYIXiCwhqIRKZRmQtkkZZ6YAkXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Football",02:00 - Lorient vs Troyes [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/lorient-vs-troyes/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lorient vs Troyes" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZKlMEjDTYIXiCwhqIRKZRmQtkkZZ6YAkXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Football",02:00 - Lorient vs Troyes [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-lorient-troyes/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lorient vs Troyes" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZKlMEjDTYIXiCwhqIRKZRmQtkkZZ6YAkXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Football",02:00 - Lorient vs Troyes [Delta] - (07/12/2024)
-https://rr.vipstreams.in/Delta/js/lorient-vs-estac-troyes-317905/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lierse Kempenzonen vs RFC Liège" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBAQQZJJWwheILIZBnqxkNK0gUIGCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",02:00 - Lierse Kempenzonen vs RFC Liège [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-k-lierse-s-k-rfc-liege/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Martigues vs Guingamp" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjiStg0mgJC8QWENRCJjKEyBJWULJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp" group-title="Football",02:00 - Martigues vs Guingamp [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/martigues-vs-guingamp/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Martigues vs Guingamp" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjiStg0mgJC8QWENRCJjKEyBJWULJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp" group-title="Football",02:00 - Martigues vs Guingamp [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-martigues-guingamp/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Martigues vs Guingamp" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjiStg0mgJC8QWENRCJjKEyBJWULJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp" group-title="Football",02:00 - Martigues vs Guingamp [Delta] - (07/12/2024)
-https://rr.vipstreams.in/Delta/js/martigues-vs-guingamp-317897/1/playlist.m3u8
-#EXTINF:-1 tvg-name="PSV Eindhoven vs FC Twente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBBQIIXeGoheIaSBIgUpywawgbMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",02:00 - PSV Eindhoven vs FC Twente [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/psv-eindhoven-vs-fc-twente/1/playlist.m3u8
-#EXTINF:-1 tvg-name="PSV Eindhoven vs FC Twente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBBQIIXeGoheIaSBIgUpywawgbMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",02:00 - PSV Eindhoven vs FC Twente [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-psv-fc-twente/1/playlist.m3u8
-#EXTINF:-1 tvg-name="PSV Eindhoven vs FC Twente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBBQIIXeGoheIaSBIgUpywawgbMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",02:00 - PSV Eindhoven vs FC Twente [Charlie] - (07/12/2024)
-https://rr.vipstreams.in/Charlie/js/psv-vs-fc-twente-19136643/1/playlist.m3u8
-#EXTINF:-1 tvg-name="PSV Eindhoven vs FC Twente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBBQIIXeGoheIaSBIgUpywawgbMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",02:00 - PSV Eindhoven vs FC Twente [Delta] - (07/12/2024)
-https://rr.vipstreams.in/Delta/js/psv-eindhoven-vs-twente-317906/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PSV Eindhoven vs FC Twente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBBQIIXeGoheIaSBIgUpywawgbMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",02:00 - PSV Eindhoven vs FC Twente [Foxtrot] - (07/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/psv-eindhoven-vs-twente-202412072345/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Red Star vs Bastia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAghB+JiGkgUIXtpDUQiLIbMgSFiyyQUsIuYxRhVKHp-KNqct669GCe4mIQQA.webp" group-title="Football",02:00 - Red Star vs Bastia [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/red-star-fc-93-vs-bastia/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Red Star vs Bastia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAghB+JiGkgUIXtpDUQiLIbMgSFiyyQUsIuYxRhVKHp-KNqct669GCe4mIQQA.webp" group-title="Football",02:00 - Red Star vs Bastia [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-red-star-bastia/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Red Star vs Bastia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAghB+JiGkgUIXtpDUQiLIbMgSFiyyQUsIuYxRhVKHp-KNqct669GCe4mIQQA.webp" group-title="Football",02:00 - Red Star vs Bastia [Delta] - (07/12/2024)
-https://rr.vipstreams.in/Delta/js/red-star-fc-93-vs-bastia-317902/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Annecy vs Clermont Foot" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmRA8tHJCF4gsIaiERGUxkCVPGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",02:00 - Annecy vs Clermont Foot [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/annecy-vs-clermont-foot/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Annecy vs Clermont Foot" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmRA8tHJCF4gsIaiERGUxkCVPGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",02:00 - Annecy vs Clermont Foot [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-annecy-clermont/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Annecy vs Clermont Foot" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmRA8tHJCF4gsIaiERGUxkCVPGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",02:00 - Annecy vs Clermont Foot [Delta] - (07/12/2024)
-https://rr.vipstreams.in/Delta/js/annecy-vs-clermont-foot-246062/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rodez AF vs Pau FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGqtKRLCAgheIPdRCI9KTSBJmQMFkgpYRcxijCqUPD+UZaxXvjaYB7iYhBAA.webp" group-title="Football",02:00 - Rodez AF vs Pau FC [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-rodez-pau-fc/1/playlist.m3u8
-#EXTINF:-1 tvg-name="MVV Maastricht vs Vitesse" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlDgoKvECRC6sBkChCJTiGCGkmWSClhFzG21Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Football",02:00 - MVV Maastricht vs Vitesse [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-mvv-maastricht-vitesse/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FC Volendam vs Jong AZ" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBSUwsrVoAMIXiGkhqIEhaMgIIGCCw2WSClhFzGKMKq0dv5Rmo5LXxWYDBvcTEIIA.webp" group-title="Football",02:00 - FC Volendam vs Jong AZ [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/fc-volendam-vs-jong-az/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FC Volendam vs Jong AZ" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBSUwsrVoAMIXiGkhqIEhaMgIIGCCw2WSClhFzGKMKq0dv5Rmo5LXxWYDBvcTEIIA.webp" group-title="Football",02:00 - FC Volendam vs Jong AZ [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-fc-volendam-jong-az/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FC Dordrecht vs SC Telstar" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmKQhqA0iF76Q0kCRAoTF6iGvnJ+YEgpYRcxijCqUPD+UY6xXvb0YB7iYhBAA.webp" group-title="Football",02:00 - FC Dordrecht vs SC Telstar [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/fc-dordrecht-vs-telstar/1/playlist.m3u8
-#EXTINF:-1 tvg-name="EWE Baskets Oldenburg vs Bonn" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgpAgGRFCF4gs+kBBAkQ0kImqGQKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Basketball",02:00 - EWE Baskets Oldenburg vs Bonn [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733511600000-oldenburg-bonn/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Asiago Hockey 1935 vs Vienna Capitals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAxu0sCFYheIaSE0QQJENRBYQdu-BZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Hockey",01:45 - Asiago Hockey 1935 vs Vienna Capitals [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733510700000-asiago-vienna-capitals/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Zurich vs Ambri-Piotta" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvyqMADCBQgYIXiGl6QEECRDWsIW7eb5gSClhFzGKMKpQ9v5Rmo5Xyd6MG9xMQggA.webp" group-title="Hockey",01:45 - Zurich vs Ambri-Piotta [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733510700000-fc-zurich-ambri-piotta/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rapperswil vs Langnau Tigers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJDgkIWWpC9dIFCAggSWkFivmQ8FkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Hockey",01:45 - Rapperswil vs Langnau Tigers [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733510700000-rapperswil-jona-langnau-tigers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="EHC Kloten vs Servette" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtXnRNjfCF4hpIFCAggSIS1hDWj8FkgpYRcxijCqUPD+UaaxXviswGAe4mIQQA.webp" group-title="Hockey",01:45 - EHC Kloten vs Servette [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733510700000-ehc-kloten-geneve-servette/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hero World Challenge, Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:30 - Hero World Challenge, Second Round [Foxtrot] - (07/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/hero-world-challenge-second-round-202412061830/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hero World Challenge" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",01:30 - Hero World Challenge [Bravo] - (07/12/2024)
@@ -302,36 +216,10 @@ https://rr.vipstreams.in/Charlie/js/hero-world-challenge-second-round-1629414336
 https://rr.vipstreams.in/Bravo/js/1733509800000-ca-brive-beziers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Stade Niçois vs Nevers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Rugby",01:30 - Stade Niçois vs Nevers [Bravo] - (07/12/2024)
 https://rr.vipstreams.in/Bravo/js/1733509800000-stade-nicois-nevers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Adler Mannheim vs Straubing Tigers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmASVWIcFhC8Q0kChAQjIfcdPUTLJBSwi5jFGFUoe78o2pzP+KzAmmKMoUA.webp" group-title="Hockey",01:30 - Adler Mannheim vs Straubing Tigers [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733509800000-adler-mannheim-straubing-tigers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Dusseldorf vs Frankfurt Lowen" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrSQh4YECDIwQvENJAoQEEyCzWQhxCRZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Hockey",01:30 - Dusseldorf vs Frankfurt Lowen [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733509800000-fortuna-dusseldorf-frankfurt-lowen/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Augsburger Panther vs Nürnberg Ice Tigers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQMbmhDUQvQyGkgUICCZBYr5xDBZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Hockey",01:30 - Augsburger Panther vs Nürnberg Ice Tigers [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733509800000-augsburger-panther-nurnberg-ice-tigers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Iserlohn Roosters vs Bremerhaven" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBghGHKmIAMIXiGkgU2kyCyXz1yfmBIKWEXMYowqlD0-lG1OW8HejBPcTEIIA.webp" group-title="Hockey",01:30 - Iserlohn Roosters vs Bremerhaven [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733509800000-iserlohn-roosters-fischtown-pinguins/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Eisbären Berlin vs Kolner" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBjyQvEIw5gdIaSBR7jILBbNmSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Hockey",01:30 - Eisbären Berlin vs Kolner [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733509800000-eisbaren-berlin-kolner-haie/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Grizzly Wolfsburg vs EHC Red Bull München" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnBIh+aECj7aQ0vSAhGQWCyBiHJ+YEgpYRcxijCr9HD+UbU5+vb0YB7iYhBAA.webp" group-title="Hockey",01:30 - Grizzly Wolfsburg vs EHC Red Bull München [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733509800000-grizzly-wolfsburg-red-bull-munchen/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Pioneers Vorarlberg vs Klagenfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlVr8Q3ULxBYQ1EDBAkQiSyH0kWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Hockey",01:30 - Pioneers Vorarlberg vs Klagenfurt [Bravo] - (07/12/2024)
-https://rr.vipstreams.in/Bravo/js/1733509800000-vorarlberg-kac-klagenfurt/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Black Wings Linz v Bolzano" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",01:15 - Black Wings Linz v Bolzano [Charlie] - (07/12/2024)
-https://rr.vipstreams.in/Charlie/js/black-wings-linz-vs-bolzano-1629414923/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Steinbach Black Wings 1992 vs Bolzano" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByI48IqF4hpIFCAggSIappA2bKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Hockey",01:15 - Steinbach Black Wings 1992 vs Bolzano [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/black-wings-linz-vs-bolzano/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Verl v Saarbrucken" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:00 - Verl v Saarbrucken [Alpha] - (07/12/2024)
 https://rr.vipstreams.in/Alpha/js/verl-vs-saarbrucken/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Lille vs Brest" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDK8wSCigEheILCGohEJlKeOGQ0lrpgCRcxijCr9HD+UbU5+viswGAe4mIQQA.webp" group-title="Football",01:00 - Lille vs Brest [Alpha] - (07/12/2024)
 https://rr.vipstreams.in/Alpha/js/lille-vs-brest/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lille vs Brest" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDK8wSCigEheILCGohEJlKeOGQ0lrpgCRcxijCr9HD+UbU5+viswGAe4mIQQA.webp" group-title="Football",01:00 - Lille vs Brest [Foxtrot] - (07/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/lille-vs-stade-brestois-29-202412072345/1/playlist.m3u8
-#EXTINF:-1 tvg-name="2 Bundesliga Konferenz" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:30 - 2 Bundesliga Konferenz [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/2-bundesliga-konferenz/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elversberg vs FC Nürnberg" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoIghGietRC8QWEPv0kQKAyHPGsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",00:30 - Elversberg vs FC Nürnberg [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/sv-07-elversberg-vs-1-fc-nurnberg/1/playlist.m3u8
-#EXTINF:-1 tvg-name="America's Day At the Races" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - America's Day At the Races [Alpha] - (07/12/2024)
-https://rr.vipstreams.in/Alpha/js/america-s-day-at-the-races/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -612,3 +500,5 @@ https://rr.vipstreams.in/Alpha/js/southern-hoiho-w-vs-mid-north-whai-w/1/playlis
 https://rr.vipstreams.in/Alpha/js/taiwan-s-vs-npb-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Okayama v Vegalta Sendai" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",11:05 - Okayama v Vegalta Sendai [Alpha] - (07/12/2024)
 https://rr.vipstreams.in/Alpha/js/okayama-vs-vegalta-sendai/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Drexel v Liberty" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",12:00 - Drexel v Liberty [Alpha] - (07/12/2024)
+https://rr.vipstreams.in/Alpha/js/drexel-vs-liberty/1/playlist.m3u8
