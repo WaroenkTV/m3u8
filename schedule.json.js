@@ -1,5 +1,5 @@
 {
-  "Sunday 08th Dec Dec 2024 - Schedule Time UK GMT": {
+  "Sunday 08th Dec 2024 - Schedule Time UK GMT": {
     "TV Shows": [
       {
         "time": "15:00",
