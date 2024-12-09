@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Bydgoszcz W v Mogilno W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Bydgoszcz W v Mogilno W [Bravo] - (09/12/2024)
+https://rr.vipstreams.in/Bravo/js/1733761800000-bydgoszcz-w-mogilno-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ilves vs SaiPa" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlDgoGIZSF4hpIFLsP7zEc83zAkFLCLmMUYVdo6vyjanO036YK7iYhBAA.webp" group-title="Hockey",23:30 - Ilves vs SaiPa [Bravo] - (09/12/2024)
+https://rr.vipstreams.in/Bravo/js/1733761800000-ilves-saipa/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Galatasaray v Yalovaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Galatasaray v Yalovaspor [Bravo] - (09/12/2024)
 https://rr.vipstreams.in/Bravo/js/1733760000000-galatasaray-yalovaspor/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Polissya Zhytomyr vs Rukh Lviv" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - Polissya Zhytomyr vs Rukh Lviv [Bravo] - (09/12/2024)
@@ -32,10 +36,12 @@ https://rr.vipstreams.in/Bravo/js/1733756400000-imt-novi-beograd-napredak/1/play
 https://rr.vipstreams.in/Alpha/js/spartak-varna-vs-slavia-sofia/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Spartak Varna vs Slavia Sofia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvFxkkFXiD1Z9IFCAggYRkqfMsdMASLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",22:00 - Spartak Varna vs Slavia Sofia [Bravo] - (09/12/2024)
 https://rr.vipstreams.in/Bravo/js/1733756400000-spartak-varna-slavia-sofia/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Switzerland W v Netherlands W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",21:30 - Switzerland W v Netherlands W [Alpha] - (09/12/2024)
-https://rr.vipstreams.in/Alpha/js/switzerland-w-vs-netherlands-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Limoges Rouvroy v Lepchenko" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",21:00 - WTA Limoges Rouvroy v Lepchenko [Bravo] - (09/12/2024)
 https://rr.vipstreams.in/Bravo/js/1733752800000-wta-limoges-rouvroy-lepchenko/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",WWE Network
+https://rr.vipstreams.in/Alpha/js/wwe-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Tennis Channel
+https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -48,10 +54,6 @@ https://rr.vipstreams.in/Alpha/js/pga-tour-2024/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/nbc-golf-channel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Fox NRL TV
 https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Tennis Channel
-https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",WWE Network
-https://rr.vipstreams.in/Alpha/js/wwe-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="DAZN Formula 1 | DAZN F1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",DAZN Formula 1 | DAZN F1
 https://rr.vipstreams.in/Alpha/js/dazn-formula-1-dazn-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1 | Sky F1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports F1 | Sky F1
@@ -92,8 +94,6 @@ https://rr.vipstreams.in/Alpha/js/eintracht-frankfurt-w-vs-rb-leipzig-w/1/playli
 https://rr.vipstreams.in/Charlie/js/eintracht-frankfurt-w-vs-rb-leipzig-w-19188972/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Eintracht Frankfurt W v RB Leipzig W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Eintracht Frankfurt W v RB Leipzig W [Delta] - (10/12/2024)
 https://rr.vipstreams.in/Delta/js/eintracht-frankfurt-w-vs-rb-leipzig-w-320545/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Amed vs Şanlıurfaspor" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrzCywsXSBC8QWENRNnExiCESL8wJBSwi5jFGFUoe78o2pzPdvQ6YowhQA.webp" group-title="Football",00:00 - Amed vs Şanlıurfaspor [Alpha] - (10/12/2024)
-https://rr.vipstreams.in/Alpha/js/amedspor-vs-sanliurfaspor/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Gaziantep FK vs Rizespor" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrXhhwOQdt4hpIFCBghq5kBGMhbx-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Football",00:00 - Gaziantep FK vs Rizespor [Alpha] - (10/12/2024)
 https://rr.vipstreams.in/Alpha/js/gaziantep-fk-vs-caykur-rizespor/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Gaziantep FK vs Rizespor" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrXhhwOQdt4hpIFCBghq5kBGMhbx-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Football",00:00 - Gaziantep FK vs Rizespor [Delta] - (10/12/2024)
