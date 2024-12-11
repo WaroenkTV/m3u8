@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Germany v Poland" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",15:30 - Germany v Poland [Alpha] - (11/12/2024)
+https://rr.vipstreams.in/Alpha/js/germany-vs-poland/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ECC-W Challenger, 2024 | Day 3 |" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:00 - ECC-W Challenger, 2024 | Day 3 | [Charlie] - (11/12/2024)
 https://rr.vipstreams.in/Charlie/js/ecc-w-challenger-2024-or-day-3-or-1629415527/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Conor Wallace v Asemahle Wellem" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",15:00 - Conor Wallace v Asemahle Wellem [Alpha] - (11/12/2024)
@@ -10,32 +12,26 @@ https://rr.vipstreams.in/Charlie/js/conor-wallace-vs-asemahle-wellem-1629414834/
 https://rr.vipstreams.in/Alpha/js/kathmandu-gurkhas-vs-lumbini-lions/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Team China Rising Star v Rocks" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",12:30 - Team China Rising Star v Rocks [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/team-china-rising-star-vs-rocks/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
-https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
-https://rr.vipstreams.in/Alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Golf
-https://rr.vipstreams.in/Alpha/js/sky-sports-golf/1/playlist.m3u8
-#EXTINF:-1 tvg-name="PGA Tour 2024" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",PGA Tour 2024
-https://rr.vipstreams.in/Alpha/js/pga-tour-2024/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBC Golf Channel
-https://rr.vipstreams.in/Alpha/js/nbc-golf-channel/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Fox NRL TV
-https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Tennis Channel
-https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",WWE Network
 https://rr.vipstreams.in/Alpha/js/wwe-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="DAZN Boxing | DAZN PPV Boxing" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",DAZN Boxing | DAZN PPV Boxing
 https://rr.vipstreams.in/Alpha/js/dazn-boxing-dazn-ppv-boxing/1/playlist.m3u8
-#EXTINF:-1 tvg-name="DAZN Formula 1 | DAZN F1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",DAZN Formula 1 | DAZN F1
-https://rr.vipstreams.in/Alpha/js/dazn-formula-1-dazn-f1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1 | Sky F1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports F1 | Sky F1
-https://rr.vipstreams.in/Alpha/js/sky-sports-f1-sky-f1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NASCAR Racehub" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NASCAR Racehub
-https://rr.vipstreams.in/Alpha/js/nascar-racehub/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
+https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
+https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MUTV | Manchester United TV | MUFC TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",MUTV | Manchester United TV | MUFC TV
+https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Saturday Social" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Saturday Social
+https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
+https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NHL Network
 https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
+https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
+https://rr.vipstreams.in/Alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="SNF: Sunday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",SNF: Sunday Night Football
 https://rr.vipstreams.in/Alpha/js/snf-sunday-night-football/1/playlist.m3u8
 #EXTINF:-1 tvg-name="TNF: Thursday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",TNF: Thursday Night Football
@@ -48,24 +44,26 @@ https://rr.vipstreams.in/Alpha/js/nfl-redzone/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/nfl-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN
 https://rr.vipstreams.in/Alpha/js/espn/1/playlist.m3u8
-#EXTINF:-1 tvg-name="MUTV | Manchester United TV | MUFC TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",MUTV | Manchester United TV | MUFC TV
-https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Saturday Social" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Saturday Social
-https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
-https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
-https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
-https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Germany v Poland" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",15:30 - Germany v Poland [Alpha] - (11/12/2024)
-https://rr.vipstreams.in/Alpha/js/germany-vs-poland/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Persebaya vs Persik Kediri" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEHSQKELxBwsekNt0xNOkIkT6YLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",15:30 - Persebaya vs Persik Kediri [Alpha] - (11/12/2024)
-https://rr.vipstreams.in/Alpha/js/persebaya-surabaya-vs-persik-kediri/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Urawa Reds W v Cerezo Osaka W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Urawa Reds W v Cerezo Osaka W [Alpha] - (11/12/2024)
-https://rr.vipstreams.in/Alpha/js/urawa-reds-w-vs-cerezo-osaka-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Golf
+https://rr.vipstreams.in/Alpha/js/sky-sports-golf/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PGA Tour 2024" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",PGA Tour 2024
+https://rr.vipstreams.in/Alpha/js/pga-tour-2024/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBC Golf Channel
+https://rr.vipstreams.in/Alpha/js/nbc-golf-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Fox NRL TV
+https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Tennis Channel
+https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="DAZN Formula 1 | DAZN F1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",DAZN Formula 1 | DAZN F1
+https://rr.vipstreams.in/Alpha/js/dazn-formula-1-dazn-f1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1 | Sky F1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports F1 | Sky F1
+https://rr.vipstreams.in/Alpha/js/sky-sports-f1-sky-f1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NASCAR Racehub" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NASCAR Racehub
+https://rr.vipstreams.in/Alpha/js/nascar-racehub/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Magnolia Hotshots v TNT Tropang Giga" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",16:00 - Magnolia Hotshots v TNT Tropang Giga [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/magnolia-hotshots-vs-tnt-tropang-giga/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Urawa Reds W v Cerezo Osaka W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Urawa Reds W v Cerezo Osaka W [Alpha] - (11/12/2024)
+https://rr.vipstreams.in/Alpha/js/urawa-reds-w-vs-cerezo-osaka-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Slovenia v Canada" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",16:45 - Slovenia v Canada [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/slovenia-vs-canada/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Scottish Open - Table 2 - Day 3" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",17:00 - Scottish Open - Table 2 - Day 3 [Charlie] - (11/12/2024)
@@ -98,14 +96,14 @@ https://rr.vipstreams.in/Delta/js/singapore-vs-cambodia-320928/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/taoyuan-pauian-pilots-vs-suwon-kt/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Uganda v Nigeria" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",18:15 - Uganda v Nigeria [Charlie] - (11/12/2024)
 https://rr.vipstreams.in/Charlie/js/uganda-vs-nigeria-1629414809/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NLEX Road Warriors v Barangay Ginebra San Miguel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:30 - NLEX Road Warriors v Barangay Ginebra San Miguel [Alpha] - (11/12/2024)
+https://rr.vipstreams.in/Alpha/js/nlex-road-warriors-vs-barangay-ginebra-san-miguel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Latvia v Philippines" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",18:30 - Latvia v Philippines [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/latvia-vs-philippines/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe v Afghanistan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",18:30 - Zimbabwe v Afghanistan [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/zimbabwe-vs-afghanistan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe v Afghanistan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",18:30 - Zimbabwe v Afghanistan [Charlie] - (11/12/2024)
 https://rr.vipstreams.in/Charlie/js/zimbabwe-vs-afghanistan-1629414810/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NLEX Road Warriors v Barangay Ginebra San Miguel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:30 - NLEX Road Warriors v Barangay Ginebra San Miguel [Alpha] - (11/12/2024)
-https://rr.vipstreams.in/Alpha/js/nlex-road-warriors-vs-barangay-ginebra-san-miguel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zhejiang Chouzhou v Qingdao" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Zhejiang Chouzhou v Qingdao [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/zhejiang-chouzhou-vs-qingdao/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Shandong v Beijing Royal Fighters" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Shandong v Beijing Royal Fighters [Alpha] - (11/12/2024)
@@ -118,12 +116,12 @@ https://rr.vipstreams.in/Alpha/js/jiangsu-dragons-vs-sichuan/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/guangzhou-vs-ningbo-rockets/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Strasbourg W v Nantes W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:00 - Strasbourg W v Nantes W [Delta] - (11/12/2024)
 https://rr.vipstreams.in/Delta/js/strasbourg-w-vs-nantes-w-312247/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Xinjiang v Liaoning" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",19:00 - Xinjiang v Liaoning [Alpha] - (11/12/2024)
+https://rr.vipstreams.in/Alpha/js/xinjiang-vs-liaoning/1/playlist.m3u8
 #EXTINF:-1 tvg-name="South Africa W v England W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",19:00 - South Africa W v England W [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/south-africa-w-vs-england-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="South Africa W v England W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",19:00 - South Africa W v England W [Charlie] - (11/12/2024)
 https://rr.vipstreams.in/Charlie/js/south-africa-women-vs-england-women-1629414803/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Xinjiang v Liaoning" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",19:00 - Xinjiang v Liaoning [Alpha] - (11/12/2024)
-https://rr.vipstreams.in/Alpha/js/xinjiang-vs-liaoning/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PSIS Semarang vs Bali United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtU4gUIKEm0heIaQZggsBxEZA2WSClhFzGKMKpQ835RprEf8rMBgbuJiEEA.webp" group-title="Football",19:00 - PSIS Semarang vs Bali United [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/psis-semarang-vs-bali-united/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australia v Thailand" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",19:45 - Australia v Thailand [Alpha] - (11/12/2024)
@@ -160,16 +158,16 @@ https://rr.vipstreams.in/Delta/js/feyenoord-u19-vs-sparta-praha-u19-320967/1/pla
 https://rr.vipstreams.in/Delta/js/stuttgart-u19-vs-young-boys-u19-320970/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Slovenia W v Germany W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",21:30 - Slovenia W v Germany W [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/slovenia-w-vs-germany-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Norway v Denmark" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - Norway v Denmark [Alpha] - (11/12/2024)
-https://rr.vipstreams.in/Alpha/js/norway-vs-denmark/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kandy Bolts v Galle Marvels" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:00 - Kandy Bolts v Galle Marvels [Alpha] - (11/12/2024)
-https://rr.vipstreams.in/Alpha/js/kandy-bolts-vs-galle-marvels/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Borussia Dortmund U19 v Barcelona U19" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:00 - Borussia Dortmund U19 v Barcelona U19 [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/borussia-dortmund-u19-vs-barcelona-u19/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Borussia Dortmund U19 v Barcelona U19" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:00 - Borussia Dortmund U19 v Barcelona U19 [Charlie] - (11/12/2024)
 https://rr.vipstreams.in/Charlie/js/borussia-dortmund-u19-vs-barcelona-u19-19300223/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Borussia Dortmund U19 v Barcelona U19" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:00 - Borussia Dortmund U19 v Barcelona U19 [Delta] - (11/12/2024)
 https://rr.vipstreams.in/Delta/js/borussia-dortmund-u19-vs-barcelona-u19-320973/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Norway v Denmark" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - Norway v Denmark [Alpha] - (11/12/2024)
+https://rr.vipstreams.in/Alpha/js/norway-vs-denmark/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kandy Bolts v Galle Marvels" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:00 - Kandy Bolts v Galle Marvels [Alpha] - (11/12/2024)
+https://rr.vipstreams.in/Alpha/js/kandy-bolts-vs-galle-marvels/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahce vs Athletic Bilbao" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvhAoQs6qEgheILCGogSpnSAghbZ6SyQUsIuYxRhVKHp-KM9Yt74rMBgnuJiEEA.webp" group-title="Football",22:30 - Fenerbahce vs Athletic Bilbao [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/fenerbahce-vs-athletic-club/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahce vs Athletic Bilbao" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvhAoQs6qEgheILCGogSpnSAghbZ6SyQUsIuYxRhVKHp-KM9Yt74rMBgnuJiEEA.webp" group-title="Football",22:30 - Fenerbahce vs Athletic Bilbao [Charlie] - (11/12/2024)
@@ -184,9 +182,9 @@ https://rr.vipstreams.in/Foxtrot/js/fenerbahce-vs-athletic-club-202412111500/1/p
 https://rr.vipstreams.in/Alpha/js/ittihad-kalba-vs-al-ain/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ittihad Kalba vs Al Ain" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiE1hNWEP3x6Q0kCRCJqJsyAsoQMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",22:30 - Ittihad Kalba vs Al Ain [Delta] - (11/12/2024)
 https://rr.vipstreams.in/Delta/js/alittihad-kalba-vs-al-ain-268353/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Valpo Football Head Coach Introductory Press Conference" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",23:00 - Valpo Football Head Coach Introductory Press Conference [Alpha] - (11/12/2024)
+#EXTINF:-1 tvg-name="Valpo Football Head Coach Introductory Press Conference" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Afl",23:00 - Valpo Football Head Coach Introductory Press Conference [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/valpo-football-head-coach-introductory-press-conference/1/playlist.m3u8
-#EXTINF:-1 tvg-name="All American" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",23:00 - All American [Alpha] - (11/12/2024)
+#EXTINF:-1 tvg-name="All American" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Afl",23:00 - All American [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/all-american/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Westchester Knicks vs College Park Skyhawks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrPYAGYFrAoQWELxDTD56iBIhE1g9JZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Basketball",23:00 - Westchester Knicks vs College Park Skyhawks [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/westchester-vs-college-park-skyhawks/1/playlist.m3u8
@@ -194,16 +192,16 @@ https://rr.vipstreams.in/Alpha/js/westchester-vs-college-park-skyhawks/1/playlis
 https://rr.vipstreams.in/Charlie/js/college-park-skyhawks-vs-westchester-knicks-1629414839/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wolves Twinsbet Vilnius v Hapoel Shlomo Tel Aviv" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Wolves Twinsbet Vilnius v Hapoel Shlomo Tel Aviv [Charlie] - (11/12/2024)
 https://rr.vipstreams.in/Charlie/js/wolves-twinsbet-vilnius-vs-hapoel-shlomo-tel-aviv-1629414814/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Trentino v Ciudad de Buenos Aires" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Trentino v Ciudad de Buenos Aires [Alpha] - (11/12/2024)
-https://rr.vipstreams.in/Alpha/js/trentino-vs-ciudad-de-buenos-aires/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Swimming Champs 25m: Day 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Swimming Champs 25m: Day 2 [Alpha] - (11/12/2024)
-https://rr.vipstreams.in/Alpha/js/swimming-champs-25m-day-2/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Anwil Wloclawek v Spirou Charleroi" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Anwil Wloclawek v Spirou Charleroi [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/anwil-wloclawek-vs-spirou-charleroi/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Turk Telekom v Aris" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Turk Telekom v Aris [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/turk-telekom-vs-aris/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Turk Telekom v Aris" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Turk Telekom v Aris [Charlie] - (11/12/2024)
 https://rr.vipstreams.in/Charlie/js/turk-telekom-ankara-vs-aris-midea-thessaloniki-1629414815/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Trentino v Ciudad de Buenos Aires" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Trentino v Ciudad de Buenos Aires [Alpha] - (11/12/2024)
+https://rr.vipstreams.in/Alpha/js/trentino-vs-ciudad-de-buenos-aires/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Swimming Champs 25m: Day 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Swimming Champs 25m: Day 2 [Alpha] - (11/12/2024)
+https://rr.vipstreams.in/Alpha/js/swimming-champs-25m-day-2/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Lukko vs Vaasan Sport" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoXjZgslAhC8Q0kChAQjBy+dPN8wJBSwi5jPapQ8wZLY2pyPdvRgXuJiEEA.webp" group-title="Hockey",23:30 - Lukko vs Vaasan Sport [Alpha] - (11/12/2024)
 https://rr.vipstreams.in/Alpha/js/lukko-vs-vaasan-sport/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kiekko-Espoo vs TPS Turku" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Kiekko-Espoo vs TPS Turku [Alpha] - (11/12/2024)
