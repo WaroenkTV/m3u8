@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Kedzierzyn-Kozle v Projekt Warszawa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Kedzierzyn-Kozle v Projekt Warszawa [Bravo] - (12/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734021000000-kedzierzyn-kozle-projekt-warszawa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Limoges Monnet v Yastremska" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",23:30 - WTA Limoges Monnet v Yastremska [Bravo] - (12/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734021000000-wta-limoges-monnet-yastremska/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Finland v Czech Republic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Finland v Czech Republic [Bravo] - (12/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734021000000-finland-czech-republic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gornik Walbrzych v Torun" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Gornik Walbrzych v Torun [Bravo] - (12/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734021000000-gornik-walbrzych-torun/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Swimming Champs 25m: Day 3" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Swimming Champs 25m: Day 3 [Alpha] - (12/12/2024)
+https://rr.vipstreams.in/Alpha/js/swimming-champs-25m-day-3/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tappara vs HIFK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrxBl+YEPQAMITdJAoQEECc2bEIcyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="Hockey",23:30 - Tappara vs HIFK [Bravo] - (12/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734021000000-tappara-tampere-ifk-helsinki/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Georgia Southern Football Press Conference" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",23:15 - Georgia Southern Football Press Conference [Alpha] - (12/12/2024)
 https://rr.vipstreams.in/Alpha/js/georgia-southern-football-press-conference/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hampton v East Carolina (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Hampton v East Carolina (W) [Bravo] - (12/12/2024)
@@ -96,20 +108,14 @@ https://rr.vipstreams.in/Charlie/js/scottish-open-table-2-day-4-1629415629/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Swimming Champs 25m: Day 3" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Swimming Champs 25m: Day 3 [Alpha] - (12/12/2024)
-https://rr.vipstreams.in/Alpha/js/swimming-champs-25m-day-3/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Bermuda v Belize" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",00:30 - Bermuda v Belize [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/bermuda-vs-belize-1629414881/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cayman Islands v Bahamas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",00:30 - Cayman Islands v Bahamas [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/cayman-islands-vs-bahamas-1629414880/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Poland W v Chinese Taipei W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:30 - Poland W v Chinese Taipei W [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/poland-w-vs-chinese-taipei-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Copenhagen v Heart of Midlothian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:45 - Copenhagen v Heart of Midlothian [Charlie] - (13/12/2024)
+https://rr.vipstreams.in/Charlie/js/copenhagen-vs-heart-of-midlothian-1629415635/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fiorentina v LASK" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:45 - Fiorentina v LASK [Charlie] - (13/12/2024)
 https://rr.vipstreams.in/Charlie/js/fiorentina-vs-lask-1629415634/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ludogorets v AZ" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:45 - Ludogorets v AZ [Charlie] - (13/12/2024)
 https://rr.vipstreams.in/Charlie/js/ludogorets-vs-az-19296601/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Copenhagen v Heart of Midlothian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:45 - Copenhagen v Heart of Midlothian [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/copenhagen-vs-heart-of-midlothian-1629415635/1/playlist.m3u8
 #EXTINF:-1 tvg-name="The Golazo Show" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:45 - The Golazo Show [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/the-golazo-show/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Valerenga W v Arsenal W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:45 - Valerenga W v Arsenal W [Alpha] - (13/12/2024)
@@ -132,6 +138,16 @@ https://rr.vipstreams.in/Foxtrot/js/bayern-munich-w-vs-juventus-w-202412121715/1
 https://rr.vipstreams.in/Alpha/js/europa-league-konferenz-simulcast/1/playlist.m3u8
 #EXTINF:-1 tvg-name="F.C. Kobenhavn v Heart of Midlothian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:45 - F.C. Kobenhavn v Heart of Midlothian [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/f-c-kobenhavn-vs-heart-of-midlothian/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Viktoria Plzen vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAowKSmF4gIIA1hDUQJMyGmGQdxM3zAkFLCLmNtq3RzBl4RNRyuk70YH7iYhBAA.webp" group-title="Football",00:45 - Viktoria Plzen vs Manchester United [Alpha] - (13/12/2024)
+https://rr.vipstreams.in/Alpha/js/viktoria-plzen-vs-manchester-united/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Viktoria Plzen vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAowKSmF4gIIA1hDUQJMyGmGQdxM3zAkFLCLmNtq3RzBl4RNRyuk70YH7iYhBAA.webp" group-title="Football",00:45 - Viktoria Plzen vs Manchester United [Charlie] - (13/12/2024)
+https://rr.vipstreams.in/Charlie/js/viktoria-plzen-vs-manchester-united-19296608/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Viktoria Plzen vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAowKSmF4gIIA1hDUQJMyGmGQdxM3zAkFLCLmNtq3RzBl4RNRyuk70YH7iYhBAA.webp" group-title="Football",00:45 - Viktoria Plzen vs Manchester United [Delta] - (13/12/2024)
+https://rr.vipstreams.in/Delta/js/plzen-vs-manchester-united-321242/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Viktoria Plzen vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAowKSmF4gIIA1hDUQJMyGmGQdxM3zAkFLCLmNtq3RzBl4RNRyuk70YH7iYhBAA.webp" group-title="Football",00:45 - Viktoria Plzen vs Manchester United [Echo] - (13/12/2024)
+https://rr.vipstreams.in/Echo/js/plzen-manchester-united-20695/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Viktoria Plzen vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAowKSmF4gIIA1hDUQJMyGmGQdxM3zAkFLCLmNtq3RzBl4RNRyuk70YH7iYhBAA.webp" group-title="Football",00:45 - Viktoria Plzen vs Manchester United [Foxtrot] - (13/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/plzen-vs-manchester-united-202412121715/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Union Saint-Gilloise vs Nice" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihpgQTbaRC8QWENRAkTIaSAghbiSfmBIKWEXMabVKHmDLwi1HLejvRgvuJiEEA.webp" group-title="Football",00:45 - Union Saint-Gilloise vs Nice [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/union-st-gilloise-vs-nice/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Union Saint-Gilloise vs Nice" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihpgQTbaRC8QWENRAkTIaSAghbiSfmBIKWEXMabVKHmDLwi1HLejvRgvuJiEEA.webp" group-title="Football",00:45 - Union Saint-Gilloise vs Nice [Charlie] - (13/12/2024)
@@ -274,16 +290,6 @@ https://rr.vipstreams.in/Echo/js/fiorentina-lask-linz-20712/1/playlist.m3u8
 https://rr.vipstreams.in/Foxtrot/js/fiorentina-vs-lask-linz-202412121715/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahce v Monaco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:45 - Fenerbahce v Monaco [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/fenerbahce-vs-monaco/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Viktoria Plzen vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAowKSmF4gIIA1hDUQJMyGmGQdxM3zAkFLCLmNtq3RzBl4RNRyuk70YH7iYhBAA.webp" group-title="Football",00:45 - Viktoria Plzen vs Manchester United [Alpha] - (13/12/2024)
-https://rr.vipstreams.in/Alpha/js/viktoria-plzen-vs-manchester-united/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Viktoria Plzen vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAowKSmF4gIIA1hDUQJMyGmGQdxM3zAkFLCLmNtq3RzBl4RNRyuk70YH7iYhBAA.webp" group-title="Football",00:45 - Viktoria Plzen vs Manchester United [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/viktoria-plzen-vs-manchester-united-19296608/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Viktoria Plzen vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAowKSmF4gIIA1hDUQJMyGmGQdxM3zAkFLCLmNtq3RzBl4RNRyuk70YH7iYhBAA.webp" group-title="Football",00:45 - Viktoria Plzen vs Manchester United [Delta] - (13/12/2024)
-https://rr.vipstreams.in/Delta/js/plzen-vs-manchester-united-321242/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Viktoria Plzen vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAowKSmF4gIIA1hDUQJMyGmGQdxM3zAkFLCLmNtq3RzBl4RNRyuk70YH7iYhBAA.webp" group-title="Football",00:45 - Viktoria Plzen vs Manchester United [Echo] - (13/12/2024)
-https://rr.vipstreams.in/Echo/js/plzen-manchester-united-20695/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Viktoria Plzen vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihAowKSmF4gIIA1hDUQJMyGmGQdxM3zAkFLCLmNtq3RzBl4RNRyuk70YH7iYhBAA.webp" group-title="Football",00:45 - Viktoria Plzen vs Manchester United [Foxtrot] - (13/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/plzen-vs-manchester-united-202412121715/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Aliev v Brito" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",01:00 - Aliev v Brito [Charlie] - (13/12/2024)
 https://rr.vipstreams.in/Charlie/js/aliev-vs-brito-1629414908/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Mourad Aliev v Davide Brito" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",01:00 - Mourad Aliev v Davide Brito [Alpha] - (13/12/2024)
@@ -312,12 +318,12 @@ https://rr.vipstreams.in/Alpha/js/real-madrid-vs-zalgiris-kaunas/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/bayern-vs-maccabi-tel-aviv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Venezuela Master Final, Day 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",03:00 - Venezuela Master Final, Day 2 [Charlie] - (13/12/2024)
 https://rr.vipstreams.in/Charlie/js/venezuela-master-final-day-2-1629415647/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Shamrock Rovers v Borac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Shamrock Rovers v Borac [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/shamrock-rovers-vs-borac-1629415642/1/playlist.m3u8
 #EXTINF:-1 tvg-name="St Gallen v Vitoria SC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - St Gallen v Vitoria SC [Charlie] - (13/12/2024)
 https://rr.vipstreams.in/Charlie/js/st-gallen-vs-vitoria-sc-1629415645/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pafos v Celje" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Pafos v Celje [Charlie] - (13/12/2024)
 https://rr.vipstreams.in/Charlie/js/pafos-vs-celje-1629415643/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Shamrock Rovers v Borac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Shamrock Rovers v Borac [Charlie] - (13/12/2024)
+https://rr.vipstreams.in/Charlie/js/shamrock-rovers-vs-borac-1629415642/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Omonoia v Rapid Wien" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Omonoia v Rapid Wien [Charlie] - (13/12/2024)
 https://rr.vipstreams.in/Charlie/js/omonoia-vs-rapid-wien-1629415640/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Clube v Sirjan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",03:00 - Praia Clube v Sirjan [Alpha] - (13/12/2024)
@@ -340,6 +346,46 @@ https://rr.vipstreams.in/Delta/js/hammarby-vs-barcelona-w-295656/1/playlist.m3u8
 https://rr.vipstreams.in/Foxtrot/js/hammarby-vs-barcelona-w-202412121930/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wisla v Legnica" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Wisla v Legnica [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/wisla-vs-legnica/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maccabi Tel Aviv vs Rīgas Futbola Skola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg7ZOILCH29dIaiBLGQ0kBH0hEWFkgr32o8SjCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",03:00 - Maccabi Tel Aviv vs Rīgas Futbola Skola [Alpha] - (13/12/2024)
+https://rr.vipstreams.in/Alpha/js/maccabi-tel-aviv-vs-rigas-futbola-skola/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maccabi Tel Aviv vs Rīgas Futbola Skola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg7ZOILCH29dIaiBLGQ0kBH0hEWFkgr32o8SjCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",03:00 - Maccabi Tel Aviv vs Rīgas Futbola Skola [Charlie] - (13/12/2024)
+https://rr.vipstreams.in/Charlie/js/maccabi-tel-aviv-vs-rigas-fs-19296614/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maccabi Tel Aviv vs Rīgas Futbola Skola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg7ZOILCH29dIaiBLGQ0kBH0hEWFkgr32o8SjCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",03:00 - Maccabi Tel Aviv vs Rīgas Futbola Skola [Delta] - (13/12/2024)
+https://rr.vipstreams.in/Delta/js/maccabi-tel-aviv-vs-rigas-fs-321258/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maccabi Tel Aviv vs Rīgas Futbola Skola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg7ZOILCH29dIaiBLGQ0kBH0hEWFkgr32o8SjCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",03:00 - Maccabi Tel Aviv vs Rīgas Futbola Skola [Echo] - (13/12/2024)
+https://rr.vipstreams.in/Echo/js/maccabi-tel-aviv-rigas-fs-20706/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maccabi Tel Aviv vs Rīgas Futbola Skola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg7ZOILCH29dIaiBLGQ0kBH0hEWFkgr32o8SjCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",03:00 - Maccabi Tel Aviv vs Rīgas Futbola Skola [Foxtrot] - (13/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/maccabi-tel-aviv-vs-rigas-fs-202412121930/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Lyon vs Eintracht Frankfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgQhpICCBDyQvEFhDUQJM9t36QiaS00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - Lyon vs Eintracht Frankfurt [Alpha] - (13/12/2024)
+https://rr.vipstreams.in/Alpha/js/lyon-vs-eintracht-frankfurt/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Lyon vs Eintracht Frankfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgQhpICCBDyQvEFhDUQJM9t36QiaS00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - Lyon vs Eintracht Frankfurt [Charlie] - (13/12/2024)
+https://rr.vipstreams.in/Charlie/js/olympique-lyonnais-vs-eintracht-frankfurt-19296613/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Lyon vs Eintracht Frankfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgQhpICCBDyQvEFhDUQJM9t36QiaS00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - Lyon vs Eintracht Frankfurt [Delta] - (13/12/2024)
+https://rr.vipstreams.in/Delta/js/lyon-vs-eintracht-frankfurt-321260/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Lyon vs Eintracht Frankfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgQhpICCBDyQvEFhDUQJM9t36QiaS00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - Lyon vs Eintracht Frankfurt [Echo] - (13/12/2024)
+https://rr.vipstreams.in/Echo/js/lyon-eintracht-frankfurt-20698/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Lyon vs Eintracht Frankfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgQhpICCBDyQvEFhDUQJM9t36QiaS00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - Lyon vs Eintracht Frankfurt [Foxtrot] - (13/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/lyon-vs-eintracht-frankfurt-202412121930/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2oheIEPJAptILCC0lTIaSAi6QiEiyQUsIuYxRhVKHp-Ka53viswGCe4mIQQA.webp" group-title="Football",03:00 - FC Porto vs FC Midtjylland [Alpha] - (13/12/2024)
+https://rr.vipstreams.in/Alpha/js/fc-porto-vs-fc-midtjylland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2oheIEPJAptILCC0lTIaSAi6QiEiyQUsIuYxRhVKHp-Ka53viswGCe4mIQQA.webp" group-title="Football",03:00 - FC Porto vs FC Midtjylland [Charlie] - (13/12/2024)
+https://rr.vipstreams.in/Charlie/js/porto-vs-fc-midtjylland-19296612/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2oheIEPJAptILCC0lTIaSAi6QiEiyQUsIuYxRhVKHp-Ka53viswGCe4mIQQA.webp" group-title="Football",03:00 - FC Porto vs FC Midtjylland [Delta] - (13/12/2024)
+https://rr.vipstreams.in/Delta/js/fc-porto-vs-fc-midtjylland-321252/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2oheIEPJAptILCC0lTIaSAi6QiEiyQUsIuYxRhVKHp-Ka53viswGCe4mIQQA.webp" group-title="Football",03:00 - FC Porto vs FC Midtjylland [Echo] - (13/12/2024)
+https://rr.vipstreams.in/Echo/js/fc-porto-fc-midtjylland-20700/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2oheIEPJAptILCC0lTIaSAi6QiEiyQUsIuYxRhVKHp-Ka53viswGCe4mIQQA.webp" group-title="Football",03:00 - FC Porto vs FC Midtjylland [Foxtrot] - (13/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/fc-porto-vs-fc-midtjylland-202412121930/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Elfsborg vs Qarabag FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBApgs6WDG8QhrCGogSpkNJCaQIRIvzAkFLCLmMU+jto77yjNRy2k70YN6MYhBAA.webp" group-title="Football",03:00 - Elfsborg vs Qarabag FK [Alpha] - (13/12/2024)
+https://rr.vipstreams.in/Alpha/js/if-elfsborg-vs-fk-qarabag/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Elfsborg vs Qarabag FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBApgs6WDG8QhrCGogSpkNJCaQIRIvzAkFLCLmMU+jto77yjNRy2k70YN6MYhBAA.webp" group-title="Football",03:00 - Elfsborg vs Qarabag FK [Charlie] - (13/12/2024)
+https://rr.vipstreams.in/Charlie/js/elfsborg-vs-qarabag-19296611/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Elfsborg vs Qarabag FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBApgs6WDG8QhrCGogSpkNJCaQIRIvzAkFLCLmMU+jto77yjNRy2k70YN6MYhBAA.webp" group-title="Football",03:00 - Elfsborg vs Qarabag FK [Delta] - (13/12/2024)
+https://rr.vipstreams.in/Delta/js/if-elfsborg-vs-qarabag-321251/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Elfsborg vs Qarabag FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBApgs6WDG8QhrCGogSpkNJCaQIRIvzAkFLCLmMU+jto77yjNRy2k70YN6MYhBAA.webp" group-title="Football",03:00 - Elfsborg vs Qarabag FK [Echo] - (13/12/2024)
+https://rr.vipstreams.in/Echo/js/if-elfsborg-qarabag-20703/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Elfsborg vs Qarabag FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBApgs6WDG8QhrCGogSpkNJCaQIRIvzAkFLCLmMU+jto77yjNRy2k70YN6MYhBAA.webp" group-title="Football",03:00 - Elfsborg vs Qarabag FK [Foxtrot] - (13/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/if-elfsborg-vs-qarabag-202412121930/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bodoe/Glimt vs Besiktas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrTGzGULCF4g91ECRDHpICCGuJF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",03:00 - Bodoe/Glimt vs Besiktas [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/bodo-glimt-vs-besiktas/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bodoe/Glimt vs Besiktas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrTGzGULCF4g91ECRDHpICCGuJF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",03:00 - Bodoe/Glimt vs Besiktas [Charlie] - (13/12/2024)
@@ -350,16 +396,6 @@ https://rr.vipstreams.in/Delta/js/bodoglimt-vs-besiktas-321250/1/playlist.m3u8
 https://rr.vipstreams.in/Echo/js/bodo-glimt-besiktas-20702/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bodoe/Glimt vs Besiktas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrTGzGULCF4g91ECRDHpICCGuJF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",03:00 - Bodoe/Glimt vs Besiktas [Foxtrot] - (13/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/bodoglimt-vs-besiktas-202412121930/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ajax vs Lazio" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrUb4Q1cRBC8QWHSBInpIfSBCJ4LJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - Ajax vs Lazio [Alpha] - (13/12/2024)
-https://rr.vipstreams.in/Alpha/js/ajax-amsterdam-vs-lazio/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ajax vs Lazio" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrUb4Q1cRBC8QWHSBInpIfSBCJ4LJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - Ajax vs Lazio [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/ajax-vs-lazio-19296609/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ajax vs Lazio" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrUb4Q1cRBC8QWHSBInpIfSBCJ4LJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - Ajax vs Lazio [Delta] - (13/12/2024)
-https://rr.vipstreams.in/Delta/js/ajax-vs-lazio-321254/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ajax vs Lazio" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrUb4Q1cRBC8QWHSBInpIfSBCJ4LJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - Ajax vs Lazio [Echo] - (13/12/2024)
-https://rr.vipstreams.in/Echo/js/ajax-lazio-20699/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ajax vs Lazio" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrUb4Q1cRBC8QWHSBInpIfSBCJ4LJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - Ajax vs Lazio [Foxtrot] - (13/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/ajax-vs-lazio-202412121930/1/playlist.m3u8
 #EXTINF:-1 tvg-name="TNS vs Panathinaikos" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjHlgQnGpxC8QWENRAkTIaSAhGQiEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - TNS vs Panathinaikos [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/the-new-saints-vs-panathinaikos/1/playlist.m3u8
 #EXTINF:-1 tvg-name="TNS vs Panathinaikos" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjHlgQnGpxC8QWENRAkTIaSAhGQiEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - TNS vs Panathinaikos [Charlie] - (13/12/2024)
@@ -408,6 +444,16 @@ https://rr.vipstreams.in/Alpha/js/st-gallen-vs-guimaraes/1/playlist.m3u8
 https://rr.vipstreams.in/Delta/js/fc-st-gallen-vs-guimaraes-321256/1/playlist.m3u8
 #EXTINF:-1 tvg-name="St. Gallen vs Guimaraes" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBBQcUWaF4gsIaiBLGQ0rYZCIYLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - St. Gallen vs Guimaraes [Foxtrot] - (13/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/fc-st-gallen-vs-guimaraes-202412121930/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ajax vs Lazio" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrUb4Q1cRBC8QWHSBInpIfSBCJ4LJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - Ajax vs Lazio [Alpha] - (13/12/2024)
+https://rr.vipstreams.in/Alpha/js/ajax-amsterdam-vs-lazio/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ajax vs Lazio" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrUb4Q1cRBC8QWHSBInpIfSBCJ4LJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - Ajax vs Lazio [Charlie] - (13/12/2024)
+https://rr.vipstreams.in/Charlie/js/ajax-vs-lazio-19296609/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ajax vs Lazio" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrUb4Q1cRBC8QWHSBInpIfSBCJ4LJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - Ajax vs Lazio [Delta] - (13/12/2024)
+https://rr.vipstreams.in/Delta/js/ajax-vs-lazio-321254/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ajax vs Lazio" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrUb4Q1cRBC8QWHSBInpIfSBCJ4LJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - Ajax vs Lazio [Echo] - (13/12/2024)
+https://rr.vipstreams.in/Echo/js/ajax-lazio-20699/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ajax vs Lazio" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrUb4Q1cRBC8QWHSBInpIfSBCJ4LJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",03:00 - Ajax vs Lazio [Foxtrot] - (13/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/ajax-vs-lazio-202412121930/1/playlist.m3u8
 #EXTINF:-1 tvg-name="US Dax vs Provence" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH7hGY-vk0hpIFCAiGQMECWMWLLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Rugby",03:00 - US Dax vs Provence [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/us-dax-vs-provence-rugby/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Slavia Prague vs Anderlecht" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKinkhGYEPzR6QWENRAkTIadpA3EKFkgpYRcxijCrNHD+UbU5mviswGAe4mIQQA.webp" group-title="Football",03:00 - Slavia Prague vs Anderlecht [Alpha] - (13/12/2024)
@@ -438,46 +484,6 @@ https://rr.vipstreams.in/Delta/js/rangers-vs-tottenham-321255/1/playlist.m3u8
 https://rr.vipstreams.in/Echo/js/rangers-tottenham-20701/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rangers vs Tottenham" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQUUwJCBiaQvEFhDUQJMyGkgIIe4k35dFLCLmMtqnRzBl4RNRyOs70YH7iYhBAA.webp" group-title="Football",03:00 - Rangers vs Tottenham [Foxtrot] - (13/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/rangers-vs-tottenham-202412121930/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Maccabi Tel Aviv vs Rīgas Futbola Skola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg7ZOILCH29dIaiBLGQ0kBH0hEWFkgr32o8SjCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",03:00 - Maccabi Tel Aviv vs Rīgas Futbola Skola [Alpha] - (13/12/2024)
-https://rr.vipstreams.in/Alpha/js/maccabi-tel-aviv-vs-rigas-futbola-skola/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Maccabi Tel Aviv vs Rīgas Futbola Skola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg7ZOILCH29dIaiBLGQ0kBH0hEWFkgr32o8SjCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",03:00 - Maccabi Tel Aviv vs Rīgas Futbola Skola [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/maccabi-tel-aviv-vs-rigas-fs-19296614/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Maccabi Tel Aviv vs Rīgas Futbola Skola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg7ZOILCH29dIaiBLGQ0kBH0hEWFkgr32o8SjCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",03:00 - Maccabi Tel Aviv vs Rīgas Futbola Skola [Delta] - (13/12/2024)
-https://rr.vipstreams.in/Delta/js/maccabi-tel-aviv-vs-rigas-fs-321258/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Maccabi Tel Aviv vs Rīgas Futbola Skola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg7ZOILCH29dIaiBLGQ0kBH0hEWFkgr32o8SjCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",03:00 - Maccabi Tel Aviv vs Rīgas Futbola Skola [Echo] - (13/12/2024)
-https://rr.vipstreams.in/Echo/js/maccabi-tel-aviv-rigas-fs-20706/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Maccabi Tel Aviv vs Rīgas Futbola Skola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvg7ZOILCH29dIaiBLGQ0kBH0hEWFkgr32o8SjCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",03:00 - Maccabi Tel Aviv vs Rīgas Futbola Skola [Foxtrot] - (13/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/maccabi-tel-aviv-vs-rigas-fs-202412121930/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lyon vs Eintracht Frankfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgQhpICCBDyQvEFhDUQJM9t36QiaS00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - Lyon vs Eintracht Frankfurt [Alpha] - (13/12/2024)
-https://rr.vipstreams.in/Alpha/js/lyon-vs-eintracht-frankfurt/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lyon vs Eintracht Frankfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgQhpICCBDyQvEFhDUQJM9t36QiaS00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - Lyon vs Eintracht Frankfurt [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/olympique-lyonnais-vs-eintracht-frankfurt-19296613/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lyon vs Eintracht Frankfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgQhpICCBDyQvEFhDUQJM9t36QiaS00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - Lyon vs Eintracht Frankfurt [Delta] - (13/12/2024)
-https://rr.vipstreams.in/Delta/js/lyon-vs-eintracht-frankfurt-321260/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lyon vs Eintracht Frankfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgQhpICCBDyQvEFhDUQJM9t36QiaS00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - Lyon vs Eintracht Frankfurt [Echo] - (13/12/2024)
-https://rr.vipstreams.in/Echo/js/lyon-eintracht-frankfurt-20698/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lyon vs Eintracht Frankfurt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgQhpICCBDyQvEFhDUQJM9t36QiaS00wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",03:00 - Lyon vs Eintracht Frankfurt [Foxtrot] - (13/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/lyon-vs-eintracht-frankfurt-202412121930/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FC Porto vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2oheIEPJAptILCC0lTIaSAi6QiEiyQUsIuYxRhVKHp-Ka53viswGCe4mIQQA.webp" group-title="Football",03:00 - FC Porto vs FC Midtjylland [Alpha] - (13/12/2024)
-https://rr.vipstreams.in/Alpha/js/fc-porto-vs-fc-midtjylland/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FC Porto vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2oheIEPJAptILCC0lTIaSAi6QiEiyQUsIuYxRhVKHp-Ka53viswGCe4mIQQA.webp" group-title="Football",03:00 - FC Porto vs FC Midtjylland [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/porto-vs-fc-midtjylland-19296612/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FC Porto vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2oheIEPJAptILCC0lTIaSAi6QiEiyQUsIuYxRhVKHp-Ka53viswGCe4mIQQA.webp" group-title="Football",03:00 - FC Porto vs FC Midtjylland [Delta] - (13/12/2024)
-https://rr.vipstreams.in/Delta/js/fc-porto-vs-fc-midtjylland-321252/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FC Porto vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2oheIEPJAptILCC0lTIaSAi6QiEiyQUsIuYxRhVKHp-Ka53viswGCe4mIQQA.webp" group-title="Football",03:00 - FC Porto vs FC Midtjylland [Echo] - (13/12/2024)
-https://rr.vipstreams.in/Echo/js/fc-porto-fc-midtjylland-20700/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FC Porto vs FC Midtjylland" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2oheIEPJAptILCC0lTIaSAi6QiEiyQUsIuYxRhVKHp-Ka53viswGCe4mIQQA.webp" group-title="Football",03:00 - FC Porto vs FC Midtjylland [Foxtrot] - (13/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/fc-porto-vs-fc-midtjylland-202412121930/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elfsborg vs Qarabag FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBApgs6WDG8QhrCGogSpkNJCaQIRIvzAkFLCLmMU+jto77yjNRy2k70YN6MYhBAA.webp" group-title="Football",03:00 - Elfsborg vs Qarabag FK [Alpha] - (13/12/2024)
-https://rr.vipstreams.in/Alpha/js/if-elfsborg-vs-fk-qarabag/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elfsborg vs Qarabag FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBApgs6WDG8QhrCGogSpkNJCaQIRIvzAkFLCLmMU+jto77yjNRy2k70YN6MYhBAA.webp" group-title="Football",03:00 - Elfsborg vs Qarabag FK [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/elfsborg-vs-qarabag-19296611/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elfsborg vs Qarabag FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBApgs6WDG8QhrCGogSpkNJCaQIRIvzAkFLCLmMU+jto77yjNRy2k70YN6MYhBAA.webp" group-title="Football",03:00 - Elfsborg vs Qarabag FK [Delta] - (13/12/2024)
-https://rr.vipstreams.in/Delta/js/if-elfsborg-vs-qarabag-321251/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elfsborg vs Qarabag FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBApgs6WDG8QhrCGogSpkNJCaQIRIvzAkFLCLmMU+jto77yjNRy2k70YN6MYhBAA.webp" group-title="Football",03:00 - Elfsborg vs Qarabag FK [Echo] - (13/12/2024)
-https://rr.vipstreams.in/Echo/js/if-elfsborg-qarabag-20703/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elfsborg vs Qarabag FK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBApgs6WDG8QhrCGogSpkNJCaQIRIvzAkFLCLmMU+jto77yjNRy2k70YN6MYhBAA.webp" group-title="Football",03:00 - Elfsborg vs Qarabag FK [Foxtrot] - (13/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/if-elfsborg-vs-qarabag-202412121930/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Alexis Rocha v Raul Curiel: Press Conference" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",04:00 - Alexis Rocha v Raul Curiel: Press Conference [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/alexis-rocha-vs-raul-curiel-press-conference/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Once Deportivo vs Cacahuatique" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:30 - Once Deportivo vs Cacahuatique [Alpha] - (13/12/2024)
