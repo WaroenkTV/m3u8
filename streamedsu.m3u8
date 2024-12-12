@@ -2,14 +2,14 @@
 
 #EXTINF:-1 tvg-name="Oregon W v Pittsburgh" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",03:30 - Oregon W v Pittsburgh [Bravo] - (13/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734035400000-oregon-w-pittsburgh/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Omonoia v Rapid Wien" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Omonoia v Rapid Wien [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/omonoia-vs-rapid-wien-1629415640/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Pafos v Celje" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Pafos v Celje [Charlie] - (13/12/2024)
-https://rr.vipstreams.in/Charlie/js/pafos-vs-celje-1629415643/1/playlist.m3u8
 #EXTINF:-1 tvg-name="St Gallen v Vitoria SC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - St Gallen v Vitoria SC [Charlie] - (13/12/2024)
 https://rr.vipstreams.in/Charlie/js/st-gallen-vs-vitoria-sc-1629415645/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Shamrock Rovers v Borac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Shamrock Rovers v Borac [Charlie] - (13/12/2024)
 https://rr.vipstreams.in/Charlie/js/shamrock-rovers-vs-borac-1629415642/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Omonoia v Rapid Wien" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Omonoia v Rapid Wien [Charlie] - (13/12/2024)
+https://rr.vipstreams.in/Charlie/js/omonoia-vs-rapid-wien-1629415640/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pafos v Celje" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Pafos v Celje [Charlie] - (13/12/2024)
+https://rr.vipstreams.in/Charlie/js/pafos-vs-celje-1629415643/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Clube v Sirjan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",03:00 - Praia Clube v Sirjan [Bravo] - (13/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734033600000-praia-clube-sirjan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Omonia v SK Rapid" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Omonia v SK Rapid [Bravo] - (13/12/2024)
@@ -278,6 +278,8 @@ https://rr.vipstreams.in/Alpha/js/dazn-formula-1-dazn-f1/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NASCAR Racehub" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NASCAR Racehub
 https://rr.vipstreams.in/Alpha/js/nascar-racehub/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NHL Network
+https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bodoe/Glimt vs Besiktas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrTGzGULCF4g91ECRDHpICCGuJF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",03:00 - Bodoe/Glimt vs Besiktas [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/bodo-glimt-vs-besiktas/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bodoe/Glimt vs Besiktas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrTGzGULCF4g91ECRDHpICCGuJF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",03:00 - Bodoe/Glimt vs Besiktas [Bravo] - (13/12/2024)
@@ -302,8 +304,6 @@ https://rr.vipstreams.in/Bravo/js/1734032700000-bayern-munich-maccabi-tel-aviv/1
 https://rr.vipstreams.in/Bravo/js/1734032700000-uruguay-montevideo-juventud-de-las-piedras/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahce v Monaco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:45 - Fenerbahce v Monaco [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/fenerbahce-vs-monaco/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NHL Network
-https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="SNF: Sunday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",SNF: Sunday Night Football
 https://rr.vipstreams.in/Alpha/js/snf-sunday-night-football/1/playlist.m3u8
 #EXTINF:-1 tvg-name="TNF: Thursday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",TNF: Thursday Night Football
@@ -456,8 +456,6 @@ https://rr.vipstreams.in/Alpha/js/new-orleans-pelicans-vs-sacramento-kings/1/pla
 https://rr.vipstreams.in/Charlie/js/sacramento-kings-vs-new-orleans-pelicans-1629415650/1/playlist.m3u8
 #EXTINF:-1 tvg-name="New Orleans Pelicans v Sacramento Kings" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - New Orleans Pelicans v Sacramento Kings [Echo] - (13/12/2024)
 https://rr.vipstreams.in/Echo/js/new-orleans-pelicans-sacramento-kings-22749/1/playlist.m3u8
-#EXTINF:-1 tvg-name="San Francisco 49ers v Los Angeles Rams" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",08:15 - San Francisco 49ers v Los Angeles Rams [Echo] - (13/12/2024)
-https://rr.vipstreams.in/Echo/js/san-francisco-49ers-los-angeles-rams-22444/1/playlist.m3u8
 #EXTINF:-1 tvg-name="San Francisco 49ers v Los Angeles Rams" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:15 - San Francisco 49ers v Los Angeles Rams [Alpha] - (13/12/2024)
 https://rr.vipstreams.in/Alpha/js/san-francisco-49ers-vs-los-angeles-rams/1/playlist.m3u8
 #EXTINF:-1 tvg-name="San Francisco 49ers v Los Angeles Rams" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:15 - San Francisco 49ers v Los Angeles Rams [Charlie] - (13/12/2024)
