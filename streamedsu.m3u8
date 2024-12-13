@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Marquette W v Penn State W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",03:30 - Marquette W v Penn State W [Bravo] - (14/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734121800000-marquette-w-penn-state-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC Fight Night Pre-Show: Colby Covington v Joaquin Buckley" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",03:30 - UFC Fight Night Pre-Show: Colby Covington v Joaquin Buckley [Alpha] - (14/12/2024)
+https://rr.vipstreams.in/Alpha/js/ufc-fight-night-pre-show-colby-covington-vs-joaquin-buckley/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Saint-Etienne W v Paris Saint Germain W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Saint-Etienne W v Paris Saint Germain W [Delta] - (14/12/2024)
 https://rr.vipstreams.in/Delta/js/saintetienne-w-vs-paris-saint-germain-w-321485/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Lorente v Grandelli" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",03:00 - Lorente v Grandelli [Charlie] - (14/12/2024)
@@ -46,22 +50,12 @@ https://rr.vipstreams.in/Charlie/js/venezuela-master-final-day-3-1629415907/1/pl
 https://rr.vipstreams.in/Bravo/js/1734112800000-texas-w-creighton-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grant Thornton Invitational" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",01:00 - Grant Thornton Invitational [Bravo] - (14/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734112800000-grant-thornton-invitational/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tingsryd v Djurgarden" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Tingsryd v Djurgarden [Bravo] - (14/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734112800000-tingsryd-djurgarden/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ostersund v AIK" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Ostersund v AIK [Bravo] - (14/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734112800000-ostersund-aik/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Oskarshamn v Nybro" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Oskarshamn v Nybro [Bravo] - (14/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734112800000-oskarshamn-nybro/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kalmar v Vasteras" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Kalmar v Vasteras [Bravo] - (14/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734112800000-kalmar-vasteras/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grant Thornton Invitational First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",01:00 - Grant Thornton Invitational First Round [Alpha] - (14/12/2024)
 https://rr.vipstreams.in/Alpha/js/grant-thornton-invitational-first-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grant Thornton Invitational First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",01:00 - Grant Thornton Invitational First Round [Charlie] - (14/12/2024)
 https://rr.vipstreams.in/Charlie/js/grant-thornton-invitational-first-round-1629415259/1/playlist.m3u8
 #EXTINF:-1 tvg-name="George Liddard v Omar Nguale Ilunga" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",01:00 - George Liddard v Omar Nguale Ilunga [Alpha] - (14/12/2024)
 https://rr.vipstreams.in/Alpha/js/george-liddard-vs-omar-nguale-ilunga/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Poland W v Mexico W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:30 - Poland W v Mexico W [Alpha] - (14/12/2024)
-https://rr.vipstreams.in/Alpha/js/poland-w-vs-mexico-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Limoges Andreeva/Janicijevic v Kalashnikova/Salden" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:00 - WTA Limoges Andreeva/Janicijevic v Kalashnikova/Salden [Bravo] - (14/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734109200000-wta-limoges-andreeva-janicijevic-kalashnikova-salden/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
@@ -112,6 +106,8 @@ https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m
 https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
 https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Os Belenenses vs Covilha" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:30 - Os Belenenses vs Covilha [Alpha] - (14/12/2024)
+https://rr.vipstreams.in/Alpha/js/os-belenenses-vs-covilha/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Jerome Tang Show" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",03:00 - Jerome Tang Show [Alpha] - (14/12/2024)
 https://rr.vipstreams.in/Alpha/js/jerome-tang-show/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Derby vs Portsmouth" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGogxYMCjC8DIXiCzGQKbVcuWzF-MCQUsIuY32qUPMGXhFqcl4O9LpijGFAA.webp" group-title="Football",03:00 - Derby vs Portsmouth [Alpha] - (14/12/2024)
@@ -318,10 +314,6 @@ https://rr.vipstreams.in/Delta/js/bastia-vs-guingamp-321451/1/playlist.m3u8
 https://rr.vipstreams.in/Bravo/js/1734116400000-frankfurt-basketball-braunschweig/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Valencia Basket vs CB 1939 Canarias" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYwIEPBrANBkLxBZdxneYiWTIFkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp" group-title="Basketball",02:00 - Valencia Basket vs CB 1939 Canarias [Bravo] - (14/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734116400000-valencia-basket-tenerife/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Stade Lausanne Ouchy vs Thun" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWAAGEFhAQQ8MCBC8Q0kCUu7rJgyekskFLCLmMUYVSh5fyjTTEffFZgMC9xMQggA.webp" group-title="Football",01:30 - Stade Lausanne Ouchy vs Thun [Bravo] - (14/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734114600000-lausanne-ouchy-thun/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Schaffhausen vs Stade Nyonnais" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCghgABmwgUYJCF4gsIGCGkhqIEiYsGzLJBSwi5jQ6pQ8wZeCJqOV98VmAwf3ExCCA.webp" group-title="Football",01:30 - Schaffhausen vs Stade Nyonnais [Bravo] - (14/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734114600000-schaffhausen-stade-nyonnais/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Schwenninger vs Frankfurt Lowen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:30 - Schwenninger vs Frankfurt Lowen [Bravo] - (14/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734114600000-schwenninger-wild-wings-frankfurt-lowen/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Iserlohn Roosters vs Straubing Tigers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsthgkwaWF4gD0kChAQQxrCCswQ1QyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey",01:30 - Iserlohn Roosters vs Straubing Tigers [Bravo] - (14/12/2024)
@@ -344,24 +336,12 @@ https://rr.vipstreams.in/Bravo/js/1734113700000-fc-salzburg-graz99ers/1/playlist
 https://rr.vipstreams.in/Bravo/js/1734113700000-kac-klagenfurt-fehervar-av19/1/playlist.m3u8
 #EXTINF:-1 tvg-name="HK Olimpija vs Pioneers Vorarlberg" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHo5G+JnxC8Q0kChAQQJENRBYQdu5N1IKWEXMYowqlDy-lG1HI+uvRgXuJiEEA.webp" group-title="Hockey",01:15 - HK Olimpija vs Pioneers Vorarlberg [Bravo] - (14/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734113700000-hk-olimpija-vorarlberg/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Béziers vs US Montauban" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnDiySILCGoheIaSBQgIxkDBA6Q+0yyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Rugby",01:00 - Béziers vs US Montauban [Alpha] - (14/12/2024)
-https://rr.vipstreams.in/Alpha/js/beziers-vs-montauban/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Béziers vs US Montauban" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnDiySILCGoheIaSBQgIxkDBA6Q+0yyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Rugby",01:00 - Béziers vs US Montauban [Bravo] - (14/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734112800000-beziers-montauban/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Vimmerby vs Mora IK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHrTswMMV4gDWENRDSQFg4mMwQi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Hockey",01:00 - Vimmerby vs Mora IK [Bravo] - (14/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734112800000-vimmerby-mora/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Södertälje SK vs IF Björklöven" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu3pjwMASF4gsIGMZBmSh0xcn5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp" group-title="Hockey",01:00 - Södertälje SK vs IF Björklöven [Bravo] - (14/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734112800000-sodertalje-if-bjorkloven/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Anadolu Efes v Panathinaikos" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:30 - Anadolu Efes v Panathinaikos [Alpha] - (14/12/2024)
-https://rr.vipstreams.in/Alpha/js/anadolu-efes-vs-panathinaikos/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UFC Fight Night Pre-Show: Colby Covington v Joaquin Buckley" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",03:30 - UFC Fight Night Pre-Show: Colby Covington v Joaquin Buckley [Alpha] - (14/12/2024)
-https://rr.vipstreams.in/Alpha/js/ufc-fight-night-pre-show-colby-covington-vs-joaquin-buckley/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Os Belenenses vs Covilha" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:30 - Os Belenenses vs Covilha [Alpha] - (14/12/2024)
-https://rr.vipstreams.in/Alpha/js/os-belenenses-vs-covilha/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Alexis Rocha v Raul Curiel: Weigh-In" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",04:00 - Alexis Rocha v Raul Curiel: Weigh-In [Alpha] - (14/12/2024)
 https://rr.vipstreams.in/Alpha/js/alexis-rocha-vs-raul-curiel-weigh-in/1/playlist.m3u8
 #EXTINF:-1 tvg-name="UFC Tampa: Ceremonial Weigh-In" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",04:00 - UFC Tampa: Ceremonial Weigh-In [Alpha] - (14/12/2024)
