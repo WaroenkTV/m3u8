@@ -1,7 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Sydney W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Sydney W v Newcastle W [Alpha] - (14/12/2024)
+https://rr.vipstreams.in/Alpha/js/sydney-w-vs-newcastle-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sydney W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Sydney W v Newcastle W [Bravo] - (14/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734165900000-sydney-fc-w-newcastle-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sydney W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Sydney W v Newcastle W [Charlie] - (14/12/2024)
+https://rr.vipstreams.in/Charlie/js/sydney-w-vs-newcastle-jets-w-19309256/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sydney W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Sydney W v Newcastle W [Delta] - (14/12/2024)
+https://rr.vipstreams.in/Delta/js/sydney-fc-w-vs-newcastle-jets-fc-w-323096/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sydney W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Sydney W v Newcastle W [Foxtrot] - (14/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/sydney-fc-w-vs-newcastle-jets-fc-w-202412150530/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Western Sydney Wanderers v Brisbane Roar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:35 - Western Sydney Wanderers v Brisbane Roar [Alpha] - (14/12/2024)
 https://rr.vipstreams.in/Alpha/js/western-sydney-wanderers-vs-brisbane-roar/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Western Sydney Wanderers v Brisbane Roar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:35 - Western Sydney Wanderers v Brisbane Roar [Bravo] - (14/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734165300000-western-sydney-wanderers-brisbane-roar/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Western Sydney Wanderers v Brisbane Roar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:35 - Western Sydney Wanderers v Brisbane Roar [Charlie] - (14/12/2024)
+https://rr.vipstreams.in/Charlie/js/western-sydney-wanderers-vs-brisbane-roar-19238341/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Western Sydney Wanderers v Brisbane Roar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:35 - Western Sydney Wanderers v Brisbane Roar [Delta] - (14/12/2024)
 https://rr.vipstreams.in/Delta/js/western-sydney-wanderers-vs-brisbane-roar-321698/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Western Sydney Wanderers v Brisbane Roar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:35 - Western Sydney Wanderers v Brisbane Roar [Foxtrot] - (14/12/2024)
@@ -28,16 +42,16 @@ https://rr.vipstreams.in/Foxtrot/js/western-sydney-wanderers-w-vs-western-united
 https://rr.vipstreams.in/Foxtrot/js/sydney-vs-western-united-202412140545/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rocks v Strings" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",12:30 - Rocks v Strings [Alpha] - (14/12/2024)
 https://rr.vipstreams.in/Alpha/js/rocks-vs-strings/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
+https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
+https://rr.vipstreams.in/Alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Golf
 https://rr.vipstreams.in/Alpha/js/sky-sports-golf/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PGA Tour 2024" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",PGA Tour 2024
 https://rr.vipstreams.in/Alpha/js/pga-tour-2024/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBC Golf Channel
 https://rr.vipstreams.in/Alpha/js/nbc-golf-channel/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
-https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
-https://rr.vipstreams.in/Alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Fox NRL TV
 https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Tennis Channel
@@ -84,12 +98,6 @@ https://rr.vipstreams.in/Alpha/js/mainland-pouakai-w-vs-tokomanawa-queens-w/1/pl
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sydney W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Sydney W v Newcastle W [Alpha] - (14/12/2024)
-https://rr.vipstreams.in/Alpha/js/sydney-w-vs-newcastle-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sydney W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Sydney W v Newcastle W [Delta] - (14/12/2024)
-https://rr.vipstreams.in/Delta/js/sydney-fc-w-vs-newcastle-jets-fc-w-323096/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sydney W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Sydney W v Newcastle W [Foxtrot] - (14/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/sydney-fc-w-vs-newcastle-jets-fc-w-202412150530/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cairns Taipans vs Perth Wildcats" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlRQDKIasGkheIAwZIgYIMwcQpLLJBSwi5jFGFVaO78oz1it+KzAYO7iYhBAA.webp" group-title="Basketball",16:00 - Cairns Taipans vs Perth Wildcats [Alpha] - (14/12/2024)
 https://rr.vipstreams.in/Alpha/js/cairns-taipans-vs-perth/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Alfred Dunhill Championship Third Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",16:30 - Alfred Dunhill Championship Third Round [Alpha] - (14/12/2024)
@@ -730,6 +738,8 @@ https://rr.vipstreams.in/Delta/js/farense-vs-gil-vicente-322195/1/playlist.m3u8
 https://rr.vipstreams.in/Echo/js/farense-gil-vicente-20786/1/playlist.m3u8
 #EXTINF:-1 tvg-name="SC Farense vs Gil Vicente" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmEoheIHPXzbdIaiBggSIRImmnLLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",22:30 - SC Farense vs Gil Vicente [Foxtrot] - (14/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/farense-vs-gil-vicente-202412141500/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mafra vs Benfica B" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4hqpENJD0kmkFm0gYIEgZNmrMFkgpYRcxijCqUPD+UY6xXviswGAe4mIQQA.webp" group-title="Football",22:30 - Mafra vs Benfica B [Charlie] - (14/12/2024)
+https://rr.vipstreams.in/Charlie/js/mafra-vs-benfica-ii-19160316/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Mafra vs Benfica B" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4hqpENJD0kmkFm0gYIEgZNmrMFkgpYRcxijCqUPD+UY6xXviswGAe4mIQQA.webp" group-title="Football",22:30 - Mafra vs Benfica B [Delta] - (14/12/2024)
 https://rr.vipstreams.in/Delta/js/mafra-vs-benfica-b-322193/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Guingamp W v Le Havre W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - Guingamp W v Le Havre W [Delta] - (14/12/2024)
