@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Melbourne City W v Canberra W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Melbourne City W v Canberra W [Alpha] - (15/12/2024)
+https://rr.vipstreams.in/Alpha/js/melbourne-city-w-vs-canberra-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Melbourne City W v Canberra W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Melbourne City W v Canberra W [Delta] - (15/12/2024)
+https://rr.vipstreams.in/Delta/js/melbourne-city-w-vs-canberra-united-w-323107/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Melbourne City W v Canberra W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Melbourne City W v Canberra W [Foxtrot] - (15/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/melbourne-city-w-vs-canberra-united-w-202412150815/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Germany v Norway" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",15:30 - Germany v Norway [Alpha] - (15/12/2024)
+https://rr.vipstreams.in/Alpha/js/germany-vs-norway/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth Scorchers vs Melbourne Stars" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:15 - Perth Scorchers vs Melbourne Stars [Alpha] - (15/12/2024)
 https://rr.vipstreams.in/Alpha/js/perth-scorchers-vs-melbourne-stars/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ECC-W Premier, 2024 | Day 1 | 15 Dec 2024" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:00 - ECC-W Premier, 2024 | Day 1 | 15 Dec 2024 [Charlie] - (15/12/2024)
@@ -70,16 +78,6 @@ https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/badalona-w-vs-eibar-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Eibar B vs SD Logroñés" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Eibar B vs SD Logroñés
 https://rr.vipstreams.in/Delta/js/fc-levante-badalona-vs-eibar-w-323465/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Germany v Norway" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",15:30 - Germany v Norway [Alpha] - (15/12/2024)
-https://rr.vipstreams.in/Alpha/js/germany-vs-norway/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Melbourne City W v Canberra W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Melbourne City W v Canberra W [Alpha] - (15/12/2024)
-https://rr.vipstreams.in/Alpha/js/melbourne-city-w-vs-canberra-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Melbourne City W v Canberra W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Melbourne City W v Canberra W [Charlie] - (15/12/2024)
-https://rr.vipstreams.in/Charlie/js/melbourne-city-w-vs-canberra-united-w-19309257/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Melbourne City W v Canberra W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Melbourne City W v Canberra W [Delta] - (15/12/2024)
-https://rr.vipstreams.in/Delta/js/melbourne-city-w-vs-canberra-united-w-323107/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Melbourne City W v Canberra W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Melbourne City W v Canberra W [Foxtrot] - (15/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/melbourne-city-w-vs-canberra-united-w-202412150815/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Alpha] - (15/12/2024)
 https://rr.vipstreams.in/Alpha/js/perth-w-vs-adelaide-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Charlie] - (15/12/2024)
@@ -88,8 +86,6 @@ https://rr.vipstreams.in/Charlie/js/perth-glory-w-vs-adelaide-united-w-19309258/
 https://rr.vipstreams.in/Delta/js/perth-glory-fc-w-vs-adelaide-united-w-323110/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Foxtrot] - (15/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/perth-glory-fc-w-vs-adelaide-united-w-202412150830/1/playlist.m3u8
-#EXTINF:-1 tvg-name="San Miguel Beermen v Blackwater Bossing" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",16:00 - San Miguel Beermen v Blackwater Bossing [Alpha] - (15/12/2024)
-https://rr.vipstreams.in/Alpha/js/san-miguel-beermen-vs-blackwater-bossing/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WPL 2025 Player Auction" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",16:30 - WPL 2025 Player Auction [Alpha] - (15/12/2024)
 https://rr.vipstreams.in/Alpha/js/wpl-2025-player-auction/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Alfred Dunhill Championship Final Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",16:30 - Alfred Dunhill Championship Final Round [Alpha] - (15/12/2024)
@@ -664,3 +660,25 @@ https://rr.vipstreams.in/Alpha/js/salernitana-vs-juve-stabia/1/playlist.m3u8
 https://rr.vipstreams.in/Charlie/js/salernitana-vs-juve-stabia-19167825/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Salernitana vs Juve Stabia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqBTAADPJD0IIXiCwhqIGCZDWS+6yBIskFLCLmMUYVVo5fyjajktfFZgMC9xMQggA.webp" group-title="Football",23:15 - Salernitana vs Juve Stabia [Delta] - (15/12/2024)
 https://rr.vipstreams.in/Delta/js/salernitana-vs-juve-stabia-323529/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Swimming Champs 25m: Day 6" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Swimming Champs 25m: Day 6 [Alpha] - (15/12/2024)
+https://rr.vipstreams.in/Alpha/js/swimming-champs-25m-day-6/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Borussia Dortmund vs Hoffenheim" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqERx6KEFhC89IaiBgGjus2ZIskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",23:30 - Borussia Dortmund vs Hoffenheim [Alpha] - (15/12/2024)
+https://rr.vipstreams.in/Alpha/js/borussia-dortmund-vs-tsg-hoffenheim/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Borussia Dortmund vs Hoffenheim" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqERx6KEFhC89IaiBgGjus2ZIskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",23:30 - Borussia Dortmund vs Hoffenheim [Charlie] - (15/12/2024)
+https://rr.vipstreams.in/Charlie/js/borussia-dortmund-vs-tsg-hoffenheim-19154663/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Borussia Dortmund vs Hoffenheim" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqERx6KEFhC89IaiBgGjus2ZIskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",23:30 - Borussia Dortmund vs Hoffenheim [Delta] - (15/12/2024)
+https://rr.vipstreams.in/Delta/js/borussia-dortmund-vs-1899-hoffenheim-323532/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Borussia Dortmund vs Hoffenheim" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqERx6KEFhC89IaiBgGjus2ZIskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",23:30 - Borussia Dortmund vs Hoffenheim [Echo] - (15/12/2024)
+https://rr.vipstreams.in/Echo/js/borussia-dortmund-1899-hoffenheim-20734/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Borussia Dortmund vs Hoffenheim" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqERx6KEFhC89IaiBgGjus2ZIskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",23:30 - Borussia Dortmund vs Hoffenheim [Foxtrot] - (15/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/borussia-dortmund-vs-1899-hoffenheim-202412151600/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Manchester City vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhBYtwAAwgQ8kLy3GDIFCBJWQMCyGkskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Football",23:30 - Manchester City vs Manchester United [Alpha] - (15/12/2024)
+https://rr.vipstreams.in/Alpha/js/manchester-city-vs-manchester-united/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Manchester City vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhBYtwAAwgQ8kLy3GDIFCBJWQMCyGkskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Football",23:30 - Manchester City vs Manchester United [Charlie] - (15/12/2024)
+https://rr.vipstreams.in/Charlie/js/manchester-city-vs-manchester-united-19134638/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Manchester City vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhBYtwAAwgQ8kLy3GDIFCBJWQMCyGkskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Football",23:30 - Manchester City vs Manchester United [Delta] - (15/12/2024)
+https://rr.vipstreams.in/Delta/js/manchester-city-vs-manchester-united-259947/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Manchester City vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhBYtwAAwgQ8kLy3GDIFCBJWQMCyGkskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Football",23:30 - Manchester City vs Manchester United [Echo] - (15/12/2024)
+https://rr.vipstreams.in/Echo/js/manchester-city-manchester-united-20750/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Manchester City vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhBYtwAAwgQ8kLy3GDIFCBJWQMCyGkskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Football",23:30 - Manchester City vs Manchester United [Foxtrot] - (15/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/manchester-city-vs-manchester-united-202412141445/1/playlist.m3u8
