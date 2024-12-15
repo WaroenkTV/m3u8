@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Alpha] - (15/12/2024)
+https://rr.vipstreams.in/Alpha/js/perth-w-vs-adelaide-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Charlie] - (15/12/2024)
+https://rr.vipstreams.in/Charlie/js/perth-glory-w-vs-adelaide-united-w-19309258/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Delta] - (15/12/2024)
+https://rr.vipstreams.in/Delta/js/perth-glory-fc-w-vs-adelaide-united-w-323110/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Foxtrot] - (15/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/perth-glory-fc-w-vs-adelaide-united-w-202412150830/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Melbourne City W v Canberra W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Melbourne City W v Canberra W [Alpha] - (15/12/2024)
 https://rr.vipstreams.in/Alpha/js/melbourne-city-w-vs-canberra-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Melbourne City W v Canberra W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:45 - Melbourne City W v Canberra W [Charlie] - (15/12/2024)
@@ -22,10 +30,6 @@ https://rr.vipstreams.in/Alpha/js/south-africa-w-vs-england-w/1/playlist.m3u8
 https://rr.vipstreams.in/Charlie/js/south-africa-vs-england-1629415264/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pokhara Avengers vs Sudurpaschim Royals" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:15 - Pokhara Avengers vs Sudurpaschim Royals [Alpha] - (15/12/2024)
 https://rr.vipstreams.in/Alpha/js/pokhara-avengers-vs-sudurpaschim-royals/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Melbourne City vs Auckland" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",13:00 - Melbourne City vs Auckland [Foxtrot] - (15/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/melbourne-city-vs-auckland-202412150545/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fernando Vargas Jr v Matthew Terry" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",12:00 - Fernando Vargas Jr v Matthew Terry [Alpha] - (15/12/2024)
-https://rr.vipstreams.in/Alpha/js/fernando-vargas-jr-vs-matthew-terry/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -80,20 +84,10 @@ https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/badalona-w-vs-eibar-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Eibar B vs SD Logroñés" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Eibar B vs SD Logroñés
 https://rr.vipstreams.in/Delta/js/fc-levante-badalona-vs-eibar-w-323465/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Alpha] - (15/12/2024)
-https://rr.vipstreams.in/Alpha/js/perth-w-vs-adelaide-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Charlie] - (15/12/2024)
-https://rr.vipstreams.in/Charlie/js/perth-glory-w-vs-adelaide-united-w-19309258/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Delta] - (15/12/2024)
-https://rr.vipstreams.in/Delta/js/perth-glory-fc-w-vs-adelaide-united-w-323110/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Perth W v Adelaide W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Adelaide W [Foxtrot] - (15/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/perth-glory-fc-w-vs-adelaide-united-w-202412150830/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WPL 2025 Player Auction" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",16:30 - WPL 2025 Player Auction [Alpha] - (15/12/2024)
 https://rr.vipstreams.in/Alpha/js/wpl-2025-player-auction/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Alfred Dunhill Championship Final Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",16:30 - Alfred Dunhill Championship Final Round [Alpha] - (15/12/2024)
 https://rr.vipstreams.in/Alpha/js/alfred-dunhill-championship-final-round/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Alfred Dunhill Championship Final Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",16:30 - Alfred Dunhill Championship Final Round [Charlie] - (15/12/2024)
-https://rr.vipstreams.in/Charlie/js/alfred-dunhill-championship-final-round-1629415960/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hambantota Bangla Tigers v Kandy Bolts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",17:00 - Hambantota Bangla Tigers v Kandy Bolts [Alpha] - (15/12/2024)
 https://rr.vipstreams.in/Alpha/js/hambantota-bangla-tigers-vs-kandy-bolts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NPB White v JABA" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",17:05 - NPB White v JABA [Alpha] - (15/12/2024)
@@ -592,6 +586,8 @@ https://rr.vipstreams.in/Charlie/js/ajax-vs-almere-city-19136647/1/playlist.m3u8
 https://rr.vipstreams.in/Delta/js/ajax-vs-almere-city-fc-323498/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ajax vs Almere City FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEaJqoCgAYQvEFkMgUIROcRGjJFkgpYRcxijCqUPd+UY6xn-FZgMHdxMQggA.webp" group-title="Football",22:45 - Ajax vs Almere City FC [Foxtrot] - (15/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/ajax-vs-almere-city-fc-202412151515/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Zamalek SC v AL Masry" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - Zamalek SC v AL Masry [Delta] - (15/12/2024)
+https://rr.vipstreams.in/Delta/js/zamalek-sc-vs-al-masry-323573/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Netherlands W v Great Britain W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:00 - Netherlands W v Great Britain W [Alpha] - (15/12/2024)
 https://rr.vipstreams.in/Alpha/js/netherlands-w-vs-great-britain-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox NFL Kickoff NFL Sunday" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",23:00 - Fox NFL Kickoff NFL Sunday [Alpha] - (15/12/2024)
@@ -684,3 +680,35 @@ https://rr.vipstreams.in/Delta/js/manchester-city-vs-manchester-united-259947/1/
 https://rr.vipstreams.in/Echo/js/manchester-city-manchester-united-20750/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Manchester City vs Manchester United" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhBYtwAAwgQ8kLy3GDIFCBJWQMCyGkskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Football",23:30 - Manchester City vs Manchester United [Foxtrot] - (15/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/manchester-city-vs-manchester-united-202412141445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Alabama v East Texas A&M" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - South Alabama v East Texas A&M [Charlie] - (16/12/2024)
+https://rr.vipstreams.in/Charlie/js/south-alabama-vs-east-texas-aandm-1629415968/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Denmark W v Norway W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Denmark W v Norway W [Alpha] - (16/12/2024)
+https://rr.vipstreams.in/Alpha/js/denmark-w-vs-norway-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ACA 182: Adlan Ibragimov v Faridun Odilov" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",00:00 - ACA 182: Adlan Ibragimov v Faridun Odilov [Alpha] - (16/12/2024)
+https://rr.vipstreams.in/Alpha/js/aca-182-adlan-ibragimov-vs-faridun-odilov/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Slovakia W v Slovenia W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:00 - Slovakia W v Slovenia W [Alpha] - (16/12/2024)
+https://rr.vipstreams.in/Alpha/js/slovakia-w-vs-slovenia-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS The NFL Today" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",00:00 - CBS The NFL Today [Alpha] - (16/12/2024)
+https://rr.vipstreams.in/Alpha/js/cbs-the-nfl-today/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ivory Coast v Guinea" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Ivory Coast v Guinea [Alpha] - (16/12/2024)
+https://rr.vipstreams.in/Alpha/js/ivory-coast-vs-guinea/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Panetolikos vs PAOK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQgYTMFrggQvENKOGTmkNRCJj8FkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",00:00 - Panetolikos vs PAOK [Alpha] - (16/12/2024)
+https://rr.vipstreams.in/Alpha/js/panetolikos-vs-paok-salonika/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Panetolikos vs PAOK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQgYTMFrggQvENKOGTmkNRCJj8FkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",00:00 - Panetolikos vs PAOK [Delta] - (16/12/2024)
+https://rr.vipstreams.in/Delta/js/panetolikos-vs-paok-264040/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Como vs Roma" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHqNp5WUhC8QWENRAwDRkCRA3pRlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",00:00 - Como vs Roma [Alpha] - (16/12/2024)
+https://rr.vipstreams.in/Alpha/js/como-vs-as-roma/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Como vs Roma" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHqNp5WUhC8QWENRAwDRkCRA3pRlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",00:00 - Como vs Roma [Charlie] - (16/12/2024)
+https://rr.vipstreams.in/Charlie/js/como-vs-roma-19155219/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Como vs Roma" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHqNp5WUhC8QWENRAwDRkCRA3pRlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",00:00 - Como vs Roma [Delta] - (16/12/2024)
+https://rr.vipstreams.in/Delta/js/como-vs-as-roma-323538/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Como vs Roma" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHqNp5WUhC8QWENRAwDRkCRA3pRlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",00:00 - Como vs Roma [Echo] - (16/12/2024)
+https://rr.vipstreams.in/Echo/js/como-as-roma-20792/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Como vs Roma" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHqNp5WUhC8QWENRAwDRkCRA3pRlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",00:00 - Como vs Roma [Foxtrot] - (16/12/2024)
+https://rr.vipstreams.in/Foxtrot/js/como-vs-as-roma-202412151630/1/playlist.m3u8
+#EXTINF:-1 tvg-name="s.Oliver Würzburg vs ALBA Berlin" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEb0QwaWBQhEvEFhDGIIEiGmHbNmCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Basketball",00:00 - s.Oliver Würzburg vs ALBA Berlin [Alpha] - (16/12/2024)
+https://rr.vipstreams.in/Alpha/js/wurzburg-vs-alba-berlin/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Virginia Tech vs Navy" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Virginia Tech vs Navy [Alpha] - (16/12/2024)
+https://rr.vipstreams.in/Alpha/js/navy-vs-virginia-tech/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pallacanestro Trapani vs Trento" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:15 - Pallacanestro Trapani vs Trento [Alpha] - (16/12/2024)
+https://rr.vipstreams.in/Alpha/js/trapani-vs-trento/1/playlist.m3u8
