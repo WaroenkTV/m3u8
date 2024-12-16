@@ -4,6 +4,8 @@
 https://rr.vipstreams.in/Alpha/js/rio-ave-vs-guimaraes/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rio Ave vs Guimaraes" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBCsB8kNRCJeILHpAwQJA1cspjLJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp" group-title="Football",03:45 - Rio Ave vs Guimaraes [Bravo] - (17/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734381900000-rio-ave-vitoria-guimaraes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rio Ave vs Guimaraes" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBCsB8kNRCJeILHpAwQJA1cspjLJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp" group-title="Football",03:45 - Rio Ave vs Guimaraes [Charlie] - (17/12/2024)
+https://rr.vipstreams.in/Charlie/js/rio-ave-vs-vitoria-sc-19160623/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rio Ave vs Guimaraes" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBCsB8kNRCJeILHpAwQJA1cspjLJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp" group-title="Football",03:45 - Rio Ave vs Guimaraes [Delta] - (17/12/2024)
 https://rr.vipstreams.in/Delta/js/rio-ave-vs-guimaraes-323964/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rio Ave vs Guimaraes" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBCsB8kNRCJeILHpAwQJA1cspjLJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp" group-title="Football",03:45 - Rio Ave vs Guimaraes [Echo] - (17/12/2024)
@@ -66,8 +68,6 @@ https://rr.vipstreams.in/Bravo/js/1734377400000-gdansk-cuprum-gorzow/1/playlist.
 https://rr.vipstreams.in/Bravo/js/1734377400000-rima-ayadi-vs-victoria-bustos/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Latina vs S.S.D. Audace Cerignola" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBBQSILCBRgkIXiGn7jIHShAwQ1XZZZIKWEXMYHVKHmDLwi1HLe+KzAYL7iYhBAA.webp" group-title="Football",02:30 - Latina vs S.S.D. Audace Cerignola [Bravo] - (17/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734377400000-latina-audace-cerignola/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hapoel Jerusalem W v Maccabi Ashdod W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:05 - Hapoel Jerusalem W v Maccabi Ashdod W [Bravo] - (17/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734375900000-hapoel-jerusalem-w-maccabi-ashdod-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",02:00 - World Darts Championship [Bravo] - (17/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734375600000-world-darts-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="German Masters Qualifier v Table 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",02:00 - German Masters Qualifier v Table 1 [Bravo] - (17/12/2024)
@@ -78,26 +78,10 @@ https://rr.vipstreams.in/Bravo/js/1734375600000-german-masters-qualifier-table-4
 https://rr.vipstreams.in/Bravo/js/1734375600000-german-masters-qualifier-table-2/1/playlist.m3u8
 #EXTINF:-1 tvg-name="German Masters Qualifier v Table 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",02:00 - German Masters Qualifier v Table 1 [Bravo] - (17/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734375600000-german-masters-qualifier-table-1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Gremio W v Sport Recife W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Gremio W v Sport Recife W [Bravo] - (17/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734375600000-gremio-w-sport-recife-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Eastern Kentucky v Indiana State (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - Eastern Kentucky v Indiana State (W) [Bravo] - (17/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734375600000-eastern-kentuckyindiana-state-w-/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",02:00 - PDC World Darts Championship [Alpha] - (17/12/2024)
 https://rr.vipstreams.in/Alpha/js/pdc-world-darts-championship/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hapoel Afula v Hapoel Haifa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:50 - Hapoel Afula v Hapoel Haifa [Bravo] - (17/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734375000000-hapoel-afula-hapoel-haifa/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Braga vs Famalicao" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHhgUcjdU0heILCH0wQJA4mkhzk-MCQUsIuYxRhVOjp-KNqcjoO9GCe4mIQQA.webp" group-title="Football",01:45 - Braga vs Famalicao [Alpha] - (17/12/2024)
-https://rr.vipstreams.in/Alpha/js/braga-vs-fc-famalicao/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Braga vs Famalicao" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHhgUcjdU0heILCH0wQJA4mkhzk-MCQUsIuYxRhVOjp-KNqcjoO9GCe4mIQQA.webp" group-title="Football",01:45 - Braga vs Famalicao [Delta] - (17/12/2024)
-https://rr.vipstreams.in/Delta/js/sc-braga-vs-famalicao-323957/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Braga vs Famalicao" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHhgUcjdU0heILCH0wQJA4mkhzk-MCQUsIuYxRhVOjp-KNqcjoO9GCe4mIQQA.webp" group-title="Football",01:45 - Braga vs Famalicao [Echo] - (17/12/2024)
-https://rr.vipstreams.in/Echo/js/sc-braga-famalicao-20781/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Braga vs Famalicao" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHhgUcjdU0heILCH0wQJA4mkhzk-MCQUsIuYxRhVOjp-KNqcjoO9GCe4mIQQA.webp" group-title="Football",01:45 - Braga vs Famalicao [Foxtrot] - (17/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/sc-braga-vs-famalicao-202412142330/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ultimate Pool" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",01:30 - Ultimate Pool [Bravo] - (17/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734373800000-ultimate-pool/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kallithea vs Olympiakos" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKim4AGDiFmJeILCGohDplCb3WSLJBSwi5jFGFWaOb8o2pzN+VmAwN3ExCCA.webp" group-title="Football",01:30 - Kallithea vs Olympiakos [Alpha] - (17/12/2024)
-https://rr.vipstreams.in/Alpha/js/athens-kallithea-vs-olympiacos/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -142,10 +126,10 @@ https://rr.vipstreams.in/Alpha/js/espn/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Saturday Social" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Saturday Social
 https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
-https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
 https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
+https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="New Zealand v England" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",05:00 - New Zealand v England [Alpha] - (17/12/2024)
