@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Conegliano W v Praia Clube W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",11:30 - Conegliano W v Praia Clube W [Alpha] - (17/12/2024)
+https://rr.vipstreams.in/Alpha/js/conegliano-w-vs-praia-clube-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Conegliano W v Praia Clube W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",11:30 - Conegliano W v Praia Clube W [Bravo] - (17/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734409800000-conegliano-w-praia-clube-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vancouver Canucks v Colorado Avalanche" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",10:30 - Vancouver Canucks v Colorado Avalanche [Echo] - (17/12/2024)
 https://rr.vipstreams.in/Echo/js/vancouver-canucks-colorado-avalanche-21434/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vancouver Canucks vs Colorado Avalanche" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRBQUwaSBicQvEHpQgsJkJuNnEIFkgpYRcxijCqdHD+UbU5OviswGAe4mIQQA.webp" group-title="Hockey",10:30 - Vancouver Canucks vs Colorado Avalanche [Alpha] - (17/12/2024)
@@ -36,30 +40,14 @@ https://rr.vipstreams.in/Charlie/js/denver-nuggets-vs-sacramento-kings-162941539
 https://rr.vipstreams.in/Echo/js/sacramento-kings-denver-nuggets-22767/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Blaze v Team China Rising Star" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",09:45 - Blaze v Team China Rising Star [Alpha] - (17/12/2024)
 https://rr.vipstreams.in/Alpha/js/blaze-vs-team-china-rising-star/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Whittier v Utah Tech" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - Whittier v Utah Tech [Alpha] - (17/12/2024)
-https://rr.vipstreams.in/Alpha/js/whittier-vs-utah-tech/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Las Vegas Raiders v Atlanta Falcons" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",08:30 - Las Vegas Raiders v Atlanta Falcons [Echo] - (17/12/2024)
-https://rr.vipstreams.in/Echo/js/las-vegas-raiders-atlanta-falcons-22459/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Edmonton Oilers vs Florida Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmSTlZABjC8QB6SBQgsIYwfMQQMEPBZaYAkXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Hockey",08:30 - Edmonton Oilers vs Florida Panthers [Alpha] - (17/12/2024)
-https://rr.vipstreams.in/Alpha/js/edmonton-oilers-vs-florida-panthers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Edmonton Oilers vs Florida Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmSTlZABjC8QB6SBQgsIYwfMQQMEPBZaYAkXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Hockey",08:30 - Edmonton Oilers vs Florida Panthers [Charlie] - (17/12/2024)
-https://rr.vipstreams.in/Charlie/js/florida-panthers-vs-edmonton-oilers-1629415402/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Las Vegas Raiders vs Atlanta Falcons" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjkEAGEDka8QBrId0gSIaiBRWTWFkgp32o8SjCqUPd+UbU5n-FZgMHdxMQggA.webp" group-title="American Football",08:30 - Las Vegas Raiders vs Atlanta Falcons [Alpha] - (17/12/2024)
 https://rr.vipstreams.in/Alpha/js/las-vegas-raiders-vs-atlanta-falcons/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Las Vegas Raiders vs Atlanta Falcons" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjkEAGEDka8QBrId0gSIaiBRWTWFkgp32o8SjCqUPd+UbU5n-FZgMHdxMQggA.webp" group-title="American Football",08:30 - Las Vegas Raiders vs Atlanta Falcons [Bravo] - (17/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734399000000-atlanta-falcons-vs-las-vegas-raiders/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Las Vegas Raiders vs Atlanta Falcons" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjkEAGEDka8QBrId0gSIaiBRWTWFkgp32o8SjCqUPd+UbU5n-FZgMHdxMQggA.webp" group-title="American Football",08:30 - Las Vegas Raiders vs Atlanta Falcons [Charlie] - (17/12/2024)
 https://rr.vipstreams.in/Charlie/js/atlanta-falcons-vs-las-vegas-raiders-1629416009/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Minnesota Vikings v Chicago Bears" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",08:00 - Minnesota Vikings v Chicago Bears [Echo] - (17/12/2024)
-https://rr.vipstreams.in/Echo/js/minnesota-vikings-chicago-bears-22458/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Minas W v Vero Volley W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",08:00 - Minas W v Vero Volley W [Bravo] - (17/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734397200000-minas-w-vero-volley-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Monday Night RAW" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",08:00 - Monday Night RAW [Alpha] - (17/12/2024)
-https://rr.vipstreams.in/Alpha/js/monday-night-raw/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Minnesota Vikings vs Chicago Bears" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjl4hpYJNxQgtWQyGMkQ1EAYNbpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="American Football",08:00 - Minnesota Vikings vs Chicago Bears [Alpha] - (17/12/2024)
 https://rr.vipstreams.in/Alpha/js/minnesota-vikings-vs-chicago-bears/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Minnesota Vikings vs Chicago Bears" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjl4hpYJNxQgtWQyGMkQ1EAYNbpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="American Football",08:00 - Minnesota Vikings vs Chicago Bears [Charlie] - (17/12/2024)
-https://rr.vipstreams.in/Charlie/js/chicago-bears-vs-minnesota-vikings-1629416008/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -110,8 +98,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Conegliano W v Praia Clube W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",11:30 - Conegliano W v Praia Clube W [Alpha] - (17/12/2024)
-https://rr.vipstreams.in/Alpha/js/conegliano-w-vs-praia-clube-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Lequios v Eisa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",12:30 - Lequios v Eisa [Alpha] - (17/12/2024)
 https://rr.vipstreams.in/Alpha/js/lequios-vs-eisa/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ECS Malta, 2024 | Day 20 | 10 Nov 2024 |" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",14:00 - ECS Malta, 2024 | Day 20 | 10 Nov 2024 | [Charlie] - (17/12/2024)
@@ -160,3 +146,13 @@ https://rr.vipstreams.in/Charlie/js/south-africa-vs-pakistan-1629415389/1/playli
 https://rr.vipstreams.in/Alpha/js/pss-sleman-vs-psis-semarang/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kandy Bolts v Nuwara Eliya Kings" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",19:15 - Kandy Bolts v Nuwara Eliya Kings [Alpha] - (17/12/2024)
 https://rr.vipstreams.in/Alpha/js/kandy-bolts-vs-nuwara-eliya-kings/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - PDC World Darts Championship [Alpha] - (17/12/2024)
+https://rr.vipstreams.in/Alpha/js/pdc-world-darts-championship/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - PDC World Darts Championship [Charlie] - (17/12/2024)
+https://rr.vipstreams.in/Charlie/js/202425-paddy-power-world-darts-championship-day-three-1629416014/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Singapore v Thailand" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Singapore v Thailand [Alpha] - (17/12/2024)
+https://rr.vipstreams.in/Alpha/js/singapore-vs-thailand/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Singapore v Thailand" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Singapore v Thailand [Delta] - (17/12/2024)
+https://rr.vipstreams.in/Delta/js/singapore-vs-thailand-232969/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Perak vs Selangor" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGlheIEiHBJKIHdJBZdIahfNWUIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",19:30 - Perak vs Selangor [Alpha] - (17/12/2024)
+https://rr.vipstreams.in/Alpha/js/perak-vs-selangor/1/playlist.m3u8
