@@ -1,183 +1,75 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Memphis v #18 Tennessee (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:30 - Memphis v #18 Tennessee (W) [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734571800000-memphis18-tennessee-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tucson Roadrunners vs San Diego Gulls" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkjAo+46iES8QWEDBAQQFi+ePmSLTTAEi5jFGFXaO78o2pzt+KzAYO7iYhBAA.webp" group-title="Hockey",08:30 - Tucson Roadrunners vs San Diego Gulls [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734571800000-tucson-roadrunners-san-diego-gulls/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Allen Americans vs Wichita Thunder" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",08:10 - Allen Americans vs Wichita Thunder [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570600000-allen-americans-wichita-thunder/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Wofford v Saint Louis" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Wofford v Saint Louis [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-wofford-vs-saint-louis/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lincoln v Missouri State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Lincoln v Missouri State [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-lincolnvs-missouri-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="App State v Louisiana" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - App State v Louisiana [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-app-state-vs-louisiana/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Washington vs Washington State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmRxIm8jiF4hpILMZCIDBkwekskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Basketball",11:00 - Washington vs Washington State [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/washington-state-vs-washington/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Washington vs Washington State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmRxIm8jiF4hpILMZCIDBkwekskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Basketball",11:00 - Washington vs Washington State [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734580800000-washington-state-vs-washington/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Anaheim Ducks v Winnipeg Jets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",10:00 - Anaheim Ducks v Winnipeg Jets [Echo] - (19/12/2024)
+https://rr.vipstreams.in/Echo/js/anaheim-ducks-winnipeg-jets-21448/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ontario Reign vs Calgary Wranglers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHjYQWELLHSQvHZtMk9IGCGogIIFCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey",10:00 - Ontario Reign vs Calgary Wranglers [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734577200000-ontario-reign-calgary-wranglers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Coachella Valley Firebirds vs San Jose Barracuda" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihBQQIWfh0heILCBhaDOiMZAlDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Hockey",10:00 - Coachella Valley Firebirds vs San Jose Barracuda [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734577200000-coachella-valley-firebirds-san-jose-barracuda/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Utah Hockey Club vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSRhpYFCDEkQvEFhDUQ0s-ut6Y+llpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Hockey",10:00 - Utah Hockey Club vs Vancouver Canucks [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/utah-hockey-club-vs-vancouver-canucks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Utah Hockey Club vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSRhpYFCDEkQvEFhDUQ0s-ut6Y+llpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Hockey",10:00 - Utah Hockey Club vs Vancouver Canucks [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734577200000-vancouver-canucks-vs-utah-hc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Utah Hockey Club vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSRhpYFCDEkQvEFhDUQ0s-ut6Y+llpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Hockey",10:00 - Utah Hockey Club vs Vancouver Canucks [Charlie] - (19/12/2024)
+https://rr.vipstreams.in/Charlie/js/vancouver-canucks-vs-utah-hockey-club-1629415481/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Anaheim Ducks vs Winnipeg Jets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvnHSQvEHsS6sIAyBIgjMECmM6WSClhFzGKMKpQ835RtTkfN9GBu4mIQQA.webp" group-title="Hockey",10:00 - Anaheim Ducks vs Winnipeg Jets [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/anaheim-ducks-vs-winnipeg-jets/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Anaheim Ducks vs Winnipeg Jets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvnHSQvEHsS6sIAyBIgjMECmM6WSClhFzGKMKpQ835RtTkfN9GBu4mIQQA.webp" group-title="Hockey",10:00 - Anaheim Ducks vs Winnipeg Jets [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734577200000-winnipeg-jets-vs-anaheim-ducks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Anaheim Ducks vs Winnipeg Jets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvnHSQvEHsS6sIAyBIgjMECmM6WSClhFzGKMKpQ835RtTkfN9GBu4mIQQA.webp" group-title="Hockey",10:00 - Anaheim Ducks vs Winnipeg Jets [Charlie] - (19/12/2024)
+https://rr.vipstreams.in/Charlie/js/winnipeg-jets-vs-anaheim-ducks-1629415480/1/playlist.m3u8
+#EXTINF:-1 tvg-name="USC vs Cal State-Northridge" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - USC vs Cal State-Northridge [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/csun-vs-usc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="USC vs Cal State-Northridge" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - USC vs Cal State-Northridge [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734577200000-cal-state-northridge-vs-usc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UC Riverside vs Montana State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - UC Riverside vs Montana State [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/montana-state-vs-uc-riverside/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UC Riverside vs Montana State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - UC Riverside vs Montana State [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734577200000-montana-state-vs-uc-riverside/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Portland vs Cal State-Bakersfield" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Portland vs Cal State-Bakersfield [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/csu-bakersfield-vs-portland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Santa Clara vs Kennesaw State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Santa Clara vs Kennesaw State [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734577200000-kennesaw-state-vs-santa-clara/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Loyola Marymount vs UC-Santa Barbara" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKv36MwIFCGoheIabtN6YIEiCwhbk-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",10:00 - Loyola Marymount vs UC-Santa Barbara [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/uc-santa-barbara-vs-loyola-marymount/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Loyola Marymount vs UC-Santa Barbara" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKv36MwIFCGoheIabtN6YIEiCwhbk-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",10:00 - Loyola Marymount vs UC-Santa Barbara [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734577200000-uc-santa-barbara-vs-loyola-marymount/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pacific vs Portland State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Pacific vs Portland State [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/portland-state-vs-pacific/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pacific vs Portland State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Pacific vs Portland State [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734577200000-portland-state-vs-pacific/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pacific vs Portland State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Pacific vs Portland State [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734577200000-cal-state-bakersfield-vs-portland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bakersfield Condors vs Henderson Silver Knights" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEFYQ8MNNghpIXppAwQEEFauXtKCyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey",09:30 - Bakersfield Condors vs Henderson Silver Knights [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734575400000-bakersfield-condors-henderson-silver-knights/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Minnesota Wild vs Florida Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSgpIIXbt4hpIFCCyGQBszAumWSClhFzG21Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Hockey",09:30 - Minnesota Wild vs Florida Panthers [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/minnesota-wild-vs-florida-panthers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Minnesota Wild vs Florida Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSgpIIXbt4hpIFCCyGQBszAumWSClhFzG21Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Hockey",09:30 - Minnesota Wild vs Florida Panthers [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734575400000-florida-panthers-vs-minnesota-wild/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Minnesota Wild vs Florida Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSgpIIXbt4hpIFCCyGQBszAumWSClhFzG21Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Hockey",09:30 - Minnesota Wild vs Florida Panthers [Charlie] - (19/12/2024)
+https://rr.vipstreams.in/Charlie/js/florida-panthers-vs-minnesota-wild-1629415479/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Utah Grizzlies v Tahoe Knight Monsters" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:10 - Utah Grizzlies v Tahoe Knight Monsters [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734574200000-utah-grizzlies-tahoe-knight-monsters/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Idaho Steelheads vs Rapid City Rush" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:10 - Idaho Steelheads vs Rapid City Rush [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734574200000-idaho-steelheads-rapid-city-rush/1/playlist.m3u8
+#EXTINF:-1 tvg-name="California v UNLV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",09:00 - California v UNLV [Charlie] - (19/12/2024)
+https://rr.vipstreams.in/Charlie/js/california-vs-unlv-1629417870/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gonzaga vs Nicholls State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - Gonzaga vs Nicholls State [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/nicholls-vs-13-gonzaga/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Michigan vs Oklahoma" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - Michigan vs Oklahoma [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/14-oklahoma-vs-24-michigan/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UC Davis vs Idaho" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - UC Davis vs Idaho [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/idaho-vs-uc-davis/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UNLV vs California" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",09:00 - UNLV vs California [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/california-vs-unlv-24/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UNLV vs California" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",09:00 - UNLV vs California [Bravo] - (19/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734573600000-california-vs-24-unlv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AEW Dynamite" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",08:00 - AEW Dynamite [Alpha] - (19/12/2024)
 https://rr.vipstreams.in/Alpha/js/aew-dynamite/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Texas Stars vs Grand Rapids Griffins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKv1piUlMNJC8QWEDBAQQFi+ZImjLJBSwi5jFGFU6O78o2pyd+KzAYO7iYhBAA.webp" group-title="Hockey",08:00 - Texas Stars vs Grand Rapids Griffins [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-texas-stars-grand-rapids-griffins/1/playlist.m3u8
-#EXTINF:-1 tvg-name="North Texas vs Mississippi Valley State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv35IQiapRC8QWAzpAkTIU9J0skFLCLmMUYVSh6vyjPWPf5WwGCu4mIQQA.webp" group-title="Basketball",08:00 - North Texas vs Mississippi Valley State [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-mississippi-valley-state-vs-north-texas/1/playlist.m3u8
-#EXTINF:-1 tvg-name="North Texas vs Mississippi Valley State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv35IQiapRC8QWAzpAkTIU9J0skFLCLmMUYVSh6vyjPWPf5WwGCu4mIQQA.webp" group-title="Basketball",08:00 - North Texas vs Mississippi Valley State [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/mississippi-valley-state-vs-north-texas-1629415500/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Vanderbilt vs The Citadel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Vanderbilt vs The Citadel [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/the-citadel-vs-vanderbilt/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Vanderbilt vs The Citadel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Vanderbilt vs The Citadel [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-the-citadel-vs-vanderbilt/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Oklahoma State vs Tarleton State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Oklahoma State vs Tarleton State [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/tarleton-vs-oklahoma-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Oklahoma State vs Tarleton State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Oklahoma State vs Tarleton State [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-tarleton-state-vs-oklahoma-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Loyola-Chicago vs Canisius" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Loyola-Chicago vs Canisius [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-canisius-vs-loyola-chicago/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Illinois State vs Northern Illinois" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Illinois State vs Northern Illinois [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-northern-illinois-vs-illinois-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Houston vs Toledo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Houston vs Toledo [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/toledo-vs-15-houston/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Houston vs Toledo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Houston vs Toledo [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-toledo-vs-15-houston/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Bradley vs San Francisco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Bradley vs San Francisco [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/san-francisco-vs-bradley/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Bradley vs San Francisco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Bradley vs San Francisco [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-san-francisco-vs-bradley/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Texas-Arlington vs Evansville" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:00 - Texas-Arlington vs Evansville [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734570000000-evansville-vs-ut-arlington/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cincinnati Cyclones vs Iowa Heartlanders" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:35 - Cincinnati Cyclones vs Iowa Heartlanders [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568500000-cincinnati-cyclones-iowa-heartlanders/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Dallas Stars v Toronto Maple Leafs" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",07:30 - Dallas Stars v Toronto Maple Leafs [Echo] - (19/12/2024)
-https://rr.vipstreams.in/Echo/js/dallas-stars-toronto-maple-leafs-21446/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UMBC v Georgia Tech" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - UMBC v Georgia Tech [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/umbc-vs-georgia-tech-1629415494/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Alabama A&M v UAB" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Alabama A&M v UAB [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/alabama-aandm-vs-uab-1629415495/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Missouri v Oral Roberts (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Missouri v Oral Roberts (W) [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-missourioral-roberts-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Binghamton v Syracuse (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Binghamton v Syracuse (W) [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-binghamtonsyracuse-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="#13 Kansas State v New Mexico State (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - #13 Kansas State v New Mexico State (W) [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-13-kansas-statenew-mexico-state-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Praia Clube v Minas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",07:30 - Praia Clube v Minas [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-praia-clube-minas/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Oriente Petrolero vs Bolivar" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvzJIQvEGLA6Q0vUZAQzIaqeOL8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Football",07:30 - Oriente Petrolero vs Bolivar [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-oriente-petrolero-bolivar/1/playlist.m3u8
-#EXTINF:-1 tvg-name="The Strongest vs San Antonio Bulo Bulo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",07:30 - The Strongest vs San Antonio Bulo Bulo [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-the-strongest-sa-bulo-bulo/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Deportes Tolima vs Atlético Nacional" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBKbWTUiBQheIaSCwhzEEIhNHqIGCyQUsIuYxRhVKHp-KNqct74OmCe4mIQQA.webp" group-title="Football",07:30 - Deportes Tolima vs Atlético Nacional [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-deportes-tolima-atletico-nacional/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Deportes Tolima vs Atlético Nacional" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBKbWTUiBQheIaSCwhzEEIhNHqIGCyQUsIuYxRhVKHp-KNqct74OmCe4mIQQA.webp" group-title="Football",07:30 - Deportes Tolima vs Atlético Nacional [Delta] - (19/12/2024)
-https://rr.vipstreams.in/Delta/js/deportes-tolima-vs-atletico-nacional-324270/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Dallas Stars vs Toronto Maple Leafs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBDUQccIKQheIaSBQgsxw+Z0gSIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey",07:30 - Dallas Stars vs Toronto Maple Leafs [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/dallas-stars-vs-toronto-maple-leafs/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Dallas Stars vs Toronto Maple Leafs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBDUQccIKQheIaSBQgsxw+Z0gSIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey",07:30 - Dallas Stars vs Toronto Maple Leafs [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-toronto-maple-leafs-vs-dallas-stars/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Dallas Stars vs Toronto Maple Leafs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBDUQccIKQheIaSBQgsxw+Z0gSIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey",07:30 - Dallas Stars vs Toronto Maple Leafs [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/toronto-maple-leafs-vs-dallas-stars-1629415478/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Georgia Tech vs UMBC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Georgia Tech vs UMBC [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-umbc-vs-georgia-tech/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UAB vs Alabama A and M" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - UAB vs Alabama A and M [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-alabama-a-m-vs-uab/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UTRGV vs Southern Utah" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - UTRGV vs Southern Utah [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/southern-utah-vs-ut-rio-grande-valley/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UTRGV vs Southern Utah" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - UTRGV vs Southern Utah [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734568200000-southern-utah-vs-ut-rio-grande-valley/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lehigh Valley Phantoms vs Providence Bruins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJDVSIXfywheIAzBARdF8wZIh4LJBSwi5jFGFUoe78o21jP+KzAYO7iYhBAA.webp" group-title="Hockey",07:05 - Lehigh Valley Phantoms vs Providence Bruins [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566700000-lehigh-valley-phantoms-providence-bruins/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rochester Americans vs Syracuse Crunch" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtWBIQ8MEh4AGELxBYQMEBBDXrV6TekskFLCLmMUYVSh5fyjTTEffFZgMC9xMQggA.webp" group-title="Hockey",07:05 - Rochester Americans vs Syracuse Crunch [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566700000-rochester-americans-syracuse-crunch/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Wilkes-Barre Scranton Penguins vs Toronto Marlies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtOwgQDWNpC8QWEDBAR9289JMhpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Hockey",07:05 - Wilkes-Barre Scranton Penguins vs Toronto Marlies [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566700000-wilkes-barre-scranton-toronto-marlies/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Providence Bruins v Lehigh Valley Phantoms" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:00 - Providence Bruins v Lehigh Valley Phantoms [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/providence-bruins-vs-lehigh-valley-phantoms-1629417868/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Independiente de Oliva v Penarol" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Independiente de Oliva v Penarol [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-independiente-de-oliva-penarol/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Toledo v Troy (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Toledo v Troy (W) [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-toledotroy-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Bowling Green v Marquette (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Bowling Green v Marquette (W) [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-bowling-greenmarquette-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="#9 Duke v Wofford (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - #9 Duke v Wofford (W) [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-9-dukewofford-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tennessee Wesleyan v Chattanooga" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Tennessee Wesleyan v Chattanooga [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-tennessee-wesleyan-vs-chattanooga/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Richmond v William & Mary" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Richmond v William & Mary [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-richmond-vs-william-mary/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Regent v Hampton" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Regent v Hampton [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-regent-vs-hampton/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Mount St. Mary's v Long Island University" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Mount St. Mary's v Long Island University [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-mount-st-mary-s-vs-long-island-university/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Indy Fuel v Bloomington Bison" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:00 - Indy Fuel v Bloomington Bison [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-indy-fuel-bloomington-bison/1/playlist.m3u8
-#EXTINF:-1 tvg-name="New York Sirens W v Toronto Sceptres W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:00 - New York Sirens W v Toronto Sceptres W [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/new-york-sirens-w-vs-toronto-sceptres-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="New York Sirens W v Toronto Sceptres W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:00 - New York Sirens W v Toronto Sceptres W [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-new-york-sirens-w-toronto-sceptres-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="American University v Saint Joseph's" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - American University v Saint Joseph's [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/american-university-vs-saint-joseph-s/1/playlist.m3u8
-#EXTINF:-1 tvg-name="American University v Saint Joseph's" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - American University v Saint Joseph's [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-american-university-vs-saint-joseph-s/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Charlotte Checkers vs Springfield Thunderbirds" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH6CkwMGCSbDWEDBAQQFi+eO9NLJBSwi5jFGFUoe78o2pzP+Ky67uJiEEA.webp" group-title="Hockey",07:00 - Charlotte Checkers vs Springfield Thunderbirds [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-charlotte-checkers-springfield-thunderbirds/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Orlando Solar Bears vs Jacksonville IceMen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:00 - Orlando Solar Bears vs Jacksonville IceMen [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-orlando-solar-bears-jacksonville-icemen/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cleveland Monsters vs Utica Comets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnBBy0IcLxD6sIGCAi7zZs0fgskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Hockey",07:00 - Cleveland Monsters vs Utica Comets [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-cleveland-monsters-utica-comets/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Detroit Red Wings vs Philadelphia Flyers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrNnUQ0sCAEheOkChBZj2o+dMkWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Hockey",07:00 - Detroit Red Wings vs Philadelphia Flyers [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/detroit-red-wings-vs-philadelphia-flyers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Detroit Red Wings vs Philadelphia Flyers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrNnUQ0sCAEheOkChBZj2o+dMkWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Hockey",07:00 - Detroit Red Wings vs Philadelphia Flyers [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-philadelphia-flyers-vs-detroit-red-wings/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Detroit Red Wings vs Philadelphia Flyers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrNnUQ0sCAEheOkChBZj2o+dMkWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Hockey",07:00 - Detroit Red Wings vs Philadelphia Flyers [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/philadelphia-flyers-vs-detroit-red-wings-1629415477/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Campbell vs Longwood" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLBImA7iRC8Q0kFhMhqZmOesgWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Basketball",07:00 - Campbell vs Longwood [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-longwood-vs-campbell/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Northern Kentucky vs Detroit" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAggQTecCSwQvENJBYzIaheNbz0lgZgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Basketball",07:00 - Northern Kentucky vs Detroit [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/detroit-mercy-vs-northern-kentucky/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Northern Kentucky vs Detroit" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAggQTecCSwQvENJBYzIaheNbz0lgZgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Basketball",07:00 - Northern Kentucky vs Detroit [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-detroit-mercy-vs-northern-kentucky/1/playlist.m3u8
-#EXTINF:-1 tvg-name="George Washington vs Lafayette" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - George Washington vs Lafayette [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-lafayette-vs-george-washington/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UNC Wilmington vs Florida Gulf Coast" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - UNC Wilmington vs Florida Gulf Coast [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-florida-gulf-coast-vs-unc-wilmington/1/playlist.m3u8
-#EXTINF:-1 tvg-name="South Florida vs Bethune-Cookman" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - South Florida vs Bethune-Cookman [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-bethune-cookman-vs-south-florida/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Queens Royals vs Mercer" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Queens Royals vs Mercer [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-mercer-vs-queens-university/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Virginia vs Memphis" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Virginia vs Memphis [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/21-memphis-vs-virginia/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Virginia vs Memphis" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Virginia vs Memphis [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-21-memphis-vs-virginia/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Temple vs Davidson" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Temple vs Davidson [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-davidson-vs-temple/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Connecticut vs Xavier" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjhQgY8kFukheIA1hCnqZkBYsQQe-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",07:00 - Connecticut vs Xavier [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/xavier-vs-11-uconn/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Connecticut vs Xavier" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjhQgY8kFukheIA1hCnqZkBYsQQe-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",07:00 - Connecticut vs Xavier [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-xavier-vs-11-uconn/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Wagner vs Manhattan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Wagner vs Manhattan [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-manhattan-vs-wagner/1/playlist.m3u8
-#EXTINF:-1 tvg-name="East Tennessee State vs Elon" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtSaVWIaSBIheukFhMhqxkFePwWSClhFzGKMKpQ835RprEf8rMBgbuJiEEA.webp" group-title="Basketball",07:00 - East Tennessee State vs Elon [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-elon-vs-east-tennessee-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UMass vs Northeastern" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - UMass vs Northeastern [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-northeastern-vs-massachusetts/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fairfield vs Central Connecticut State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Fairfield vs Central Connecticut State [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/central-connecticut-vs-fairfield/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fairfield vs Central Connecticut State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Fairfield vs Central Connecticut State [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-central-connecticut-vs-fairfield/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Vermont vs Miami-Ohio" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Vermont vs Miami-Ohio [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-miamivs-vermont/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Wright State vs Youngstown State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWAAGEPyQgYIFLpDSQWcyGqmjNw0fzAkFLCLmMUYVSh5fyjTTEfR3owL3ExCCA.webp" group-title="Basketball",07:00 - Wright State vs Youngstown State [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/youngstown-state-vs-wright-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Wright State vs Youngstown State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWAAGEPyQgYIFLpDSQWcyGqmjNw0fzAkFLCLmMUYVSh5fyjTTEfR3owL3ExCCA.webp" group-title="Basketball",07:00 - Wright State vs Youngstown State [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-youngstown-state-vs-wright-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Indiana State vs Murray State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnBwoQWEIggheIaTtPUzxyyhZIKWEXMYowqlDxflG1OW-ytgYC7iYhBAA.webp" group-title="Basketball",07:00 - Indiana State vs Murray State [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-murray-state-vs-indiana-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Indiana State vs Murray State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnBwoQWEIggheIaTtPUzxyyhZIKWEXMYowqlDxflG1OW-ytgYC7iYhBAA.webp" group-title="Basketball",07:00 - Indiana State vs Murray State [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/murray-state-vs-indiana-state-1629415493/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ohio vs Austin Peay" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Ohio vs Austin Peay [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/austin-peay-vs-ohio/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ohio vs Austin Peay" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Ohio vs Austin Peay [Bravo] - (19/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734566400000-austin-peay-vs-ohio/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Gigantes v Aguilas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",06:30 - Gigantes v Aguilas [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/gigantes-vs-aguilas-1629415483/1/playlist.m3u8
-#EXTINF:-1 tvg-name="James Madison vs Western Kentucky" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",05:30 - James Madison vs Western Kentucky [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/wku-vs-james-madison/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -224,50 +116,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="California v UNLV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",09:00 - California v UNLV [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/california-vs-unlv-1629417870/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Gonzaga vs Nicholls State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - Gonzaga vs Nicholls State [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/nicholls-vs-13-gonzaga/1/playlist.m3u8
-#EXTINF:-1 tvg-name="North Dakota vs Alabama" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - North Dakota vs Alabama [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/6-alabama-vs-north-dakota/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Michigan vs Oklahoma" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - Michigan vs Oklahoma [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/14-oklahoma-vs-24-michigan/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UC Davis vs Idaho" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - UC Davis vs Idaho [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/idaho-vs-uc-davis/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Marquette vs Butler" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiE4hBoOFhC8Q07SeqmjIRPBZIKWEXMYowqlDxflG1OW-ytgYC7iYhBAA.webp" group-title="Basketball",09:00 - Marquette vs Butler [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/butler-vs-9-marquette/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Idaho State vs Utah Valley" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - Idaho State vs Utah Valley [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/utah-valley-vs-idaho-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Arizona vs Samford" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - Arizona vs Samford [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/samford-vs-arizona/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UNLV vs California" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",09:00 - UNLV vs California [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/california-vs-unlv-24/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Minnesota Wild vs Florida Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSgpIIXbt4hpIFCCyGQBszAumWSClhFzG21Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Hockey",09:30 - Minnesota Wild vs Florida Panthers [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/minnesota-wild-vs-florida-panthers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Minnesota Wild vs Florida Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSgpIIXbt4hpIFCCyGQBszAumWSClhFzG21Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Hockey",09:30 - Minnesota Wild vs Florida Panthers [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/florida-panthers-vs-minnesota-wild-1629415479/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Anaheim Ducks v Winnipeg Jets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",10:00 - Anaheim Ducks v Winnipeg Jets [Echo] - (19/12/2024)
-https://rr.vipstreams.in/Echo/js/anaheim-ducks-winnipeg-jets-21448/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Utah Hockey Club vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSRhpYFCDEkQvEFhDUQ0s-ut6Y+llpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Hockey",10:00 - Utah Hockey Club vs Vancouver Canucks [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/utah-hockey-club-vs-vancouver-canucks/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Utah Hockey Club vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSRhpYFCDEkQvEFhDUQ0s-ut6Y+llpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Hockey",10:00 - Utah Hockey Club vs Vancouver Canucks [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/vancouver-canucks-vs-utah-hockey-club-1629415481/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Anaheim Ducks vs Winnipeg Jets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvnHSQvEHsS6sIAyBIgjMECmM6WSClhFzGKMKpQ835RtTkfN9GBu4mIQQA.webp" group-title="Hockey",10:00 - Anaheim Ducks vs Winnipeg Jets [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/anaheim-ducks-vs-winnipeg-jets/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Anaheim Ducks vs Winnipeg Jets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvnHSQvEHsS6sIAyBIgjMECmM6WSClhFzGKMKpQ835RtTkfN9GBu4mIQQA.webp" group-title="Hockey",10:00 - Anaheim Ducks vs Winnipeg Jets [Charlie] - (19/12/2024)
-https://rr.vipstreams.in/Charlie/js/winnipeg-jets-vs-anaheim-ducks-1629415480/1/playlist.m3u8
-#EXTINF:-1 tvg-name="USC vs Cal State-Northridge" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - USC vs Cal State-Northridge [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/csun-vs-usc/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UC Riverside vs Montana State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - UC Riverside vs Montana State [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/montana-state-vs-uc-riverside/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Portland vs Cal State-Bakersfield" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Portland vs Cal State-Bakersfield [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/csu-bakersfield-vs-portland/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Loyola Marymount vs UC-Santa Barbara" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKv36MwIFCGoheIabtN6YIEiCwhbk-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",10:00 - Loyola Marymount vs UC-Santa Barbara [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/uc-santa-barbara-vs-loyola-marymount/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Pacific vs Portland State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Pacific vs Portland State [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/portland-state-vs-pacific/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Washington vs Washington State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmRxIm8jiF4hpILMZCIDBkwekskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Basketball",11:00 - Washington vs Washington State [Alpha] - (19/12/2024)
-https://rr.vipstreams.in/Alpha/js/washington-state-vs-washington/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Closing Ceremony" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",12:30 - Closing Ceremony [Alpha] - (19/12/2024)
 https://rr.vipstreams.in/Alpha/js/closing-ceremony/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nepal Premier League Qualifier 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",13:30 - Nepal Premier League Qualifier 2 [Alpha] - (19/12/2024)
@@ -294,3 +142,27 @@ https://rr.vipstreams.in/Charlie/js/afrasia-bank-mauritius-open-first-round-1629
 https://rr.vipstreams.in/Alpha/js/world-tennis-league-hawks-vs-falcons/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Phoenix Fuelmasters v Converge FiberXers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",16:00 - Phoenix Fuelmasters v Converge FiberXers [Alpha] - (19/12/2024)
 https://rr.vipstreams.in/Alpha/js/phoenix-fuelmasters-vs-converge-fiberxers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="German Master Qualifiers Table 2 - Day 4" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",17:00 - German Master Qualifiers Table 2 - Day 4 [Charlie] - (19/12/2024)
+https://rr.vipstreams.in/Charlie/js/german-master-qualifiers-table-2-day-4-1629417874/1/playlist.m3u8
+#EXTINF:-1 tvg-name="German Master Qualifiers Table 1 - Day 4" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",17:00 - German Master Qualifiers Table 1 - Day 4 [Charlie] - (19/12/2024)
+https://rr.vipstreams.in/Charlie/js/german-master-qualifiers-table-1-day-4-1629417873/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wonju DB v Anyang JungKwanJang" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:00 - Wonju DB v Anyang JungKwanJang [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/wonju-db-vs-anyang-jungkwanjang/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mobis Phoebus v Seoul Thunders" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:00 - Mobis Phoebus v Seoul Thunders [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/mobis-phoebus-vs-seoul-thunders/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Jeddah Day 2 - Match 1,2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",18:00 - Jeddah Day 2 - Match 1,2 [Charlie] - (19/12/2024)
+https://rr.vipstreams.in/Charlie/js/jeddah-day-2-match-12-1629417875/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Vero Volley W v Zamalek W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",18:30 - Vero Volley W v Zamalek W [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/vero-volley-w-vs-zamalek-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Blackwater Bossing v TNT Tropang Giga" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:30 - Blackwater Bossing v TNT Tropang Giga [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/blackwater-bossing-vs-tnt-tropang-giga/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Qingdao v Fujian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Qingdao v Fujian [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/qingdao-vs-fujian/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guangzhou v Zhejiang Guangsha" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Guangzhou v Zhejiang Guangsha [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/guangzhou-vs-zhejiang-guangsha/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Lanka T10 Super League Final" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",19:00 - Lanka T10 Super League Final [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/lanka-t10-super-league-final/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Africa v Pakistan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",19:00 - South Africa v Pakistan [Alpha] - (19/12/2024)
+https://rr.vipstreams.in/Alpha/js/south-africa-vs-pakistan/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Africa v Pakistan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",19:00 - South Africa v Pakistan [Charlie] - (19/12/2024)
+https://rr.vipstreams.in/Charlie/js/south-africa-vs-pakistan-1629415465/1/playlist.m3u8
