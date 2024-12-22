@@ -1,13 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="San Jose State vs Kennesaw State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:30 - San Jose State vs Kennesaw State [Alpha] - (22/12/2024)
+https://rr.vipstreams.in/Alpha/js/23-san-diego-state-vs-california/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Jose State vs Kennesaw State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:30 - San Jose State vs Kennesaw State [Bravo] - (22/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734838200000-kennesaw-state-vs-san-jose-state/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Jose State vs Kennesaw State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:30 - San Jose State vs Kennesaw State [Bravo] - (22/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734838200000-california-vs-23-san-diego-state/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Jose State vs Kennesaw State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:30 - San Jose State vs Kennesaw State [Delta] - (22/12/2024)
+https://rr.vipstreams.in/Delta/js/san-jose-state-vs-kennesaw-state-basketball-411222/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Jose State vs Kennesaw State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:30 - San Jose State vs Kennesaw State [Delta] - (22/12/2024)
+https://rr.vipstreams.in/Delta/js/san-diego-state-vs-california-basketball-428524/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Illawarra Hawks vs Perth Wildcats" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvxQgYIaSEZIQvXSZLaQZvRHPN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Basketball",10:30 - Illawarra Hawks vs Perth Wildcats [Bravo] - (22/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734838200000-illawarra-hawks-perth-wildcats/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Illawarra Hawks vs Perth Wildcats" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvxQgYIaSEZIQvXSZLaQZvRHPN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Basketball",10:30 - Illawarra Hawks vs Perth Wildcats [Delta] - (22/12/2024)
 https://rr.vipstreams.in/Delta/js/illawarra-hawks-vs-perth-basketball-401961/1/playlist.m3u8
-#EXTINF:-1 tvg-name="San Jose State vs Kennesaw State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:30 - San Jose State vs Kennesaw State [Bravo] - (22/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734838200000-kennesaw-state-vs-san-jose-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="San Jose State vs Kennesaw State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:30 - San Jose State vs Kennesaw State [Delta] - (22/12/2024)
-https://rr.vipstreams.in/Delta/js/san-jose-state-vs-kennesaw-state-basketball-411222/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Liverpool v Liverpool" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",10:00 - Liverpool v Liverpool [Echo] - (22/12/2024)
 https://rr.vipstreams.in/Echo/js/liverpool-liverpool-23153/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vancouver Canucks vs Ottawa Senators" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFokQswiD4heOkChBZjR89qPwWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Hockey",10:00 - Vancouver Canucks vs Ottawa Senators [Alpha] - (22/12/2024)
@@ -32,16 +38,6 @@ https://rr.vipstreams.in/Delta/js/vegas-golden-knights-vs-seattle-kraken-hockey-
 https://rr.vipstreams.in/Echo/js/vegas-golden-knights-seattle-kraken-21474/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Alan Crenz v Agustin Chavez" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",09:00 - Alan Crenz v Agustin Chavez [Bravo] - (22/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734832800000-alan-crenz-vs-agustin-chavez/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tokomanawa Queens v Tauranga Whai" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - Tokomanawa Queens v Tauranga Whai [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/tokomanawa-queens-vs-tauranga-whai/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ontario Reign vs Coachella Valley Firebirds" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEQgJsMEhC8QWEDBAQQFi+eOmSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Hockey",09:00 - Ontario Reign vs Coachella Valley Firebirds [Delta] - (22/12/2024)
-https://rr.vipstreams.in/Delta/js/ontario-reign-vs-coachella-valley-firebirds-hockey-373683/1/playlist.m3u8
-#EXTINF:-1 tvg-name="San Jose Barracuda vs Bakersfield Condors" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvQ4oaYJKBC8QWEDBAQQFi+ekhqFlkgpYRcxttUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Hockey",09:00 - San Jose Barracuda vs Bakersfield Condors [Delta] - (22/12/2024)
-https://rr.vipstreams.in/Delta/js/san-jose-barracuda-vs-bakersfield-condors-hockey-373684/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ohio State vs Tennessee" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:00 - Ohio State vs Tennessee [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/tennessee-9-vs-ohio-state-8/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ohio State vs Tennessee" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:00 - Ohio State vs Tennessee [Charlie] - (22/12/2024)
-https://rr.vipstreams.in/Charlie/js/tennessee-vs-ohio-state-1629418095/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -66,51 +62,451 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-f1-sky-f1/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/nascar-racehub/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NHL Network
 https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
-#EXTINF:-1 tvg-name="SNF: Sunday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",SNF: Sunday Night Football
-https://rr.vipstreams.in/Alpha/js/snf-sunday-night-football/1/playlist.m3u8
-#EXTINF:-1 tvg-name="TNF: Thursday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",TNF: Thursday Night Football
-https://rr.vipstreams.in/Alpha/js/tnf-thursday-night-football/1/playlist.m3u8
 #EXTINF:-1 tvg-name="MNF: Monday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",MNF: Monday Night Football
 https://rr.vipstreams.in/Alpha/js/mnf-monday-night-football/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NFL RedZone
-https://rr.vipstreams.in/Alpha/js/nfl-redzone/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NFL Network
 https://rr.vipstreams.in/Alpha/js/nfl-network/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NFL Network
+https://rr.vipstreams.in/Alpha/js/nfl-redzone/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NFL Network
+https://rr.vipstreams.in/Alpha/js/tnf-thursday-night-football/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN
 https://rr.vipstreams.in/Alpha/js/espn/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN
+https://rr.vipstreams.in/Alpha/js/snf-sunday-night-football/1/playlist.m3u8
 #EXTINF:-1 tvg-name="MUTV | Manchester United TV | MUFC TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",MUTV | Manchester United TV | MUFC TV
 https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Saturday Social" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Saturday Social
-https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
 https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
+https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="KCC Egis v KoGas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",12:00 - KCC Egis v KoGas [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/kcc-egis-vs-kogas/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Anyang JungKwanJang v LG Sakers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",12:00 - Anyang JungKwanJang v LG Sakers [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/anyang-jungkwanjang-vs-lg-sakers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Alpha/js/castellon-vs-elche/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Alpha/js/kaiserslautern-vs-fc-cologne/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Alpha/js/fc-volendam-vs-de-graafschap/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Alpha/js/verl-vs-vfl-osnabruck/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Alpha/js/vfl-wolfsburg-vs-borussia-dortmund/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Alpha/js/fc-utrecht-vs-fortuna-sittard/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Alpha/js/union-saint-jean-fc-vs-as-monaco/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Alpha/js/heart-of-midlothian-vs-st-johnstone/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Alpha/js/vfl-bochum-vs-1-fc-heidenheim-1846/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Charlie/js/vfl-wolfsburg-vs-borussia-dortmund-19154677/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Charlie/js/vitoria-sc-vs-nacional-19160634/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Charlie/js/fc-utrecht-vs-fortuna-sittard-19136658/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Delta/js/castellon-vs-elche-football-1217721/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Delta/js/1-fc-kaiserslautern-vs-1fc-koln-football-1226315/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Delta/js/vfl-wolfsburg-vs-borussia-dortmund-football-1224107/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Delta/js/heart-of-midlothian-vs-st-johnstone-football-1220214/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Delta/js/vfl-bochum-vs-1-fc-heidenheim-football-1224108/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Echo/js/fc-kaiserslautern-fc-koln-20875/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Echo/js/vfl-bochum-fc-heidenheim-20844/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Echo/js/vfl-wolfsburg-borussia-dortmund-20838/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Foxtrot/js/altrincham-vs-fc-halifax-town-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Foxtrot/js/shrewsbury-vs-lincoln-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Foxtrot/js/bolton-vs-lincoln-202412291430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Foxtrot/js/vfl-bochum-vs-fc-heidenheim-202412202330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Foxtrot/js/vfl-wolfsburg-vs-borussia-dortmund-202412221600/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Foxtrot/js/afc-fylde-vs-rochdale-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Foxtrot/js/asa-vs-confianca-202412291930/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Foxtrot/js/ac-milan-vs-as-roma-202412291915/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Cascavel vs Maringá" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",FC Cascavel vs Maringá
+https://rr.vipstreams.in/Foxtrot/js/udinese-vs-torino-202412291100/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Alpha/js/corum-vs-ankaragucu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Alpha/js/keciorengucu-vs-karagumruk/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Alpha/js/petrolul-ploiesti-vs-unirea-slobozia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Alpha/js/real-betis-vs-rayo-vallecano/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Alpha/js/cfr-cluj-napoca-vs-otelul-galati/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Alpha/js/santa-clara-vs-braga/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Alpha/js/saint-etienne-vs-marseille/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Alpha/js/panserraikos-fc-vs-panetolikos/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Alpha/js/barcelona-b-vs-ath-bilbao-b/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Alpha/js/al-ahly-vs-cr-belouizdad/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Charlie/js/real-betis-vs-rayo-vallecano-19135420/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Charlie/js/santa-clara-vs-sporting-braga-19160629/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Charlie/js/saint-etienne-vs-olympique-marseille-19334587/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Charlie/js/al-ahly-vs-cr-belouizdad-19319984/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Delta/js/real-betis-vs-rayo-vallecano-football-1208647/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Delta/js/santa-clara-vs-sc-braga-football-1231856/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Delta/js/panserraikos-vs-panetolikos-football-1250613/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Delta/js/saint-etienne-vs-marseille-football-1318802/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Delta/js/al-ahly-vs-cr-belouizdad-football-1310899/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Echo/js/santa-clara-sc-braga-20903/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Foxtrot/js/bolton-vs-barnsley-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Foxtrot/js/barnet-vs-sutton-utd-202412261430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Foxtrot/js/saint-etienne-vs-marseille-202412221315/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Foxtrot/js/gateshead-vs-hartlepool-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Foxtrot/js/leyton-orient-vs-crawley-town-202412261245/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Foxtrot/js/western-united-vs-brisbane-roar-202412290545/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Foxtrot/js/western-united-w-vs-brisbane-roar-fc-w-202412290815/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Foxtrot/js/as-roma-vs-parma-202412221100/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Arenas Club vs Eibar B" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Arenas Club vs Eibar B
+https://rr.vipstreams.in/Foxtrot/js/botafogo-pb-vs-serra-branca-202412301730/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Salamanca UDS vs Marino de Luanco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Salamanca UDS vs Marino de Luanco
+https://rr.vipstreams.in/Alpha/js/deportivo-la-coruna-vs-mirandes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Salamanca UDS vs Marino de Luanco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Salamanca UDS vs Marino de Luanco
+https://rr.vipstreams.in/Charlie/js/ud-oliveirense-vs-uniao-de-leiria-19160325/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Salamanca UDS vs Marino de Luanco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Salamanca UDS vs Marino de Luanco
+https://rr.vipstreams.in/Delta/js/oliveirense-vs-uniao-de-leiria-football-1231552/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Salamanca UDS vs Marino de Luanco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Salamanca UDS vs Marino de Luanco
+https://rr.vipstreams.in/Delta/js/deportivo-la-coruna-vs-mirandes-football-1217722/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Salamanca UDS vs Marino de Luanco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Salamanca UDS vs Marino de Luanco
+https://rr.vipstreams.in/Foxtrot/js/charlton-vs-cambridge-united-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Salamanca UDS vs Marino de Luanco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Salamanca UDS vs Marino de Luanco
+https://rr.vipstreams.in/Foxtrot/js/leyton-orient-vs-cambridge-united-202412291430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Salamanca UDS vs Marino de Luanco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Salamanca UDS vs Marino de Luanco
+https://rr.vipstreams.in/Foxtrot/js/adelaide-united-vs-western-sydney-wanderers-202412270820/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Salamanca UDS vs Marino de Luanco" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Salamanca UDS vs Marino de Luanco
+https://rr.vipstreams.in/Foxtrot/js/adelaide-united-w-vs-western-sydney-wanderers-w-202412270520/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/racing-genk-vs-anderlecht/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/iraq-vs-yemen/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/trabzonspor-vs-bodrumspor/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/lokeren-temse-vs-beveren/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/torreense-vs-penafiel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/herediano-vs-alajuelense/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/monza-vs-juventus/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/juve-stabia-vs-cesena/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/cremonese-vs-sampdoria/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/mannheim-vs-arminia-bielefeld/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/psv-eindhoven-vs-feyenoord-rotterdam/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/willem-ii-vs-nec-nijmegen/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/valencia-vs-alaves/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/burgos-vs-tenerife/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/everton-vs-chelsea/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/venezia-vs-cagliari/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/guingamp-vs-caen/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/thionville-vs-valenciennes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/atalanta-vs-empoli/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/leganes-vs-villarreal/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/almeria-vs-cadiz/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/racing-santander-vs-eldense/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/zamora-vs-arenteiro/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/levante-vs-huesca/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/lens-vs-paris-saint-germain/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/ssv-jahn-regensburg-vs-sv-darmstadt-98/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/r-sociedad-b-vs-ourense-cf/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/az-alkmaar-w-vs-twente-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/jedinstvo-u-vs-tekstilac-odzaci/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/manchester-united-vs-afc-bournemouth/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/crvena-zvezda-vs-cukaricki/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/panathinaikos-vs-athens-kallithea/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/marmande-vs-le-mans/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/benfica-b-vs-felgueiras/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/sittard-w-vs-den-haag-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/central-coast-mariners-w-vs-western-united-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/gaziantep-vs-antalyaspor/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/erokspor-vs-bandirmaspor/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Alpha/js/kayserispor-vs-galatasaray/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/genk-vs-anderlecht-19131423/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/iraq-vs-yemen-19327486/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/trabzonspor-vs-bodrumspor-19172158/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/inter-vs-como-19155231/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/torreense-vs-penafiel-19160323/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/monza-vs-juventus-19155233/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/psv-vs-feyenoord-19136661/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/juve-stabia-vs-cesena-19167833/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/cremonese-vs-sampdoria-19167832/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/valencia-vs-deportivo-alaves-19135428/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/bordeaux-vs-rennes-19334605/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/union-saint-jean-vs-monaco-19334586/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/everton-vs-chelsea-19134892/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/venezia-vs-cagliari-19155236/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/vfl-bochum-1848-vs-heidenheim-19154678/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/guingamp-vs-caen-19334608/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/atalanta-vs-empoli-19155227/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/leganes-vs-villarreal-19135425/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/lens-vs-paris-saint-germain-19334603/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/levante-vs-huesca-19144887/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/benfica-vs-estoril-19160635/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/manchester-united-vs-afc-bournemouth-19134896/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/macarthur-vs-central-coast-mariners-19238349/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/central-coast-mariners-w-vs-western-united-w-19309264/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Charlie/js/kayserispor-vs-galatasaray-19172157/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/genk-vs-anderlecht-football-1213346/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/torreense-vs-penafiel-football-1231550/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/monza-vs-juventus-football-1223761/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/psv-eindhoven-vs-feyenoord-football-1213590/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/juve-stabia-vs-cesena-football-1234805/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/cremonese-vs-sampdoria-football-1234804/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/willem-ii-vs-nec-nijmegen-football-1213593/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/valencia-vs-alaves-football-1208655/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/burgos-vs-tenerife-football-1217720/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/union-saint-jean-vs-monaco-football-1318801/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/bordeaux-vs-rennes-football-1318805/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/everton-vs-chelsea-football-1208186/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/venezia-vs-cagliari-football-1223764/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/standard-liege-vs-gent-football-1213347/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/thionville-lusitanos-vs-valenciennes-football-1318807/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/guingamp-vs-caen-football-1318811/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/atalanta-vs-empoli-football-1223755/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/leganes-vs-villarreal-football-1208652/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/almeria-vs-cadiz-football-1217719/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/racing-santander-vs-eldense-football-1217726/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/levante-vs-huesca-football-1217728/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/lens-vs-paris-saint-germain-football-1318812/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/ssv-jahn-regensburg-vs-sv-darmstadt-98-football-1226317/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/venados-fc-vs-fc-juarez-football-1325652/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/manchester-united-vs-bournemouth-football-1208190/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/marmande-vs-le-mans-football-1318810/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/benfica-b-vs-felgueiras-1932-football-1231554/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/central-coast-mariners-w-vs-western-united-w-football-1305051/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Delta/js/kayserispor-vs-galatasaray-football-1237996/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Echo/js/jahn-regensburg-sv-darmstadt-98-20873/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Echo/js/everton-chelsea-20851/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Echo/js/valencia-alaves-20913/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Echo/js/venezia-cagliari-20909/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Echo/js/atalanta-empoli-20910/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Echo/js/leganes-villarreal-20915/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Echo/js/manchester-united-bournemouth-20849/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/aldershot-town-vs-woking-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/monza-vs-juventus-202412221915-1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/psv-eindhoven-vs-feyenoord-202412221300/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/stevenage-vs-wycombe-202412261430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/stevenage-vs-bristol-rovers-202412291430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/northampton-vs-stevenage-202501011430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/peterborough-vs-mansfield-town-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/central-coast-mariners-vs-melbourne-city-202412310730/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/central-coast-mariners-w-vs-melbourne-city-w-202412310445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/willem-ii-vs-nec-nijmegen-202412221515/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/willem-ii-vs-nec-nijmegen-202412221515-1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/tamworth-vs-forest-green-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/valencia-vs-alaves-202412212345/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/bordeaux-vs-rennes-202412221315/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/union-saint-jean-vs-monaco-202412221315/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/everton-vs-chelsea-202412221330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/venezia-vs-cagliari-202412221330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/guingamp-vs-caen-202412221600/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/atalanta-vs-empoli-202412221630/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/leon-vs-tepatitlan-202412262330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/parma-vs-monza-202412281330-1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/napoli-vs-venezia-202412291330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/peterborough-vs-barnsley-202412291430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/juventus-vs-fiorentina-202412291630/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/bologna-vs-verona-202412301915/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/burton-albion-vs-peterborough-202501011430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/manchester-united-vs-bournemouth-202412211430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/yeovil-town-vs-eastleigh-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/exeter-city-vs-bristol-rovers-202412261430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/sydney-vs-melbourne-victory-202412280820/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/reading-vs-mansfield-town-202412291430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/exeter-city-vs-crawley-town-202412291430/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/auckland-vs-melbourne-victory-202501010330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/macarthur-vs-central-coast-mariners-202412230745/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/dagenham-redbridge-vs-braintree-202412261445/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/sydney-fc-w-vs-melbourne-victory-w-202412280520/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/central-coast-mariners-vs-auckland-202412280545/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/melbourne-city-w-vs-wellington-phoenix-w-202412280530/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/central-coast-mariners-w-vs-western-united-w-202412220530/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Iğdır vs Yeni Malatyaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Iğdır vs Yeni Malatyaspor
+https://rr.vipstreams.in/Foxtrot/js/perth-glory-fc-w-vs-central-coast-mariners-w-202412270830/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AfrAsia Bank Mauritius Open, Final Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",13:00 - AfrAsia Bank Mauritius Open, Final Round [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/afrasia-bank-mauritius-open-final-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AfrAsia Bank Mauritius Open, Final Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",13:00 - AfrAsia Bank Mauritius Open, Final Round [Charlie] - (22/12/2024)
 https://rr.vipstreams.in/Charlie/js/afrasia-bank-mauritius-open-final-round-1629418103/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Central Coast Mariners W v Western United W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",13:00 - Central Coast Mariners W v Western United W [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/central-coast-mariners-w-vs-western-united-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Central Coast Mariners W v Western United W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",13:00 - Central Coast Mariners W v Western United W [Charlie] - (22/12/2024)
-https://rr.vipstreams.in/Charlie/js/central-coast-mariners-w-vs-western-united-w-19309264/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Central Coast Mariners W v Western United W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",13:00 - Central Coast Mariners W v Western United W [Delta] - (22/12/2024)
-https://rr.vipstreams.in/Delta/js/central-coast-mariners-w-vs-western-united-w-football-1305051/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Central Coast Mariners W v Western United W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",13:00 - Central Coast Mariners W v Western United W [Foxtrot] - (22/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/central-coast-mariners-w-vs-western-united-w-202412220530/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Western Sydney Wanderers FC vs Wellington Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH4aUTMCAGaQWEDBMhEp6oePwWSClhFzGKMKp0c35RtTk78rMBgbuJiEEA.webp" group-title="Football",13:00 - Western Sydney Wanderers FC vs Wellington Phoenix [Alpha] - (22/12/2024)
+#EXTINF:-1 tvg-name="Central Coast Mariners Women vs Western United FC Women" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkgSIFAkogYIXiCyHziI9RCWbLJBSwi5jPapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Football",13:00 - Central Coast Mariners Women vs Western United FC Women [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/western-sydney-wanderers-vs-wellington-phoenix-fc/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Western Sydney Wanderers FC vs Wellington Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH4aUTMCAGaQWEDBMhEp6oePwWSClhFzGKMKp0c35RtTk78rMBgbuJiEEA.webp" group-title="Football",13:00 - Western Sydney Wanderers FC vs Wellington Phoenix [Charlie] - (22/12/2024)
+#EXTINF:-1 tvg-name="Central Coast Mariners Women vs Western United FC Women" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkgSIFAkogYIXiCyHziI9RCWbLJBSwi5jPapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Football",13:00 - Central Coast Mariners Women vs Western United FC Women [Charlie] - (22/12/2024)
 https://rr.vipstreams.in/Charlie/js/western-sydney-wanderers-vs-wellington-phoenix-19238348/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Western Sydney Wanderers FC vs Wellington Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH4aUTMCAGaQWEDBMhEp6oePwWSClhFzGKMKp0c35RtTk78rMBgbuJiEEA.webp" group-title="Football",13:00 - Western Sydney Wanderers FC vs Wellington Phoenix [Delta] - (22/12/2024)
+#EXTINF:-1 tvg-name="Central Coast Mariners Women vs Western United FC Women" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkgSIFAkogYIXiCyHziI9RCWbLJBSwi5jPapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Football",13:00 - Central Coast Mariners Women vs Western United FC Women [Delta] - (22/12/2024)
 https://rr.vipstreams.in/Delta/js/western-sydney-wanderers-vs-wellington-phoenix-football-1280720/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Western Sydney Wanderers FC vs Wellington Phoenix" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH4aUTMCAGaQWEDBMhEp6oePwWSClhFzGKMKp0c35RtTk78rMBgbuJiEEA.webp" group-title="Football",13:00 - Western Sydney Wanderers FC vs Wellington Phoenix [Foxtrot] - (22/12/2024)
+#EXTINF:-1 tvg-name="Central Coast Mariners Women vs Western United FC Women" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkgSIFAkogYIXiCyHziI9RCWbLJBSwi5jPapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Football",13:00 - Central Coast Mariners Women vs Western United FC Women [Foxtrot] - (22/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/western-sydney-wanderers-vs-wellington-phoenix-202412220545/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Yokohama Canon Eagles vs Toshiba Brave Lupus Tokyo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Rugby",13:05 - Yokohama Canon Eagles vs Toshiba Brave Lupus Tokyo [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/yokohama-canon-eagles-vs-toshiba-bravelupus-tokyo/1/playlist.m3u8
@@ -118,14 +514,14 @@ https://rr.vipstreams.in/Alpha/js/yokohama-canon-eagles-vs-toshiba-bravelupus-to
 https://rr.vipstreams.in/Charlie/js/ecs-malta-2024-or-day-20-or-10-nov-2024-or-1629418104/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wonju DB v Suwon KT" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",14:00 - Wonju DB v Suwon KT [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/wonju-db-vs-suwon-kt/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Heat v Strikers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:00 - Heat v Strikers [Charlie] - (22/12/2024)
-https://rr.vipstreams.in/Charlie/js/heat-vs-strikers-1629418105/1/playlist.m3u8
 #EXTINF:-1 tvg-name="India W v West Indies W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:00 - India W v West Indies W [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/india-w-vs-west-indies-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="India W v West Indies W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:00 - India W v West Indies W [Charlie] - (22/12/2024)
 https://rr.vipstreams.in/Charlie/js/india-women-vs-west-indies-women-1629418106/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Brisbane Heat vs Adelaide Strikers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvGx9uJEHt4gsIRBBC6YIaSAMGSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Cricket",15:15 - Brisbane Heat vs Adelaide Strikers [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/brisbane-heat-vs-adelaide-strikers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Brisbane Heat vs Adelaide Strikers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvGx9uJEHt4gsIRBBC6YIaSAMGSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Cricket",15:15 - Brisbane Heat vs Adelaide Strikers [Charlie] - (22/12/2024)
+https://rr.vipstreams.in/Charlie/js/heat-vs-strikers-1629418105/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PSIS Semarang vs Malut United" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",15:30 - PSIS Semarang vs Malut United [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/psis-semarang-vs-malut-united/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PSM Makassar vs PS Barito Putera" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqGrBpYEA0gheIaSBQgYILKZCIjZ5vmBIKWEXMYowqlDy-lGWmI+jvRgXuJiEEA.webp" group-title="Football",15:30 - PSM Makassar vs PS Barito Putera [Alpha] - (22/12/2024)
@@ -140,50 +536,36 @@ https://rr.vipstreams.in/Charlie/js/world-open-2025-qualifiers-table-1-day-3-162
 https://rr.vipstreams.in/Charlie/js/barcelona-finals-day-4-1629418107/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rugby Africa Cup Repechage Pool A Day 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Rugby",17:00 - Rugby Africa Cup Repechage Pool A Day 2 [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/rugby-africa-cup-repechage-pool-a-day-2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Karsiyaka v Manisa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:00 - Karsiyaka v Manisa [Alpha] - (22/12/2024)
+#EXTINF:-1 tvg-name="Karşıyaka Basket vs Manisa BB" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:00 - Karşıyaka Basket vs Manisa BB [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/karsiyaka-vs-manisa/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Petrolul vs Unirea Slobozia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdklggxtFHxC8QWENRAwzFw6cQwWmmAJFzGKMKr0c35RtTl78rMBgbuJiEEA.webp" group-title="Football",17:30 - Petrolul vs Unirea Slobozia [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/petrolul-ploiesti-vs-unirea-slobozia/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Gaziantep FK vs Antalyaspor" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoxQgtUFDRC8Q07SBghq5kBBNZtLJBSwi5msKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",17:30 - Gaziantep FK vs Antalyaspor [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/gaziantep-vs-antalyaspor/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Gaziantep FK vs Antalyaspor" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoxQgtUFDRC8Q07SBghq5kBBNZtLJBSwi5msKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",17:30 - Gaziantep FK vs Antalyaspor [Delta] - (22/12/2024)
 https://rr.vipstreams.in/Delta/js/gazisehir-gaziantep-vs-antalyaspor-football-1238000/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Keçiörengücü vs Karagumruk" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmSQ1gSECjAoQvEFhDUzFxKYggbi-DopYRcxvtUoeYMvCLU5ng70YN7iYhBAA.webp" group-title="Football",17:30 - Keçiörengücü vs Karagumruk [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/keciorengucu-vs-karagumruk/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Albergaria/Durit W v SL Benfica W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",18:00 - Albergaria/Durit W v SL Benfica W [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/albergaria-durit-w-vs-sl-benfica-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="F.C. Paços de Ferreira vs Alverca" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEb9C9KBBC8QWENRAwQJEImOnLWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",18:00 - F.C. Paços de Ferreira vs Alverca [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/pacos-ferreira-vs-alverca/1/playlist.m3u8
 #EXTINF:-1 tvg-name="F.C. Paços de Ferreira vs Alverca" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEb9C9KBBC8QWENRAwQJEImOnLWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",18:00 - F.C. Paços de Ferreira vs Alverca [Charlie] - (22/12/2024)
 https://rr.vipstreams.in/Charlie/js/pacos-de-ferreira-vs-alverca-19160322/1/playlist.m3u8
 #EXTINF:-1 tvg-name="F.C. Paços de Ferreira vs Alverca" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEb9C9KBBC8QWENRAwQJEImOnLWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",18:00 - F.C. Paços de Ferreira vs Alverca [Delta] - (22/12/2024)
 https://rr.vipstreams.in/Delta/js/pacos-ferreira-vs-alverca-football-1231549/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Sociedad B vs Ourense" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBBkSIFOKQheILCGpaQ03SGsoQmkiyQUsIuYxRhVejp-KNqcnr4rMBgnuJiEEA.webp" group-title="Football",18:00 - Real Sociedad B vs Ourense [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/r-sociedad-b-vs-ourense-cf/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sittard W v Den Haag W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",18:15 - Sittard W v Den Haag W [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/sittard-w-vs-den-haag-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="AZ Alkmaar W v Twente W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",18:15 - AZ Alkmaar W v Twente W [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/az-alkmaar-w-vs-twente-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sparta vs Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNqJqIFJRC8Q0kCV0nzOrCBgGWSClhFzGKMKr0c35RtTl78rMBgbuJiEEA.webp" group-title="Football",18:15 - Sparta vs Ajax [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/sparta-rotterdam-vs-ajax-amsterdam/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sparta vs Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNqJqIFJRC8Q0kCV0nzOrCBgGWSClhFzGKMKr0c35RtTl78rMBgbuJiEEA.webp" group-title="Football",18:15 - Sparta vs Ajax [Alpha] - (22/12/2024)
+https://rr.vipstreams.in/Alpha/js/as-roma-vs-parma/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sparta vs Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNqJqIFJRC8Q0kCV0nzOrCBgGWSClhFzGKMKr0c35RtTl78rMBgbuJiEEA.webp" group-title="Football",18:15 - Sparta vs Ajax [Alpha] - (22/12/2024)
+https://rr.vipstreams.in/Alpha/js/albergaria-durit-w-vs-sl-benfica-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sparta vs Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNqJqIFJRC8Q0kCV0nzOrCBgGWSClhFzGKMKr0c35RtTl78rMBgbuJiEEA.webp" group-title="Football",18:15 - Sparta vs Ajax [Charlie] - (22/12/2024)
 https://rr.vipstreams.in/Charlie/js/sparta-rotterdam-vs-ajax-19136663/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sparta vs Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNqJqIFJRC8Q0kCV0nzOrCBgGWSClhFzGKMKr0c35RtTl78rMBgbuJiEEA.webp" group-title="Football",18:15 - Sparta vs Ajax [Charlie] - (22/12/2024)
+https://rr.vipstreams.in/Charlie/js/roma-vs-parma-19155234/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sparta vs Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNqJqIFJRC8Q0kCV0nzOrCBgGWSClhFzGKMKr0c35RtTl78rMBgbuJiEEA.webp" group-title="Football",18:15 - Sparta vs Ajax [Delta] - (22/12/2024)
 https://rr.vipstreams.in/Delta/js/sparta-rotterdam-vs-ajax-football-1213592/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sparta vs Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNqJqIFJRC8Q0kCV0nzOrCBgGWSClhFzGKMKr0c35RtTl78rMBgbuJiEEA.webp" group-title="Football",18:15 - Sparta vs Ajax [Delta] - (22/12/2024)
+https://rr.vipstreams.in/Delta/js/as-roma-vs-parma-football-1223762/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sparta vs Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNqJqIFJRC8Q0kCV0nzOrCBgGWSClhFzGKMKr0c35RtTl78rMBgbuJiEEA.webp" group-title="Football",18:15 - Sparta vs Ajax [Echo] - (22/12/2024)
+https://rr.vipstreams.in/Echo/js/as-roma-parma-20908/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sparta vs Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrNqJqIFJRC8Q0kCV0nzOrCBgGWSClhFzGKMKr0c35RtTl78rMBgbuJiEEA.webp" group-title="Football",18:15 - Sparta vs Ajax [Foxtrot] - (22/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/sparta-rotterdam-vs-ajax-202412221045/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hong Kong Eastern v San Miguel Beermen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:30 - Hong Kong Eastern v San Miguel Beermen [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/hong-kong-eastern-vs-san-miguel-beermen/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Roma vs Parma Calcio 1913" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhCCUIGFvkheWkNV2HjJEFc3SWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",18:30 - Roma vs Parma Calcio 1913 [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/as-roma-vs-parma/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Roma vs Parma Calcio 1913" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhCCUIGFvkheWkNV2HjJEFc3SWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",18:30 - Roma vs Parma Calcio 1913 [Charlie] - (22/12/2024)
-https://rr.vipstreams.in/Charlie/js/roma-vs-parma-19155234/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Roma vs Parma Calcio 1913" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhCCUIGFvkheWkNV2HjJEFc3SWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",18:30 - Roma vs Parma Calcio 1913 [Delta] - (22/12/2024)
-https://rr.vipstreams.in/Delta/js/as-roma-vs-parma-football-1223762/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Roma vs Parma Calcio 1913" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhCCUIGFvkheWkNV2HjJEFc3SWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",18:30 - Roma vs Parma Calcio 1913 [Echo] - (22/12/2024)
-https://rr.vipstreams.in/Echo/js/as-roma-parma-20908/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Roma vs Parma Calcio 1913" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhCCUIGFvkheWkNV2HjJEFc3SWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",18:30 - Roma vs Parma Calcio 1913 [Foxtrot] - (22/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/as-roma-vs-parma-202412221100/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Baskonia vs Baloncesto Málaga" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEFYQKMPzIkQvTSETGQpkBAuXJ+YEgpYRcxrtUoeYMvCLU5nvb0YN7iYhBAA.webp" group-title="Basketball",18:30 - Baskonia vs Baloncesto Málaga [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/baskonia-vs-unicaja/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Básquet Coruña vs Joventut Badalona" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE0xK3FAhC8QWEIkObEETSZAwWSClhFzGe1Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Basketball",18:30 - Básquet Coruña vs Joventut Badalona [Alpha] - (22/12/2024)
@@ -198,22 +580,18 @@ https://rr.vipstreams.in/Charlie/js/south-africa-vs-pakistan-1629418110/1/playli
 https://rr.vipstreams.in/Alpha/js/xinjiang-vs-shanxi-zhongyu/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Persib Bandung vs Persita" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihDSQY9sEgheILCGohNZxCe2bpLJBSwi5jFGFUoe78o2pzP+Kz67uJiEEA.webp" group-title="Football",19:00 - Persib Bandung vs Persita [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/persib-vs-persita-tangerang/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Dundee United vs Celtic" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijDSwKELu28QhrCGogY5oyBIhb+lkgpYRcxptUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Football",19:00 - Dundee United vs Celtic [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/dundee-united-vs-celtic/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Dundee United vs Celtic" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijDSwKELu28QhrCGogY5oyBIhb+lkgpYRcxptUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Football",19:00 - Dundee United vs Celtic [Charlie] - (22/12/2024)
-https://rr.vipstreams.in/Charlie/js/dundee-united-vs-celtic-19146800/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Dundee United vs Celtic" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijDSwKELu28QhrCGogY5oyBIhb+lkgpYRcxptUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Football",19:00 - Dundee United vs Celtic [Delta] - (22/12/2024)
 https://rr.vipstreams.in/Delta/js/dundee-utd-vs-celtic-football-1220213/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Jedinstvo Ub vs Tekstilac Odžaci" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkhEggAysQh3iCwhqZkCRAoQxiCHuL8wJBSwi5jFGFUoeP8kZqOT9nejAfcTEIIA.webp" group-title="Football",19:00 - Jedinstvo Ub vs Tekstilac Odžaci [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/jedinstvo-u-vs-tekstilac-odzaci/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Buriram United vs Muangthong United" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:00 - Buriram United vs Muangthong United [Alpha] - (22/12/2024)
+https://rr.vipstreams.in/Alpha/js/dundee-united-vs-celtic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Buriram United vs Muangthong United" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:00 - Buriram United vs Muangthong United [Charlie] - (22/12/2024)
+https://rr.vipstreams.in/Charlie/js/dundee-united-vs-celtic-19146800/1/playlist.m3u8
 #EXTINF:-1 tvg-name="CB Gran Canaria vs Basket Zaragoza" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdik5heICCFpYQOw4h0gQiPedMskFLCLmMUYVZo6vyjanM35WwGCu4mIQQA.webp" group-title="Basketball",19:00 - CB Gran Canaria vs Basket Zaragoza [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/gran-canaria-vs-basket-zaragoza/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - PDC World Darts Championship [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/pdc-world-darts-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="2 Bundesliga Konferenz" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - 2 Bundesliga Konferenz [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/2-bundesliga-konferenz/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Buyukcekmece v Bursaspor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",19:30 - Buyukcekmece v Bursaspor [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/buyukcekmece-vs-bursaspor/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hannover vs Hertha" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGohGOeGDIoQvEFk1mSIQ8YshLLJBSwi5jFPo4oe+8o2pzP+KzAYO6MYhBAA.webp" group-title="Football",19:30 - Hannover vs Hertha [Alpha] - (22/12/2024)
 https://rr.vipstreams.in/Alpha/js/hannover-96-vs-hertha-berlin/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hannover vs Hertha" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGohGOeGDIoQvEFk1mSIQ8YshLLJBSwi5jFPo4oe+8o2pzP+KzAYO6MYhBAA.webp" group-title="Football",19:30 - Hannover vs Hertha [Charlie] - (22/12/2024)
@@ -222,25 +600,21 @@ https://rr.vipstreams.in/Charlie/js/hannover-96-vs-hertha-bsc-19154979/1/playlis
 https://rr.vipstreams.in/Delta/js/hannover-96-vs-hertha-bsc-football-1226311/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hannover vs Hertha" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGohGOeGDIoQvEFk1mSIQ8YshLLJBSwi5jFPo4oe+8o2pzP+KzAYO6MYhBAA.webp" group-title="Football",19:30 - Hannover vs Hertha [Echo] - (22/12/2024)
 https://rr.vipstreams.in/Echo/js/hannover-96-hertha-berlin-20870/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kaiserslautern vs FC Köln" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvDBJoZMSRC8QWENRMh9KA+ZCXm+YNpgCRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",19:30 - Kaiserslautern vs FC Köln [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/kaiserslautern-vs-fc-cologne/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kaiserslautern vs FC Köln" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvDBJoZMSRC8QWENRMh9KA+ZCXm+YNpgCRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",19:30 - Kaiserslautern vs FC Köln [Delta] - (22/12/2024)
-https://rr.vipstreams.in/Delta/js/1-fc-kaiserslautern-vs-1fc-koln-football-1226315/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kaiserslautern vs FC Köln" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvDBJoZMSRC8QWENRMh9KA+ZCXm+YNpgCRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",19:30 - Kaiserslautern vs FC Köln [Echo] - (22/12/2024)
-https://rr.vipstreams.in/Echo/js/fc-kaiserslautern-fc-koln-20875/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Jahn Regensburg vs Darmstadt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiGDS6IWrxD6su4yRAoDIU+fgskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",19:30 - Jahn Regensburg vs Darmstadt [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/ssv-jahn-regensburg-vs-sv-darmstadt-98/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Jahn Regensburg vs Darmstadt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiGDS6IWrxD6su4yRAoDIU+fgskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",19:30 - Jahn Regensburg vs Darmstadt [Delta] - (22/12/2024)
-https://rr.vipstreams.in/Delta/js/ssv-jahn-regensburg-vs-sv-darmstadt-98-football-1226317/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Jahn Regensburg vs Darmstadt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiGDS6IWrxD6su4yRAoDIU+fgskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",19:30 - Jahn Regensburg vs Darmstadt [Echo] - (22/12/2024)
-https://rr.vipstreams.in/Echo/js/jahn-regensburg-sv-darmstadt-98-20873/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Waldhof Mannheim vs Arminia Bielefeld" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Waldhof Mannheim vs Arminia Bielefeld [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/mannheim-vs-arminia-bielefeld/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Genk vs Anderlecht" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYwSELXgIQh3iGkgSJkDBBYQiY+ZQskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Football",19:30 - Genk vs Anderlecht [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/racing-genk-vs-anderlecht/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Genk vs Anderlecht" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYwSELXgIQh3iGkgSJkDBBYQiY+ZQskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Football",19:30 - Genk vs Anderlecht [Charlie] - (22/12/2024)
-https://rr.vipstreams.in/Charlie/js/genk-vs-anderlecht-19131423/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Genk vs Anderlecht" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYwSELXgIQh3iGkgSJkDBBYQiY+ZQskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Football",19:30 - Genk vs Anderlecht [Delta] - (22/12/2024)
-https://rr.vipstreams.in/Delta/js/genk-vs-anderlecht-football-1213346/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lokeren vs Waasland-Beveren" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiCbQkPAAwheILAZCnqRkNJAkQMEM3zAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp" group-title="Football",19:30 - Lokeren vs Waasland-Beveren [Alpha] - (22/12/2024)
-https://rr.vipstreams.in/Alpha/js/lokeren-temse-vs-beveren/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Büyükçekmece Basketbol vs Bursaspor Basketbol" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",19:30 - Büyükçekmece Basketbol vs Bursaspor Basketbol [Alpha] - (22/12/2024)
+https://rr.vipstreams.in/Alpha/js/buyukcekmece-vs-bursaspor/1/playlist.m3u8
+#EXTINF:-1 tvg-name="World Tennis League: Falcons v Hawks" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:00 - World Tennis League: Falcons v Hawks [Alpha] - (22/12/2024)
+https://rr.vipstreams.in/Alpha/js/world-tennis-league-falcons-vs-hawks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Premier League Live" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Premier League Live [Alpha] - (22/12/2024)
+https://rr.vipstreams.in/Alpha/js/premier-league-live/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kayserispor vs Galatasaray" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijAgQWENJCMADCF56QKEDBDVrB83cX5gSClhFzGm1Sh5gy8Imo5Hyd6MD9xMQggA.webp" group-title="Football",20:00 - Kayserispor vs Galatasaray [Alpha] - (22/12/2024)
+https://rr.vipstreams.in/Alpha/js/goztepe-vs-rizespor/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kayserispor vs Galatasaray" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijAgQWENJCMADCF56QKEDBDVrB83cX5gSClhFzGm1Sh5gy8Imo5Hyd6MD9xMQggA.webp" group-title="Football",20:00 - Kayserispor vs Galatasaray [Delta] - (22/12/2024)
+https://rr.vipstreams.in/Delta/js/goztepe-vs-rizespor-football-1238001/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gelbison vs Olbia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Gelbison vs Olbia [Alpha] - (22/12/2024)
+https://rr.vipstreams.in/Alpha/js/boluspor-vs-kocaelispor/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Eisbären Berlin vs ERC Ingolstadt" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijC8QiMiGAAGENukgUICCFNYQNmMbMskFLCLmNNqlDzBl4RajlvfFZgMF9xMQggA.webp" group-title="Hockey",20:00 - Eisbären Berlin vs ERC Ingolstadt [Delta] - (22/12/2024)
+https://rr.vipstreams.in/Delta/js/eisbaren-berlin-vs-erc-ingolstadt-hockey-372823/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Grizzly Wolfsburg vs Frankfurt Lowen" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmPg0QKpiF4hpIFCAiGQWcyerGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Hockey",20:00 - Grizzly Wolfsburg vs Frankfurt Lowen [Delta] - (22/12/2024)
+https://rr.vipstreams.in/Delta/js/grizzly-wolfsburg-vs-frankfurt-lowen-hockey-372824/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dusseldorf vs Augsburger Panther" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiRAo5IHol4hpWkBEMgsZlOZCT8wJBSwi5jFGFXaO78o2pztdvRg7uJiEEA.webp" group-title="Hockey",20:00 - Dusseldorf vs Augsburger Panther [Delta] - (22/12/2024)
+https://rr.vipstreams.in/Delta/js/dusseldorf-vs-augsburger-panther-hockey-372822/1/playlist.m3u8
