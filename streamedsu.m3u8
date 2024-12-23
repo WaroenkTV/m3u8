@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Bielsko-Biala W v Budowlani Lodz W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Bielsko-Biala W v Budowlani Lodz W [Bravo] - (23/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734971400000-bielsko-biala-w-budowlani-lodz-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ironi Kiryat Ata v Galil Elyon" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Ironi Kiryat Ata v Galil Elyon [Bravo] - (23/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734971400000-ironi-kiryat-ata-galil-elyon/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dynamo Moscow vs Ak Bars Kazan" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoKQMQJENWBgQvENJAoQiU4nPmsJlkgpYRcxijCqUPD+Ub6xXvisBh7iYhBAA.webp" group-title="Hockey",23:30 - Dynamo Moscow vs Ak Bars Kazan [Bravo] - (23/12/2024)
+https://rr.vipstreams.in/Bravo/js/1734971400000-dynamo-moscow-ak-bars-kazan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Merkezefendi v Anadolu Efes" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Merkezefendi v Anadolu Efes [Bravo] - (23/12/2024)
 https://rr.vipstreams.in/Bravo/js/1734969600000-merkezefendi-anadolu-efes/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Mornar Bar v Zadar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Mornar Bar v Zadar [Bravo] - (23/12/2024)
@@ -30,14 +36,6 @@ https://rr.vipstreams.in/Bravo/js/1734967800000-siauliai-zalgiris-kaunas/1/playl
 https://rr.vipstreams.in/Bravo/js/1734966000000-uta-arad-fc-botosani/1/playlist.m3u8
 #EXTINF:-1 tvg-name="2024-25 paddy power world darts championship day nine" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:09 - 2024-25 paddy power world darts championship day nine [Charlie] - (23/12/2024)
 https://rr.vipstreams.in/Charlie/js/2024-25-paddy-power-world-darts-championship-day-nine-1629418938/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Salavat Ufa v Khabarovsk" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",21:00 - Salavat Ufa v Khabarovsk [Bravo] - (23/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734962400000-salavat-ufa-khabarovsk/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Metallurg Magnitogorsk vs Avangard Omsk" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnHD1G+YNJC8Q+lCET6IIGCGqmQJFkgpYRcxijCqUPD+UbU5Xrr0YB7iYhBAA.webp" group-title="Hockey",21:00 - Metallurg Magnitogorsk vs Avangard Omsk [Bravo] - (23/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734962400000-magnitogorsk-avangard-omsk/1/playlist.m3u8
-#EXTINF:-1 tvg-name="World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:40 - World Darts Championship [Bravo] - (23/12/2024)
-https://rr.vipstreams.in/Bravo/js/1734957600000-world-darts-championship/1/playlist.m3u8
-#EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - PDC World Darts Championship [Alpha] - (23/12/2024)
-https://rr.vipstreams.in/Alpha/js/pdc-world-darts-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -282,3 +280,27 @@ https://rr.vipstreams.in/Alpha/js/charlotte-hornets-vs-houston-rockets/1/playlis
 https://rr.vipstreams.in/Charlie/js/houston-rockets-vs-charlotte-hornets-1629416051/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Charlotte Hornets v Houston Rockets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Charlotte Hornets v Houston Rockets [Echo] - (24/12/2024)
 https://rr.vipstreams.in/Echo/js/charlotte-hornets-houston-rockets-19782/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Islanders v Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - New York Islanders v Buffalo Sabres [Alpha] - (24/12/2024)
+https://rr.vipstreams.in/Alpha/js/new-york-islanders-vs-buffalo-sabres/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Islanders v Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - New York Islanders v Buffalo Sabres [Charlie] - (24/12/2024)
+https://rr.vipstreams.in/Charlie/js/buffalo-sabres-vs-new-york-islanders-1629416072/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Islanders v Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - New York Islanders v Buffalo Sabres [Echo] - (24/12/2024)
+https://rr.vipstreams.in/Echo/js/new-york-islanders-buffalo-sabres-21487/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Knicks v Toronto Raptors" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - New York Knicks v Toronto Raptors [Alpha] - (24/12/2024)
+https://rr.vipstreams.in/Alpha/js/new-york-knicks-vs-toronto-raptors/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Knicks v Toronto Raptors" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - New York Knicks v Toronto Raptors [Charlie] - (24/12/2024)
+https://rr.vipstreams.in/Charlie/js/toronto-raptors-vs-new-york-knicks-1629416057/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Knicks v Toronto Raptors" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - New York Knicks v Toronto Raptors [Echo] - (24/12/2024)
+https://rr.vipstreams.in/Echo/js/new-york-knicks-toronto-raptors-19786/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Heat v Brooklyn Nets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Miami Heat v Brooklyn Nets [Alpha] - (24/12/2024)
+https://rr.vipstreams.in/Alpha/js/miami-heat-vs-brooklyn-nets/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Heat v Brooklyn Nets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Miami Heat v Brooklyn Nets [Charlie] - (24/12/2024)
+https://rr.vipstreams.in/Charlie/js/brooklyn-nets-vs-miami-heat-1629416056/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami Heat v Brooklyn Nets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Miami Heat v Brooklyn Nets [Echo] - (24/12/2024)
+https://rr.vipstreams.in/Echo/js/miami-heat-brooklyn-nets-19787/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atlanta Hawks v Minnesota Timberwolves" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Atlanta Hawks v Minnesota Timberwolves [Alpha] - (24/12/2024)
+https://rr.vipstreams.in/Alpha/js/atlanta-hawks-vs-minnesota-timberwolves/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atlanta Hawks v Minnesota Timberwolves" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Atlanta Hawks v Minnesota Timberwolves [Charlie] - (24/12/2024)
+https://rr.vipstreams.in/Charlie/js/minnesota-timberwolves-vs-atlanta-hawks-1629416055/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atlanta Hawks v Minnesota Timberwolves" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Atlanta Hawks v Minnesota Timberwolves [Echo] - (24/12/2024)
+https://rr.vipstreams.in/Echo/js/atlanta-hawks-minnesota-timberwolves-19788/1/playlist.m3u8
