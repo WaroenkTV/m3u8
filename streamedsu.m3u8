@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Elitzur Shomron v Ironi Eilat" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Elitzur Shomron v Ironi Eilat [Bravo] - (25/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735059600000-elitzur-shomron-ironi-eilat/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cherepovets v Niznekamsk" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Cherepovets v Niznekamsk [Bravo] - (24/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735057800000-cherepovets-niznekamsk/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Studentski Centar v Danilovgrad" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",22:30 - Studentski Centar v Danilovgrad [Bravo] - (24/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735054200000-studentski-centar-danilovgrad/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -32,8 +26,6 @@ https://rr.vipstreams.in/Alpha/js/nascar-racehub/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="SNF: Sunday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",SNF: Sunday Night Football
 https://rr.vipstreams.in/Alpha/js/snf-sunday-night-football/1/playlist.m3u8
-#EXTINF:-1 tvg-name="HC Lada Togliatti vs HC Sochi" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBjAkwAAxgk2eSF4gsIRBBAlNIFCCs2SLQ1qwi5jFGFUoeP8kZqOT98VmAwH3ExCCA.webp" group-title="Hockey",22:00 - HC Lada Togliatti vs HC Sochi [Bravo] - (24/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735052400000-hc-lada-hc-sochi/1/playlist.m3u8
 #EXTINF:-1 tvg-name="TNF: Thursday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",TNF: Thursday Night Football
 https://rr.vipstreams.in/Alpha/js/tnf-thursday-night-football/1/playlist.m3u8
 #EXTINF:-1 tvg-name="MNF: Monday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",MNF: Monday Night Football
@@ -54,12 +46,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates v Kuwait" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:30 - United Arab Emirates v Kuwait [Alpha] - (25/12/2024)
-https://rr.vipstreams.in/Alpha/js/united-arab-emirates-vs-kuwait/1/playlist.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates v Kuwait" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:30 - United Arab Emirates v Kuwait [Charlie] - (25/12/2024)
-https://rr.vipstreams.in/Charlie/js/united-arab-emirates-vs-kuwait-19327483/1/playlist.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates v Kuwait" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:30 - United Arab Emirates v Kuwait [Delta] - (25/12/2024)
-https://rr.vipstreams.in/Delta/js/united-arab-emirates-vs-kuwait-football-1315396/1/playlist.m3u8
 #EXTINF:-1 tvg-name="SFT 19 Pt 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",07:00 - SFT 19 Pt 1 [Charlie] - (25/12/2024)
 https://rr.vipstreams.in/Charlie/js/sft-19-pt-1-1629418787/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WWE NXT" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",08:00 - WWE NXT [Alpha] - (25/12/2024)
