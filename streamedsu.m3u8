@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Elitzur Shomron v Ironi Eilat" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Elitzur Shomron v Ironi Eilat [Bravo] - (25/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735059600000-elitzur-shomron-ironi-eilat/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cherepovets v Niznekamsk" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Cherepovets v Niznekamsk [Bravo] - (24/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735057800000-cherepovets-niznekamsk/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Studentski Centar v Danilovgrad" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",22:30 - Studentski Centar v Danilovgrad [Bravo] - (24/12/2024)
@@ -30,14 +32,10 @@ https://rr.vipstreams.in/Alpha/js/nascar-racehub/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="SNF: Sunday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",SNF: Sunday Night Football
 https://rr.vipstreams.in/Alpha/js/snf-sunday-night-football/1/playlist.m3u8
-#EXTINF:-1 tvg-name="TNF: Thursday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",TNF: Thursday Night Football
-https://rr.vipstreams.in/Alpha/js/tnf-thursday-night-football/1/playlist.m3u8
-#EXTINF:-1 tvg-name="LALIGA World" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - LALIGA World [Alpha] - (24/12/2024)
-https://rr.vipstreams.in/Alpha/js/laliga-world/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FC Masr vs ENPPI" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:00 - FC Masr vs ENPPI [Bravo] - (24/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735052400000-zed-enppi/1/playlist.m3u8
 #EXTINF:-1 tvg-name="HC Lada Togliatti vs HC Sochi" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBjAkwAAxgk2eSF4gsIRBBAlNIFCCs2SLQ1qwi5jFGFUoeP8kZqOT98VmAwH3ExCCA.webp" group-title="Hockey",22:00 - HC Lada Togliatti vs HC Sochi [Bravo] - (24/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735052400000-hc-lada-hc-sochi/1/playlist.m3u8
+#EXTINF:-1 tvg-name="TNF: Thursday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",TNF: Thursday Night Football
+https://rr.vipstreams.in/Alpha/js/tnf-thursday-night-football/1/playlist.m3u8
 #EXTINF:-1 tvg-name="MNF: Monday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",MNF: Monday Night Football
 https://rr.vipstreams.in/Alpha/js/mnf-monday-night-football/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NFL RedZone
@@ -64,3 +62,9 @@ https://rr.vipstreams.in/Charlie/js/united-arab-emirates-vs-kuwait-19327483/1/pl
 https://rr.vipstreams.in/Delta/js/united-arab-emirates-vs-kuwait-football-1315396/1/playlist.m3u8
 #EXTINF:-1 tvg-name="SFT 19 Pt 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",07:00 - SFT 19 Pt 1 [Charlie] - (25/12/2024)
 https://rr.vipstreams.in/Charlie/js/sft-19-pt-1-1629418787/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE NXT" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",08:00 - WWE NXT [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/wwe-nxt/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Florida v San Jose State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:00 - South Florida v San Jose State [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/south-florida-vs-san-jose-state/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Florida v San Jose State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:00 - South Florida v San Jose State [Charlie] - (25/12/2024)
+https://rr.vipstreams.in/Charlie/js/south-florida-vs-san-jose-state-1629418788/1/playlist.m3u8
