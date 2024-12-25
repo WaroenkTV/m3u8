@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="San Jose State vs South Florida" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:00 - San Jose State vs South Florida [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/south-florida-vs-san-jose-state/1/playlist.m3u8
+#EXTINF:-1 tvg-name="San Jose State vs South Florida" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:00 - San Jose State vs South Florida [Delta] - (25/12/2024)
+https://rr.vipstreams.in/Delta/js/san-jose-state-vs-south-florida-american-football-14341/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -46,15 +50,35 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="SFT 19 Pt 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",07:00 - SFT 19 Pt 1 [Charlie] - (25/12/2024)
-https://rr.vipstreams.in/Charlie/js/sft-19-pt-1-1629418787/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WWE NXT" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",08:00 - WWE NXT [Alpha] - (25/12/2024)
-https://rr.vipstreams.in/Alpha/js/wwe-nxt/1/playlist.m3u8
-#EXTINF:-1 tvg-name="South Florida v San Jose State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:00 - South Florida v San Jose State [Alpha] - (25/12/2024)
-https://rr.vipstreams.in/Alpha/js/south-florida-vs-san-jose-state/1/playlist.m3u8
-#EXTINF:-1 tvg-name="South Florida v San Jose State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:00 - South Florida v San Jose State [Charlie] - (25/12/2024)
-https://rr.vipstreams.in/Charlie/js/south-florida-vs-san-jose-state-1629418788/1/playlist.m3u8
 #EXTINF:-1 tvg-name="KCC Egis v Anyang JungKwanJang" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",12:00 - KCC Egis v Anyang JungKwanJang [Alpha] - (25/12/2024)
 https://rr.vipstreams.in/Alpha/js/kcc-egis-vs-anyang-jungkwanjang/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Goyang Sono v Wonju DB" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",12:00 - Goyang Sono v Wonju DB [Alpha] - (25/12/2024)
 https://rr.vipstreams.in/Alpha/js/goyang-sono-vs-wonju-db/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Seoul Knights v Seoul Thunders" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",14:00 - Seoul Knights v Seoul Thunders [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/seoul-knights-vs-seoul-thunders/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tasmania JackJumpers vs New Zealand Breakers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhBwk8sClgheIacZAktZ04hQgULJBSwi5jfapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Basketball",14:00 - Tasmania JackJumpers vs New Zealand Breakers [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/tasmania-jackjumpers-vs-new-zealand-breakers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tasmania JackJumpers vs New Zealand Breakers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhBwk8sClgheIacZAktZ04hQgULJBSwi5jfapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Basketball",14:00 - Tasmania JackJumpers vs New Zealand Breakers [Delta] - (25/12/2024)
+https://rr.vipstreams.in/Delta/js/tasmania-jackjumpers-vs-new-zealand-breakers-basketball-401965/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Meralco Bolts v Converge FiberXers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",16:00 - Meralco Bolts v Converge FiberXers [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/meralco-bolts-vs-converge-fiberxers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sydney Kings vs Illawarra Hawks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEEp5fELOkhee4yRAwQpgxBDUQi-MCQUsIuYxRhV2jp-KNqctoO9GCe4mIQQA.webp" group-title="Basketball",16:30 - Sydney Kings vs Illawarra Hawks [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/sydney-vs-illawarra-hawks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sydney Kings vs Illawarra Hawks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEEp5fELOkhee4yRAwQpgxBDUQi-MCQUsIuYxRhV2jp-KNqctoO9GCe4mIQQA.webp" group-title="Basketball",16:30 - Sydney Kings vs Illawarra Hawks [Delta] - (25/12/2024)
+https://rr.vipstreams.in/Delta/js/sydney-vs-illawarra-hawks-basketball-401964/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ryukyu v New Taipei Kings" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:40 - Ryukyu v New Taipei Kings [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/ryukyu-vs-new-taipei-kings/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Barangay Ginebra San Miguel v Magnolia Hotshots" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:30 - Barangay Ginebra San Miguel v Magnolia Hotshots [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/barangay-ginebra-san-miguel-vs-magnolia-hotshots/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Shanghai v Fujian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Shanghai v Fujian [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/shanghai-vs-fujian/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Shandong v Beijing" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Shandong v Beijing [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/shandong-vs-beijing/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Qingdao v Tianjin" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Qingdao v Tianjin [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/qingdao-vs-tianjin/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Jiangsu Dragons v Ningbo Rockets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Jiangsu Dragons v Ningbo Rockets [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/jiangsu-dragons-vs-ningbo-rockets/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guangdong v Zhejiang Chouzhou" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Guangdong v Zhejiang Chouzhou [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/guangdong-vs-zhejiang-chouzhou/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Taoyuan Pauian Pilots v Hiroshima D" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",19:10 - Taoyuan Pauian Pilots v Hiroshima D [Alpha] - (25/12/2024)
+https://rr.vipstreams.in/Alpha/js/taoyuan-pauian-pilots-vs-hiroshima-d/1/playlist.m3u8
