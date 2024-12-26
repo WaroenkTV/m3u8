@@ -60,8 +60,6 @@ https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Scorchers v Heat" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",17:00 - Scorchers v Heat [Charlie] - (26/12/2024)
 https://rr.vipstreams.in/Charlie/js/scorchers-vs-heat-1629417947/1/playlist.m3u8
-#EXTINF:-1 tvg-name="KoGas v LG Sakers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:00 - KoGas v LG Sakers [Alpha] - (26/12/2024)
-https://rr.vipstreams.in/Alpha/js/kogas-vs-lg-sakers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth Scorchers vs Brisbane Heat" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkhAoQYiCEFoQvfSBhGtOkNXN6SLJBSwi5jFGFUoe78o2pzP+KzAYO7iukA.webp" group-title="Cricket",17:15 - Perth Scorchers vs Brisbane Heat [Alpha] - (26/12/2024)
 https://rr.vipstreams.in/Alpha/js/perth-scorchers-vs-brisbane-heat/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pisa vs Sassuolo" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuGkh+YgAxgU2kFhDUQMYyCskQiQ1hZIKD9qPEowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Football",18:30 - Pisa vs Sassuolo [Alpha] - (26/12/2024)
@@ -506,3 +504,25 @@ https://rr.vipstreams.in/Alpha/js/bonn-vs-wurzburg/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/vero-monza-vs-civitanova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="LALIGA Show" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - LALIGA Show [Alpha] - (26/12/2024)
 https://rr.vipstreams.in/Alpha/js/laliga-show/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Scandicci v Firenze" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Scandicci v Firenze [Alpha] - (27/12/2024)
+https://rr.vipstreams.in/Alpha/js/scandicci-vs-firenze/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Perugia v Modena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Perugia v Modena [Alpha] - (27/12/2024)
+https://rr.vipstreams.in/Alpha/js/perugia-vs-modena/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Slovakia U20 v Sweden U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:00 - Slovakia U20 v Sweden U20 [Alpha] - (27/12/2024)
+https://rr.vipstreams.in/Alpha/js/slovakia-u20-vs-sweden-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rostock v Hamburg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Rostock v Hamburg [Alpha] - (27/12/2024)
+https://rr.vipstreams.in/Alpha/js/rostock-vs-hamburg/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Palermo vs Bari" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKr0ggUIRtO0heILCGogYxkFZIhEO6SyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",00:00 - Palermo vs Bari [Alpha] - (27/12/2024)
+https://rr.vipstreams.in/Alpha/js/palermo-vs-bari/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Palermo vs Bari" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKr0ggUIRtO0heILCGogYxkFZIhEO6SyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",00:00 - Palermo vs Bari [Charlie] - (27/12/2024)
+https://rr.vipstreams.in/Charlie/js/palermo-vs-bari-1908-19167842/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Palermo vs Bari" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKr0ggUIRtO0heILCGogYxkFZIhEO6SyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",00:00 - Palermo vs Bari [Delta] - (27/12/2024)
+https://rr.vipstreams.in/Delta/js/palermo-vs-bari-football-1234814/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kometa Brno vs Oceláři Třinec" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:00 - Kometa Brno vs Oceláři Třinec [Alpha] - (27/12/2024)
+https://rr.vipstreams.in/Alpha/js/kometa-brno-vs-trinec/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ludwigsburg vs Frankfurt Skyliners" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKim7Sw4avJC8QWENRAoQiU4ZIgIJlkgpYRcxijCrNHD+UZ6xmviswGAe4mIQQA.webp" group-title="Basketball",00:00 - Ludwigsburg vs Frankfurt Skyliners [Alpha] - (27/12/2024)
+https://rr.vipstreams.in/Alpha/js/ludwigsburg-vs-frankfurt/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dragons vs Cardiff Rugby" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH5g+AkNWBhNIacZCJzesyBIgYLJBSwi5jFGFUoe78o31jP+KwG7uJiEEA.webp" group-title="Rugby",00:15 - Dragons vs Cardiff Rugby [Alpha] - (27/12/2024)
+https://rr.vipstreams.in/Alpha/js/dragons-vs-cardiff-rugby/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dragons vs Cardiff Rugby" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH5g+AkNWBhNIacZCJzesyBIgYLJBSwi5jFGFUoe78o31jP+KwG7uJiEEA.webp" group-title="Rugby",00:15 - Dragons vs Cardiff Rugby [Charlie] - (27/12/2024)
+https://rr.vipstreams.in/Charlie/js/dragons-rfc-vs-cardiff-rugby-1629418948/1/playlist.m3u8
