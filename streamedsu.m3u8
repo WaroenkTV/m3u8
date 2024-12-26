@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Villach vs HC Pustertal Wölfe" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDIpKIfrxARdIaSBQHNIaiCwhbN+CyQUsIuYxRhV2jp-KNqctr4rMBgnuJiEEA.webp" group-title="Hockey",23:30 - Villach vs HC Pustertal Wölfe [Bravo] - (26/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735230600000-villach-val-pusteria/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Steinbach Black Wings 1992 vs Fehervar AV19" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlhDV5xRgAYQvENJAoQEECS0hNIc+ZZIKWEXMYowqlD0-lG2sW98VmAwT3ExCCA.webp" group-title="Hockey",23:30 - Steinbach Black Wings 1992 vs Fehervar AV19 [Bravo] - (26/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735230600000-black-wings-linz-fehervar-av19/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Śląsk Wrocław vs Anwil" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Śląsk Wrocław vs Anwil [Bravo] - (26/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735230600000-slask-wroclaw-anwil-wloclawek/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Padova v Taranto" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:00 - Padova v Taranto [Bravo] - (26/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735228800000-padova-taranto/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vallefoglia W v Perugia W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:00 - Vallefoglia W v Perugia W [Bravo] - (26/12/2024)
@@ -378,18 +384,12 @@ https://rr.vipstreams.in/Bravo/js/1735222500000-frolunda-gothenburg-linkoping/1/
 https://rr.vipstreams.in/Bravo/js/1735222500000-hv71-jonkoping-lulea-hockey/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Malmö Redhawks vs Växjö Lakers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhD9EZECCxaQ0kChAQQJE1cSJJ+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Hockey",21:15 - Malmö Redhawks vs Växjö Lakers [Bravo] - (26/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735222500000-malmo-vaxjo-lakers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fribourg-Gotteron v Dynamo Pardubice" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",21:10 - Fribourg-Gotteron v Dynamo Pardubice [Bravo] - (26/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735222200000-fribourg-gotteron-dynamo-pardubice/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Yekaterinburg v Tractor Chelyabinsk" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",21:00 - Yekaterinburg v Tractor Chelyabinsk [Bravo] - (26/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735221600000-yekaterinburg-tractor-chelyabinsk/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Angelo Pena v Gisu Lee" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",21:00 - Angelo Pena v Gisu Lee [Alpha] - (26/12/2024)
 https://rr.vipstreams.in/Alpha/js/angelo-pena-vs-gisu-lee/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Angelo Pena v Gisu Lee" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",21:00 - Angelo Pena v Gisu Lee [Alpha] - (26/12/2024)
 https://rr.vipstreams.in/Alpha/js/ovw-live-1324/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Angelo Pena v Gisu Lee" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",21:00 - Angelo Pena v Gisu Lee [Charlie] - (26/12/2024)
 https://rr.vipstreams.in/Charlie/js/angelo-pena-vs-gisu-lee-1629418946/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Nove Zamky vs Nitra" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",21:00 - Nove Zamky vs Nitra [Bravo] - (26/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735221600000-nove-zamky-hk-nitra/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -602,3 +602,11 @@ https://rr.vipstreams.in/Alpha/js/indiana-pacers-vs-oklahoma-city-thunder/1/play
 https://rr.vipstreams.in/Charlie/js/oklahoma-city-thunder-vs-indiana-pacers-1629417955/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Indiana Pacers v Oklahoma City Thunder" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Indiana Pacers v Oklahoma City Thunder [Echo] - (27/12/2024)
 https://rr.vipstreams.in/Echo/js/indiana-pacers-oklahoma-city-thunder-19801/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Finland U20 v Canada U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - Finland U20 v Canada U20 [Alpha] - (27/12/2024)
+https://rr.vipstreams.in/Alpha/js/finland-u20-vs-canada-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atlanta Hawks v Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Atlanta Hawks v Chicago Bulls [Alpha] - (27/12/2024)
+https://rr.vipstreams.in/Alpha/js/atlanta-hawks-vs-chicago-bulls/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atlanta Hawks v Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Atlanta Hawks v Chicago Bulls [Charlie] - (27/12/2024)
+https://rr.vipstreams.in/Charlie/js/chicago-bulls-vs-atlanta-hawks-1629417958/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atlanta Hawks v Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Atlanta Hawks v Chicago Bulls [Echo] - (27/12/2024)
+https://rr.vipstreams.in/Echo/js/atlanta-hawks-chicago-bulls-19804/1/playlist.m3u8
