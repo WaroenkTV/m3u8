@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Bedzin v Norwid Czestochowa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Bedzin v Norwid Czestochowa [Bravo] - (28/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735403400000-bedzin-norwid-czestochowa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tychy v Katowice" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Tychy v Katowice [Bravo] - (28/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735403400000-tychy-katowice/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nizhny Novgorod v Barys Astana" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Nizhny Novgorod v Barys Astana [Bravo] - (28/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735403400000-nizhny-novgorod-barys-astana/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Trefl Sopot v Gornik Walbrzych" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Trefl Sopot v Gornik Walbrzych [Bravo] - (28/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735403400000-trefl-sopot-gornik-walbrzych/1/playlist.m3u8
+#EXTINF:-1 tvg-name="HC TWK Innsbruck vs Villach" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnBjcxABhoheIaSBQgIIEiGogsIO5ZQskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Hockey",23:30 - HC TWK Innsbruck vs Villach [Bravo] - (28/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735403400000-twk-innsbruck-villach/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fehervar AV19 vs Vienna Capitals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBC8EIVXy0hpIFCAi6Q1EFk03j+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Hockey",23:30 - Fehervar AV19 vs Vienna Capitals [Bravo] - (28/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735403400000-fehervar-av19-vienna-capitals/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Zvolen vs HC05 Banská Bystrica" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Zvolen vs HC05 Banská Bystrica [Bravo] - (28/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735403400000-zvolen-ban-bystrica/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nürnberg Ice Tigers vs EHC Red Bull München" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF7Zig+mE0hpIFCAiGQWCyBghqplkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Hockey",23:15 - Nürnberg Ice Tigers vs EHC Red Bull München [Bravo] - (28/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735402500000-nurnberg-ice-tigers-red-bull-munchen/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nürnberg Ice Tigers vs EHC Red Bull München" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF7Zig+mE0hpIFCAiGQWCyBghqplkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Hockey",23:15 - Nürnberg Ice Tigers vs EHC Red Bull München [Delta] - (28/12/2024)
@@ -106,16 +120,6 @@ https://rr.vipstreams.in/Bravo/js/1735398000000-comet-narvik/1/playlist.m3u8
 https://rr.vipstreams.in/Bravo/js/1735398000000-slovan-liberec-hc-litvinov/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Jonava v Neptunas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",21:50 - Jonava v Neptunas [Bravo] - (28/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735397400000-jonava-neptunas/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Iraq v Saudi Arabia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:30 - Iraq v Saudi Arabia [Charlie] - (28/12/2024)
-https://rr.vipstreams.in/Charlie/js/iraq-vs-saudi-arabia-19327490/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Iraq v Saudi Arabia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:30 - Iraq v Saudi Arabia [Delta] - (28/12/2024)
-https://rr.vipstreams.in/Delta/js/iraq-vs-saudi-arabia-football-1315401/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Bahrain v Yemen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:30 - Bahrain v Yemen [Charlie] - (28/12/2024)
-https://rr.vipstreams.in/Charlie/js/bahrain-vs-yemen-19327491/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Bahrain v Yemen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:30 - Bahrain v Yemen [Delta] - (28/12/2024)
-https://rr.vipstreams.in/Delta/js/bahrain-vs-yemen-football-1315402/1/playlist.m3u8
-#EXTINF:-1 tvg-name="GTK Gliwice vs Legia Warszawa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",21:30 - GTK Gliwice vs Legia Warszawa [Bravo] - (28/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735396200000-gtk-gliwice-legia-warsaw/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Timra v Orebro" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",21:15 - Timra v Orebro [Bravo] - (28/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735395300000-timra-orebro/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Växjö Lakers vs Brynäs IF" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvywgxSMGRAheIacZCIIhkBYsxjLXTAEi5jFHo4oee8o2pzP+KzAYO6MYhBAA.webp" group-title="Hockey",21:15 - Växjö Lakers vs Brynäs IF [Bravo] - (28/12/2024)
@@ -124,24 +128,14 @@ https://rr.vipstreams.in/Bravo/js/1735395300000-vaxjo-lakers-brynas/1/playlist.m
 https://rr.vipstreams.in/Bravo/js/1735395300000-linkoping-hv71-jonkoping/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Dynamo Pardubice v Karpat Oulu" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",21:10 - Dynamo Pardubice v Karpat Oulu [Bravo] - (28/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735395000000-dynamo-pardubice-karpat-oulu/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Yekaterinburg v Magnitogorsk" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",21:00 - Yekaterinburg v Magnitogorsk [Bravo] - (28/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735394400000-yekaterinburg-magnitogorsk/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Salavat Ufa v Cherepovets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",21:00 - Salavat Ufa v Cherepovets [Bravo] - (28/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735394400000-salavat-ufa-cherepovets/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Parma Calcio 1913 vs Monza" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvXhgUNTthC8QWENRAwDRkCRA2b8FkgpYRcxjtUoeYMlsbU5nviswGDe4mIQQA.webp" group-title="Football",21:00 - Parma Calcio 1913 vs Monza [Foxtrot] - (28/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/parma-vs-monza-202412281330-1/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Parma Calcio 1913 vs Monza" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvXhgUNTthC8QWENRAwDRkCRA2b8FkgpYRcxjtUoeYMlsbU5nviswGDe4mIQQA.webp" group-title="Football",21:00 - Parma Calcio 1913 vs Monza [Foxtrot] - (28/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/parma-vs-monza-202412281330/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Empoli vs Genoa" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKokZJgsniF4gsIaiBj7DIEiGvWYLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",21:00 - Empoli vs Genoa [Foxtrot] - (28/12/2024)
 https://rr.vipstreams.in/Foxtrot/js/empoli-vs-genoa-202412281330/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Nitra vs Slovan Bratislava" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",21:00 - Nitra vs Slovan Bratislava [Bravo] - (28/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735394400000-hk-nitra-slovan-bratislava/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Lublin v Barkom" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",20:45 - Lublin v Barkom [Bravo] - (28/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735393500000-lublin-barkom/1/playlist.m3u8
-#EXTINF:-1 tvg-name="World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - World Darts Championship [Bravo] - (28/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735389000000-world-darts-championship/1/playlist.m3u8
-#EXTINF:-1 tvg-name="World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - World Darts Championship [Charlie] - (28/12/2024)
-https://rr.vipstreams.in/Charlie/js/202425-paddy-power-world-darts-championship-day-11-1629419552/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Morehead State v Alice Loyd" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Morehead State v Alice Loyd [Delta] - (29/12/2024)
 https://rr.vipstreams.in/Delta/js/morehead-state-vs-alice-loyd-basketball-428580/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Boston College v Nebraska" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",00:00 - Boston College v Nebraska [Charlie] - (29/12/2024)
@@ -394,3 +388,9 @@ https://rr.vipstreams.in/Charlie/js/new-york-knicks-vs-washington-wizards-162941
 https://rr.vipstreams.in/Echo/js/washington-wizards-new-york-knicks-19820/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pepperdine v Santa Clara" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Pepperdine v Santa Clara [Charlie] - (29/12/2024)
 https://rr.vipstreams.in/Charlie/js/pepperdine-vs-santa-clara-1629418153/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Penguins v New York Islanders" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - Pittsburgh Penguins v New York Islanders [Charlie] - (29/12/2024)
+https://rr.vipstreams.in/Charlie/js/pittsburgh-penguins-vs-new-york-islanders-1629418137/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Penguins v New York Islanders" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - Pittsburgh Penguins v New York Islanders [Echo] - (29/12/2024)
+https://rr.vipstreams.in/Echo/js/new-york-islanders-pittsburgh-penguins-21508/1/playlist.m3u8
+#EXTINF:-1 tvg-name="BYU v Colorado" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",07:30 - BYU v Colorado [Charlie] - (29/12/2024)
+https://rr.vipstreams.in/Charlie/js/byu-vs-colorado-1629419787/1/playlist.m3u8
