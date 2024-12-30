@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Gilboa Galil v Hapoel Holon" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:35 - Gilboa Galil v Hapoel Holon [Bravo] - (30/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735576500000-gilboa-galil-hapoel-holon/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Zawiercie v Rzeszow" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Zawiercie v Rzeszow [Bravo] - (30/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735576200000-zawiercie-rzeszow/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Spisska Nova Ves v Zilina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Spisska Nova Ves v Zilina [Bravo] - (30/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735576200000-spisska-nova-ves-zilina/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kosice vs Michalovce" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Kosice vs Michalovce [Bravo] - (30/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735576200000-hc-kosice-michalovce/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ilves vs Jukurit" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHphgsxNJAQQvEPpQGTRy4hIgULJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Hockey",23:30 - Ilves vs Jukurit [Bravo] - (30/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735576200000-ilves-jukurit/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pelicans vs Tappara" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhxRhpIakN4gDOlCAggdBg9RCIULJBSwi5jLapQ8wZeET1iP+KzAYF7iYhBAA.webp" group-title="Hockey",23:30 - Pelicans vs Tappara [Bravo] - (30/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735576200000-pelicans-tappara-tampere/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Litvinov vs Karlovy Vary" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Litvinov vs Karlovy Vary [Bravo] - (30/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735576200000-hc-litvinov-karlovy-vary/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Queretaro FC vs Necaxa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - Queretaro FC vs Necaxa [Delta] - (30/12/2024)
 https://rr.vipstreams.in/Delta/js/club-queretaro-vs-necaxa-football-1325284/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Lulea W v Modo W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",22:00 - Lulea W v Modo W [Bravo] - (30/12/2024)
@@ -8,10 +22,6 @@ https://rr.vipstreams.in/Bravo/js/1735570800000-lulea-w-modo-w/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/manisa-vs-besiktas/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Mladá Boleslav vs Oceláři Třinec" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",22:00 - Mladá Boleslav vs Oceláři Třinec [Bravo] - (30/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735570800000-mlada-boleslav-hc-ocelari-trinec/1/playlist.m3u8
-#EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - PDC World Darts Championship [Alpha] - (30/12/2024)
-https://rr.vipstreams.in/Alpha/js/pdc-world-darts-championship/1/playlist.m3u8
-#EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - PDC World Darts Championship [Charlie] - (30/12/2024)
-https://rr.vipstreams.in/Charlie/js/202425-paddy-power-world-darts-championship-day-13-1629419912/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -274,3 +284,13 @@ https://rr.vipstreams.in/Alpha/js/motor-city-cruise-vs-birmingham-squadron/1/pla
 https://rr.vipstreams.in/Alpha/js/delaware-blue-coats-vs-long-island-nets/1/playlist.m3u8
 #EXTINF:-1 tvg-name="College Park Skyhawks v Windy City Bulls" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - College Park Skyhawks v Windy City Bulls [Alpha] - (31/12/2024)
 https://rr.vipstreams.in/Alpha/js/college-park-skyhawks-vs-windy-city-bulls/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Winnipeg Jets v Nashville Predators" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - Winnipeg Jets v Nashville Predators [Alpha] - (31/12/2024)
+https://rr.vipstreams.in/Alpha/js/winnipeg-jets-vs-nashville-predators/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Winnipeg Jets v Nashville Predators" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - Winnipeg Jets v Nashville Predators [Charlie] - (31/12/2024)
+https://rr.vipstreams.in/Charlie/js/nashville-predators-vs-winnipeg-jets-1629418193/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Winnipeg Jets v Nashville Predators" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - Winnipeg Jets v Nashville Predators [Echo] - (31/12/2024)
+https://rr.vipstreams.in/Echo/js/winnipeg-jets-nashville-predators-21520/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Alabama State v Missouri" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Alabama State v Missouri [Alpha] - (31/12/2024)
+https://rr.vipstreams.in/Alpha/js/alabama-state-vs-missouri/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Alabama State v Missouri" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Alabama State v Missouri [Charlie] - (31/12/2024)
+https://rr.vipstreams.in/Charlie/js/alabama-state-vs-missouri-1629418200/1/playlist.m3u8
