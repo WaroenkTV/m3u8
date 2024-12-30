@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Bnei Herzliya v Nes Ziona" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:50 - Bnei Herzliya v Nes Ziona [Bravo] - (30/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735577400000-bnei-herzliya-nes-ziona/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Gilboa Galil v Hapoel Holon" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:35 - Gilboa Galil v Hapoel Holon [Bravo] - (30/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735576500000-gilboa-galil-hapoel-holon/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zawiercie v Rzeszow" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Zawiercie v Rzeszow [Bravo] - (30/12/2024)
@@ -72,12 +74,6 @@ https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
 https://rr.vipstreams.in/Delta/js/florida-international-vs-utah-tech-basketball-428684/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Valencia v Forca Lleida" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Valencia v Forca Lleida [Alpha] - (31/12/2024)
 https://rr.vipstreams.in/Alpha/js/valencia-vs-forca-lleida/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kometa Brno vs Olomouc" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:00 - Kometa Brno vs Olomouc [Alpha] - (31/12/2024)
-https://rr.vipstreams.in/Alpha/js/kometa-brno-vs-olomouc/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Bílí Tygři Liberec vs Plzen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:00 - Bílí Tygři Liberec vs Plzen [Alpha] - (31/12/2024)
-https://rr.vipstreams.in/Alpha/js/liberec-vs-plzen/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Mountfield HK vs Rytíři Kladno" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:00 - Mountfield HK vs Rytíři Kladno [Alpha] - (31/12/2024)
-https://rr.vipstreams.in/Alpha/js/mountfield-hk-vs-kladno/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Maccabi Haifa v Ashkelon" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:30 - Maccabi Haifa v Ashkelon [Alpha] - (31/12/2024)
 https://rr.vipstreams.in/Alpha/js/maccabi-haifa-vs-ashkelon/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wurzburg v Bamberg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:30 - Wurzburg v Bamberg [Alpha] - (31/12/2024)
@@ -166,8 +162,6 @@ https://rr.vipstreams.in/Charlie/js/ipswich-town-vs-chelsea-19134914/1/playlist.
 https://rr.vipstreams.in/Delta/js/ipswich-vs-chelsea-football-1208208/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ipswich vs Chelsea" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkgGkQIUGGkheILIZ0gUIEpdMwQ0lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",02:45 - Ipswich vs Chelsea [Echo] - (31/12/2024)
 https://rr.vipstreams.in/Echo/js/ipswich-chelsea-20995/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ipswich vs Chelsea" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkgGkQIUGGkheILIZ0gUIEpdMwQ0lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",02:45 - Ipswich vs Chelsea [Foxtrot] - (31/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/ipswich-vs-chelsea-202412291445/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Aston Villa vs Brighton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduwAMsELpK6QvEFkMGUIffqMwQi-MCQUsIuYxRhVKHh-KNqcr3t6MA9xMQggA.webp" group-title="Football",02:45 - Aston Villa vs Brighton [Alpha] - (31/12/2024)
 https://rr.vipstreams.in/Alpha/js/aston-villa-vs-brighton-hove-albion/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Aston Villa vs Brighton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduwAMsELpK6QvEFkMGUIffqMwQi-MCQUsIuYxRhVKHh-KNqcr3t6MA9xMQggA.webp" group-title="Football",02:45 - Aston Villa vs Brighton [Charlie] - (31/12/2024)
@@ -176,8 +170,6 @@ https://rr.vipstreams.in/Charlie/js/aston-villa-vs-brighton-and-hove-albion-1913
 https://rr.vipstreams.in/Delta/js/aston-villa-vs-brighton-football-1208203/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Aston Villa vs Brighton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduwAMsELpK6QvEFkMGUIffqMwQi-MCQUsIuYxRhVKHh-KNqcr3t6MA9xMQggA.webp" group-title="Football",02:45 - Aston Villa vs Brighton [Echo] - (31/12/2024)
 https://rr.vipstreams.in/Echo/js/aston-villa-brighton-20996/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Aston Villa vs Brighton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduwAMsELpK6QvEFkMGUIffqMwQi-MCQUsIuYxRhVKHh-KNqcr3t6MA9xMQggA.webp" group-title="Football",02:45 - Aston Villa vs Brighton [Foxtrot] - (31/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/aston-villa-vs-brighton-202412291445/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Joventut Badalona vs CB Gran Canaria" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBwwQjJCH0oQvTSETH9iCPp0gSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Basketball",02:45 - Joventut Badalona vs CB Gran Canaria [Alpha] - (31/12/2024)
 https://rr.vipstreams.in/Alpha/js/joventut-badalona-vs-gran-canaria/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AFC Wimbledon vs Gillingham" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKimDSwYpCG0gQvEFiMgUIEvpAQbIRCRZIKWEXMYodHTRx3lG1HKa+KzAYF6MYhBAA.webp" group-title="Football",03:00 - AFC Wimbledon vs Gillingham [Alpha] - (31/12/2024)
@@ -194,8 +186,6 @@ https://rr.vipstreams.in/Charlie/js/manchester-united-vs-newcastle-united-191349
 https://rr.vipstreams.in/Delta/js/manchester-united-vs-newcastle-football-1208210/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Manchester United vs Newcastle" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQCwvMChpgQIXiCzGjmkCSvmYplkgpYRcxvtVaOYMvCLU5WviswGDe4mIQQA.webp" group-title="Football",03:00 - Manchester United vs Newcastle [Echo] - (31/12/2024)
 https://rr.vipstreams.in/Echo/js/manchester-united-newcastle-20997/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Manchester United vs Newcastle" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQCwvMChpgQIXiCzGjmkCSvmYplkgpYRcxvtVaOYMvCLU5WviswGDe4mIQQA.webp" group-title="Football",03:00 - Manchester United vs Newcastle [Foxtrot] - (31/12/2024)
-https://rr.vipstreams.in/Foxtrot/js/manchester-united-vs-newcastle-202412291445/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Michigan State vs Western Michigan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",03:00 - Michigan State vs Western Michigan [Alpha] - (31/12/2024)
 https://rr.vipstreams.in/Alpha/js/western-michigan-vs-18-michigan-state/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Michigan State vs Western Michigan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",03:00 - Michigan State vs Western Michigan [Delta] - (31/12/2024)
