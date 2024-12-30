@@ -22,14 +22,6 @@ https://rr.vipstreams.in/Bravo/js/1735554600000-united-cup-china-germany-gao-sie
 https://rr.vipstreams.in/Bravo/js/1735552800000-wta-brisbane-pat-rafter-arena-jabeur-zheng/1/playlist.m3u8
 #EXTINF:-1 tvg-name="United Cup: Poland v Norway Swiatek/Hurkacz - Eikeri/Ruud" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:30 - United Cup: Poland v Norway Swiatek/Hurkacz - Eikeri/Ruud [Bravo] - (30/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735551000000-united-cup-poland-norway-swiatek-hurkacz-eikeri-ruud/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Hong Kong v Court 1 Bhambri/Olivetti - Frantzen/Jebens" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - ATP Hong Kong v Court 1 Bhambri/Olivetti - Frantzen/Jebens [Bravo] - (30/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735549200000-atp-hong-kong-court-1-bhambri-olivetti-frantzen-jebens/1/playlist.m3u8
-#EXTINF:-1 tvg-name="United Cup: China v Germany" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - United Cup: China v Germany [Alpha] - (30/12/2024)
-https://rr.vipstreams.in/Alpha/js/united-cup-china-vs-germany/1/playlist.m3u8
-#EXTINF:-1 tvg-name="United Cup: China v Germany" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - United Cup: China v Germany [Bravo] - (30/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735549200000-united-cup-china-germany-zhang-zverev/1/playlist.m3u8
-#EXTINF:-1 tvg-name="United Cup: China v Germany" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - United Cup: China v Germany [Bravo] - (30/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735549200000-united-cup-china-germany/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -76,8 +68,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Thailand v Philippines" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Thailand v Philippines [Alpha] - (30/12/2024)
-https://rr.vipstreams.in/Alpha/js/thailand-vs-philippines/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Botafogo PB v Serra Branca" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:00 - Botafogo PB v Serra Branca [Delta] - (30/12/2024)
 https://rr.vipstreams.in/Delta/js/botafogo-pb-vs-serra-branca-football-1320382/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Mladá Boleslav vs Oceláři Třinec" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",22:00 - Mladá Boleslav vs Oceláři Třinec [Alpha] - (30/12/2024)
@@ -232,3 +222,11 @@ https://rr.vipstreams.in/Delta/js/famalicao-vs-santa-clara-football-1231867/1/pl
 https://rr.vipstreams.in/Echo/js/famalicao-santa-clara-20967/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Germany U20 v Latvia U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",03:30 - Germany U20 v Latvia U20 [Alpha] - (31/12/2024)
 https://rr.vipstreams.in/Alpha/js/germany-u20-vs-latvia-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sacramento State v Bethesda" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - Sacramento State v Bethesda [Delta] - (31/12/2024)
+https://rr.vipstreams.in/Delta/js/sacramento-state-vs-bethesda-basketball-428690/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ypiranga vs São Luiz" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Ypiranga vs São Luiz [Delta] - (31/12/2024)
+https://rr.vipstreams.in/Delta/js/ypiranga-rs-vs-sao-luiz-football-1325286/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cornell vs Siena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - Cornell vs Siena [Alpha] - (31/12/2024)
+https://rr.vipstreams.in/Alpha/js/siena-vs-cornell/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cornell vs Siena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - Cornell vs Siena [Delta] - (31/12/2024)
+https://rr.vipstreams.in/Delta/js/cornell-vs-siena-basketball-428689/1/playlist.m3u8
