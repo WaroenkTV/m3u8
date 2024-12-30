@@ -1,11 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="ATP Brisbane v Pat Rafter Arena Erler/Mies - Djokovic/Kyrgios" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - ATP Brisbane v Pat Rafter Arena Erler/Mies - Djokovic/Kyrgios [Bravo] - (30/12/2024)
+https://rr.vipstreams.in/Bravo/js/1735547400000-atp-brisbane-pat-rafter-arena-erler-mies-djokovic-kyrgios/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ATP Brisbane: Alexander Erler/Andreas Mies v Nick Kyrgios/Novak Djokovic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - ATP Brisbane: Alexander Erler/Andreas Mies v Nick Kyrgios/Novak Djokovic [Alpha] - (30/12/2024)
+https://rr.vipstreams.in/Alpha/js/atp-brisbane-alexander-erler-andreas-mies-vs-nick-kyrgios-novak-djokovic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sydney v Adelaide" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - Sydney v Adelaide [Alpha] - (30/12/2024)
+https://rr.vipstreams.in/Alpha/js/sydney-vs-adelaide/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sydney v Adelaide" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - Sydney v Adelaide [Delta] - (30/12/2024)
+https://rr.vipstreams.in/Delta/js/sydney-vs-adelaide-basketball-401970/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Auckland: Katie Volynets v Erika Andreeva" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:20 - WTA Auckland: Katie Volynets v Erika Andreeva [Alpha] - (30/12/2024)
 https://rr.vipstreams.in/Alpha/js/wta-auckland-katie-volynets-vs-erika-andreeva/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sydney Thunder vs Melbourne Renegades" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkhDVuYTmBQheILCBiGQBklvMQLLJBSwi5jFGFUoe78o21jP+KzAYO7iYhBAA.webp" group-title="Cricket",15:15 - Sydney Thunder vs Melbourne Renegades [Alpha] - (30/12/2024)
 https://rr.vipstreams.in/Alpha/js/sydney-thunder-vs-melbourne-renegades/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Brisbane: Yue Yuan v Arantxa Rus" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:05 - WTA Brisbane: Yue Yuan v Arantxa Rus [Alpha] - (30/12/2024)
 https://rr.vipstreams.in/Alpha/js/wta-brisbane-yue-yuan-vs-arantxa-rus/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Thunder v Renegades" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:00 - Thunder v Renegades [Charlie] - (30/12/2024)
+https://rr.vipstreams.in/Charlie/js/thunder-vs-renegades-1629418159/1/playlist.m3u8
 #EXTINF:-1 tvg-name="South Africa v Pakistan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:00 - South Africa v Pakistan [Charlie] - (30/12/2024)
 https://rr.vipstreams.in/Charlie/js/south-africa-vs-pakistan-1629418158/1/playlist.m3u8
 #EXTINF:-1 tvg-name="United Cup: Poland v Norway Hurkacz - Ruud" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:00 - United Cup: Poland v Norway Hurkacz - Ruud [Bravo] - (30/12/2024)
@@ -60,8 +70,6 @@ https://rr.vipstreams.in/Bravo/js/1735536600000-wta-brisbane-court-2-yuan-rus/1/
 https://rr.vipstreams.in/Bravo/js/1735534800000-wta-canberra-court-1-stakusic-ruzic/1/playlist.m3u8
 #EXTINF:-1 tvg-name="United Cup: Greece v Kazakhstan Papamichail/Tsitsipas - Kulambayeva/Nedovyesov" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - United Cup: Greece v Kazakhstan Papamichail/Tsitsipas - Kulambayeva/Nedovyesov [Bravo] - (30/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735534800000-united-cup-greece-kazakhstan-papamichail-tsitsipas-kulambayeva-nedovyesov/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Hong Kong v Court 2 Kotov - Huesler" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - ATP Hong Kong v Court 2 Kotov - Huesler [Bravo] - (30/12/2024)
-https://rr.vipstreams.in/Bravo/js/1735533000000-atp-hong-kong-court-2-kotov-huesler/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -108,13 +116,7 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sydney v Adelaide" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - Sydney v Adelaide [Alpha] - (30/12/2024)
-https://rr.vipstreams.in/Alpha/js/sydney-vs-adelaide/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sydney v Adelaide" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - Sydney v Adelaide [Delta] - (30/12/2024)
-https://rr.vipstreams.in/Delta/js/sydney-vs-adelaide-basketball-401970/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Brisbane: Alexander Erler/Andreas Mies v Nick Kyrgios/Novak Djokovic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:40 - ATP Brisbane: Alexander Erler/Andreas Mies v Nick Kyrgios/Novak Djokovic [Alpha] - (30/12/2024)
-https://rr.vipstreams.in/Alpha/js/atp-brisbane-alexander-erler-andreas-mies-vs-nick-kyrgios-novak-djokovic/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Brisbane: Anastasia Potapova v Ana Bogdan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - WTA Brisbane: Anastasia Potapova v Ana Bogdan [Alpha] - (30/12/2024)
+#EXTINF:-1 tvg-name="WTA Brisbane: Anastasia Potapova v Ana Bogdan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - WTA Brisbane: Anastasia Potapova v Ana Bogdan [Alpha] - (30/12/2024)
 https://rr.vipstreams.in/Alpha/js/wta-brisbane-anastasia-potapova-vs-ana-bogdan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="United Cup: China v Germany" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - United Cup: China v Germany [Alpha] - (30/12/2024)
 https://rr.vipstreams.in/Alpha/js/united-cup-china-vs-germany/1/playlist.m3u8
@@ -152,3 +154,7 @@ https://rr.vipstreams.in/Alpha/js/mlada-boleslav-vs-trinec/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/manisa-vs-besiktas/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Queretaro FC vs Necaxa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - Queretaro FC vs Necaxa [Delta] - (30/12/2024)
 https://rr.vipstreams.in/Delta/js/club-queretaro-vs-necaxa-football-1325284/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UTSA Men's Basketball Presser" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - UTSA Men's Basketball Presser [Charlie] - (30/12/2024)
+https://rr.vipstreams.in/Charlie/js/utsa-mens-basketball-presser-1629418183/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Litvinov vs Karlovy Vary" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Litvinov vs Karlovy Vary [Alpha] - (30/12/2024)
+https://rr.vipstreams.in/Alpha/js/litvinov-vs-karlovy-vary/1/playlist.m3u8
