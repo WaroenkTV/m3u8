@@ -110,8 +110,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="King of Deathmatch 2024: World GP Tournament" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",16:30 - King of Deathmatch 2024: World GP Tournament [Alpha] - (31/12/2024)
-https://rr.vipstreams.in/Alpha/js/king-of-deathmatch-2024-world-gp-tournament/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fernando Martinez vs Kazuto Ioka" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",18:00 - Fernando Martinez vs Kazuto Ioka [Alpha] - (31/12/2024)
 https://rr.vipstreams.in/Alpha/js/fernando-martinez-vs-kazuto-ioka/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zhejiang Chouzhou v Shenzhen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Zhejiang Chouzhou v Shenzhen [Alpha] - (31/12/2024)
@@ -136,3 +134,23 @@ https://rr.vipstreams.in/Charlie/js/solihull-moors-vs-tamworth-19170714/1/playli
 https://rr.vipstreams.in/Foxtrot/js/solihull-moors-vs-tamworth-202412311430/1/playlist.m3u8
 #EXTINF:-1 tvg-name="LALIGA World" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - LALIGA World [Alpha] - (31/12/2024)
 https://rr.vipstreams.in/Alpha/js/laliga-world/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Alabama v Michigan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Rugby",00:00 - Alabama v Michigan [Charlie] - (01/01/2025)
+https://rr.vipstreams.in/Charlie/js/alabama-vs-michigan-1629418861/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kazakhstan U20 v Switzerland U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:00 - Kazakhstan U20 v Switzerland U20 [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/kazakhstan-u20-vs-switzerland-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maine Celtics vs Texas Legends" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Maine Celtics vs Texas Legends [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/maine-celtics-vs-texas-legends/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maine Celtics vs Texas Legends" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Maine Celtics vs Texas Legends [Charlie] - (01/01/2025)
+https://rr.vipstreams.in/Charlie/js/texas-legends-vs-maine-celtics-1629418852/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maine Celtics vs Texas Legends" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Maine Celtics vs Texas Legends [Delta] - (01/01/2025)
+https://rr.vipstreams.in/Delta/js/maine-celtics-vs-texas-legends-basketball-420664/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Virginia vs North Carolina State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBDAADCH6iQJPSCzHER3icPWULJBSwi5jFGFUoeb8o2pyP+VmAwN3ExCCA.webp" group-title="Basketball",00:00 - Virginia vs North Carolina State [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/nc-state-vs-virginia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Virginia vs North Carolina State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBDAADCH6iQJPSCzHER3icPWULJBSwi5jFGFUoeb8o2pyP+VmAwN3ExCCA.webp" group-title="Basketball",00:00 - Virginia vs North Carolina State [Delta] - (01/01/2025)
+https://rr.vipstreams.in/Delta/js/virginia-vs-nc-state-basketball-428725/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Michigan vs Alabama" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkhDVK8sGIAMIXiGkgUIRDBAlrRkPZQskFLCLmMUejih57yjbTEffFZgMC9GMQggA.webp" group-title="American Football",00:00 - Michigan vs Alabama [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/alabama-11-vs-michigan/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Michigan vs Alabama" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkhDVK8sGIAMIXiGkgUIRDBAlrRkPZQskFLCLmMUejih57yjbTEffFZgMC9GMQggA.webp" group-title="American Football",00:00 - Michigan vs Alabama [Delta] - (01/01/2025)
+https://rr.vipstreams.in/Delta/js/michigan-vs-alabama-american-football-17263/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The Bare Knuckle Show with Brian Soscia: Season 2, Episode 83" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",00:05 - The Bare Knuckle Show with Brian Soscia: Season 2, Episode 83 [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/the-bare-knuckle-show-with-brian-soscia-season-2-episode-83/1/playlist.m3u8
