@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="LSU vs Baylor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",03:30 - LSU vs Baylor [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/baylor-vs-lsu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="LSU vs Baylor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",03:30 - LSU vs Baylor [Bravo] - (01/01/2025)
+https://rr.vipstreams.in/Bravo/js/1735677000000-baylor-vs-lsu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="LSU vs Baylor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",03:30 - LSU vs Baylor [Charlie] - (01/01/2025)
+https://rr.vipstreams.in/Charlie/js/baylor-vs-lsu-1629418864/1/playlist.m3u8
+#EXTINF:-1 tvg-name="LSU vs Baylor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",03:30 - LSU vs Baylor [Delta] - (01/01/2025)
+https://rr.vipstreams.in/Delta/js/lsu-vs-baylor-american-football-17266/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Springfield Thunderbirds vs Hartford Wolf Pack" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4g40kFH75NILNr0hz5iMZAoQzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Hockey",03:05 - Springfield Thunderbirds vs Hartford Wolf Pack [Bravo] - (01/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735675500000-springfield-thunderbirds-hartford-wolf-pack/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Springfield Thunderbirds vs Hartford Wolf Pack" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4g40kFH75NILNr0hz5iMZAoQzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Hockey",03:05 - Springfield Thunderbirds vs Hartford Wolf Pack [Delta] - (01/01/2025)
@@ -192,32 +200,16 @@ https://rr.vipstreams.in/Bravo/js/1735671600000-louisville-vs-washington/1/playl
 https://rr.vipstreams.in/Charlie/js/louisville-vs-washington-1629418862/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Washington vs Louisville" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",02:00 - Washington vs Louisville [Delta] - (01/01/2025)
 https://rr.vipstreams.in/Delta/js/washington-vs-louisville-american-football-17264/1/playlist.m3u8
-#EXTINF:-1 tvg-name="North Bay Battalion v Kitchener Rangers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - North Bay Battalion v Kitchener Rangers [Delta] - (01/01/2025)
-https://rr.vipstreams.in/Delta/js/north-bay-battalion-vs-kitchener-rangers-hockey-369700/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Halifax Mooseheads vs Cape Breton Eagles" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Halifax Mooseheads vs Cape Breton Eagles [Delta] - (01/01/2025)
 https://rr.vipstreams.in/Delta/js/halifax-mooseheads-vs-cape-breton-eagles-hockey-365013/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Toronto Maple Leafs vs New York Islanders" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdohAhGJEPRQheIaSANZjIaoa3Xm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Hockey",01:00 - Toronto Maple Leafs vs New York Islanders [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/toronto-maple-leafs-vs-new-york-islanders/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Toronto Maple Leafs vs New York Islanders" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdohAhGJEPRQheIaSANZjIaoa3Xm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Hockey",01:00 - Toronto Maple Leafs vs New York Islanders [Bravo] - (01/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735668000000-new-york-islanders-vs-toronto-maple-leafs/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Toronto Maple Leafs vs New York Islanders" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdohAhGJEPRQheIaSANZjIaoa3Xm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Hockey",01:00 - Toronto Maple Leafs vs New York Islanders [Charlie] - (01/01/2025)
 https://rr.vipstreams.in/Charlie/js/new-york-islanders-vs-toronto-maple-leafs-1629418839/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Toronto Maple Leafs vs New York Islanders" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdohAhGJEPRQheIaSANZjIaoa3Xm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Hockey",01:00 - Toronto Maple Leafs vs New York Islanders [Delta] - (01/01/2025)
 https://rr.vipstreams.in/Delta/js/toronto-maple-leafs-vs-new-york-islanders-hockey-386820/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Maine Mariners vs Trois-Rivières" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Maine Mariners vs Trois-Rivières [Bravo] - (01/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735668000000-maine-mariners-trois-rivieres-lions/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Acadie–Bathurst Titan vs Saint John Sea Dogs" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Acadie–Bathurst Titan vs Saint John Sea Dogs [Delta] - (01/01/2025)
-https://rr.vipstreams.in/Delta/js/acadie-bathurst-titan-vs-saint-john-sea-dogs-hockey-365012/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Washington Capitals vs Boston Bruins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE28QEEDhDAwIbdJAo9IU9RDWYIEnpZIKWEXMYowqlDy-lG1HI++KyGXuJiEEA.webp" group-title="Hockey",00:30 - Washington Capitals vs Boston Bruins [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/washington-capitals-vs-boston-bruins/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Washington Capitals vs Boston Bruins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE28QEEDhDAwIbdJAo9IU9RDWYIEnpZIKWEXMYowqlDy-lG1HI++KyGXuJiEEA.webp" group-title="Hockey",00:30 - Washington Capitals vs Boston Bruins [Charlie] - (01/01/2025)
-https://rr.vipstreams.in/Charlie/js/boston-bruins-vs-washington-capitals-1629418838/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Washington Capitals vs Boston Bruins" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE28QEEDhDAwIbdJAo9IU9RDWYIEnpZIKWEXMYowqlDy-lG1HI++KyGXuJiEEA.webp" group-title="Hockey",00:30 - Washington Capitals vs Boston Bruins [Delta] - (01/01/2025)
-https://rr.vipstreams.in/Delta/js/washington-capitals-vs-boston-bruins-hockey-386819/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Michigan vs Alabama" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkhDVK8sGIAMIXiGkgUIRDBAlrRkPZQskFLCLmMUejih57yjbTEffFZgMC9GMQggA.webp" group-title="American Football",00:00 - Michigan vs Alabama [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/alabama-11-vs-michigan/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Michigan vs Alabama" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkhDVK8sGIAMIXiGkgUIRDBAlrRkPZQskFLCLmMUejih57yjbTEffFZgMC9GMQggA.webp" group-title="American Football",00:00 - Michigan vs Alabama [Delta] - (01/01/2025)
-https://rr.vipstreams.in/Delta/js/michigan-vs-alabama-american-football-17263/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -264,12 +256,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="LSU vs Baylor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",03:30 - LSU vs Baylor [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/baylor-vs-lsu/1/playlist.m3u8
-#EXTINF:-1 tvg-name="LSU vs Baylor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",03:30 - LSU vs Baylor [Charlie] - (01/01/2025)
-https://rr.vipstreams.in/Charlie/js/baylor-vs-lsu-1629418864/1/playlist.m3u8
-#EXTINF:-1 tvg-name="LSU vs Baylor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",03:30 - LSU vs Baylor [Delta] - (01/01/2025)
-https://rr.vipstreams.in/Delta/js/lsu-vs-baylor-american-football-17266/1/playlist.m3u8
 #EXTINF:-1 tvg-name="London Knights v Sarnia Sting" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",04:00 - London Knights v Sarnia Sting [Delta] - (01/01/2025)
 https://rr.vipstreams.in/Delta/js/london-knights-vs-sarnia-sting-hockey-369703/1/playlist.m3u8
 #EXTINF:-1 tvg-name="George Washington v Richmond" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - George Washington v Richmond [Charlie] - (01/01/2025)
@@ -462,3 +448,7 @@ https://rr.vipstreams.in/Alpha/js/auckland-fc-vs-melbourne-victory/1/playlist.m3
 https://rr.vipstreams.in/Charlie/js/auckland-vs-melbourne-victory-19238357/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Auckland FC v Melbourne Victory" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",11:00 - Auckland FC v Melbourne Victory [Foxtrot] - (01/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/auckland-vs-melbourne-victory-202501010330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ATP Brisbane: Nikola Mektic / Michael Venus v Nick Kyrgios / Novak Djokovic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - ATP Brisbane: Nikola Mektic / Michael Venus v Nick Kyrgios / Novak Djokovic [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/atp-brisbane-nikola-mektic-michael-venus-vs-nick-kyrgios-novak-djokovic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ATP Brisbane: Jamie Murray / John Peers v Nicolas Jarry / Giovanni Mpetshi Perricard" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - ATP Brisbane: Jamie Murray / John Peers v Nicolas Jarry / Giovanni Mpetshi Perricard [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/atp-brisbane-jamie-murray-john-peers-vs-nicolas-jarry-giovanni-mpetshi-perricard/1/playlist.m3u8
