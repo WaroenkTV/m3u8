@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="ATP Hong Kong: Shang Juncheng v Coleman Wong" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:55 - ATP Hong Kong: Shang Juncheng v Coleman Wong [Alpha] - (31/12/2024)
+https://rr.vipstreams.in/Alpha/js/atp-hong-kong-shang-juncheng-vs-coleman-wong/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Brisbane: Ons Jabeur v Ekaterina Alexandrova" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - WTA Brisbane: Ons Jabeur v Ekaterina Alexandrova [Alpha] - (31/12/2024)
+https://rr.vipstreams.in/Alpha/js/wta-brisbane-ons-jabeur-vs-ekaterina-alexandrova/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Brisbane: Diana Shnaider v Anhelina Kalinina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - WTA Brisbane: Diana Shnaider v Anhelina Kalinina [Alpha] - (31/12/2024)
+https://rr.vipstreams.in/Alpha/js/wta-brisbane-diana-shnaider-vs-anhelina-kalinina/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Hong Kong v Court 1 Bhambri/Olivetti - Khachanov/Rublev" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - ATP Hong Kong v Court 1 Bhambri/Olivetti - Khachanov/Rublev [Bravo] - (31/12/2024)
 https://rr.vipstreams.in/Bravo/js/1735633800000-atp-hong-kong-court-1-bhambri-olivetti-khachanov-rublev/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cairns Taipans vs New Zealand Breakers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlRggc-EiGoheIacZB6tek4izGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Basketball",15:30 - Cairns Taipans vs New Zealand Breakers [Alpha] - (31/12/2024)
@@ -104,12 +110,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Brisbane: Ons Jabeur v Ekaterina Alexandrova" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - WTA Brisbane: Ons Jabeur v Ekaterina Alexandrova [Alpha] - (31/12/2024)
-https://rr.vipstreams.in/Alpha/js/wta-brisbane-ons-jabeur-vs-ekaterina-alexandrova/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Brisbane: Diana Shnaider v Anhelina Kalinina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - WTA Brisbane: Diana Shnaider v Anhelina Kalinina [Alpha] - (31/12/2024)
-https://rr.vipstreams.in/Alpha/js/wta-brisbane-diana-shnaider-vs-anhelina-kalinina/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Hong Kong: Shang Juncheng v Coleman Wong" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - ATP Hong Kong: Shang Juncheng v Coleman Wong [Alpha] - (31/12/2024)
-https://rr.vipstreams.in/Alpha/js/atp-hong-kong-shang-juncheng-vs-coleman-wong/1/playlist.m3u8
 #EXTINF:-1 tvg-name="King of Deathmatch 2024: World GP Tournament" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",16:30 - King of Deathmatch 2024: World GP Tournament [Alpha] - (31/12/2024)
 https://rr.vipstreams.in/Alpha/js/king-of-deathmatch-2024-world-gp-tournament/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fernando Martinez vs Kazuto Ioka" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",18:00 - Fernando Martinez vs Kazuto Ioka [Alpha] - (31/12/2024)
