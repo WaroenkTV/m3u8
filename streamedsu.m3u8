@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Cyclocross | Baal Women & Men" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",19:40 - Cyclocross | Baal Women & Men [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/cyclocross-baal-women-men/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Millwall vs Oxford Utd" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlBgMwKsChC8QWAyH0kQ0kDCshqIRfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Football",20:00 - Millwall vs Oxford Utd [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/millwall-vs-oxford-united/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Millwall vs Oxford Utd" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlBgMwKsChC8QWAyH0kQ0kDCshqIRfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Football",20:00 - Millwall vs Oxford Utd [Charlie] - (01/01/2025)
+https://rr.vipstreams.in/Charlie/js/millwall-vs-oxford-united-19142948/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Millwall vs Oxford Utd" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlBgMwKsChC8QWAyH0kQ0kDCshqIRfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Football",20:00 - Millwall vs Oxford Utd [Delta] - (01/01/2025)
+https://rr.vipstreams.in/Delta/js/millwall-vs-oxford-united-football-1216136/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Millwall vs Oxford Utd" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlBgMwKsChC8QWAyH0kQ0kDCshqIRfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Football",20:00 - Millwall vs Oxford Utd [Foxtrot] - (01/01/2025)
+https://rr.vipstreams.in/Foxtrot/js/millwall-vs-oxford-united-202501011230/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - PDC World Darts Championship [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/pdc-world-darts-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - PDC World Darts Championship [Charlie] - (01/01/2025)
@@ -34,20 +40,12 @@ https://rr.vipstreams.in/Alpha/js/atp-brisbane-jordan-thompson-vs-alex-michelsen
 https://rr.vipstreams.in/Bravo/js/1735729200000-atp-hong-kong-centre-court-bergs-tien-darderi-norrie/1/playlist.m3u8
 #EXTINF:-1 tvg-name="United Cup: USA v China Fritz - Zhang" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:30 - United Cup: USA v China Fritz - Zhang [Bravo] - (01/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735727400000-united-cup-usa-china-fritz-zhang/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Brisbane Day 5" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:00 - Brisbane Day 5 [Charlie] - (01/01/2025)
-https://rr.vipstreams.in/Charlie/js/brisbane-day-5-1629420372/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Brisbane v Pat Rafter Arena Thompson - Michelsen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:00 - ATP Brisbane v Pat Rafter Arena Thompson - Michelsen [Bravo] - (01/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735725600000-atp-brisbane-pat-rafter-arena-thompson-michelsen/1/playlist.m3u8
 #EXTINF:-1 tvg-name="United Cup: Great Britain v Australia Boulter/Broom - Perez/Ebden" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:30 - United Cup: Great Britain v Australia Boulter/Broom - Perez/Ebden [Bravo] - (01/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735723800000-united-cup-great-britain-australia-boulter-broom-perez-ebden/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Hong Kong v Centre Court Khachanov - Nishikori" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:30 - ATP Hong Kong v Centre Court Khachanov - Nishikori [Bravo] - (01/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735723800000-atp-hong-kong-centre-court-khachanov-nishikori/1/playlist.m3u8
-#EXTINF:-1 tvg-name="United Cup: USA v China" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - United Cup: USA v China [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/united-cup-usa-vs-china/1/playlist.m3u8
-#EXTINF:-1 tvg-name="United Cup: USA v China" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - United Cup: USA v China [Bravo] - (01/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735722000000-united-cup-usa-china-gauff-gao/1/playlist.m3u8
-#EXTINF:-1 tvg-name="United Cup: USA v China" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - United Cup: USA v China [Bravo] - (01/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735722000000-united-cup-usa-china/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -94,17 +92,7 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Millwall vs Oxford Utd" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlBgMwKsChC8QWAyH0kQ0kDCshqIRfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Football",20:00 - Millwall vs Oxford Utd [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/millwall-vs-oxford-united/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Millwall vs Oxford Utd" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlBgMwKsChC8QWAyH0kQ0kDCshqIRfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Football",20:00 - Millwall vs Oxford Utd [Charlie] - (01/01/2025)
-https://rr.vipstreams.in/Charlie/js/millwall-vs-oxford-united-19142948/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Millwall vs Oxford Utd" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlBgMwKsChC8QWAyH0kQ0kDCshqIRfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Football",20:00 - Millwall vs Oxford Utd [Delta] - (01/01/2025)
-https://rr.vipstreams.in/Delta/js/millwall-vs-oxford-united-football-1216136/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Millwall vs Oxford Utd" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlBgMwKsChC8QWAyH0kQ0kDCshqIRfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Football",20:00 - Millwall vs Oxford Utd [Echo] - (01/01/2025)
-https://rr.vipstreams.in/Echo/js/millwall-oxford-united-21001/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Millwall vs Oxford Utd" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlBgMwKsChC8QWAyH0kQ0kDCshqIRfmBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Football",20:00 - Millwall vs Oxford Utd [Foxtrot] - (01/01/2025)
-https://rr.vipstreams.in/Foxtrot/js/millwall-vs-oxford-united-202501011230/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Hong Kong: Zizou Bergs / Learner Tien v Luciano Darderi / Cameron Norrie" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:30 - ATP Hong Kong: Zizou Bergs / Learner Tien v Luciano Darderi / Cameron Norrie [Alpha] - (01/01/2025)
+#EXTINF:-1 tvg-name="ATP Hong Kong: Zizou Bergs / Learner Tien v Luciano Darderi / Cameron Norrie" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:45 - ATP Hong Kong: Zizou Bergs / Learner Tien v Luciano Darderi / Cameron Norrie [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/atp-hong-kong-zizou-bergs-learner-tien-vs-luciano-darderi-cameron-norrie/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Surrey 89ers v London Lions" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",22:00 - Surrey 89ers v London Lions [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/surrey-89ers-vs-london-lions/1/playlist.m3u8
@@ -240,8 +228,6 @@ https://rr.vipstreams.in/Foxtrot/js/wealdstone-vs-boston-united-202501011430/1/p
 https://rr.vipstreams.in/Charlie/js/sutton-united-vs-aldershot-town-19170715/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sutton United vs Aldershot" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvmLAw0kOCwheIA9RAwQKEBEMXjxlkgpYRcxijCqUPD+UbU5Xpr0YB7iYhBAA.webp" group-title="Football",22:00 - Sutton United vs Aldershot [Delta] - (01/01/2025)
 https://rr.vipstreams.in/Delta/js/sutton-utd-vs-aldershot-town-football-1237527/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rochdale vs Altrincham" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdknl9KIMdRC8QWEPpggUICAfNGQ0lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",22:00 - Rochdale vs Altrincham [Charlie] - (01/01/2025)
-https://rr.vipstreams.in/Charlie/js/rochdale-vs-altrincham-19170713/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rochdale vs Altrincham" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdknl9KIMdRC8QWEPpggUICAfNGQ0lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",22:00 - Rochdale vs Altrincham [Delta] - (01/01/2025)
 https://rr.vipstreams.in/Delta/js/rochdale-vs-altrincham-football-1237525/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rochdale vs Altrincham" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdknl9KIMdRC8QWEPpggUICAfNGQ0lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",22:00 - Rochdale vs Altrincham [Foxtrot] - (01/01/2025)
@@ -258,8 +244,6 @@ https://rr.vipstreams.in/Charlie/js/forest-green-rovers-vs-yeovil-town-19170711/
 https://rr.vipstreams.in/Delta/js/forest-green-vs-yeovil-town-football-1237523/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Forest Green Rovers vs Yeovil" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrUTSQOkiAgheILCGogYIFPsOXjIEiyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",22:00 - Forest Green Rovers vs Yeovil [Foxtrot] - (01/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/forest-green-vs-yeovil-town-202501011430/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Halifax vs AFC Fylde" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoTgwQ8XFhC8Q+6iG0oQEAyHP6SLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",22:00 - Halifax vs AFC Fylde [Charlie] - (01/01/2025)
-https://rr.vipstreams.in/Charlie/js/halifax-town-vs-fylde-19170710/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Halifax vs AFC Fylde" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoTgwQ8XFhC8Q+6iG0oQEAyHP6SLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",22:00 - Halifax vs AFC Fylde [Delta] - (01/01/2025)
 https://rr.vipstreams.in/Delta/js/fc-halifax-town-vs-afc-fylde-football-1237522/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ebbsfleet United vs Dagenham and Redbridge" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBXikIGCBIheILCGq6QKEBEMXjVlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",22:00 - Ebbsfleet United vs Dagenham and Redbridge [Charlie] - (01/01/2025)
@@ -404,3 +388,23 @@ https://rr.vipstreams.in/Delta/js/tulsa-vs-rice-basketball-428764/1/playlist.m3u
 https://rr.vipstreams.in/Alpha/js/drake-vs-uic/1/playlist.m3u8
 #EXTINF:-1 tvg-name="UIC vs Drake" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoKjSwSObxD6sBkIhLGQICCCMkWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Basketball",03:00 - UIC vs Drake [Delta] - (02/01/2025)
 https://rr.vipstreams.in/Delta/js/illinois-chi-vs-drake-basketball-428763/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kingston Frontenacs v Brampton Steelheads" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",04:00 - Kingston Frontenacs v Brampton Steelheads [Delta] - (02/01/2025)
+https://rr.vipstreams.in/Delta/js/kingston-frontenacs-vs-brampton-steelheads-hockey-369709/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Auckland: Ann Li / Katie Volynets v Makoto Ninomiya / Fanny Stollar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",04:00 - WTA Auckland: Ann Li / Katie Volynets v Makoto Ninomiya / Fanny Stollar [Alpha] - (02/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-auckland-ann-li-katie-volynets-vs-makoto-ninomiya-fanny-stollar/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Auckland: Madison Keys v Jaqueline Cristian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",04:00 - WTA Auckland: Madison Keys v Jaqueline Cristian [Alpha] - (02/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-auckland-madison-keys-vs-jaqueline-cristian/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Auckland: Madison Keys v Jaqueline Cristian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",04:00 - WTA Auckland: Madison Keys v Jaqueline Cristian [Alpha] - (02/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-auckland-jaqueline-cristian-vs-alycia-parks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Auckland: Nao Hibino v Robin Montgomery" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",04:00 - WTA Auckland: Nao Hibino v Robin Montgomery [Alpha] - (02/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-auckland-nao-hibino-vs-robin-montgomery/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Auckland: Hailey Baptiste v Jodie Burrage" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",04:00 - WTA Auckland: Hailey Baptiste v Jodie Burrage [Alpha] - (02/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-auckland-hailey-baptiste-vs-jodie-burrage/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Calgary Wranglers vs Abbotsford Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDGzaKYGBAHeILCESISIaSBghqm2yyQUsIuYxRhVujp-KNqcrr4rHqe4mIQQA.webp" group-title="Hockey",04:00 - Calgary Wranglers vs Abbotsford Canucks [Delta] - (02/01/2025)
+https://rr.vipstreams.in/Delta/js/calgary-wranglers-vs-abbotsford-canucks-hockey-373731/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Edmonton Oil Kings vs Calgary Hitmen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",04:00 - Edmonton Oil Kings vs Calgary Hitmen [Delta] - (02/01/2025)
+https://rr.vipstreams.in/Delta/js/edmonton-oil-kings-vs-calgary-hitmen-hockey-385820/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Clemson vs Stanford" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - Clemson vs Stanford [Alpha] - (02/01/2025)
+https://rr.vipstreams.in/Alpha/js/stanford-vs-clemson/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Clemson vs Stanford" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - Clemson vs Stanford [Delta] - (02/01/2025)
+https://rr.vipstreams.in/Delta/js/clemson-vs-stanford-basketball-428770/1/playlist.m3u8
