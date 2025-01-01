@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="ATP Brisbane v Pat Rafter Arena Mektic/Venus - Djokovic/Kyrgios" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - ATP Brisbane v Pat Rafter Arena Mektic/Venus - Djokovic/Kyrgios [Bravo] - (01/01/2025)
+https://rr.vipstreams.in/Bravo/js/1735705800000-atp-brisbane-pat-rafter-arena-mektic-venus-djokovic-kyrgios/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Canberra v Court 1 Jacquemot/Stakusic - Erjavec/Salkova" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:00 - WTA Canberra v Court 1 Jacquemot/Stakusic - Erjavec/Salkova [Bravo] - (01/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735704000000-wta-canberra-court-1-jacquemot-stakusic-erjavec-salkova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Brisbane v Court 1 Yuan - Kostyuk" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:00 - WTA Brisbane v Court 1 Yuan - Kostyuk [Bravo] - (01/01/2025)
@@ -48,8 +50,6 @@ https://rr.vipstreams.in/Bravo/js/1735698600000-wta-brisbane-court-1-stearns-kas
 https://rr.vipstreams.in/Bravo/js/1735698600000-wta-brisbane-court-2-yastremska-potapova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Brisbane v Pat Rafter Arena Vukic - Dimitrov" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:30 - ATP Brisbane v Pat Rafter Arena Vukic - Dimitrov [Bravo] - (01/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735698600000-atp-brisbane-pat-rafter-arena-vukic-dimitrov/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rapid City Rush vs Tulsa Oilers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:05 - Rapid City Rush vs Tulsa Oilers [Bravo] - (01/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735697100000-rapid-city-rush-tulsa-oilers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tri-City Americans vs Spokane Chiefs" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:05 - Tri-City Americans vs Spokane Chiefs [Delta] - (01/01/2025)
 https://rr.vipstreams.in/Delta/js/tri-city-americans-vs-spokane-chiefs-hockey-385818/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Seattle Thunderbirds vs Prince George Cougars" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:05 - Seattle Thunderbirds vs Prince George Cougars [Delta] - (01/01/2025)
@@ -60,50 +60,20 @@ https://rr.vipstreams.in/Alpha/js/united-cup-germany-vs-kazakhstan/1/playlist.m3
 https://rr.vipstreams.in/Bravo/js/1735696800000-united-cup-kazakhstan-germany/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Edmonton Oilers vs Utah Hockey Club" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH6ysIRCBA7eBkNRDSTIEpZAoQMGyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey",09:00 - Edmonton Oilers vs Utah Hockey Club [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/edmonton-oilers-vs-utah-hockey-club/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Edmonton Oilers vs Utah Hockey Club" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH6ysIRCBA7eBkNRDSTIEpZAoQMGyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey",09:00 - Edmonton Oilers vs Utah Hockey Club [Bravo] - (01/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735696800000-utah-hc-vs-edmonton-oilers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Edmonton Oilers vs Utah Hockey Club" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH6ysIRCBA7eBkNRDSTIEpZAoQMGyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey",09:00 - Edmonton Oilers vs Utah Hockey Club [Charlie] - (01/01/2025)
 https://rr.vipstreams.in/Charlie/js/utah-hockey-club-vs-edmonton-oilers-1629418849/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Edmonton Oilers vs Utah Hockey Club" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH6ysIRCBA7eBkNRDSTIEpZAoQMGyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Hockey",09:00 - Edmonton Oilers vs Utah Hockey Club [Delta] - (01/01/2025)
-https://rr.vipstreams.in/Delta/js/edmonton-oilers-vs-utah-hockey-386831/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Calgary Flames vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJCyUIfmN66tIHViMHTBkiEX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp" group-title="Hockey",09:00 - Calgary Flames vs Vancouver Canucks [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/calgary-flames-vs-vancouver-canucks/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Calgary Flames vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJCyUIfmN66tIHViMHTBkiEX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp" group-title="Hockey",09:00 - Calgary Flames vs Vancouver Canucks [Bravo] - (01/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735696800000-vancouver-canucks-vs-calgary-flames/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Calgary Flames vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJCyUIfmN66tIHViMHTBkiEX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp" group-title="Hockey",09:00 - Calgary Flames vs Vancouver Canucks [Charlie] - (01/01/2025)
 https://rr.vipstreams.in/Charlie/js/vancouver-canucks-vs-calgary-flames-1629418850/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Calgary Flames vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJCyUIfmN66tIHViMHTBkiEX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp" group-title="Hockey",09:00 - Calgary Flames vs Vancouver Canucks [Delta] - (01/01/2025)
 https://rr.vipstreams.in/Delta/js/calgary-flames-vs-vancouver-canucks-hockey-386830/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Phoenix Suns vs Memphis Grizzlies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijBjCSEGWoheILCAMhDpy4gPSWSClhFzGm1Sh5byjanPf5WwGBa4mIQQA.webp" group-title="Basketball",09:00 - Phoenix Suns vs Memphis Grizzlies [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/phoenix-suns-vs-memphis-grizzlies/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Phoenix Suns vs Memphis Grizzlies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijBjCSEGWoheILCAMhDpy4gPSWSClhFzGm1Sh5byjanPf5WwGBa4mIQQA.webp" group-title="Basketball",09:00 - Phoenix Suns vs Memphis Grizzlies [Bravo] - (01/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735696800000-memphis-grizzlies-vs-phoenix-suns/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Phoenix Suns vs Memphis Grizzlies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijBjCSEGWoheILCAMhDpy4gPSWSClhFzGm1Sh5byjanPf5WwGBa4mIQQA.webp" group-title="Basketball",09:00 - Phoenix Suns vs Memphis Grizzlies [Charlie] - (01/01/2025)
-https://rr.vipstreams.in/Charlie/js/memphis-grizzlies-vs-phoenix-suns-1629418836/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Phoenix Suns vs Memphis Grizzlies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijBjCSEGWoheILCAMhDpy4gPSWSClhFzGm1Sh5byjanPf5WwGBa4mIQQA.webp" group-title="Basketball",09:00 - Phoenix Suns vs Memphis Grizzlies [Delta] - (01/01/2025)
-https://rr.vipstreams.in/Delta/js/phoenix-suns-vs-memphis-grizzlies-basketball-414327/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Phoenix Suns vs Memphis Grizzlies" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijBjCSEGWoheILCAMhDpy4gPSWSClhFzGm1Sh5byjanPf5WwGBa4mIQQA.webp" group-title="Basketball",09:00 - Phoenix Suns vs Memphis Grizzlies [Echo] - (01/01/2025)
-https://rr.vipstreams.in/Echo/js/phoenix-suns-memphis-grizzlies-19845/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Los Angeles Lakers vs Cleveland Cavaliers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDFgwK7JxC8QWENRBnDp04lMkWSClhFzGKMKpQ835RtTkf8rMDaYowhQA.webp" group-title="Basketball",09:00 - Los Angeles Lakers vs Cleveland Cavaliers [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/los-angeles-lakers-vs-cleveland-cavaliers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Los Angeles Lakers vs Cleveland Cavaliers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDFgwK7JxC8QWENRBnDp04lMkWSClhFzGKMKpQ835RtTkf8rMDaYowhQA.webp" group-title="Basketball",09:00 - Los Angeles Lakers vs Cleveland Cavaliers [Bravo] - (01/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735696800000-cleveland-cavaliers-vs-los-angeles-lakers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Los Angeles Lakers vs Cleveland Cavaliers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDFgwK7JxC8QWENRBnDp04lMkWSClhFzGKMKpQ835RtTkf8rMDaYowhQA.webp" group-title="Basketball",09:00 - Los Angeles Lakers vs Cleveland Cavaliers [Charlie] - (01/01/2025)
-https://rr.vipstreams.in/Charlie/js/cleveland-cavaliers-vs-los-angeles-lakers-1629418837/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Los Angeles Lakers vs Cleveland Cavaliers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDFgwK7JxC8QWENRBnDp04lMkWSClhFzGKMKpQ835RtTkf8rMDaYowhQA.webp" group-title="Basketball",09:00 - Los Angeles Lakers vs Cleveland Cavaliers [Delta] - (01/01/2025)
-https://rr.vipstreams.in/Delta/js/los-angeles-lakers-vs-cleveland-cavaliers-basketball-414326/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Los Angeles Lakers vs Cleveland Cavaliers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDFgwK7JxC8QWENRBnDp04lMkWSClhFzGKMKpQ835RtTkf8rMDaYowhQA.webp" group-title="Basketball",09:00 - Los Angeles Lakers vs Cleveland Cavaliers [Echo] - (01/01/2025)
-https://rr.vipstreams.in/Echo/js/los-angeles-lakers-cleveland-cavaliers-19844/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Auckland v Stadium Kenin - Tauson" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",08:30 - WTA Auckland v Stadium Kenin - Tauson [Bravo] - (01/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735695000000-wta-auckland-stadium-kenin-tauson/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Brisbane Day 4" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",08:00 - Brisbane Day 4 [Charlie] - (01/01/2025)
 https://rr.vipstreams.in/Charlie/js/brisbane-day-4-1629420372/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Brisbane Open - Day 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",08:00 - Brisbane Open - Day 2 [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/brisbane-open-day-2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NXT #766 New Years Eve" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",08:00 - NXT #766 New Years Eve [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/wwe-nxt/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Boise State vs Penn State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",07:30 - Boise State vs Penn State [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/penn-state-6-vs-boise-state-3/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -224,3 +194,27 @@ https://rr.vipstreams.in/Alpha/js/guangdong-vs-tianjin-tianjin/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/beijing-vs-liaoning-liaoning/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Xinjiang v Shandong" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",19:00 - Xinjiang v Shandong [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/xinjiang-vs-shandong/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - PDC World Darts Championship [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/pdc-world-darts-championship/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PDC World Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - PDC World Darts Championship [Charlie] - (01/01/2025)
+https://rr.vipstreams.in/Charlie/js/202425-paddy-power-world-darts-championship-day-14-1629420377/1/playlist.m3u8
+#EXTINF:-1 tvg-name="QPR vs Watford" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmCYgxhQYl4gsIAym0hpIGJZDVDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",19:30 - QPR vs Watford [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/queens-park-rangers-vs-watford/1/playlist.m3u8
+#EXTINF:-1 tvg-name="QPR vs Watford" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmCYgxhQYl4gsIAym0hpIGJZDVDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",19:30 - QPR vs Watford [Charlie] - (01/01/2025)
+https://rr.vipstreams.in/Charlie/js/queens-park-rangers-vs-watford-19142951/1/playlist.m3u8
+#EXTINF:-1 tvg-name="QPR vs Watford" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmCYgxhQYl4gsIAym0hpIGJZDVDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",19:30 - QPR vs Watford [Delta] - (01/01/2025)
+https://rr.vipstreams.in/Delta/js/qpr-vs-watford-football-1216139/1/playlist.m3u8
+#EXTINF:-1 tvg-name="QPR vs Watford" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmCYgxhQYl4gsIAym0hpIGJZDVDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",19:30 - QPR vs Watford [Echo] - (01/01/2025)
+https://rr.vipstreams.in/Echo/js/qpr-watford-20999/1/playlist.m3u8
+#EXTINF:-1 tvg-name="QPR vs Watford" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmCYgxhQYl4gsIAym0hpIGJZDVDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",19:30 - QPR vs Watford [Foxtrot] - (01/01/2025)
+https://rr.vipstreams.in/Foxtrot/js/qpr-vs-watford-202501011200/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plymouth vs Bristol City" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQMAWBCt5IXiCxGQKECRDTtt6pZZIKWEXMYowqlD0-lG1OW98AzBPcTEIIA.webp" group-title="Football",19:30 - Plymouth vs Bristol City [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/plymouth-argyle-vs-bristol-city/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plymouth vs Bristol City" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQMAWBCt5IXiCxGQKECRDTtt6pZZIKWEXMYowqlD0-lG1OW98AzBPcTEIIA.webp" group-title="Football",19:30 - Plymouth vs Bristol City [Charlie] - (01/01/2025)
+https://rr.vipstreams.in/Charlie/js/plymouth-argyle-vs-bristol-city-19142949/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plymouth vs Bristol City" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQMAWBCt5IXiCxGQKECRDTtt6pZZIKWEXMYowqlD0-lG1OW98AzBPcTEIIA.webp" group-title="Football",19:30 - Plymouth vs Bristol City [Delta] - (01/01/2025)
+https://rr.vipstreams.in/Delta/js/plymouth-vs-bristol-city-football-1216137/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plymouth vs Bristol City" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQMAWBCt5IXiCxGQKECRDTtt6pZZIKWEXMYowqlD0-lG1OW98AzBPcTEIIA.webp" group-title="Football",19:30 - Plymouth vs Bristol City [Echo] - (01/01/2025)
+https://rr.vipstreams.in/Echo/js/plymouth-bristol-city-21000/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plymouth vs Bristol City" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQMAWBCt5IXiCxGQKECRDTtt6pZZIKWEXMYowqlD0-lG1OW98AzBPcTEIIA.webp" group-title="Football",19:30 - Plymouth vs Bristol City [Foxtrot] - (01/01/2025)
+https://rr.vipstreams.in/Foxtrot/js/plymouth-vs-bristol-city-202501011200/1/playlist.m3u8
