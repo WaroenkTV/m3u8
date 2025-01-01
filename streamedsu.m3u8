@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="WTA Brisbane v Pat Rafter Arena Azarenka - Joint" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - WTA Brisbane v Pat Rafter Arena Azarenka - Joint [Bravo] - (01/01/2025)
+https://rr.vipstreams.in/Bravo/js/1735720200000-wta-brisbane-pat-rafter-arena-azarenka-joint/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Brisbane: Victoria Azarenka v Maya Joint" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - WTA Brisbane: Victoria Azarenka v Maya Joint [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-brisbane-victoria-azarenka-vs-maya-joint/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Heat v Stars" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:15 - Heat v Stars [Charlie] - (01/01/2025)
 https://rr.vipstreams.in/Charlie/js/heat-vs-stars-1629420376/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Brisbane Heat vs Melbourne Stars" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdokaIQIWiRC8QWEDAMgUIfdTPXJ+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Cricket",15:15 - Brisbane Heat vs Melbourne Stars [Alpha] - (01/01/2025)
@@ -108,16 +112,14 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Brisbane: Victoria Azarenka v Maya Joint" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - WTA Brisbane: Victoria Azarenka v Maya Joint [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-brisbane-victoria-azarenka-vs-maya-joint/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Brisbane: Linda Noskova v Anca Todoni" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - WTA Brisbane: Linda Noskova v Anca Todoni [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-brisbane-linda-noskova-vs-anca-todoni/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Brisbane: Shuko Aoyama / Eri Hozumi v Anna Danilina / Irina Khromacheva" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:40 - WTA Brisbane: Shuko Aoyama / Eri Hozumi v Anna Danilina / Irina Khromacheva [Alpha] - (01/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-brisbane-shuko-aoyama-eri-hozumi-vs-anna-danilina-irina-khromacheva/1/playlist.m3u8
 #EXTINF:-1 tvg-name="United Cup: USA v China" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - United Cup: USA v China [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/united-cup-usa-vs-china/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Hong Kong: Zizou Bergs v Arthur Fils" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - ATP Hong Kong: Zizou Bergs v Arthur Fils [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/atp-hong-kong-zizou-bergs-vs-arthur-fils/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Brisbane: Shuko Aoyama / Eri Hozumi v Anna Danilina / Irina Khromacheva" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - WTA Brisbane: Shuko Aoyama / Eri Hozumi v Anna Danilina / Irina Khromacheva [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-brisbane-shuko-aoyama-eri-hozumi-vs-anna-danilina-irina-khromacheva/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Brisbane: Linda Noskova v Anca Todoni" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - WTA Brisbane: Linda Noskova v Anca Todoni [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-brisbane-linda-noskova-vs-anca-todoni/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Brisbane Day 5" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:00 - Brisbane Day 5 [Charlie] - (01/01/2025)
 https://rr.vipstreams.in/Charlie/js/brisbane-day-5-1629420372/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Brisbane: Jordan Thompson v Alex Michelsen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:00 - ATP Brisbane: Jordan Thompson v Alex Michelsen [Alpha] - (01/01/2025)
@@ -390,3 +392,7 @@ https://rr.vipstreams.in/Alpha/js/cardiff-rugby-vs-ospreys/1/playlist.m3u8
 https://rr.vipstreams.in/Charlie/js/cardiff-rugby-vs-ospreys-1629420378/1/playlist.m3u8
 #EXTINF:-1 tvg-name="136th Annual Rose Parade" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:00 - 136th Annual Rose Parade [Alpha] - (01/01/2025)
 https://rr.vipstreams.in/Alpha/js/136th-annual-rose-parade/1/playlist.m3u8
+#EXTINF:-1 tvg-name="HC TIWAG Innsbruck v HCB Sudtirol Alperia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - HC TIWAG Innsbruck v HCB Sudtirol Alperia [Charlie] - (01/01/2025)
+https://rr.vipstreams.in/Charlie/js/hc-tiwag-innsbruck-vs-hcb-sudtirol-alperia-1629420379/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Anwil vs King Szczecin" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Anwil vs King Szczecin [Alpha] - (01/01/2025)
+https://rr.vipstreams.in/Alpha/js/anwil-wloclawek-vs-szczecin/1/playlist.m3u8
