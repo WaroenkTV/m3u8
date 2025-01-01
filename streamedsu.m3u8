@@ -86,10 +86,6 @@ https://rr.vipstreams.in/Bravo/js/1735758000000-11-uconn-vs-depaul/1/playlist.m3
 https://rr.vipstreams.in/Delta/js/depaul-vs-uconn-basketball-428758/1/playlist.m3u8
 #EXTINF:-1 tvg-name="The Best of Big Damo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",01:30 - The Best of Big Damo [Charlie] - (02/01/2025)
 https://rr.vipstreams.in/Charlie/js/the-best-of-big-damo-1629420422/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hapoel Beer Sheva vs Maccabi Tel Aviv" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmPZRedELxDSQRrCEQQDIEiBggULJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",01:30 - Hapoel Beer Sheva vs Maccabi Tel Aviv [Bravo] - (02/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735756200000-hapoel-beer-sheva-maccabi-tel-aviv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Coventry v Nottingham Forest" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Coventry v Nottingham Forest [Bravo] - (02/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735754400000-coventry-nottingham-forest/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WWE The Bump" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",01:00 - WWE The Bump [Alpha] - (02/01/2025)
 https://rr.vipstreams.in/Alpha/js/wwe-the-bump/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Westchester Knicks vs Indiana Mad Ants" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:00 - Westchester Knicks vs Indiana Mad Ants [Alpha] - (02/01/2025)
@@ -104,12 +100,14 @@ https://rr.vipstreams.in/Bravo/js/1735754400000-5-texas-vs-4-arizona-state/1/pla
 https://rr.vipstreams.in/Charlie/js/texas-vs-arizona-state-1629418890/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Arizona State vs Texas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",01:00 - Arizona State vs Texas [Delta] - (02/01/2025)
 https://rr.vipstreams.in/Delta/js/arizona-state-vs-texas-american-football-17267/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hull vs Middlesbrough" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvDC8tPadhC8QWAyBQgSIaSBjWQ1OyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",00:30 - Hull vs Middlesbrough [Foxtrot] - (02/01/2025)
-https://rr.vipstreams.in/Foxtrot/js/hull-city-vs-middlesbrough-202501011700/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Brentford vs Arsenal" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBAwQY6iFokQvENJBmUWk-p1GQWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",00:30 - Brentford vs Arsenal [Foxtrot] - (02/01/2025)
-https://rr.vipstreams.in/Foxtrot/js/brentford-vs-arsenal-202412291445/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Scarlets vs Dragons" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvgFNgs3pBC8Q0oyERmQ1UyBKmWSClhFzGKMKpQ835RtTkfN9GBu4mIQQA.webp" group-title="Rugby",00:15 - Scarlets vs Dragons [Bravo] - (02/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735751700000-scarlets-dragons/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MUTV | Manchester United TV | MUFC TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",MUTV | Manchester United TV | MUFC TV
+https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Saturday Social" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Saturday Social
+https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
+https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -146,28 +144,12 @@ https://rr.vipstreams.in/Alpha/js/nfl-redzone/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/nfl-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN
 https://rr.vipstreams.in/Alpha/js/espn/1/playlist.m3u8
-#EXTINF:-1 tvg-name="MUTV | Manchester United TV | MUFC TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",MUTV | Manchester United TV | MUFC TV
-https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Saturday Social" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Saturday Social
-https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
-https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kingston Frontenacs v Brampton Steelheads" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",04:00 - Kingston Frontenacs v Brampton Steelheads [Delta] - (02/01/2025)
 https://rr.vipstreams.in/Delta/js/kingston-frontenacs-vs-brampton-steelheads-hockey-369709/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Auckland: Ann Li / Katie Volynets v Makoto Ninomiya / Fanny Stollar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",04:00 - WTA Auckland: Ann Li / Katie Volynets v Makoto Ninomiya / Fanny Stollar [Alpha] - (02/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-auckland-ann-li-katie-volynets-vs-makoto-ninomiya-fanny-stollar/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Auckland: Madison Keys v Jaqueline Cristian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",04:00 - WTA Auckland: Madison Keys v Jaqueline Cristian [Alpha] - (02/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-auckland-madison-keys-vs-jaqueline-cristian/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Auckland: Madison Keys v Jaqueline Cristian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",04:00 - WTA Auckland: Madison Keys v Jaqueline Cristian [Alpha] - (02/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-auckland-jaqueline-cristian-vs-alycia-parks/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Auckland: Nao Hibino v Robin Montgomery" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",04:00 - WTA Auckland: Nao Hibino v Robin Montgomery [Alpha] - (02/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-auckland-nao-hibino-vs-robin-montgomery/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Auckland: Hailey Baptiste v Jodie Burrage" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",04:00 - WTA Auckland: Hailey Baptiste v Jodie Burrage [Alpha] - (02/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-auckland-hailey-baptiste-vs-jodie-burrage/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Calgary Wranglers vs Abbotsford Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDGzaKYGBAHeILCESISIaSBghqm2yyQUsIuYxRhVujp-KNqcrr4rHqe4mIQQA.webp" group-title="Hockey",04:00 - Calgary Wranglers vs Abbotsford Canucks [Delta] - (02/01/2025)
 https://rr.vipstreams.in/Delta/js/calgary-wranglers-vs-abbotsford-canucks-hockey-373731/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Edmonton Oil Kings vs Calgary Hitmen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",04:00 - Edmonton Oil Kings vs Calgary Hitmen [Delta] - (02/01/2025)
@@ -216,6 +198,10 @@ https://rr.vipstreams.in/Alpha/js/villanova-vs-butler/1/playlist.m3u8
 https://rr.vipstreams.in/Delta/js/butler-vs-villanova-basketball-428773/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bradley v Indiana State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",07:00 - Bradley v Indiana State [Charlie] - (02/01/2025)
 https://rr.vipstreams.in/Charlie/js/bradley-vs-indiana-state-1629418883/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Auckland: Ann Li / Katie Volynets v Makoto Ninomiya / Fanny Stollar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - WTA Auckland: Ann Li / Katie Volynets v Makoto Ninomiya / Fanny Stollar [Alpha] - (02/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-auckland-ann-li-katie-volynets-vs-makoto-ninomiya-fanny-stollar/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Auckland: Madison Keys v Jaqueline Cristian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - WTA Auckland: Madison Keys v Jaqueline Cristian [Alpha] - (02/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-auckland-madison-keys-vs-jaqueline-cristian/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Auckland Open - Day 4" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Auckland Open - Day 4 [Alpha] - (02/01/2025)
 https://rr.vipstreams.in/Alpha/js/auckland-open-day-4/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Auckland Open - Day 4" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Auckland Open - Day 4 [Charlie] - (02/01/2025)
@@ -308,6 +294,8 @@ https://rr.vipstreams.in/Charlie/js/dallas-mavericks-vs-houston-rockets-16294188
 https://rr.vipstreams.in/Echo/js/houston-rockets-dallas-mavericks-19851/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Auckland: Aleksandra Krunic / Sabrina Santamaria v Peangtarn Plipuech / Chia Yi Tsao" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",08:30 - WTA Auckland: Aleksandra Krunic / Sabrina Santamaria v Peangtarn Plipuech / Chia Yi Tsao [Alpha] - (02/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-auckland-aleksandra-krunic-sabrina-santamaria-vs-peangtarn-plipuech-chia-yi-tsao/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Auckland: Nao Hibino v Robin Montgomery" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",08:30 - WTA Auckland: Nao Hibino v Robin Montgomery [Alpha] - (02/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-auckland-nao-hibino-vs-robin-montgomery/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Notre Dame 7 v Georgia 2-Postponed" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:45 - Notre Dame 7 v Georgia 2-Postponed [Alpha] - (02/01/2025)
 https://rr.vipstreams.in/Alpha/js/notre-dame-7-vs-georgia-2-postponed/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Belmont v Northern Iowa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",09:00 - Belmont v Northern Iowa [Charlie] - (02/01/2025)
