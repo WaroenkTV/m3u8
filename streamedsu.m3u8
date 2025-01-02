@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Sweden U20 v Latvia U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:00 - Sweden U20 v Latvia U20 [Alpha] - (03/01/2025)
+https://rr.vipstreams.in/Alpha/js/sweden-u20-vs-latvia-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Trefl Sopot vs KK Budućnost" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtTloQOaiF76dIPdJApDEEDBCXm+YEgpYRcxijCqUPD+UaaxXvb0YB7iYhBAA.webp" group-title="Basketball",00:00 - Trefl Sopot vs KK Budućnost [Alpha] - (03/01/2025)
+https://rr.vipstreams.in/Alpha/js/trefl-sopot-vs-buducnost/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Trefl Sopot vs KK Budućnost" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtTloQOaiF76dIPdJApDEEDBCXm+YEgpYRcxijCqUPD+UaaxXvb0YB7iYhBAA.webp" group-title="Basketball",00:00 - Trefl Sopot vs KK Budućnost [Delta] - (03/01/2025)
+https://rr.vipstreams.in/Delta/js/trefl-sopot-vs-buducnost-basketball-404480/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Germany U20 v Kazakhstan U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:00 - Germany U20 v Kazakhstan U20 [Bravo] - (02/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735833600000-germany-u20-kazakhstan-u20/1/playlist.m3u8
 #EXTINF:-1 tvg-name="St Johnstone vs Hibernian" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrOlgUwMGF4hEBrCGogY5kAZIgUVkIvzAkFLCLmMUYVTo7fyjNRyOk70emKMEUA.webp" group-title="Football",22:00 - St Johnstone vs Hibernian [Delta] - (02/01/2025)
@@ -10,12 +16,8 @@ https://rr.vipstreams.in/Foxtrot/js/st-johnstone-vs-hibernian-202501021430/1/pla
 https://rr.vipstreams.in/Delta/js/aberdeen-vs-ross-county-football-1220230/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Aberdeen vs Ross County" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBjBp5EiGpMQvEFn2bzxvSiOaWSClhFzGKMKpQ835RgbEf8rMBgbuJiEEA.webp" group-title="Football",22:00 - Aberdeen vs Ross County [Foxtrot] - (02/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/aberdeen-vs-ross-county-202501021430/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hearts vs Motherwell" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBBYtIMVGkheO6iBinDukCguT8wJBSwi5jFGFUoe78o2pzPdvRg7uJ6QA.webp" group-title="Football",22:00 - Hearts vs Motherwell [Delta] - (02/01/2025)
-https://rr.vipstreams.in/Delta/js/heart-of-midlothian-vs-motherwell-football-1220231/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hearts vs Motherwell" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBBYtIMVGkheO6iBinDukCguT8wJBSwi5jFGFUoe78o2pzPdvRg7uJ6QA.webp" group-title="Football",22:00 - Hearts vs Motherwell [Foxtrot] - (02/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/heart-of-midlothian-vs-motherwell-202501021430/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kilmarnock vs St Mirren" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKilAhqIFNpAHeILPpggzRkrpBHm+YEgpYRcxijCrNHD+UbU5mvb0YB7iYhBAA.webp" group-title="Football",22:00 - Kilmarnock vs St Mirren [Delta] - (02/01/2025)
-https://rr.vipstreams.in/Delta/js/kilmarnock-vs-st-mirren-football-1220232/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kilmarnock vs St Mirren" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKilAhqIFNpAHeILPpggzRkrpBHm+YEgpYRcxijCrNHD+UbU5mvb0YB7iYhBAA.webp" group-title="Football",22:00 - Kilmarnock vs St Mirren [Foxtrot] - (02/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/kilmarnock-vs-st-mirren-202501021430/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rangers vs Celtic" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKilAgoYwrxD6sIaiBimDIEiBQX4LJBSwi5jFGFWaO78o2pzN+KzAYO7iYhBAA.webp" group-title="Football",22:00 - Rangers vs Celtic [Alpha] - (02/01/2025)
@@ -72,16 +74,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Trefl Sopot v Buducnost VOLI Podgorica" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Trefl Sopot v Buducnost VOLI Podgorica [Charlie] - (03/01/2025)
-https://rr.vipstreams.in/Charlie/js/trefl-sopot-vs-buducnost-voli-podgorica-1629418901/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sweden U20 v Latvia U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",00:00 - Sweden U20 v Latvia U20 [Alpha] - (03/01/2025)
-https://rr.vipstreams.in/Alpha/js/sweden-u20-vs-latvia-u20/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lietkabelis v Cedevita Olimpija" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Lietkabelis v Cedevita Olimpija [Alpha] - (03/01/2025)
-https://rr.vipstreams.in/Alpha/js/lietkabelis-vs-cedevita-olimpija/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Trefl Sopot vs KK Budućnost" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtTloQOaiF76dIPdJApDEEDBCXm+YEgpYRcxijCqUPD+UaaxXvb0YB7iYhBAA.webp" group-title="Basketball",00:00 - Trefl Sopot vs KK Budućnost [Alpha] - (03/01/2025)
-https://rr.vipstreams.in/Alpha/js/trefl-sopot-vs-buducnost/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Trefl Sopot vs KK Budućnost" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtTloQOaiF76dIPdJApDEEDBCXm+YEgpYRcxijCqUPD+UaaxXvb0YB7iYhBAA.webp" group-title="Basketball",00:00 - Trefl Sopot vs KK Budućnost [Delta] - (03/01/2025)
-https://rr.vipstreams.in/Delta/js/trefl-sopot-vs-buducnost-basketball-404480/1/playlist.m3u8
 #EXTINF:-1 tvg-name="The Sentry: Featured Group & Featured Hole #14 (First Round)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:30 - The Sentry: Featured Group & Featured Hole #14 (First Round) [Alpha] - (03/01/2025)
 https://rr.vipstreams.in/Alpha/js/the-sentry-featured-group-featured-hole-14-first-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="The Sentry: Featured Group & Featured Hole #14 (First Round)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:30 - The Sentry: Featured Group & Featured Hole #14 (First Round) [Charlie] - (03/01/2025)
