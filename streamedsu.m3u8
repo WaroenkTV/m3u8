@@ -1,9 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Vietnam v Thailand" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Vietnam v Thailand [Bravo] - (02/01/2025)
+https://rr.vipstreams.in/Bravo/js/1735822800000-vietnam-thailand/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Vietnam v Thailand" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Vietnam v Thailand [Delta] - (02/01/2025)
+https://rr.vipstreams.in/Delta/js/vietnam-vs-thailand-football-1331837/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Hong Kong v Centre Court Gonzalez/Miedler - Arends/Johnson" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",19:00 - ATP Hong Kong v Centre Court Gonzalez/Miedler - Arends/Johnson [Bravo] - (02/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735819200000-atp-hong-kong-centre-court-gonzalez-miedler-arends-johnson/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Hong Kong: Andrey Rublev v Fabian Marozsan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:45 - ATP Hong Kong: Andrey Rublev v Fabian Marozsan [Alpha] - (02/01/2025)
-https://rr.vipstreams.in/Alpha/js/atp-hong-kong-andrey-rublev-vs-fabian-marozsan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Hong Kong v Centre Court Rublev - Marozsan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:30 - ATP Hong Kong v Centre Court Rublev - Marozsan [Bravo] - (02/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735813800000-atp-hong-kong-centre-court-rublev-marozsan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Brisbane v Pat Rafter Arena Sabalenka - Putintseva" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:00 - WTA Brisbane v Pat Rafter Arena Sabalenka - Putintseva [Bravo] - (02/01/2025)
@@ -56,8 +58,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Vietnam v Thailand" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Vietnam v Thailand [Delta] - (02/01/2025)
-https://rr.vipstreams.in/Delta/js/vietnam-vs-thailand-football-1331837/1/playlist.m3u8
 #EXTINF:-1 tvg-name="St Johnstone vs Hibernian" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrOlgUwMGF4hEBrCGogY5kAZIgUVkIvzAkFLCLmMUYVTo7fyjNRyOk70emKMEUA.webp" group-title="Football",22:00 - St Johnstone vs Hibernian [Alpha] - (02/01/2025)
 https://rr.vipstreams.in/Alpha/js/st-johnstone-vs-hibernian/1/playlist.m3u8
 #EXTINF:-1 tvg-name="St Johnstone vs Hibernian" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrOlgUwMGF4hEBrCGogY5kAZIgUVkIvzAkFLCLmMUYVTo7fyjNRyOk70emKMEUA.webp" group-title="Football",22:00 - St Johnstone vs Hibernian [Delta] - (02/01/2025)
@@ -198,3 +198,7 @@ https://rr.vipstreams.in/Alpha/js/gran-canaria-vs-hapoel-tel-aviv/1/playlist.m3u
 https://rr.vipstreams.in/Delta/js/gran-canaria-vs-hapoel-tel-aviv-basketball-404483/1/playlist.m3u8
 #EXTINF:-1 tvg-name="CB 1939 Canarias vs Basket Zaragoza" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBDcADAnlMQvEFhCIjmxBE0grKFkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp" group-title="Basketball",03:30 - CB 1939 Canarias vs Basket Zaragoza [Alpha] - (03/01/2025)
 https://rr.vipstreams.in/Alpha/js/tenerife-vs-basket-zaragoza/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Notre Dame 7 v Georgia 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",04:00 - Notre Dame 7 v Georgia 2 [Alpha] - (03/01/2025)
+https://rr.vipstreams.in/Alpha/js/notre-dame-7-vs-georgia-2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Winthrop vs USC Upstate" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBTyBAkGPwheIaSCymQ1c5ZDmYLJBSwi5jFGFVaO78o2pyt+KzAYO7iYhBAA.webp" group-title="Basketball",04:00 - Winthrop vs USC Upstate [Delta] - (03/01/2025)
+https://rr.vipstreams.in/Delta/js/winthrop-vs-usc-upstate-basketball-428783/1/playlist.m3u8
