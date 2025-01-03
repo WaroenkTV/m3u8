@@ -1,23 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Cyclocross, Koksijde Women & Men" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",19:40 - Cyclocross, Koksijde Women & Men [Alpha] - (03/01/2025)
-https://rr.vipstreams.in/Alpha/js/cyclocross-koksijde-women-men/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Simulcast" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Simulcast [Bravo] - (03/01/2025)
+https://rr.vipstreams.in/Bravo/js/1735909200000-simulcast/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hapoel Raanana vs Hapoel Kfar Shalem" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Hapoel Raanana vs Hapoel Kfar Shalem [Bravo] - (03/01/2025)
+https://rr.vipstreams.in/Bravo/js/1735909200000-hapoel-raanana-hapoel-kfar-shalem/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bnei Yehuda vs Hapoel Ironi Akko" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Bnei Yehuda vs Hapoel Ironi Akko [Bravo] - (03/01/2025)
+https://rr.vipstreams.in/Bravo/js/1735909200000-bnei-yehuda-hapoel-akko/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Men's HS128 Qualifying" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",19:30 - Men's HS128 Qualifying [Alpha] - (03/01/2025)
 https://rr.vipstreams.in/Alpha/js/men-s-hs128-qualifying/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Hong Kong: Kei Nishikori v Cameron Norrie" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",19:25 - ATP Hong Kong: Kei Nishikori v Cameron Norrie [Alpha] - (03/01/2025)
 https://rr.vipstreams.in/Alpha/js/atp-hong-kong-kei-nishikori-vs-cameron-norrie/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tractor Chelyabinsk v Khabarovsk" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",18:00 - Tractor Chelyabinsk v Khabarovsk [Bravo] - (03/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735902000000-tractor-chelyabinsk-khabarovsk/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Perth Glory vs Western United FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETSQ1SpxAwQvEFgNnEh6jpAQjLJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",17:45 - Perth Glory vs Western United FC [Alpha] - (03/01/2025)
-https://rr.vipstreams.in/Alpha/js/perth-glory-vs-western-united/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Perth Glory vs Western United FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETSQ1SpxAwQvEFgNnEh6jpAQjLJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",17:45 - Perth Glory vs Western United FC [Bravo] - (03/01/2025)
-https://rr.vipstreams.in/Bravo/js/1735901100000-perth-glory-western-united/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Perth Glory vs Western United FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETSQ1SpxAwQvEFgNnEh6jpAQjLJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",17:45 - Perth Glory vs Western United FC [Delta] - (03/01/2025)
-https://rr.vipstreams.in/Delta/js/perth-glory-vs-western-united-football-1280735/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth Glory vs Western United FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETSQ1SpxAwQvEFgNnEh6jpAQjLJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",17:45 - Perth Glory vs Western United FC [Foxtrot] - (03/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/perth-glory-vs-western-united-202501031015/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Brisbane: Novak Djokovic v Reilly Opelka" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:40 - ATP Brisbane: Novak Djokovic v Reilly Opelka [Alpha] - (03/01/2025)
-https://rr.vipstreams.in/Alpha/js/atp-brisbane-novak-djokovic-vs-reilly-opelka/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Hong Kong v Centre Court Nishikori - Norrie" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:30 - ATP Hong Kong v Centre Court Nishikori - Norrie [Bravo] - (03/01/2025)
 https://rr.vipstreams.in/Bravo/js/1735900200000-atp-hong-kong-centre-court-nishikori-norrie/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Scorchers v Thunder" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",17:15 - Scorchers v Thunder [Charlie] - (03/01/2025)
@@ -292,3 +288,11 @@ https://rr.vipstreams.in/Delta/js/guimaraes-vs-sporting-cp-football-1231879/1/pl
 https://rr.vipstreams.in/Echo/js/guimaraes-sporting-cp-21129/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Guimaraes vs Sporting CP" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtLBJ5A4EhoheILCGogYIEiESJp1kIvx6KWEXMYowqlDy-lG1HI+TvRgXuJiEEA.webp" group-title="Football",03:15 - Guimaraes vs Sporting CP [Foxtrot] - (04/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/guimaraes-vs-sporting-cp-202501042330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hawk Talk with Bill Self" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - Hawk Talk with Bill Self [Charlie] - (04/01/2025)
+https://rr.vipstreams.in/Charlie/js/hawk-talk-with-bill-self-1629419823/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Texas State vs North Texas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",04:00 - Texas State vs North Texas [Alpha] - (04/01/2025)
+https://rr.vipstreams.in/Alpha/js/north-texas-vs-texas-state/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Texas State vs North Texas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",04:00 - Texas State vs North Texas [Charlie] - (04/01/2025)
+https://rr.vipstreams.in/Charlie/js/north-texas-vs-texas-state-1629419830/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Texas State vs North Texas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",04:00 - Texas State vs North Texas [Delta] - (04/01/2025)
+https://rr.vipstreams.in/Delta/js/texas-state-vs-north-texas-american-football-17269/1/playlist.m3u8
