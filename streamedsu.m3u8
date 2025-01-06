@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Paderborn vs SC Heerenveen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Paderborn vs SC Heerenveen [Delta] - (06/01/2025)
+https://rr.vipstreams.in/Delta/js/sc-paderborn-07-vs-heerenveen-football-1333107/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hoffenheim vs FC Augsburg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Hoffenheim vs FC Augsburg [Delta] - (06/01/2025)
+https://rr.vipstreams.in/Delta/js/1899-hoffenheim-vs-fc-augsburg-football-1333106/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fortuna Düsseldorf vs Feyenoord" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Fortuna Düsseldorf vs Feyenoord [Delta] - (06/01/2025)
+https://rr.vipstreams.in/Delta/js/fortuna-dusseldorf-vs-feyenoord-football-1333105/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Borussia Dortmund II vs Helmond Sport" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Borussia Dortmund II vs Helmond Sport [Delta] - (06/01/2025)
+https://rr.vipstreams.in/Delta/js/borussia-dortmund-ii-vs-helmond-sport-football-1333104/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Khorfakkan vs Bani Yas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKr3LUO2JiF4hpIEiETVjpkFkvSWSClhFzGKMKpQ835RtrEf8rMBgbuJiEEA.webp" group-title="Football",19:55 - Khorfakkan vs Bani Yas [Delta] - (06/01/2025)
+https://rr.vipstreams.in/Delta/js/khorfakkan-vs-baniyas-sc-football-1314512/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Raed v Al Jabalain" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Al Raed v Al Jabalain [Alpha] - (06/01/2025)
 https://rr.vipstreams.in/Alpha/js/al-raed-vs-al-jabalain/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Raed v Al Jabalain" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Al Raed v Al Jabalain [Charlie] - (06/01/2025)
@@ -16,8 +26,6 @@ https://rr.vipstreams.in/Delta/js/fc-schalke-04-vs-fc-aarau-football-1333103/1/p
 https://rr.vipstreams.in/Alpha/js/liaoning-vs-zhejiang-guangsha/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Adelaide: Yoshihito Nishioka v Thanasi Kokkinakis" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",18:20 - ATP Adelaide: Yoshihito Nishioka v Thanasi Kokkinakis [Alpha] - (06/01/2025)
 https://rr.vipstreams.in/Alpha/js/atp-adelaide-yoshihito-nishioka-vs-thanasi-kokkinakis/1/playlist.m3u8
-#EXTINF:-1 tvg-name="RB Leipzig v Banik Sous" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",18:00 - RB Leipzig v Banik Sous [Delta] - (06/01/2025)
-https://rr.vipstreams.in/Delta/js/rb-leipzig-vs-banik-sous-football-1333100/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 6: Alice Tubello v Maria Timofeeva" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:30 - Court 6: Alice Tubello v Maria Timofeeva [Alpha] - (06/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-6-alice-tubello-vs-maria-timofeeva/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bayern Munich vs Greuther Fürth" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",17:30 - Bayern Munich vs Greuther Fürth [Delta] - (06/01/2025)
@@ -46,8 +54,6 @@ https://rr.vipstreams.in/Alpha/js/court-15-juanpablo-varillas-vs-alejandro-moro-
 https://rr.vipstreams.in/Alpha/js/court-17-brandon-holt-vs-gianluca-mager/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 5: Javier Barranco Cosano v Facundo Mena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:15 - Court 5: Javier Barranco Cosano v Facundo Mena [Alpha] - (06/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-5-javier-barranco-cosano-vs-facundo-mena/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Hobart v Centre Court Kudermetova - Cocciaretto" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - WTA Hobart v Centre Court Kudermetova - Cocciaretto [Bravo] - (06/01/2025)
-https://rr.vipstreams.in/Bravo/js/1736154000000-wta-hobart-centre-court-kudermetova-cocciaretto/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -96,40 +102,8 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Khorfakkan vs Bani Yas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKr3LUO2JiF4hpIEiETVjpkFkvSWSClhFzGKMKpQ835RtrEf8rMBgbuJiEEA.webp" group-title="Football",19:55 - Khorfakkan vs Bani Yas [Delta] - (06/01/2025)
-https://rr.vipstreams.in/Delta/js/khorfakkan-vs-baniyas-sc-football-1314512/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Paderborn vs SC Heerenveen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Paderborn vs SC Heerenveen [Delta] - (06/01/2025)
-https://rr.vipstreams.in/Delta/js/sc-paderborn-07-vs-heerenveen-football-1333107/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hoffenheim vs FC Augsburg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Hoffenheim vs FC Augsburg [Delta] - (06/01/2025)
-https://rr.vipstreams.in/Delta/js/1899-hoffenheim-vs-fc-augsburg-football-1333106/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fortuna Düsseldorf vs Feyenoord" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Fortuna Düsseldorf vs Feyenoord [Delta] - (06/01/2025)
-https://rr.vipstreams.in/Delta/js/fortuna-dusseldorf-vs-feyenoord-football-1333105/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Borussia Dortmund II vs Helmond Sport" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Borussia Dortmund II vs Helmond Sport [Delta] - (06/01/2025)
-https://rr.vipstreams.in/Delta/js/borussia-dortmund-ii-vs-helmond-sport-football-1333104/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lunds VK W v Orebro W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",21:00 - Lunds VK W v Orebro W [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/lunds-vk-w-vs-orebro-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hausmannstatten W v UVC Graz 2 W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",21:00 - Hausmannstatten W v UVC Graz 2 W [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/hausmannstatten-w-vs-uvc-graz-2-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Super Cup Women Final: AS Roma W v Fiorentina W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:30 - Super Cup Women Final: AS Roma W v Fiorentina W [Alpha] - (06/01/2025)
 https://rr.vipstreams.in/Alpha/js/super-cup-women-final-as-roma-w-vs-fiorentina-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Saturnia Acicastello v Macerata" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - Saturnia Acicastello v Macerata [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/saturnia-acicastello-vs-macerata/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Pordenone v Palmi" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - Pordenone v Palmi [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/pordenone-vs-palmi/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Viesti W v Hameenlinna W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - Viesti W v Hameenlinna W [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/viesti-w-vs-hameenlinna-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Polkky Kuusamo W v LP-Vampula W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - Polkky Kuusamo W v LP-Vampula W [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/polkky-kuusamo-w-vs-lp-vampula-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="LiigaPloki W v Puijo W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - LiigaPloki W v Puijo W [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/liigaploki-w-vs-puijo-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kangasala W - Nurmon Jymy W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - Kangasala W - Nurmon Jymy W [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/kangasala-w-nurmon-jymy-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Graz v Leibnitz" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - Graz v Leibnitz [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/graz-vs-leibnitz/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ried v Waldviertel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - Ried v Waldviertel [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/ried-vs-waldviertel/1/playlist.m3u8
-#EXTINF:-1 tvg-name="St. Polten v Tirol Innsbruck" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:00 - St. Polten v Tirol Innsbruck [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/st-polten-vs-tirol-innsbruck/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Torreense W v Albergaria/Durit W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:00 - Torreense W v Albergaria/Durit W [Alpha] - (06/01/2025)
 https://rr.vipstreams.in/Alpha/js/torreense-w-vs-albergaria-durit-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Shabab v Al Fayha" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:00 - Al Shabab v Al Fayha [Alpha] - (06/01/2025)
@@ -140,8 +114,6 @@ https://rr.vipstreams.in/Charlie/js/al-shabab-vs-al-feiha-19325580/1/playlist.m3
 https://rr.vipstreams.in/Delta/js/al-shabab-vs-al-fayha-football-1314327/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bahcesehir Kol v Tofas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",22:00 - Bahcesehir Kol v Tofas [Alpha] - (06/01/2025)
 https://rr.vipstreams.in/Alpha/js/bahcesehir-kol-vs-tofas/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Uppsala v Lunds" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:30 - Uppsala v Lunds [Alpha] - (06/01/2025)
-https://rr.vipstreams.in/Alpha/js/uppsala-vs-lunds/1/playlist.m3u8
 #EXTINF:-1 tvg-name="EHC Red Bull München vs Frankfurt Lowen" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiAHywSEFES8Q0kCj1GQWc6ZAgSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Hockey",22:30 - EHC Red Bull München vs Frankfurt Lowen [Delta] - (06/01/2025)
 https://rr.vipstreams.in/Delta/js/munchen-vs-frankfurt-lowen-hockey-372858/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Wahda vs Dibba Al-Hisn" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:45 - Al Wahda vs Dibba Al-Hisn [Delta] - (06/01/2025)
