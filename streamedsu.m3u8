@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Viktoria Köln vs SC Verl" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Viktoria Köln vs SC Verl [Delta] - (07/01/2025)
+https://rr.vipstreams.in/Delta/js/fc-viktoria-koln-vs-verl-football-1333113/1/playlist.m3u8
+#EXTINF:-1 tvg-name="SSV Ulm vs Erzgebirge Aue" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - SSV Ulm vs Erzgebirge Aue [Delta] - (07/01/2025)
+https://rr.vipstreams.in/Delta/js/ssv-ulm-1846-vs-erzgebirge-aue-football-1333112/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sandhausen vs Duisburg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Sandhausen vs Duisburg [Delta] - (07/01/2025)
+https://rr.vipstreams.in/Delta/js/sv-sandhausen-vs-msv-duisburg-football-1333111/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Karagumruk vs Rizespor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Karagumruk vs Rizespor [Alpha] - (07/01/2025)
 https://rr.vipstreams.in/Alpha/js/karagumruk-vs-rizespor/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Karagumruk vs Rizespor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Karagumruk vs Rizespor [Delta] - (07/01/2025)
@@ -16,10 +22,6 @@ https://rr.vipstreams.in/Alpha/js/court-7-anastasia-zakharova-vs-ky-ka-okamura/1
 https://rr.vipstreams.in/Alpha/js/court-8-shi-han-vs-jil-teichmann/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 5: Yosuke Watanuki v Juan Manuel Cerundolo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:20 - Court 5: Yosuke Watanuki v Juan Manuel Cerundolo [Alpha] - (07/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-5-yosuke-watanuki-vs-juan-manuel-cerundolo/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 6: Darya Astakhova v Ena Shibahara" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:10 - Court 6: Darya Astakhova v Ena Shibahara [Alpha] - (07/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-6-darya-astakhova-vs-ena-shibahara/1/playlist.m3u8
-#EXTINF:-1 tvg-name="1573 Arena: Joao Fonseca v Federico Agustin Gomez" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - 1573 Arena: Joao Fonseca v Federico Agustin Gomez [Alpha] - (07/01/2025)
-https://rr.vipstreams.in/Alpha/js/1573-arena-joao-fonseca-vs-federico-agustin-gomez/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -70,12 +72,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Viktoria Köln vs SC Verl" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Viktoria Köln vs SC Verl [Delta] - (07/01/2025)
-https://rr.vipstreams.in/Delta/js/fc-viktoria-koln-vs-verl-football-1333113/1/playlist.m3u8
-#EXTINF:-1 tvg-name="SSV Ulm vs Erzgebirge Aue" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - SSV Ulm vs Erzgebirge Aue [Delta] - (07/01/2025)
-https://rr.vipstreams.in/Delta/js/ssv-ulm-1846-vs-erzgebirge-aue-football-1333112/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sandhausen vs Duisburg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Sandhausen vs Duisburg [Delta] - (07/01/2025)
-https://rr.vipstreams.in/Delta/js/sv-sandhausen-vs-msv-duisburg-football-1333111/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NAC Breda vs Servette" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:00 - NAC Breda vs Servette [Delta] - (07/01/2025)
 https://rr.vipstreams.in/Delta/js/nac-breda-vs-servette-fc-football-1333115/1/playlist.m3u8
 #EXTINF:-1 tvg-name="FC Botoșani vs Ludogorets Razgrad" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:00 - FC Botoșani vs Ludogorets Razgrad [Delta] - (07/01/2025)
@@ -236,3 +232,17 @@ https://rr.vipstreams.in/Foxtrot/js/eldense-vs-valencia-202501032330/1/playlist.
 https://rr.vipstreams.in/Alpha/js/tenerife-vs-levante/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tenerife vs Levante" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGwhajFCF76QWQ3pIhzMEJePwWSClhFzdYVSh6vyjanPf5WwJpijMFAA.webp" group-title="Football",03:30 - Tenerife vs Levante [Delta] - (08/01/2025)
 https://rr.vipstreams.in/Delta/js/tenerife-vs-levante-football-1217652/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hawk Talk with Bill Self" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - Hawk Talk with Bill Self [Charlie] - (08/01/2025)
+https://rr.vipstreams.in/Charlie/js/hawk-talk-with-bill-self-1629420006/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Platense v San Lorenzo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - Platense v San Lorenzo [Alpha] - (08/01/2025)
+https://rr.vipstreams.in/Alpha/js/platense-vs-san-lorenzo/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Obras Sanitarias v Zarate" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - Obras Sanitarias v Zarate [Alpha] - (08/01/2025)
+https://rr.vipstreams.in/Alpha/js/obras-sanitarias-vs-zarate/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ferro v Obera TC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - Ferro v Obera TC [Alpha] - (08/01/2025)
+https://rr.vipstreams.in/Alpha/js/ferro-vs-obera-tc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hercílio Luz vs Caxias" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Hercílio Luz vs Caxias [Delta] - (08/01/2025)
+https://rr.vipstreams.in/Delta/js/hercilio-luz-vs-caxias-football-1333118/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ferroviária vs Botafogo-SP" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Ferroviária vs Botafogo-SP [Delta] - (08/01/2025)
+https://rr.vipstreams.in/Delta/js/ferroviaria-vs-botafogo-sp-football-1333117/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Morgan State vs North Carolina Central" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduHrhl8kLxDSQWIyGon9EEIngskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Basketball",04:00 - Morgan State vs North Carolina Central [Delta] - (08/01/2025)
+https://rr.vipstreams.in/Delta/js/morgan-state-vs-n-carolina-central-basketball-429013/1/playlist.m3u8
