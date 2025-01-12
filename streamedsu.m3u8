@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Court 3: Adam Walton v Quentin Halys" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:50 - Court 3: Adam Walton v Quentin Halys [Alpha] - (12/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-3-adam-walton-vs-quentin-halys/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 5: Sonay Kartal v Jessica Bouzas Maneiro" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:40 - Court 5: Sonay Kartal v Jessica Bouzas Maneiro [Alpha] - (12/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-5-sonay-kartal-vs-jessica-bouzas-maneiro/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Court 13 Martinez - Darderi" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Australian Open v Court 13 Martinez - Darderi [Bravo] - (12/01/2025)
@@ -122,10 +124,6 @@ https://rr.vipstreams.in/Delta/js/portland-trail-blazers-vs-miami-heat-basketbal
 https://rr.vipstreams.in/Echo/js/portland-trail-blazers-miami-heat-19927/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pacific vs Oregon State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Pacific vs Oregon State [Bravo] - (12/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736650800000-oregon-state-vs-pacific/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Pacific vs Oregon State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Pacific vs Oregon State [Delta] - (12/01/2025)
-https://rr.vipstreams.in/Delta/js/pacific-vs-oregon-state-basketball-429215/1/playlist.m3u8
-#EXTINF:-1 tvg-name="San Diego vs St Marys CA" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - San Diego vs St Marys CA [Delta] - (12/01/2025)
-https://rr.vipstreams.in/Delta/js/san-diego-toreros-vs-st-marys-ca-basketball-429218/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Saint Mary's v San Diego" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Saint Mary's v San Diego [Alpha] - (12/01/2025)
 https://rr.vipstreams.in/Alpha/js/saint-mary-s-vs-san-diego/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Saint Mary's v San Diego" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Saint Mary's v San Diego [Bravo] - (12/01/2025)
@@ -144,8 +142,6 @@ https://rr.vipstreams.in/Delta/js/arizona-state-vs-baylor-basketball-429302/1/pl
 https://rr.vipstreams.in/Alpha/js/john-cain-arena-kei-nishikori-vs-thiago-monteiro/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Seattle Thunderbirds vs Everett Silvertips" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:05 - Seattle Thunderbirds vs Everett Silvertips [Delta] - (12/01/2025)
 https://rr.vipstreams.in/Delta/js/seattle-thunderbirds-vs-everett-silvertips-hockey-385874/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Colorado Eagles vs Calgary Wranglers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFn4QjdgAZIIXiCwhEiEppAwQ1EJZIskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Hockey",09:05 - Colorado Eagles vs Calgary Wranglers [Delta] - (12/01/2025)
-https://rr.vipstreams.in/Delta/js/colorado-eagles-vs-calgary-wranglers-hockey-373797/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Court 7 Faria - Kotov" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:00 - Australian Open v Court 7 Faria - Kotov [Bravo] - (12/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736647200000-australian-open-court-7-faria-kotov/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Court 3 Walton - Halys" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:00 - Australian Open v Court 3 Walton - Halys [Bravo] - (12/01/2025)
@@ -172,8 +168,6 @@ https://rr.vipstreams.in/Bravo/js/1736645400000-australian-open-kia-arena-onclin
 https://rr.vipstreams.in/Alpha/js/ama-supercross-series-anaheim/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nashville Predators vs Washington Capitals" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvkohB+ECmBgQvENL3aTR8xBAwQzTUgpYRcxijCr9HD+UbU5+pr0YB7iYhBAA.webp" group-title="Hockey",08:00 - Nashville Predators vs Washington Capitals [Alpha] - (12/01/2025)
 https://rr.vipstreams.in/Alpha/js/nashville-predators-vs-washington-capitals/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ONE Fight Night 27 Tang vs Abdullaev" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBDVgSELzAomekFhCJN0kChAlj1EIvw6KWEXMYowqwxy-lG2mKGTvRgXuJiEEA.webp" group-title="Fight",08:00 - ONE Fight Night 27 Tang vs Abdullaev [Alpha] - (12/01/2025)
-https://rr.vipstreams.in/Alpha/js/ufc-fight-night-post-fight-press-conference/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Fox NRL TV
 https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
@@ -226,10 +220,6 @@ https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m
 https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
 https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 3: Adam Walton v Quentin Halys" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:50 - Court 3: Adam Walton v Quentin Halys [Alpha] - (12/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-3-adam-walton-vs-quentin-halys/1/playlist.m3u8
-#EXTINF:-1 tvg-name="India Women v Ireland Women" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",12:00 - India Women v Ireland Women [Charlie] - (12/01/2025)
-https://rr.vipstreams.in/Charlie/js/india-women-vs-ireland-women-1629420504/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 3: Cristina Bucsa v Chloe Paquet" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - Court 3: Cristina Bucsa v Chloe Paquet [Alpha] - (12/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-3-cristina-buc-a-vs-chloe-paquet/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 13: Tamara Zidansek v Anastasia Potapova" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - Court 13: Tamara Zidansek v Anastasia Potapova [Alpha] - (12/01/2025)
@@ -446,3 +436,7 @@ https://rr.vipstreams.in/Echo/js/tamworth-tottenham-23773/1/playlist.m3u8
 https://rr.vipstreams.in/Foxtrot/js/tamworth-vs-tottenham-202501111430/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Beerschot VA vs Antwerp" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAggYIWcDAhg0kL10hqIEiCzXbKbbpZIKWEXMYowqlDy-lG1HI++Kz6XuJiEEA.webp" group-title="Football",19:30 - Beerschot VA vs Antwerp [Charlie] - (12/01/2025)
 https://rr.vipstreams.in/Charlie/js/k-beerschot-va-vs-antwerp-19131441/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto B v Portimonense" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:45 - FC Porto B v Portimonense [Alpha] - (12/01/2025)
+https://rr.vipstreams.in/Alpha/js/fc-porto-b-vs-portimonense/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FC Porto B v Portimonense" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:45 - FC Porto B v Portimonense [Delta] - (12/01/2025)
+https://rr.vipstreams.in/Delta/js/fc-porto-b-vs-portimonense-football-1231563/1/playlist.m3u8
