@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="1573 Arena: Belinda Bencic v Jelena Ostapenko" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:45 - 1573 Arena: Belinda Bencic v Jelena Ostapenko [Alpha] - (13/01/2025)
+https://rr.vipstreams.in/Alpha/js/1573-arena-belinda-bencic-vs-jelena-ostapenko/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 3: Jack Draper v Mariano Navone" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:45 - Court 3: Jack Draper v Mariano Navone [Alpha] - (13/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-3-jack-draper-vs-mariano-navone/1/playlist.m3u8
 #EXTINF:-1 tvg-name="2025 Australian Open Tennis: First Round ESPN 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:00 - 2025 Australian Open Tennis: First Round ESPN 2 [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/2025-australian-open-tennis-first-round-espn-2/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 7: Tristan Schoolkate v Taro Daniel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",10:45 - Court 7: Tristan Schoolkate v Taro Daniel [Alpha] - (13/01/2025)
@@ -44,16 +48,12 @@ https://rr.vipstreams.in/Bravo/js/1736737200000-australian-open-kia-arena-kokkin
 https://rr.vipstreams.in/Bravo/js/1736737200000-australian-open-rod-laver-arena-sinner-jarry/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 12: Harriet Dart v Jana Fett" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",10:00 - Court 12: Harriet Dart v Jana Fett [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-12-harriet-dart-vs-jana-fett/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 3: James Duckworth v Dominic Stephan Stricker" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:45 - Court 3: James Duckworth v Dominic Stephan Stricker [Alpha] - (13/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-3-james-duckworth-vs-dominic-stephan-stricker/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 6: James Mccabe v Martin Landaluce" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:45 - Court 6: James Mccabe v Martin Landaluce [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-6-james-mccabe-vs-martin-landaluce/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v John Cain Arena Siniakova - Swiatek" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:30 - Australian Open v John Cain Arena Siniakova - Swiatek [Bravo] - (13/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736735400000-australian-open-john-cain-arena-siniakova-swiatek/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 8: Thiago Seyboth Wild v Fabian Marozsan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:20 - Court 8: Thiago Seyboth Wild v Fabian Marozsan [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-8-thiago-seyboth-wild-vs-fabian-marozsan/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Show Court Arena: Lucia Bronzetti v Victoria Azarenka" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:15 - Show Court Arena: Lucia Bronzetti v Victoria Azarenka [Alpha] - (13/01/2025)
-https://rr.vipstreams.in/Alpha/js/show-court-arena-lucia-bronzetti-vs-victoria-azarenka/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Court 12 Vondrousova - Fett" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:00 - Australian Open v Court 12 Vondrousova - Fett [Bravo] - (13/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736733600000-australian-open-court-12-vondrousova-fett/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Court 5 Bejlek - Dolehide" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:00 - Australian Open v Court 5 Bejlek - Dolehide [Bravo] - (13/01/2025)
@@ -132,14 +132,10 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="1573 Arena: Belinda Bencic v Jelena Ostapenko" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:45 - 1573 Arena: Belinda Bencic v Jelena Ostapenko [Alpha] - (13/01/2025)
-https://rr.vipstreams.in/Alpha/js/1573-arena-belinda-bencic-vs-jelena-ostapenko/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 3: Jack Draper v Mariano Navone" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:45 - Court 3: Jack Draper v Mariano Navone [Alpha] - (13/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-3-jack-draper-vs-mariano-navone/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Show Court Arena: Thanasi Kokkinakis v Roman Safiullin" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:45 - Show Court Arena: Thanasi Kokkinakis v Roman Safiullin [Alpha] - (13/01/2025)
-https://rr.vipstreams.in/Alpha/js/show-court-arena-thanasi-kokkinakis-vs-roman-safiullin/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 5: Sebastian Baez v Arthur Cazaux" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:50 - Court 5: Sebastian Baez v Arthur Cazaux [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-5-sebastian-baez-vs-arthur-cazaux/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Show Court Arena: Thanasi Kokkinakis v Roman Safiullin" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:55 - Show Court Arena: Thanasi Kokkinakis v Roman Safiullin [Alpha] - (13/01/2025)
+https://rr.vipstreams.in/Alpha/js/show-court-arena-thanasi-kokkinakis-vs-roman-safiullin/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 12: Petra Martic v Jaqueline Cristian" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - Court 12: Petra Martic v Jaqueline Cristian [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-12-petra-martic-vs-jaqueline-cristian/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 14: Jule Niemeier v Maja Chwalinska" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - Court 14: Jule Niemeier v Maja Chwalinska [Alpha] - (13/01/2025)
