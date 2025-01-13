@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Falcon U20 v Corinthians U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:30 - Falcon U20 v Corinthians U20 [Bravo] - (14/01/2025)
+https://rr.vipstreams.in/Bravo/js/1736800200000-falcon-u20-corinthians-u20/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Sociedad vs Villarreal" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlWkh+SEBD3aQWQyhAkQWxPvPSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",03:00 - Real Sociedad vs Villarreal [Alpha] - (14/01/2025)
 https://rr.vipstreams.in/Alpha/js/real-sociedad-vs-villarreal/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Sociedad vs Villarreal" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlWkh+SEBD3aQWQyhAkQWxPvPSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football",03:00 - Real Sociedad vs Villarreal [Bravo] - (14/01/2025)
@@ -54,8 +56,6 @@ https://rr.vipstreams.in/Bravo/js/1736794800000-the-masters/1/playlist.m3u8
 https://rr.vipstreams.in/Bravo/js/1736794800000-the-bahamas-golf-classic/1/playlist.m3u8
 #EXTINF:-1 tvg-name="The Bahamas Golf Classic v Atlantis Paradise Island Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",02:00 - The Bahamas Golf Classic v Atlantis Paradise Island Second Round [Alpha] - (14/01/2025)
 https://rr.vipstreams.in/Alpha/js/the-bahamas-golf-classic-vs-atlantis-paradise-island-second-round/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FA Cup Round 3 Review Show" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - FA Cup Round 3 Review Show [Alpha] - (14/01/2025)
-https://rr.vipstreams.in/Alpha/js/fa-cup-round-3-review-show/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Jong AZ vs Jong Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsDAowIEDHkCQvENJAkQKM1eq6QWEM3zAkFLCLmNtqlDzBl4RNRyPk70YH7iYhBAA.webp" group-title="Football",02:00 - Jong AZ vs Jong Ajax [Alpha] - (14/01/2025)
 https://rr.vipstreams.in/Alpha/js/jong-az-vs-jong-ajax/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Jong AZ vs Jong Ajax" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsDAowIEDHkCQvENJAkQKM1eq6QWEM3zAkFLCLmNtqlDzBl4RNRyPk70YH7iYhBAA.webp" group-title="Football",02:00 - Jong AZ vs Jong Ajax [Bravo] - (14/01/2025)
@@ -64,8 +64,6 @@ https://rr.vipstreams.in/Bravo/js/1736794800000-jong-az-jong-ajax/1/playlist.m3u
 https://rr.vipstreams.in/Bravo/js/1736794200000-gilboa-galil-nes-ziona/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ultimate Pool Champions League" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",01:00 - Ultimate Pool Champions League [Bravo] - (14/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736791200000-ultimate-pool-champions-league/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kedzierzyn-Kozle v Gdansk" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Kedzierzyn-Kozle v Gdansk [Bravo] - (13/01/2025)
-https://rr.vipstreams.in/Bravo/js/1736785800000-kedzierzyn-kozle-gdansk/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -354,3 +352,5 @@ https://rr.vipstreams.in/Alpha/js/los-angeles-clippers-vs-miami-heat/1/playlist.
 https://rr.vipstreams.in/Charlie/js/miami-heat-vs-los-angeles-clippers-1629420732/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Los Angeles Clippers v Miami Heat" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:30 - Los Angeles Clippers v Miami Heat [Echo] - (14/01/2025)
 https://rr.vipstreams.in/Echo/js/los-angeles-clippers-miami-heat-19943/1/playlist.m3u8
+#EXTINF:-1 tvg-name="2025 Australian Open Tennis: First Round ESPN 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - 2025 Australian Open Tennis: First Round ESPN 2 [Alpha] - (14/01/2025)
+https://rr.vipstreams.in/Alpha/js/2025-australian-open-tennis-first-round-espn-2/1/playlist.m3u8
