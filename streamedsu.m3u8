@@ -1,15 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Adelaide v Illawarra Hawks" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - Adelaide v Illawarra Hawks [Alpha] - (13/01/2025)
+https://rr.vipstreams.in/Alpha/js/adelaide-vs-illawarra-hawks/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sydney Thunder vs Perth Scorchers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJCtWIWkhC8QWEDAMgUIErrMRdLJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp" group-title="Cricket",15:30 - Sydney Thunder vs Perth Scorchers [Alpha] - (13/01/2025)
+https://rr.vipstreams.in/Alpha/js/sydney-thunder-vs-perth-scorchers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="John Cain Arena: Jacob Fearnley v Nick Kyrgios" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:10 - John Cain Arena: Jacob Fearnley v Nick Kyrgios [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/john-cain-arena-jacob-fearnley-vs-nick-kyrgios/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Margaret Court Arena: Alexander Shevchenko v Carlos Alcaraz" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:10 - Margaret Court Arena: Alexander Shevchenko v Carlos Alcaraz [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/margaret-court-arena-alexander-shevchenko-vs-carlos-alcaraz/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rod Laver Arena: Novak Djokovic v Nishesh Basavareddy" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:10 - Rod Laver Arena: Novak Djokovic v Nishesh Basavareddy [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/rod-laver-arena-novak-djokovic-vs-nishesh-basavareddy/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Margaret Court Arena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:00 - Margaret Court Arena [Charlie] - (13/01/2025)
-https://rr.vipstreams.in/Charlie/js/margaret-court-arena-1629420716/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rod Laver Arena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:00 - Rod Laver Arena [Charlie] - (13/01/2025)
 https://rr.vipstreams.in/Charlie/js/rod-laver-arena-1629420717/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Margaret Court Arena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:00 - Margaret Court Arena [Charlie] - (13/01/2025)
+https://rr.vipstreams.in/Charlie/js/margaret-court-arena-1629420716/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v John Cain Arena Fearnley - Kyrgios" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:00 - Australian Open v John Cain Arena Fearnley - Kyrgios [Bravo] - (13/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736755200000-australian-open-john-cain-arena-fearnley-kyrgios/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Margaret Court Arena Shevchenko - Alcaraz" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:00 - Australian Open v Margaret Court Arena Shevchenko - Alcaraz [Bravo] - (13/01/2025)
@@ -60,8 +64,6 @@ https://rr.vipstreams.in/Bravo/js/1736744400000-australian-open-1573-arena-fogni
 https://rr.vipstreams.in/Bravo/js/1736744400000-australian-open-kia-arena-o-connell-paul/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Show Court Arena: Thanasi Kokkinakis v Roman Safiullin" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:55 - Show Court Arena: Thanasi Kokkinakis v Roman Safiullin [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/show-court-arena-thanasi-kokkinakis-vs-roman-safiullin/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 3: Jack Draper v Mariano Navone" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:45 - Court 3: Jack Draper v Mariano Navone [Alpha] - (13/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-3-jack-draper-vs-mariano-navone/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -114,20 +116,16 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Adelaide v Illawarra Hawks" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - Adelaide v Illawarra Hawks [Alpha] - (13/01/2025)
-https://rr.vipstreams.in/Alpha/js/adelaide-vs-illawarra-hawks/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sydney Thunder vs Perth Scorchers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJCtWIWkhC8QWEDAMgUIErrMRdLJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp" group-title="Cricket",15:30 - Sydney Thunder vs Perth Scorchers [Alpha] - (13/01/2025)
-https://rr.vipstreams.in/Alpha/js/sydney-thunder-vs-perth-scorchers/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 3: Greet Minnen v Destanee Aiava" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - Court 3: Greet Minnen v Destanee Aiava [Alpha] - (13/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-3-greet-minnen-vs-destanee-aiava/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 15: David Goffin v Benjamin Bonzi" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - Court 15: David Goffin v Benjamin Bonzi [Alpha] - (13/01/2025)
+#EXTINF:-1 tvg-name="Court 15: David Goffin v Benjamin Bonzi" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:50 - Court 15: David Goffin v Benjamin Bonzi [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-15-david-goffin-vs-benjamin-bonzi/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Show Court Arena: Christopher O'Connell v Tommy Paul" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - Show Court Arena: Christopher O'Connell v Tommy Paul [Alpha] - (13/01/2025)
-https://rr.vipstreams.in/Alpha/js/show-court-arena-christopher-o-connell-vs-tommy-paul/1/playlist.m3u8
 #EXTINF:-1 tvg-name="1573 Arena: Francesco Passaro v Grigor Dimitrov" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:50 - 1573 Arena: Francesco Passaro v Grigor Dimitrov [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/1573-arena-francesco-passaro-vs-grigor-dimitrov/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 5: Karolina Muchova v Nadia Podoroska" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - Court 5: Karolina Muchova v Nadia Podoroska [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-5-karolina-muchova-vs-nadia-podoroska/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 3: Greet Minnen v Destanee Aiava" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - Court 3: Greet Minnen v Destanee Aiava [Alpha] - (13/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-3-greet-minnen-vs-destanee-aiava/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Show Court Arena: Christopher O'Connell v Tommy Paul" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - Show Court Arena: Christopher O'Connell v Tommy Paul [Alpha] - (13/01/2025)
+https://rr.vipstreams.in/Alpha/js/show-court-arena-christopher-o-connell-vs-tommy-paul/1/playlist.m3u8
 #EXTINF:-1 tvg-name="FA Cup Round 3 Highlights" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - FA Cup Round 3 Highlights [Alpha] - (13/01/2025)
 https://rr.vipstreams.in/Alpha/js/fa-cup-round-3-highlights/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Margaret Court Arena: Daria Snigur v Danielle Collins" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:00 - Margaret Court Arena: Daria Snigur v Danielle Collins [Alpha] - (13/01/2025)
