@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Court 15: Talia Gibson Leylah /MayaJoint v Fernandez / Nadiia Kichenok" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:40 - Court 15: Talia Gibson Leylah /MayaJoint v Fernandez / Nadiia Kichenok [Alpha] - (14/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-15-talia-gibson-leylah-mayajoint-vs-fernandez-nadiia-kichenok/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cairns Taipans v South East Melbourne" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - Cairns Taipans v South East Melbourne [Alpha] - (14/01/2025)
+https://rr.vipstreams.in/Alpha/js/cairns-taipans-vs-south-east-melbourne/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cairns Taipans v South East Melbourne" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - Cairns Taipans v South East Melbourne [Bravo] - (14/01/2025)
+https://rr.vipstreams.in/Bravo/js/1736843400000-cairns-taipans-south-east-melbourne/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hobart Hurricanes vs Melbourne Renegades" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkkghBOFGGkhe2kDEMgUIEiGpnEMFppgCRcxntUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Cricket",15:30 - Hobart Hurricanes vs Melbourne Renegades [Alpha] - (14/01/2025)
+https://rr.vipstreams.in/Alpha/js/hobart-hurricanes-vs-melbourne-renegades/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 5: Roberto Bautista Agut v Denis Shapovalov" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:10 - Court 5: Roberto Bautista Agut v Denis Shapovalov [Alpha] - (14/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-5-roberto-bautista-agut-vs-denis-shapovalov/1/playlist.m3u8
 #EXTINF:-1 tvg-name="John Cain Arena: Alexei Popyrin v Corentin Moutet" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:05 - John Cain Arena: Alexei Popyrin v Corentin Moutet [Alpha] - (14/01/2025)
@@ -60,10 +68,6 @@ https://rr.vipstreams.in/Bravo/js/1736830800000-australian-open-court-7-etchever
 https://rr.vipstreams.in/Bravo/js/1736830800000-australian-open-court-6-sonego-wawrinka/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Court 5 Bautista-Agut - Shapovalov" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - Australian Open v Court 5 Bautista-Agut - Shapovalov [Bravo] - (14/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736830800000-australian-open-court-5-bautista-agut-shapovalov/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 15: Francisco Comesana v Daniel Altmaier" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:55 - Court 15: Francisco Comesana v Daniel Altmaier [Alpha] - (14/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-15-francisco-comesana-vs-daniel-altmaier/1/playlist.m3u8
-#EXTINF:-1 tvg-name="2025 Australian Open Tennis: First Round ESPN 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - 2025 Australian Open Tennis: First Round ESPN 2 [Alpha] - (14/01/2025)
-https://rr.vipstreams.in/Alpha/js/2025-australian-open-tennis-first-round-espn-2/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
@@ -116,24 +120,18 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cairns Taipans v South East Melbourne" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - Cairns Taipans v South East Melbourne [Alpha] - (14/01/2025)
-https://rr.vipstreams.in/Alpha/js/cairns-taipans-vs-south-east-melbourne/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hobart Hurricanes vs Melbourne Renegades" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkkghBOFGGkhe2kDEMgUIEiGpnEMFppgCRcxntUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Cricket",15:30 - Hobart Hurricanes vs Melbourne Renegades [Alpha] - (14/01/2025)
-https://rr.vipstreams.in/Alpha/js/hobart-hurricanes-vs-melbourne-renegades/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 14: Taylor Townsend v Renata Zarazua" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:40 - Court 14: Taylor Townsend v Renata Zarazua [Alpha] - (14/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-14-taylor-townsend-vs-renata-zarazua/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 15: Talia Gibson Leylah /MayaJoint v Fernandez / Nadiia Kichenok" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:40 - Court 15: Talia Gibson Leylah /MayaJoint v Fernandez / Nadiia Kichenok [Alpha] - (14/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-15-talia-gibson-leylah-mayajoint-vs-fernandez-nadiia-kichenok/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 8: Pablo Carreno Busta v Kamil Majchrzak" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:40 - Court 8: Pablo Carreno Busta v Kamil Majchrzak [Alpha] - (14/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-8-pablo-carreno-busta-vs-kamil-majchrzak/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 3: Camila Osorio v Maria Sakkari" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - Court 3: Camila Osorio v Maria Sakkari [Alpha] - (14/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-3-camila-osorio-vs-maria-sakkari/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 14: Taylor Townsend v Renata Zarazua" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - Court 14: Taylor Townsend v Renata Zarazua [Alpha] - (14/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-14-taylor-townsend-vs-renata-zarazua/1/playlist.m3u8
 #EXTINF:-1 tvg-name="1573 Arena: Anhelina Kalinina v Ons Jabeur" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - 1573 Arena: Anhelina Kalinina v Ons Jabeur [Alpha] - (14/01/2025)
 https://rr.vipstreams.in/Alpha/js/1573-arena-anhelina-kalinina-vs-ons-jabeur/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Show Court Arena: Rebecca Marino v Katie Boulter" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - Show Court Arena: Rebecca Marino v Katie Boulter [Alpha] - (14/01/2025)
-https://rr.vipstreams.in/Alpha/js/show-court-arena-rebecca-marino-vs-katie-boulter/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 8: Pablo Carreno Busta v Kamil Majchrzak" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - Court 8: Pablo Carreno Busta v Kamil Majchrzak [Alpha] - (14/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-8-pablo-carreno-busta-vs-kamil-majchrzak/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Meralco Bolts v NorthPort" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",16:00 - Meralco Bolts v NorthPort [Alpha] - (14/01/2025)
 https://rr.vipstreams.in/Alpha/js/meralco-bolts-vs-northport/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Show Court Arena: Rebecca Marino v Katie Boulter" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:15 - Show Court Arena: Rebecca Marino v Katie Boulter [Alpha] - (14/01/2025)
+https://rr.vipstreams.in/Alpha/js/show-court-arena-rebecca-marino-vs-katie-boulter/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Margaret Court Arena: Andrey Rublev v Joao Fonseca" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:30 - Margaret Court Arena: Andrey Rublev v Joao Fonseca [Alpha] - (14/01/2025)
 https://rr.vipstreams.in/Alpha/js/margaret-court-arena-andrey-rublev-vs-joao-fonseca/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rod Laver Arena: Veronika Kudermetova v Olivia Gadecki" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:00 - Rod Laver Arena: Veronika Kudermetova v Olivia Gadecki [Alpha] - (14/01/2025)
@@ -180,3 +178,5 @@ https://rr.vipstreams.in/Alpha/js/durban-super-giants-vs-joburg-super-kings/1/pl
 https://rr.vipstreams.in/Alpha/js/laliga-world/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zabiny Brno W v Schio W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Zabiny Brno W v Schio W [Alpha] - (14/01/2025)
 https://rr.vipstreams.in/Alpha/js/zabiny-brno-w-vs-schio-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Italy v Tunisia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Italy v Tunisia [Alpha] - (14/01/2025)
+https://rr.vipstreams.in/Alpha/js/italy-vs-tunisia/1/playlist.m3u8
