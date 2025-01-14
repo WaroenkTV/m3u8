@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Farense v Benfica" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:15 - Farense v Benfica [Charlie] - (15/01/2025)
+https://rr.vipstreams.in/Charlie/js/farense-vs-benfica-19323982/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PSV v Excelsior" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - PSV v Excelsior [Bravo] - (15/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736884800000-psv-excelsior/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ferroviaria U20 v Santos U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Ferroviaria U20 v Santos U20 [Bravo] - (15/01/2025)
@@ -76,10 +78,6 @@ https://rr.vipstreams.in/Bravo/js/1736881200000-chemnitz-manisa/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/lyon-villeurbanne-vs-partizan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Lyon-Villeurbanne v Partizan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - Lyon-Villeurbanne v Partizan [Bravo] - (15/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736881200000-lyon-villeurbanne-partizan-belgrade/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Nybro v BIK Karlskoga" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Nybro v BIK Karlskoga [Bravo] - (15/01/2025)
-https://rr.vipstreams.in/Bravo/js/1736877600000-nybro-bik-karlskoga/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kalmar v Sodertalje" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Kalmar v Sodertalje [Bravo] - (15/01/2025)
-https://rr.vipstreams.in/Bravo/js/1736877600000-kalmar-sodertalje/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hapoel Jerusalem v Cedevita Olimpija" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:00 - Hapoel Jerusalem v Cedevita Olimpija [Alpha] - (15/01/2025)
 https://rr.vipstreams.in/Alpha/js/hapoel-jerusalem-vs-cedevita-olimpija/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Peristeri v Tortona" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:30 - Peristeri v Tortona [Alpha] - (15/01/2025)
@@ -88,12 +86,12 @@ https://rr.vipstreams.in/Alpha/js/peristeri-vs-tortona/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/australian-open/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Tennis Channel
 https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Fox NRL TV
+https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
 https://rr.vipstreams.in/Alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Fox NRL TV
-https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Golf
 https://rr.vipstreams.in/Alpha/js/sky-sports-golf/1/playlist.m3u8
 #EXTINF:-1 tvg-name="PGA Tour 2024" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",PGA Tour 2024
@@ -680,3 +678,13 @@ https://rr.vipstreams.in/Alpha/js/colorado-state-vs-san-diego-state/1/playlist.m
 https://rr.vipstreams.in/Alpha/js/ucf-vs-arizona-state/1/playlist.m3u8
 #EXTINF:-1 tvg-name="25 Baylor v Arizona" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",11:00 - 25 Baylor v Arizona [Alpha] - (15/01/2025)
 https://rr.vipstreams.in/Alpha/js/25-baylor-vs-arizona/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 12: Miyu Kato / Renata Zarazua v Monica Niculescu / Sofia Kenin" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Court 12: Miyu Kato / Renata Zarazua v Monica Niculescu / Sofia Kenin [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-12-miyu-kato-renata-zarazua-vs-monica-niculescu-sofia-kenin/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 14: Jasmine Paolini/ Sara Errani v Daria Saville / Priscilla Hon" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Court 14: Jasmine Paolini/ Sara Errani v Daria Saville / Priscilla Hon [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-14-jasmine-paolini-sara-errani-vs-daria-saville-priscilla-hon/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 15: Joe Salisbury / Neal Skupski v Sebastian Baez / Francisco Comesana" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Court 15: Joe Salisbury / Neal Skupski v Sebastian Baez / Francisco Comesana [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-15-joe-salisbury-neal-skupski-vs-sebastian-baez-francisco-comesana/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 5: Sergio Martos Gornes / Pablo Carreno Busta v Sander Arends LukeJohnson" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Court 5: Sergio Martos Gornes / Pablo Carreno Busta v Sander Arends LukeJohnson [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-5-sergio-martos-gornes-pablo-carreno-busta-vs-sander-arends-lukejohnson/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 8: Francisco Cerundolo / Tomas Martin Etcheverry v Lloyd Glasspool /Julian Cash" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Court 8: Francisco Cerundolo / Tomas Martin Etcheverry v Lloyd Glasspool /Julian Cash [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-8-francisco-cerundolo-tomas-martin-etcheverry-vs-lloyd-glasspool-julian-cash/1/playlist.m3u8
