@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Spisska Nova Ves v Liptovsky Mikulas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Spisska Nova Ves v Liptovsky Mikulas [Bravo] - (14/01/2025)
+https://rr.vipstreams.in/Bravo/js/1736872200000-spisska-nova-ves-liptovsky-mikulas/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ban. Bystrica v Dukla Trencin" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Ban. Bystrica v Dukla Trencin [Bravo] - (14/01/2025)
+https://rr.vipstreams.in/Bravo/js/1736872200000-ban-bystrica-dukla-trencin/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dynamo Moscow v Cherepovets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Dynamo Moscow v Cherepovets [Bravo] - (14/01/2025)
+https://rr.vipstreams.in/Bravo/js/1736872200000-dynamo-moscow-cherepovets/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kosice vs Zvolen" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu14gUIGCAghDWrCETTDIcwcMHpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Hockey",23:30 - Kosice vs Zvolen [Bravo] - (14/01/2025)
+https://rr.vipstreams.in/Bravo/js/1736872200000-hc-kosice-zvolen/1/playlist.m3u8
+#EXTINF:-1 tvg-name="RoKi vs Hermes" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - RoKi vs Hermes [Bravo] - (14/01/2025)
+https://rr.vipstreams.in/Bravo/js/1736872200000-roki-hermes/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zabiny Brno W v Schio W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Zabiny Brno W v Schio W [Bravo] - (14/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736870400000-zabiny-brno-w-schio-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Samara v Lokomotiv Kuban" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",22:30 - Samara v Lokomotiv Kuban [Bravo] - (14/01/2025)
@@ -500,3 +510,21 @@ https://rr.vipstreams.in/Alpha/js/indiana-pacers-vs-cleveland-cavaliers/1/playli
 https://rr.vipstreams.in/Charlie/js/cleveland-cavaliers-vs-indiana-pacers-1629420770/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Indiana Pacers v Cleveland Cavaliers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Indiana Pacers v Cleveland Cavaliers [Echo] - (15/01/2025)
 https://rr.vipstreams.in/Echo/js/indiana-pacers-cleveland-cavaliers-19945/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Margaret Court Arena: Elise Mertens v Jessica Pegula" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:30 - Margaret Court Arena: Elise Mertens v Jessica Pegula [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/margaret-court-arena-elise-mertens-vs-jessica-pegula/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rod Laver Arena: Aryna Sabalenka v Jessica Bouzas Maneiro" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:30 - Rod Laver Arena: Aryna Sabalenka v Jessica Bouzas Maneiro [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/rod-laver-arena-aryna-sabalenka-vs-jessica-bouzas-maneiro/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Islanders v Ottawa Senators" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - New York Islanders v Ottawa Senators [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/new-york-islanders-vs-ottawa-senators/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New York Islanders v Ottawa Senators" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - New York Islanders v Ottawa Senators [Charlie] - (15/01/2025)
+https://rr.vipstreams.in/Charlie/js/ottawa-senators-vs-new-york-islanders-1629420793/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New Jersey Devils v Florida Panthers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - New Jersey Devils v Florida Panthers [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/new-jersey-devils-vs-florida-panthers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New Jersey Devils v Florida Panthers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:30 - New Jersey Devils v Florida Panthers [Charlie] - (15/01/2025)
+https://rr.vipstreams.in/Charlie/js/florida-panthers-vs-new-jersey-devils-1629420794/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Georgetown v St. John's" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Georgetown v St. John's [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/georgetown-vs-st-john-s/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atlanta Hawks v Phoenix Suns" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Atlanta Hawks v Phoenix Suns [Alpha] - (15/01/2025)
+https://rr.vipstreams.in/Alpha/js/atlanta-hawks-vs-phoenix-suns/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atlanta Hawks v Phoenix Suns" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:30 - Atlanta Hawks v Phoenix Suns [Charlie] - (15/01/2025)
+https://rr.vipstreams.in/Charlie/js/phoenix-suns-vs-atlanta-hawks-1629420772/1/playlist.m3u8
