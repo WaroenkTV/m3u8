@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="FC Porto W v Avense 78 W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",03:30 - FC Porto W v Avense 78 W [Bravo] - (16/01/2025)
+https://rr.vipstreams.in/Bravo/js/1736973000000-fc-porto-w-avense-78-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Elche vs Atletico Madrid" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:30 - Elche vs Atletico Madrid [Alpha] - (16/01/2025)
+https://rr.vipstreams.in/Alpha/js/elche-vs-atletico-madrid/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Elche vs Atletico Madrid" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:30 - Elche vs Atletico Madrid [Bravo] - (16/01/2025)
+https://rr.vipstreams.in/Bravo/js/1736973000000-elche-atletico-madrid/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Elche vs Atletico Madrid" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:30 - Elche vs Atletico Madrid [Foxtrot] - (16/01/2025)
+https://rr.vipstreams.in/Foxtrot/js/elche-vs-atletico-madrid-202501152000/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sporting Braga v Lusitano Evora 1911" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:15 - Sporting Braga v Lusitano Evora 1911 [Charlie] - (16/01/2025)
 https://rr.vipstreams.in/Charlie/js/sporting-braga-vs-lusitano-evora-1911-19323981/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Braga v Lusitano GC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:15 - Braga v Lusitano GC [Alpha] - (16/01/2025)
@@ -242,28 +250,22 @@ https://rr.vipstreams.in/Alpha/js/maccabi-ironi-ramat-gan-vs-szombathely/1/playl
 https://rr.vipstreams.in/Bravo/js/1736965800000-maccabi-ironi-ramat-gan-szombathely/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Almeria vs Leganes" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:30 - Almeria vs Leganes [Alpha] - (16/01/2025)
 https://rr.vipstreams.in/Alpha/js/almeria-vs-leganes/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Almeria vs Leganes" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:30 - Almeria vs Leganes [Bravo] - (16/01/2025)
-https://rr.vipstreams.in/Bravo/js/1736965800000-almeria-leganes/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Almeria vs Leganes" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:30 - Almeria vs Leganes [Charlie] - (16/01/2025)
-https://rr.vipstreams.in/Charlie/js/almeria-vs-leganes-19366131/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Almeria vs Leganes" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:30 - Almeria vs Leganes [Foxtrot] - (16/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/almeria-vs-leganes-202501151800/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pontevedra vs Getafe" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:30 - Pontevedra vs Getafe [Alpha] - (16/01/2025)
 https://rr.vipstreams.in/Alpha/js/pontevedra-vs-getafe/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Pontevedra vs Getafe" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:30 - Pontevedra vs Getafe [Bravo] - (16/01/2025)
-https://rr.vipstreams.in/Bravo/js/1736965800000-pontevedra-getafe/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pontevedra vs Getafe" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:30 - Pontevedra vs Getafe [Charlie] - (16/01/2025)
 https://rr.vipstreams.in/Charlie/js/pontevedra-vs-getafe-19366130/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pontevedra vs Getafe" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:30 - Pontevedra vs Getafe [Foxtrot] - (16/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/pontevedra-vs-getafe-202501151800/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Adler Mannheim vs Dusseldorf" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkhDwKSDghC8Q0kChAQjILBdOmsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Hockey",01:30 - Adler Mannheim vs Dusseldorf [Bravo] - (16/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736965800000-adler-mannheim-fortuna-dusseldorf/1/playlist.m3u8
-#EXTINF:-1 tvg-name="St. Nazaire v Halkbank" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",01:00 - St. Nazaire v Halkbank [Bravo] - (16/01/2025)
-https://rr.vipstreams.in/Bravo/js/1736964000000-st-nazaire-halkbank/1/playlist.m3u8
 #EXTINF:-1 tvg-name="The Bahamas Golf Classic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",01:00 - The Bahamas Golf Classic [Bravo] - (16/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736964000000-the-bahamas-golf-classic/1/playlist.m3u8
 #EXTINF:-1 tvg-name="The Bahamas Golf Classic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",01:00 - The Bahamas Golf Classic [Charlie] - (16/01/2025)
 https://rr.vipstreams.in/Charlie/js/the-bahamas-golf-classic-at-atlantis-paradise-island-final-round-1629421844/1/playlist.m3u8
+#EXTINF:-1 tvg-name="St. Nazaire v Halkbank" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",01:00 - St. Nazaire v Halkbank [Bravo] - (16/01/2025)
+https://rr.vipstreams.in/Bravo/js/1736964000000-st-nazaire-halkbank/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vasteras v Ostersund" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Vasteras v Ostersund [Bravo] - (16/01/2025)
 https://rr.vipstreams.in/Bravo/js/1736964000000-vasteras-ostersund/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tingsryd v IF Bjorkloven" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",01:00 - Tingsryd v IF Bjorkloven [Bravo] - (16/01/2025)
@@ -334,12 +336,6 @@ https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m
 https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
 https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elche vs Atletico Madrid" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:30 - Elche vs Atletico Madrid [Alpha] - (16/01/2025)
-https://rr.vipstreams.in/Alpha/js/elche-vs-atletico-madrid/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elche vs Atletico Madrid" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:30 - Elche vs Atletico Madrid [Charlie] - (16/01/2025)
-https://rr.vipstreams.in/Charlie/js/elche-vs-atletico-madrid-19366133/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elche vs Atletico Madrid" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:30 - Elche vs Atletico Madrid [Foxtrot] - (16/01/2025)
-https://rr.vipstreams.in/Foxtrot/js/elche-vs-atletico-madrid-202501152000/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Argentinos Jrs v Juventud" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Argentinos Jrs v Juventud [Alpha] - (16/01/2025)
 https://rr.vipstreams.in/Alpha/js/argentinos-jrs-vs-juventud/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nova Iguacu v Sampaio Correa FE" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:30 - Nova Iguacu v Sampaio Correa FE [Alpha] - (16/01/2025)
@@ -660,3 +656,13 @@ https://rr.vipstreams.in/Alpha/js/court-3-alex-michelsen-vs-james-mccabe/1/playl
 https://rr.vipstreams.in/Alpha/js/show-court-arena-fabian-marozsan-vs-frances-tiafoe/1/playlist.m3u8
 #EXTINF:-1 tvg-name="22 Utah State v UNLV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",11:00 - 22 Utah State v UNLV [Alpha] - (16/01/2025)
 https://rr.vipstreams.in/Alpha/js/22-utah-state-vs-unlv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 12: Liudmila Samsonova / Elisabetta Cocciaretto v Moyuka Uchijima / Anna Bondar" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Court 12: Liudmila Samsonova / Elisabetta Cocciaretto v Moyuka Uchijima / Anna Bondar [Alpha] - (16/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-12-liudmila-samsonova-elisabetta-cocciaretto-vs-moyuka-uchijima-anna-bondar/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 11: Santiago Gonzalez / Lucas Miedler v Takeru Yuzuki / Seita Watanabe" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Court 11: Santiago Gonzalez / Lucas Miedler v Takeru Yuzuki / Seita Watanabe [Alpha] - (16/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-11-santiago-gonzalez-lucas-miedler-vs-takeru-yuzuki-seita-watanabe/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 8: Edouard Roger-Vasselin / Hugo Nys v Rafael Matos / Marcelo Melo" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Court 8: Edouard Roger-Vasselin / Hugo Nys v Rafael Matos / Marcelo Melo [Alpha] - (16/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-8-edouard-roger-vasselin-hugo-nys-vs-rafael-matos-marcelo-melo/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 5: Marcelo Arevalo / Mate Pavic v Jason Kubler / Rinky Hijikata" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Court 5: Marcelo Arevalo / Mate Pavic v Jason Kubler / Rinky Hijikata [Alpha] - (16/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-5-marcelo-arevalo-mate-pavic-vs-jason-kubler-rinky-hijikata/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 15: N.Sriram Balaji / Miguel Angel Reyes-Varela v Aleksandr Nedovyesov/ Robin Haase" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Court 15: N.Sriram Balaji / Miguel Angel Reyes-Varela v Aleksandr Nedovyesov/ Robin Haase [Alpha] - (16/01/2025)
+https://rr.vipstreams.in/Alpha/js/court-15-n-sriram-balaji-miguel-angel-reyes-varela-vs-aleksandr-nedovyesov-robin-haase/1/playlist.m3u8
