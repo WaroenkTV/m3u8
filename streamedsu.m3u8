@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="WORLD: The Masters" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",20:00 - WORLD: The Masters [Alpha] - (17/01/2025)
+https://rr.vipstreams.in/Alpha/js/world-the-masters/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ONE Friday Fights 94" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",19:30 - ONE Friday Fights 94 [Alpha] - (17/01/2025)
 https://rr.vipstreams.in/Alpha/js/one-friday-fights-94/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Qingdao v Beijing" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",18:35 - Qingdao v Beijing [Alpha] - (17/01/2025)
@@ -14,8 +16,6 @@ https://rr.vipstreams.in/Bravo/js/1737108000000-australian-open-rod-laver-arena-
 https://rr.vipstreams.in/Alpha/js/margaret-court-arena-jack-draper-vs-aleksandar-vukic/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Margaret Court Arena Draper - Vukic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:30 - Australian Open v Margaret Court Arena Draper - Vukic [Bravo] - (17/01/2025)
 https://rr.vipstreams.in/Bravo/js/1737106200000-australian-open-margaret-court-arena-draper-vukic/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Court 8: Bernarda Pera/Sabrina Santamaria v Hanyu Guo/Alexandra Panova" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - Court 8: Bernarda Pera/Sabrina Santamaria v Hanyu Guo/Alexandra Panova [Alpha] - (17/01/2025)
-https://rr.vipstreams.in/Alpha/js/court-8-bernarda-pera-sabrina-santamaria-vs-hanyu-guo-alexandra-panova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -68,8 +68,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WORLD: The Masters" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",20:00 - WORLD: The Masters [Alpha] - (17/01/2025)
-https://rr.vipstreams.in/Alpha/js/world-the-masters/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Khaleej Saihat v Al Orubah" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:15 - Al Khaleej Saihat v Al Orubah [Delta] - (17/01/2025)
 https://rr.vipstreams.in/Delta/js/al-khaleej-saihat-vs-al-orubah-football-1252553/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Khaleej v Al Orobah" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:15 - Al Khaleej v Al Orobah [Alpha] - (17/01/2025)
@@ -452,3 +450,23 @@ https://rr.vipstreams.in/Alpha/js/chaves-vs-academico-viseu/1/playlist.m3u8
 https://rr.vipstreams.in/Charlie/js/chaves-vs-academico-viseu-19160354/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Chaves vs Academico Viseu" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiFbAkfMGN4gDWENRAwQJEImOmUIaSyQUsIuYxR6OKHnvKNqct74WmCejGIQQA.webp" group-title="Football",03:15 - Chaves vs Academico Viseu [Delta] - (18/01/2025)
 https://rr.vipstreams.in/Delta/js/chaves-vs-academico-viseu-football-1231581/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Praia Clube W v Maringa W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",04:00 - Praia Clube W v Maringa W [Alpha] - (18/01/2025)
+https://rr.vipstreams.in/Alpha/js/praia-clube-w-vs-maringa-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The American Express Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - The American Express Second Round [Alpha] - (18/01/2025)
+https://rr.vipstreams.in/Alpha/js/the-american-express-second-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The American Express Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - The American Express Second Round [Alpha] - (18/01/2025)
+https://rr.vipstreams.in/Alpha/js/the-american-express-featured-hole-17-second-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The American Express Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - The American Express Second Round [Alpha] - (18/01/2025)
+https://rr.vipstreams.in/Alpha/js/the-american-express-featured-hole-16-second-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The American Express Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - The American Express Second Round [Alpha] - (18/01/2025)
+https://rr.vipstreams.in/Alpha/js/the-american-express-harman-featured-group-second-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The American Express Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - The American Express Second Round [Alpha] - (18/01/2025)
+https://rr.vipstreams.in/Alpha/js/the-american-express-cameron-young-featured-group-second-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The American Express Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - The American Express Second Round [Charlie] - (18/01/2025)
+https://rr.vipstreams.in/Charlie/js/the-american-express-featured-group-2-second-round-1629422202/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The American Express Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - The American Express Second Round [Charlie] - (18/01/2025)
+https://rr.vipstreams.in/Charlie/js/the-american-express-featured-hole-13-second-round-featured-hole-1629422204/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The American Express Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - The American Express Second Round [Charlie] - (18/01/2025)
+https://rr.vipstreams.in/Charlie/js/the-american-express-featured-hole-17-second-round-featured-hole-1629422205/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The American Express Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - The American Express Second Round [Charlie] - (18/01/2025)
+https://rr.vipstreams.in/Charlie/js/the-american-express-featured-group-1-second-round-featured-group-1-1629422203/1/playlist.m3u8
