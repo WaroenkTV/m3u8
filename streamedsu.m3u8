@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="John Cain Arena: SaraErrani / Jasmine Paolini v DianaShnaider / Mirra Andreeva" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:45 - John Cain Arena: SaraErrani / Jasmine Paolini v DianaShnaider / Mirra Andreeva [Alpha] - (19/01/2025)
+https://rr.vipstreams.in/Alpha/js/john-cain-arena-saraerrani-jasmine-paolini-vs-dianashnaider-mirra-andreeva/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Margaret Court Arena: Alejandro Davidovich Fokina v Tommy Paul" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:40 - Margaret Court Arena: Alejandro Davidovich Fokina v Tommy Paul [Alpha] - (19/01/2025)
+https://rr.vipstreams.in/Alpha/js/margaret-court-arena-alejandro-davidovich-fokina-vs-tommy-paul/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pakistan v West Indies" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",11:30 - Pakistan v West Indies [Charlie] - (19/01/2025)
 https://rr.vipstreams.in/Charlie/js/pakistan-vs-west-indies-1629422437/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hero Dubai Desert Classic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",11:30 - Hero Dubai Desert Classic [Bravo] - (19/01/2025)
@@ -110,26 +114,12 @@ https://rr.vipstreams.in/Delta/js/uc-irvine-vs-cal-poly-basketball-429629/1/play
 https://rr.vipstreams.in/Bravo/js/1737255600000-oregon-state-vs-san-francisco/1/playlist.m3u8
 #EXTINF:-1 tvg-name="San Francisco vs Oregon State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - San Francisco vs Oregon State [Delta] - (19/01/2025)
 https://rr.vipstreams.in/Delta/js/san-francisco-vs-oregon-state-basketball-429628/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Pepperdine vs St Marys CA" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Pepperdine vs St Marys CA [Delta] - (19/01/2025)
-https://rr.vipstreams.in/Delta/js/pepperdine-vs-st-marys-ca-basketball-429556/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Women U19 v Malaysia Women U19" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",09:30 - Sri Lanka Women U19 v Malaysia Women U19 [Alpha] - (19/01/2025)
 https://rr.vipstreams.in/Alpha/js/sri-lanka-women-u19-vs-malaysia-women-u19/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 7: Asia Muhammad / Demi Schuurs v Renata Zarazua / Miyu Kato" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:10 - Court 7: Asia Muhammad / Demi Schuurs v Renata Zarazua / Miyu Kato [Alpha] - (19/01/2025)
 https://rr.vipstreams.in/Alpha/js/court-7-asia-muhammad-demi-schuurs-vs-renata-zarazua-miyu-kato/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Colorado Eagles vs Coachella Valley Firebirds" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvzCcQIeSGkheILCBggIOyxZL6QzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Hockey",09:05 - Colorado Eagles vs Coachella Valley Firebirds [Bravo] - (19/01/2025)
-https://rr.vipstreams.in/Bravo/js/1737252300000-colorado-eagles-coachella-valley-firebirds/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Colorado Eagles vs Coachella Valley Firebirds" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvzCcQIeSGkheILCBggIOyxZL6QzfMCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Hockey",09:05 - Colorado Eagles vs Coachella Valley Firebirds [Delta] - (19/01/2025)
-https://rr.vipstreams.in/Delta/js/colorado-eagles-vs-coachella-valley-firebirds-hockey-373841/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tri-City Americans vs Wenatchee Wild" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:05 - Tri-City Americans vs Wenatchee Wild [Delta] - (19/01/2025)
-https://rr.vipstreams.in/Delta/js/tri-city-americans-vs-wenatchee-wild-hockey-385904/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Spokane Chiefs vs Lethbridge Hurricanes" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:05 - Spokane Chiefs vs Lethbridge Hurricanes [Delta] - (19/01/2025)
-https://rr.vipstreams.in/Delta/js/spokane-chiefs-vs-lethbridge-hurricanes-hockey-385903/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Seattle Thunderbirds vs Kelowna Rockets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:05 - Seattle Thunderbirds vs Kelowna Rockets [Delta] - (19/01/2025)
 https://rr.vipstreams.in/Delta/js/seattle-thunderbirds-vs-kelowna-rockets-hockey-385902/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Utah v St. Louis Blues" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:00 - Utah v St. Louis Blues [Delta] - (19/01/2025)
-https://rr.vipstreams.in/Delta/js/utah-vs-st-louis-blues-hockey-386964/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Utah Utes v Brigham Young" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - Utah Utes v Brigham Young [Delta] - (19/01/2025)
-https://rr.vipstreams.in/Delta/js/utah-utes-vs-brigham-young-basketball-429624/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Court 7" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:00 - Court 7 [Charlie] - (19/01/2025)
 https://rr.vipstreams.in/Charlie/js/court-7-1629421304/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Margaret Court Arena Badosa - Danilovic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:00 - Australian Open v Margaret Court Arena Badosa - Danilovic [Bravo] - (19/01/2025)
@@ -138,8 +128,6 @@ https://rr.vipstreams.in/Bravo/js/1737252000000-australian-open-margaret-court-a
 https://rr.vipstreams.in/Bravo/js/1737252000000-australian-open-rod-laver-arena-gauff-bencic/1/playlist.m3u8
 #EXTINF:-1 tvg-name="BKFC Fight Night: Pechanga" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",09:00 - BKFC Fight Night: Pechanga [Bravo] - (19/01/2025)
 https://rr.vipstreams.in/Bravo/js/1737252000000-bkfc-fight-night-pechanga/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rod Laver Arena: Coco Gauff v Belinda Bencic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",09:00 - Rod Laver Arena: Coco Gauff v Belinda Bencic [Alpha] - (19/01/2025)
-https://rr.vipstreams.in/Alpha/js/rod-laver-arena-coco-gauff-vs-belinda-bencic/1/playlist.m3u8
 #EXTINF:-1 tvg-name="BKFC Pechanga: Evgeny Kurdanov v Elvin Leon Brito" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",09:00 - BKFC Pechanga: Evgeny Kurdanov v Elvin Leon Brito [Alpha] - (19/01/2025)
 https://rr.vipstreams.in/Alpha/js/bkfc-pechanga-evgeny-kurdanov-vs-elvin-leon-brito/1/playlist.m3u8
 #EXTINF:-1 tvg-name="San Diego Gulls vs Calgary Wranglers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdojJR6YUCF4gsIRJpDSQMENTMWWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Hockey",09:00 - San Diego Gulls vs Calgary Wranglers [Delta] - (19/01/2025)
@@ -150,10 +138,6 @@ https://rr.vipstreams.in/Delta/js/medicine-hat-tigers-vs-calgary-hitmen-hockey-3
 https://rr.vipstreams.in/Alpha/js/utah-hockey-club-vs-st-louis-blues/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Utah Hockey Club vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo2khEcJPJC8QWENRBbTJEJZQGQi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Hockey",09:00 - Utah Hockey Club vs St. Louis Blues [Charlie] - (19/01/2025)
 https://rr.vipstreams.in/Charlie/js/st-louis-blues-vs-utah-hockey-club-1629421264/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Utah vs BYU" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLAgmnEPDBIQvEFiN6QJM6dOXpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Basketball",09:00 - Utah vs BYU [Alpha] - (19/01/2025)
-https://rr.vipstreams.in/Alpha/js/byu-vs-utah/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Weber State vs Montana State" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvFwkQvBMCQ6Q0kFhMhqZi6ZQgYLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Basketball",09:00 - Weber State vs Montana State [Delta] - (19/01/2025)
-https://rr.vipstreams.in/Delta/js/weber-state-vs-montana-state-basketball-429623/1/playlist.m3u8
 #EXTINF:-1 tvg-name="1573 Arena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",08:30 - 1573 Arena [Charlie] - (19/01/2025)
 https://rr.vipstreams.in/Charlie/js/1573-arena-1629421303/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Court 7 Muhammad/Schuurs - Kato/Zarazua" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",08:30 - Australian Open v Court 7 Muhammad/Schuurs - Kato/Zarazua [Bravo] - (19/01/2025)
@@ -168,8 +152,6 @@ https://rr.vipstreams.in/Bravo/js/1737250200000-australian-open-john-cain-arena-
 https://rr.vipstreams.in/Alpha/js/shamrock-fc-360/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Supercross Rd. 2: San Diego" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",08:30 - Supercross Rd. 2: San Diego [Alpha] - (19/01/2025)
 https://rr.vipstreams.in/Alpha/js/supercross-rd-2-san-diego/1/playlist.m3u8
-#EXTINF:-1 tvg-name="LSU v 11 Texas A&M" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",08:30 - LSU v 11 Texas A&M [Alpha] - (19/01/2025)
-https://rr.vipstreams.in/Alpha/js/lsu-vs-11-texas-a-m/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Texas Legends vs Memphis Hustle" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrIAMDEPRS6QvENJBZTIaiBIGz1mCyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="Basketball",08:30 - Texas Legends vs Memphis Hustle [Delta] - (19/01/2025)
 https://rr.vipstreams.in/Delta/js/texas-legends-vs-memphis-hustle-basketball-420770/1/playlist.m3u8
 #EXTINF:-1 tvg-name="UCLA v Ohio State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",08:00 - UCLA v Ohio State [Bravo] - (19/01/2025)
@@ -178,8 +160,6 @@ https://rr.vipstreams.in/Bravo/js/1737248400000-ucla-ohio-state/1/playlist.m3u8
 https://rr.vipstreams.in/Bravo/js/1737248400000-bkfc-fight-night-pechanga-prelims/1/playlist.m3u8
 #EXTINF:-1 tvg-name="2025 Australian Open Tennis Round of 16" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",08:00 - 2025 Australian Open Tennis Round of 16 [Alpha] - (19/01/2025)
 https://rr.vipstreams.in/Alpha/js/2025-australian-open-tennis-round-of-16/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Detroit Lions vs Washington Commanders" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",08:00 - Detroit Lions vs Washington Commanders [Alpha] - (19/01/2025)
-https://rr.vipstreams.in/Alpha/js/detroit-lions-vs-washington-commanders/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -232,14 +212,10 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Margaret Court Arena: Alejandro Davidovich Fokina v Tommy Paul" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:40 - Margaret Court Arena: Alejandro Davidovich Fokina v Tommy Paul [Alpha] - (19/01/2025)
-https://rr.vipstreams.in/Alpha/js/margaret-court-arena-alejandro-davidovich-fokina-vs-tommy-paul/1/playlist.m3u8
-#EXTINF:-1 tvg-name="John Cain Arena: SaraErrani / Jasmine Paolini v DianaShnaider / Mirra Andreeva" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:45 - John Cain Arena: SaraErrani / Jasmine Paolini v DianaShnaider / Mirra Andreeva [Alpha] - (19/01/2025)
-https://rr.vipstreams.in/Alpha/js/john-cain-arena-saraerrani-jasmine-paolini-vs-dianashnaider-mirra-andreeva/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rod Laver Arena: Jack Draper v Carlos Alcaraz" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:55 - Rod Laver Arena: Jack Draper v Carlos Alcaraz [Alpha] - (19/01/2025)
+https://rr.vipstreams.in/Alpha/js/rod-laver-arena-jack-draper-vs-carlos-alcaraz/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hawaii v CSU Bakersfield" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",11:59 - Hawaii v CSU Bakersfield [Delta] - (19/01/2025)
 https://rr.vipstreams.in/Delta/js/hawaii-vs-csu-bakersfield-basketball-429631/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rod Laver Arena: Jack Draper v Carlos Alcaraz" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - Rod Laver Arena: Jack Draper v Carlos Alcaraz [Alpha] - (19/01/2025)
-https://rr.vipstreams.in/Alpha/js/rod-laver-arena-jack-draper-vs-carlos-alcaraz/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cal State Bakersfield v Hawai'i" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",12:00 - Cal State Bakersfield v Hawai'i [Alpha] - (19/01/2025)
 https://rr.vipstreams.in/Alpha/js/cal-state-bakersfield-vs-hawai-i/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Show Court Arena: Andres Molteni / Asia Muhammad v Harri Heliovaara / Anna Danilina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:15 - Show Court Arena: Andres Molteni / Asia Muhammad v Harri Heliovaara / Anna Danilina [Alpha] - (19/01/2025)
