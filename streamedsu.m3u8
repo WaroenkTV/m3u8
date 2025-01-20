@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="llawarra Hawks v Brisbane Bullets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - llawarra Hawks v Brisbane Bullets [Alpha] - (20/01/2025)
+https://rr.vipstreams.in/Alpha/js/llawarra-hawks-vs-brisbane-bullets/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Illawarra Hawks vs Brisbane Bullets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBnyQiWrxD7pIIyRAxNxkBBDUQKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Basketball",15:30 - Illawarra Hawks vs Brisbane Bullets [Bravo] - (20/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737361800000-illawarra-hawks-brisbane-bullets/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australia W v England W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:15 - Australia W v England W [Alpha] - (20/01/2025)
 https://rr.vipstreams.in/Alpha/js/australia-w-vs-england-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rod Laver Arena: Eva Lys v Iga Swiatek" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:05 - Rod Laver Arena: Eva Lys v Iga Swiatek [Alpha] - (20/01/2025)
@@ -42,10 +46,6 @@ https://rr.vipstreams.in/Alpha/js/margaret-court-arena-gael-monfils-vs-ben-shelt
 https://rr.vipstreams.in/Bravo/js/1737351000000-australian-open-john-cain-arena-navarro-kasatkina/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Kia Arena Panova/Glasspool - Routliffe/Venus" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - Australian Open v Kia Arena Panova/Glasspool - Routliffe/Venus [Bravo] - (20/01/2025)
 https://rr.vipstreams.in/Bravo/js/1737349200000-australian-open-kia-arena-panova-glasspool-routliffe-venus/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Australian Open v 1573 Arena Khromacheva/Withrow - Hsieh/Zielinski" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Australian Open v 1573 Arena Khromacheva/Withrow - Hsieh/Zielinski [Bravo] - (20/01/2025)
-https://rr.vipstreams.in/Bravo/js/1737347400000-australian-open-1573-arena-khromacheva-withrow-hsieh-zielinski/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Australian Open v Margaret Court Arena Monfils - Shelton" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Australian Open v Margaret Court Arena Monfils - Shelton [Bravo] - (20/01/2025)
-https://rr.vipstreams.in/Bravo/js/1737347400000-australian-open-margaret-court-arena-monfils-shelton/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -94,8 +94,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="llawarra Hawks v Brisbane Bullets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",15:30 - llawarra Hawks v Brisbane Bullets [Alpha] - (20/01/2025)
-https://rr.vipstreams.in/Alpha/js/llawarra-hawks-vs-brisbane-bullets/1/playlist.m3u8
 #EXTINF:-1 tvg-name="John Cain Arena: Marcelo Arevalo/Timea Babos v Olivia Gadecki/John Peers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:55 - John Cain Arena: Marcelo Arevalo/Timea Babos v Olivia Gadecki/John Peers [Alpha] - (20/01/2025)
 https://rr.vipstreams.in/Alpha/js/john-cain-arena-marcelo-arevalo-timea-babos-vs-olivia-gadecki-john-peers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rod Laver Arena: Alex Michelsen v Alexde Minaur" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:30 - Rod Laver Arena: Alex Michelsen v Alexde Minaur [Alpha] - (20/01/2025)
@@ -142,3 +140,7 @@ https://rr.vipstreams.in/Alpha/js/paarl-royals-vs-joburg-super-kings/1/playlist.
 https://rr.vipstreams.in/Alpha/js/buyukcekmece-vs-anadolu-efes/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Panserraikos vs Lamia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJDSw-WohgheILCGqHTIFBc0nm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",23:00 - Panserraikos vs Lamia [Alpha] - (20/01/2025)
 https://rr.vipstreams.in/Alpha/js/panserraikos-fc-vs-lamia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UTSA Men's Basketball Presser" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - UTSA Men's Basketball Presser [Charlie] - (20/01/2025)
+https://rr.vipstreams.in/Charlie/js/utsa-mens-basketball-presser-1629421331/1/playlist.m3u8
+#EXTINF:-1 tvg-name="CLS Invitational Group 5 | Day 1 (Session 2)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",23:30 - CLS Invitational Group 5 | Day 1 (Session 2) [Alpha] - (20/01/2025)
+https://rr.vipstreams.in/Alpha/js/cls-invitational-group-5-day-1-session-2/1/playlist.m3u8
