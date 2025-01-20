@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Australian Open v Kia Arena Panova/Glasspool - Routliffe/Venus" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - Australian Open v Kia Arena Panova/Glasspool - Routliffe/Venus [Bravo] - (20/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737349200000-australian-open-kia-arena-panova-glasspool-routliffe-venus/1/playlist.m3u8
 #EXTINF:-1 tvg-name="John Cain Arena: Lorenzo Sonego v Learner Tien" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:40 - John Cain Arena: Lorenzo Sonego v Learner Tien [Alpha] - (20/01/2025)
 https://rr.vipstreams.in/Alpha/js/john-cain-arena-lorenzo-sonego-vs-learner-tien/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v 1573 Arena Khromacheva/Withrow - Hsieh/Zielinski" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Australian Open v 1573 Arena Khromacheva/Withrow - Hsieh/Zielinski [Bravo] - (20/01/2025)
@@ -26,10 +28,6 @@ https://rr.vipstreams.in/Bravo/js/1737342000000-australian-open-margaret-court-a
 https://rr.vipstreams.in/Bravo/js/1737342000000-australian-open-rod-laver-arena-sinner-rune/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rod Laver Arena: Jannik Sinner v Holger Rune" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",10:00 - Rod Laver Arena: Jannik Sinner v Holger Rune [Alpha] - (20/01/2025)
 https://rr.vipstreams.in/Alpha/js/rod-laver-arena-jannik-sinner-vs-holger-rune/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Mazatlan FC W v Pachuca W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",10:00 - Mazatlan FC W v Pachuca W [Alpha] - (20/01/2025)
-https://rr.vipstreams.in/Alpha/js/mazatlan-fc-w-vs-pachuca-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Mazatlan FC W v Pachuca W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",10:00 - Mazatlan FC W v Pachuca W [Bravo] - (20/01/2025)
-https://rr.vipstreams.in/Bravo/js/1737342000000-mazatlan-fc-w-pachuca-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NFL PrimeTime" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",09:45 - NFL PrimeTime [Bravo] - (20/01/2025)
 https://rr.vipstreams.in/Bravo/js/1737341100000-nfl-primetime/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australia Women U19 v Bangladesh Women U19" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",09:30 - Australia Women U19 v Bangladesh Women U19 [Alpha] - (20/01/2025)
@@ -46,8 +44,6 @@ https://rr.vipstreams.in/Bravo/js/1737336600000-australian-open-kia-arena-behar-
 https://rr.vipstreams.in/Bravo/js/1737336600000-australian-open-john-cain-arena-mladenovic-zhang-chan-kichenok/1/playlist.m3u8
 #EXTINF:-1 tvg-name="2025 Australian Open Tennis Round of 16" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",08:30 - 2025 Australian Open Tennis Round of 16 [Alpha] - (20/01/2025)
 https://rr.vipstreams.in/Alpha/js/2025-australian-open-tennis-round-of-16/1/playlist.m3u8
-#EXTINF:-1 tvg-name="TNA: Genesis 2025" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",08:00 - TNA: Genesis 2025 [Alpha] - (20/01/2025)
-https://rr.vipstreams.in/Alpha/js/tna-genesis-2025/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -96,18 +92,14 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Margaret Court Arena: Gael Monfils v Ben Shelton" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:55 - Margaret Court Arena: Gael Monfils v Ben Shelton [Alpha] - (20/01/2025)
+#EXTINF:-1 tvg-name="Margaret Court Arena: Gael Monfils v Ben Shelton" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:25 - Margaret Court Arena: Gael Monfils v Ben Shelton [Alpha] - (20/01/2025)
 https://rr.vipstreams.in/Alpha/js/margaret-court-arena-gael-monfils-vs-ben-shelton/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Show Court Arena: Lloyd Glasspool/Alexandra Panova v Michael Venus/Erin Routliffe" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:10 - Show Court Arena: Lloyd Glasspool/Alexandra Panova v Michael Venus/Erin Routliffe [Alpha] - (20/01/2025)
-https://rr.vipstreams.in/Alpha/js/show-court-arena-lloyd-glasspool-alexandra-panova-vs-michael-venus-erin-routliffe/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pakistan v West Indies" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",12:30 - Pakistan v West Indies [Alpha] - (20/01/2025)
 https://rr.vipstreams.in/Alpha/js/pakistan-vs-west-indies/1/playlist.m3u8
-#EXTINF:-1 tvg-name="John Cain Arena: Emma Navarro v Daria Kasatkina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:30 - John Cain Arena: Emma Navarro v Daria Kasatkina [Alpha] - (20/01/2025)
-https://rr.vipstreams.in/Alpha/js/john-cain-arena-emma-navarro-vs-daria-kasatkina/1/playlist.m3u8
 #EXTINF:-1 tvg-name="1573 Arena: Jackson Withrow/Irina Khromacheva v Jan Zielinski/Hsieh Su-wei" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:35 - 1573 Arena: Jackson Withrow/Irina Khromacheva v Jan Zielinski/Hsieh Su-wei [Alpha] - (20/01/2025)
 https://rr.vipstreams.in/Alpha/js/1573-arena-jackson-withrow-irina-khromacheva-vs-jan-zielinski-hsieh-su-wei/1/playlist.m3u8
-#EXTINF:-1 tvg-name="1573 Arena: Ellen Perez/Kevin Krawietz v Alex Bolt/Priscilla Hon" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",13:00 - 1573 Arena: Ellen Perez/Kevin Krawietz v Alex Bolt/Priscilla Hon [Alpha] - (20/01/2025)
-https://rr.vipstreams.in/Alpha/js/1573-arena-ellen-perez-kevin-krawietz-vs-alex-bolt-priscilla-hon/1/playlist.m3u8
+#EXTINF:-1 tvg-name="John Cain Arena: Emma Navarro v Daria Kasatkina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",13:00 - John Cain Arena: Emma Navarro v Daria Kasatkina [Alpha] - (20/01/2025)
+https://rr.vipstreams.in/Alpha/js/john-cain-arena-emma-navarro-vs-daria-kasatkina/1/playlist.m3u8
 #EXTINF:-1 tvg-name="England v Pakistan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",13:15 - England v Pakistan [Charlie] - (20/01/2025)
 https://rr.vipstreams.in/Charlie/js/england-vs-pakistan-1629422486/1/playlist.m3u8
 #EXTINF:-1 tvg-name="England Women U19 v Pakistan Women U19" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",13:30 - England Women U19 v Pakistan Women U19 [Alpha] - (20/01/2025)
@@ -120,6 +112,8 @@ https://rr.vipstreams.in/Alpha/js/scotland-women-u19-vs-nepal-women-u19/1/playli
 https://rr.vipstreams.in/Alpha/js/show-court-arena-zheng-saisai-wang-xinyu-vs-sara-sorribes-kamilla-rakhimova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="John Cain Arena: Marcelo Arevalo/Timea Babos v Olivia Gadecki/John Peers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",14:00 - John Cain Arena: Marcelo Arevalo/Timea Babos v Olivia Gadecki/John Peers [Alpha] - (20/01/2025)
 https://rr.vipstreams.in/Alpha/js/john-cain-arena-marcelo-arevalo-timea-babos-vs-olivia-gadecki-john-peers/1/playlist.m3u8
+#EXTINF:-1 tvg-name="1573 Arena: Ellen Perez/Kevin Krawietz v Alex Bolt/Priscilla Hon" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",14:05 - 1573 Arena: Ellen Perez/Kevin Krawietz v Alex Bolt/Priscilla Hon [Alpha] - (20/01/2025)
+https://rr.vipstreams.in/Alpha/js/1573-arena-ellen-perez-kevin-krawietz-vs-alex-bolt-priscilla-hon/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australia v England" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",15:00 - Australia v England [Charlie] - (20/01/2025)
 https://rr.vipstreams.in/Charlie/js/australia-vs-england-1629422487/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rod Laver Arena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:00 - Rod Laver Arena [Charlie] - (20/01/2025)
