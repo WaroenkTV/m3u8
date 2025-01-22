@@ -1,23 +1,67 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Calcit Kamnik W v FC Porto W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:00 - Calcit Kamnik W v FC Porto W [Bravo] - (22/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737561600000-calcit-kamnik-w-fc-porto-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Haguenau v Dunkerque" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - Haguenau v Dunkerque [Bravo] - (22/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737561600000-haguenau-dunkerque/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fenerbahce W v Venezia W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Fenerbahce W v Venezia W [Bravo] - (22/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737561600000-fenerbahce-w-venezia-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Providence (W) v Marquette (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Providence (W) v Marquette (W) [Bravo] - (22/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737561600000-providence-w-marquette-w-/1/playlist.m3u8
+#EXTINF:-1 tvg-name="La Salle (W) v Duquesne (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - La Salle (W) v Duquesne (W) [Bravo] - (22/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737561600000-la-salle-w-duquesne-w-/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Central Michigan (W) v Kent State (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Central Michigan (W) v Kent State (W) [Bravo] - (22/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737561600000-central-michigan-w-kent-state-w-/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Army (W) v Holy Cross (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Army (W) v Holy Cross (W) [Bravo] - (22/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737561600000-army-w-holy-cross-w-/1/playlist.m3u8
+#EXTINF:-1 tvg-name="All American" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",23:00 - All American [Alpha] - (22/01/2025)
+https://rr.vipstreams.in/Alpha/js/all-american/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FCSR Haguenau v Dunkerque" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - FCSR Haguenau v Dunkerque [Alpha] - (22/01/2025)
+https://rr.vipstreams.in/Alpha/js/fcsr-haguenau-vs-dunkerque/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Raptors 905 v Westchester" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Raptors 905 v Westchester [Alpha] - (22/01/2025)
+https://rr.vipstreams.in/Alpha/js/raptors-905-vs-westchester/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Wasl vs Al Sharjah" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCwgo1JhRQheIaSBIhE1U+c3WYLJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",23:00 - Al Wasl vs Al Sharjah [Bravo] - (22/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737561600000-al-wasl-al-sharjah/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Besiktas v Athletic Club" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:30 - Besiktas v Athletic Club [Alpha] - (22/01/2025)
+https://rr.vipstreams.in/Alpha/js/besiktas-vs-athletic-club/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Besiktas v Athletic Club" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:30 - Besiktas v Athletic Club [Charlie] - (22/01/2025)
+https://rr.vipstreams.in/Charlie/js/besiktas-vs-athletic-club-19296619/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Besiktas v Athletic Club" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:30 - Besiktas v Athletic Club [Echo] - (22/01/2025)
+https://rr.vipstreams.in/Echo/js/besiktas-athletic-club-22351/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Besiktas v Athletic Club" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:30 - Besiktas v Athletic Club [Foxtrot] - (22/01/2025)
+https://rr.vipstreams.in/Foxtrot/js/besiktas-vs-athletic-club-202501221500/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Besiktas vs Athletic Bilbao" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEYAGTjVakQvEFhDUQJUyGmaQtiIZZIKWEXMYowqlD0-lG1OW98fTBPcTEIIA.webp" group-title="Football",22:30 - Besiktas vs Athletic Bilbao [Bravo] - (22/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737559800000-besiktas-athletic-bilbao/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sunrisers Eastern Cape vs Pretoria Capitals" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:30 - Sunrisers Eastern Cape vs Pretoria Capitals [Alpha] - (22/01/2025)
+https://rr.vipstreams.in/Alpha/js/sunrisers-eastern-cape-vs-pretoria-capitals/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Eastern Cape v Capitals" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:20 - Eastern Cape v Capitals [Charlie] - (22/01/2025)
+https://rr.vipstreams.in/Charlie/js/eastern-cape-vs-capitals-1629422647/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Fateh v Damac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:55 - Al Fateh v Damac [Alpha] - (22/01/2025)
+https://rr.vipstreams.in/Alpha/js/al-fateh-vs-damac/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Fateh v Damac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:55 - Al Fateh v Damac [Bravo] - (22/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737557700000-al-fateh-damac/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Desert Vipers vs Sharjah Warriors" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",21:30 - Desert Vipers vs Sharjah Warriors [Alpha] - (22/01/2025)
+https://rr.vipstreams.in/Alpha/js/desert-vipers-vs-sharjah-warriors/1/playlist.m3u8
+#EXTINF:-1 tvg-name="India v England" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",20:30 - India v England [Alpha] - (22/01/2025)
+https://rr.vipstreams.in/Alpha/js/india-vs-england/1/playlist.m3u8
 #EXTINF:-1 tvg-name="India v England" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",20:00 - India v England [Charlie] - (22/01/2025)
 https://rr.vipstreams.in/Charlie/js/india-vs-england-1629422645/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Meralco Bolts v Ryukyu" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",19:10 - Meralco Bolts v Ryukyu [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/meralco-bolts-vs-ryukyu/1/playlist.m3u8
-#EXTINF:-1 tvg-name="SC Lusitania v Oliveira Hospital" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:00 - SC Lusitania v Oliveira Hospital [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/sc-lusitania-vs-oliveira-hospital/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Australian Open v Rod Laver Arena Hewitt/Philippoussis - Baghdatis/Blake" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:30 - Australian Open v Rod Laver Arena Hewitt/Philippoussis - Baghdatis/Blake [Bravo] - (22/01/2025)
-https://rr.vipstreams.in/Bravo/js/1737541800000-australian-open-rod-laver-arena-hewitt-philippoussis-baghdatis-blake/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Perth v Melbourne United" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:30 - Perth v Melbourne United [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/perth-vs-melbourne-united/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hiroshima D v Taoyuan Pauian Pilots" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:10 - Hiroshima D v Taoyuan Pauian Pilots [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/hiroshima-d-vs-taoyuan-pauian-pilots/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
 https://rr.vipstreams.in/Alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Golf
+https://rr.vipstreams.in/Alpha/js/sky-sports-golf/1/playlist.m3u8
+#EXTINF:-1 tvg-name="PGA Tour 2024" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",PGA Tour 2024
+https://rr.vipstreams.in/Alpha/js/pga-tour-2024/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBC Golf Channel
+https://rr.vipstreams.in/Alpha/js/nbc-golf-channel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Fox NRL TV
 https://rr.vipstreams.in/Alpha/js/fox-nrl-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Australian Open" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Australian Open
+https://rr.vipstreams.in/Alpha/js/australian-open/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Tennis Channel
+https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",WWE Network
 https://rr.vipstreams.in/Alpha/js/wwe-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="DAZN Formula 1 | DAZN F1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",DAZN Formula 1 | DAZN F1
@@ -26,26 +70,6 @@ https://rr.vipstreams.in/Alpha/js/dazn-formula-1-dazn-f1/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NASCAR Racehub" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NASCAR Racehub
 https://rr.vipstreams.in/Alpha/js/nascar-racehub/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Australian Open" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Australian Open
-https://rr.vipstreams.in/Alpha/js/australian-open/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Tennis Channel
-https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
-#EXTINF:-1 tvg-name="MUTV | Manchester United TV | MUFC TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",MUTV | Manchester United TV | MUFC TV
-https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Saturday Social" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Saturday Social
-https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
-https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Golf
-https://rr.vipstreams.in/Alpha/js/sky-sports-golf/1/playlist.m3u8
-#EXTINF:-1 tvg-name="PGA Tour 2024" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",PGA Tour 2024
-https://rr.vipstreams.in/Alpha/js/pga-tour-2024/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBC Golf Channel
-https://rr.vipstreams.in/Alpha/js/nbc-golf-channel/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
-https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
-https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NHL Network
 https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="SNF: Sunday Night Football" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",SNF: Sunday Night Football
@@ -60,56 +84,16 @@ https://rr.vipstreams.in/Alpha/js/nfl-redzone/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/nfl-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN
 https://rr.vipstreams.in/Alpha/js/espn/1/playlist.m3u8
-#EXTINF:-1 tvg-name="India v England" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",20:30 - India v England [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/india-vs-england/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Vipers v Warriors" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",21:00 - Vipers v Warriors [Charlie] - (22/01/2025)
-https://rr.vipstreams.in/Charlie/js/vipers-vs-warriors-1629422646/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Orobah v Al Qadsiah" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:00 - Al Orobah v Al Qadsiah [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-orobah-vs-al-qadsiah/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Slovenia v Argentina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",21:30 - Slovenia v Argentina [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/slovenia-vs-argentina/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Brazil v Chile" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",21:30 - Brazil v Chile [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/brazil-vs-chile/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Desert Vipers vs Sharjah Warriors" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",21:30 - Desert Vipers vs Sharjah Warriors [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/desert-vipers-vs-sharjah-warriors/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Fateh v Damac" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:55 - Al Fateh v Damac [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-fateh-vs-damac/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Iverioni v CIU" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",22:00 - Iverioni v CIU [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/iverioni-vs-ciu/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Eastern Cape v Capitals" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:20 - Eastern Cape v Capitals [Charlie] - (22/01/2025)
-https://rr.vipstreams.in/Charlie/js/eastern-cape-vs-capitals-1629422647/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sunrisers Eastern Cape v Pretoria Capitals" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:30 - Sunrisers Eastern Cape v Pretoria Capitals [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/sunrisers-eastern-cape-vs-pretoria-capitals/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Besiktas v Athletic Club" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:30 - Besiktas v Athletic Club [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/besiktas-vs-athletic-club/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Besiktas v Athletic Club" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:30 - Besiktas v Athletic Club [Charlie] - (22/01/2025)
-https://rr.vipstreams.in/Charlie/js/besiktas-vs-athletic-club-19296619/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Besiktas v Athletic Club" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:30 - Besiktas v Athletic Club [Echo] - (22/01/2025)
-https://rr.vipstreams.in/Echo/js/besiktas-athletic-club-22351/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Besiktas v Athletic Club" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:30 - Besiktas v Athletic Club [Foxtrot] - (22/01/2025)
-https://rr.vipstreams.in/Foxtrot/js/besiktas-vs-athletic-club-202501221500/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cibona v Zabok" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",22:30 - Cibona v Zabok [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/cibona-vs-zabok/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Calcit Kamnik W v FC Porto W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:00 - Calcit Kamnik W v FC Porto W [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/calcit-kamnik-w-vs-fc-porto-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Narva v Levadia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - Narva v Levadia [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/narva-vs-levadia/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FCSR Haguenau v Dunkerque" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - FCSR Haguenau v Dunkerque [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/fcsr-haguenau-vs-dunkerque/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Sadd v Al Khor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Al Sadd v Al Khor [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-sadd-vs-al-khor/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kvarner v GKK Sibenka" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Kvarner v GKK Sibenka [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/kvarner-vs-gkk-sibenka/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Raptors 905 v Westchester" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Raptors 905 v Westchester [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/raptors-905-vs-westchester/1/playlist.m3u8
-#EXTINF:-1 tvg-name="All American" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",23:00 - All American [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/all-american/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Wasl vs Al Sharjah" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCwgo1JhRQheIaSBIhE1U+c3WYLJBSwi5jFGFUoe78o11jP+KzAYO7iYhBAA.webp" group-title="Football",23:00 - Al Wasl vs Al Sharjah [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-wasl-vs-al-sharjah/1/playlist.m3u8
-#EXTINF:-1 tvg-name="CLS Invitational Group 6 | Day 3 (Session 2)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",23:30 - CLS Invitational Group 6 | Day 3 (Session 2) [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/cls-invitational-group-6-day-3-session-2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Latvijas Universitate v Parnu" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Latvijas Universitate v Parnu [Alpha] - (22/01/2025)
-https://rr.vipstreams.in/Alpha/js/latvijas-universitate-vs-parnu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="MUTV | Manchester United TV | MUFC TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",MUTV | Manchester United TV | MUFC TV
+https://rr.vipstreams.in/Alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Saturday Social" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Saturday Social
+https://rr.vipstreams.in/Alpha/js/sky-sports-saturday-social/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
+https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",ESPN First Take
+https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
+https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farmers Insurance Open: Main Feed (First Round)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",23:45 - Farmers Insurance Open: Main Feed (First Round) [Alpha] - (22/01/2025)
 https://rr.vipstreams.in/Alpha/js/farmers-insurance-open-main-feed-first-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farmers Insurance Open: Main Feed (First Round)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",23:45 - Farmers Insurance Open: Main Feed (First Round) [Charlie] - (22/01/2025)
@@ -120,42 +104,14 @@ https://rr.vipstreams.in/Charlie/js/wolves-twinsbet-vilnius-vs-dreamland-gran-ca
 https://rr.vipstreams.in/Charlie/js/besiktas-fibabanka-istanbul-vs-trefl-sopot-1629422675/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Petkim Spor v Hapoel Holon" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Petkim Spor v Hapoel Holon [Charlie] - (23/01/2025)
 https://rr.vipstreams.in/Charlie/js/petkim-spor-vs-hapoel-holon-1629422673/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Palmberg Schwerin W v Tent W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Palmberg Schwerin W v Tent W [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/palmberg-schwerin-w-vs-tent-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Maritsa Plovdiv W v Mladost W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Maritsa Plovdiv W v Mladost W [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/maritsa-plovdiv-w-vs-mladost-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fenerbahce W v Nantes W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Fenerbahce W v Nantes W [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/fenerbahce-w-vs-nantes-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="USA v Japan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - USA v Japan [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/usa-vs-japan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sweden v Portugal" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Sweden v Portugal [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/sweden-vs-portugal/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cape Verde v Croatia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Cape Verde v Croatia [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/cape-verde-vs-croatia/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farmers Insurance Open: Featured Holes #3, #8, #11 & #16 (First Round)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:00 - Farmers Insurance Open: Featured Holes #3, #8, #11 & #16 (First Round) [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/farmers-insurance-open-featured-holes-3-8-11-16-first-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farmers Insurance Open: Featured Holes #3, #8, #11 & #16 (First Round)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:00 - Farmers Insurance Open: Featured Holes #3, #8, #11 & #16 (First Round) [Charlie] - (23/01/2025)
 https://rr.vipstreams.in/Charlie/js/farmers-insurance-open-featured-holes-3-8-11-and-16-first-round-featured-hole-1629422677/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NEXTGEN Slovakia v Levice" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - NEXTGEN Slovakia v Levice [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/nextgen-slovakia-vs-levice/1/playlist.m3u8
-#EXTINF:-1 tvg-name="MBK Handlova v Spisski Rytieri" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - MBK Handlova v Spisski Rytieri [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/mbk-handlova-vs-spisski-rytieri/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Iskra Svit v Inter Bratislava" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Iskra Svit v Inter Bratislava [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/iskra-svit-vs-inter-bratislava/1/playlist.m3u8
-#EXTINF:-1 tvg-name="BKM Lucenec v Nitra Blue Wings" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - BKM Lucenec v Nitra Blue Wings [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/bkm-lucenec-vs-nitra-blue-wings/1/playlist.m3u8
-#EXTINF:-1 tvg-name="BC Komarno v BC Prievidza" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - BC Komarno v BC Prievidza [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/bc-komarno-vs-bc-prievidza/1/playlist.m3u8
-#EXTINF:-1 tvg-name="BK Ogre v Rigas Zelli" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - BK Ogre v Rigas Zelli [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/bk-ogre-vs-rigas-zelli/1/playlist.m3u8
-#EXTINF:-1 tvg-name="BK Liepaja v Tal Tech" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - BK Liepaja v Tal Tech [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/bk-liepaja-vs-tal-tech/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Helios Domzale v KK Bosna" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Helios Domzale v KK Bosna [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/helios-domzale-vs-kk-bosna/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Osijek v Dubrava" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Osijek v Dubrava [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/osijek-vs-dubrava/1/playlist.m3u8
-#EXTINF:-1 tvg-name="BC Wolves v Gran Canaria" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - BC Wolves v Gran Canaria [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/bc-wolves-vs-gran-canaria/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Ittihad vs Al Shabab" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsprAwIXmCS6Q0kChAQQWI4dPUjLJBSwi5jFGFUoe78o2pzP+Kza7uJiEEA.webp" group-title="Football",00:00 - Al Ittihad vs Al Shabab [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/al-ittihad-vs-al-shabab/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Ittihad vs Al Shabab" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdsprAwIXmCS6Q0kChAQQWI4dPUjLJBSwi5jFGFUoe78o2pzP+Kza7uJiEEA.webp" group-title="Football",00:00 - Al Ittihad vs Al Shabab [Charlie] - (23/01/2025)
@@ -176,10 +132,10 @@ https://rr.vipstreams.in/Alpha/js/vasas-w-vs-budowlani-lodz-w/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/champions-league-konferenz/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Magesi vs Mamelodi Sundowns" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvSQCQKMOAgheILCETUdIEscOnLLJBSwi5jXapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Football",00:30 - Magesi vs Mamelodi Sundowns [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/magesi-vs-mamelodi-sundowns/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hapoel Shlomo Tel Aviv v Bahcesehir College Istanbul" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:45 - Hapoel Shlomo Tel Aviv v Bahcesehir College Istanbul [Charlie] - (23/01/2025)
-https://rr.vipstreams.in/Charlie/js/hapoel-shlomo-tel-aviv-vs-bahcesehir-college-istanbul-1629422680/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farmers Insurance Open: Marquee Group (First Round) (Marquee Group)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:45 - Farmers Insurance Open: Marquee Group (First Round) (Marquee Group) [Charlie] - (23/01/2025)
 https://rr.vipstreams.in/Charlie/js/farmers-insurance-open-marquee-group-first-round-marquee-group-1629422679/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hapoel Shlomo Tel Aviv v Bahcesehir College Istanbul" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:45 - Hapoel Shlomo Tel Aviv v Bahcesehir College Istanbul [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/hapoel-shlomo-tel-aviv-vs-bahcesehir-college-istanbul-1629422680/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hapoel Tel-Aviv v Bahcesehir Kol." tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:45 - Hapoel Tel-Aviv v Bahcesehir Kol. [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/hapoel-tel-aviv-vs-bahcesehir-kol/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Shakhtar Donetsk vs Brest" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrSRhe2+XxC8QWENRAkTIaSAiWzIeCy0wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",00:45 - Shakhtar Donetsk vs Brest [Alpha] - (23/01/2025)
@@ -200,12 +156,14 @@ https://rr.vipstreams.in/Echo/js/rb-leipzig-sporting-cp-22342/1/playlist.m3u8
 https://rr.vipstreams.in/Foxtrot/js/rb-leipzig-vs-sporting-cp-202501221715/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Stuttgart W v Voluntari W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",01:00 - Stuttgart W v Voluntari W [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/stuttgart-w-vs-voluntari-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WWE The Bump" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",01:00 - WWE The Bump [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/wwe-the-bump/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Barcelona W v Atl. Madrid W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:00 - Barcelona W v Atl. Madrid W [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/barcelona-w-vs-atl-madrid-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="The Bahamas Great Abaco Classic Final Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",01:00 - The Bahamas Great Abaco Classic Final Round [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/the-bahamas-great-abaco-classic-final-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE The Bump" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",01:00 - WWE The Bump [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/wwe-the-bump/1/playlist.m3u8
+#EXTINF:-1 tvg-name="FCS All In" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",01:00 - FCS All In [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/fcs-all-in/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Barcelona W v Atl. Madrid W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:00 - Barcelona W v Atl. Madrid W [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/barcelona-w-vs-atl-madrid-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Starogard Gdanski v Krosno" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:00 - Starogard Gdanski v Krosno [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/starogard-gdanski-vs-krosno/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Oppsal v Baerum" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:00 - Oppsal v Baerum [Alpha] - (23/01/2025)
@@ -216,8 +174,6 @@ https://rr.vipstreams.in/Alpha/js/ulm-vs-buducnost/1/playlist.m3u8
 https://rr.vipstreams.in/Charlie/js/ratiopharm-ulm-vs-buducnost-voli-podgorica-1629422681/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Besiktas v Trefl Sopot" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:00 - Besiktas v Trefl Sopot [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/besiktas-vs-trefl-sopot/1/playlist.m3u8
-#EXTINF:-1 tvg-name="FCS All In" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",01:00 - FCS All In [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/fcs-all-in/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farmers Insurance Open: Finau & Homa Featured Groups (First Round)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",01:15 - Farmers Insurance Open: Finau & Homa Featured Groups (First Round) [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/farmers-insurance-open-finau-homa-featured-groups-first-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sao Joseense v Cascavel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",01:30 - Sao Joseense v Cascavel [Alpha] - (23/01/2025)
@@ -272,30 +228,28 @@ https://rr.vipstreams.in/Charlie/js/valencia-basket-vs-aris-midea-thessaloniki-1
 https://rr.vipstreams.in/Charlie/js/umana-reyer-venice-vs-hapoel-bank-yahav-jerusalem-1629422686/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sheffield Wednesday v Bristol City" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:45 - Sheffield Wednesday v Bristol City [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/sheffield-wednesday-vs-bristol-city/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sheffield Wednesday v Bristol City" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:45 - Sheffield Wednesday v Bristol City [Foxtrot] - (23/01/2025)
+https://rr.vipstreams.in/Foxtrot/js/sheffield-wednesday-vs-bristol-city-202501221915/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Venezia v Hapoel Jerusalem" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:45 - Venezia v Hapoel Jerusalem [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/venezia-vs-hapoel-jerusalem/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Portsmouth vs Stoke" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPycwISjRC8QWAyBQgSIaSBjXzplkgpYRcxijCqUPD+UbU5Xlr0YB7iYhBAA.webp" group-title="Football",02:45 - Portsmouth vs Stoke [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/portsmouth-vs-stoke-city/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Portsmouth vs Stoke" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPycwISjRC8QWAyBQgSIaSBjXzplkgpYRcxijCqUPD+UbU5Xlr0YB7iYhBAA.webp" group-title="Football",02:45 - Portsmouth vs Stoke [Foxtrot] - (23/01/2025)
+https://rr.vipstreams.in/Foxtrot/js/portsmouth-vs-stoke-city-202501221915/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Leeds vs Norwich" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrSiCkHENRC8QWAyBQgSIaSBjXzIU-mBIKWEXMYowqlDy-lG1HI+jvRgXuJiEEA.webp" group-title="Football",02:45 - Leeds vs Norwich [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/leeds-united-vs-norwich-city/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Milan v Girona" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Milan v Girona [Charlie] - (23/01/2025)
-https://rr.vipstreams.in/Charlie/js/milan-vs-girona-19296321/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Madrid v Salzburg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Real Madrid v Salzburg [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/real-madrid-vs-salzburg-19296325/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Feyenoord v FC Bayern Munchen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Feyenoord v FC Bayern Munchen [Charlie] - (23/01/2025)
 https://rr.vipstreams.in/Charlie/js/feyenoord-vs-fc-bayern-munchen-19296320/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Milan v Girona" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Milan v Girona [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/milan-vs-girona-19296321/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sparta Praha v Inter" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Sparta Praha v Inter [Charlie] - (23/01/2025)
 https://rr.vipstreams.in/Charlie/js/sparta-praha-vs-inter-19296323/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sparta Praha v Inter" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Sparta Praha v Inter [Echo] - (23/01/2025)
 https://rr.vipstreams.in/Echo/js/sparta-praha-inter-22350/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sparta Praha v Inter" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Sparta Praha v Inter [Foxtrot] - (23/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/sparta-praha-vs-inter-202501221930/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Madrid v Salzburg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Real Madrid v Salzburg [Charlie] - (23/01/2025)
-https://rr.vipstreams.in/Charlie/js/real-madrid-vs-salzburg-19296325/1/playlist.m3u8
-#EXTINF:-1 tvg-name="The Golazo Show" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - The Golazo Show [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/the-golazo-show/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sparta Prague v Internazionale" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Sparta Prague v Internazionale [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/sparta-prague-vs-internazionale/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Madrid v RB Salzburg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Real Madrid v RB Salzburg [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/real-madrid-vs-rb-salzburg/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farmers Insurance Open First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",03:00 - Farmers Insurance Open First Round [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/farmers-insurance-open-first-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farmers Insurance Open First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",03:00 - Farmers Insurance Open First Round [Alpha] - (23/01/2025)
@@ -314,6 +268,12 @@ https://rr.vipstreams.in/Charlie/js/farmers-insurance-open-featured-hole-8-first
 https://rr.vipstreams.in/Charlie/js/farmers-insurance-open-featured-hole-16-first-round-featured-hole-1629422690/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farmers Insurance Open First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",03:00 - Farmers Insurance Open First Round [Charlie] - (23/01/2025)
 https://rr.vipstreams.in/Charlie/js/farmers-insurance-open-featured-group-1-first-round-featured-group-1-1629422688/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The Golazo Show" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - The Golazo Show [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/the-golazo-show/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sparta Prague v Internazionale" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Sparta Prague v Internazionale [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/sparta-prague-vs-internazionale/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Madrid v RB Salzburg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Real Madrid v RB Salzburg [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/real-madrid-vs-rb-salzburg/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Plymouth vs Burnley" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE0wQ8MPyQgUIXiCzHDIEiGkht2qyhZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Football",03:00 - Plymouth vs Burnley [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/plymouth-argyle-vs-burnley/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Plymouth vs Burnley" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE0wQ8MPyQgUIXiCzHDIEiGkht2qyhZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Football",03:00 - Plymouth vs Burnley [Charlie] - (23/01/2025)
@@ -362,3 +322,131 @@ https://rr.vipstreams.in/Charlie/js/celtic-vs-young-boys-19296319/1/playlist.m3u
 https://rr.vipstreams.in/Echo/js/celtic-bsc-young-boys-22347/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Celtic vs Young Boys" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmAoomwAAwCQvEFhDUQJUyGkgIV8yHgskFLCLmMUYVdo5fyjajltfFZgTTFGCKA.webp" group-title="Football",03:00 - Celtic vs Young Boys [Foxtrot] - (23/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/celtic-vs-bsc-young-boys-202501221930/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bragantino v Velo Clube" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:30 - Bragantino v Velo Clube [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/bragantino-vs-velo-clube/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kiper's NFL Mock Draft 1.0" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",05:00 - Kiper's NFL Mock Draft 1.0 [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/kiper-s-nfl-mock-draft-1-0/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Joinville v Concordia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",05:00 - Joinville v Concordia [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/joinville-vs-concordia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Caravaggio v Avai" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",05:00 - Caravaggio v Avai [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/caravaggio-vs-avai/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bangu v Flamengo RJ" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",05:00 - Bangu v Flamengo RJ [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/bangu-vs-flamengo-rj/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bundesliga Weekly" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",05:30 - Bundesliga Weekly [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/bundesliga-weekly/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Libertad Asuncion v Olimpia Asuncion" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",05:30 - Libertad Asuncion v Olimpia Asuncion [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/libertad-asuncion-vs-olimpia-asuncion/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Brusque v Chapecoense-SC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",05:30 - Brusque v Chapecoense-SC [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/brusque-vs-chapecoense-sc/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Corinthians v Agua Santa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",05:30 - Corinthians v Agua Santa [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/corinthians-vs-agua-santa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pato v Uniao Corinthians" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",05:30 - Pato v Uniao Corinthians [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/pato-vs-uniao-corinthians/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Army v Holy Cross" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",06:00 - Army v Holy Cross [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/army-vs-holy-cross-1629422713/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ponte Preta v Portuguesa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",06:00 - Ponte Preta v Portuguesa [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/ponte-preta-vs-portuguesa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rio Branco PR v Andraus" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",06:00 - Rio Branco PR v Andraus [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/rio-branco-pr-vs-andraus/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maringa FC v Coritiba" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",06:00 - Maringa FC v Coritiba [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/maringa-fc-vs-coritiba/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cianorte v Londrina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",06:00 - Cianorte v Londrina [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/cianorte-vs-londrina/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Athletico-PR v Operario" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",06:00 - Athletico-PR v Operario [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/athletico-pr-vs-operario/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mogi v Minas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",06:00 - Mogi v Minas [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/mogi-vs-minas/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Brasilia v Corinthians Paulista" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",06:00 - Brasilia v Corinthians Paulista [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/brasilia-vs-corinthians-paulista/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Houston vs Utah" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",06:00 - Houston vs Utah [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/utah-vs-7-houston/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Holy Cross vs Army" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFWwQjfKxC8Q0kFhMhEhw8ZggYLJBSwi5jFGFUoe78o2pzPevRg7uJiEEA.webp" group-title="Basketball",06:00 - Holy Cross vs Army [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/army-west-point-vs-holy-cross/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Marcilio Dias v Hercilio Luz" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",06:30 - Marcilio Dias v Hercilio Luz [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/marcilio-dias-vs-hercilio-luz/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Youngstown State vs Robert Morris" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAY5vSCGoCQvENJBZTe80cQQQJFkgpYRcxijCqUPd+Ub6xn-FZgMHdxMQggA.webp" group-title="Basketball",06:30 - Youngstown State vs Robert Morris [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/robert-morris-vs-youngstown-state-1629422714/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Auckland Hearts W v Otago Sparks W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",06:40 - Auckland Hearts W v Otago Sparks W [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/auckland-hearts-w-vs-otago-sparks-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 15" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 15 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-15-1629422705/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 12" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 12 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-12-1629422706/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Margaret Court Arena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Margaret Court Arena [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/margaret-court-arena-1629422707/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 5" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 5 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-5-1629422708/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 3" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 3 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-3-1629422709/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 14" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 14 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-14-1629422695/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 11" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 11 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-11-1629422696/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 8" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 8 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-8-1629422697/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 10" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 10 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-10-1629422698/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 7" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 7 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-7-1629422699/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court TBC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court TBC [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-tbc-1629422700/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 6" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 6 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-6-1629422702/1/playlist.m3u8
+#EXTINF:-1 tvg-name="1573 Arena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - 1573 Arena [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/1573-arena-1629422701/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kia Arena" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Kia Arena [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/kia-arena-1629422704/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Court 13" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",07:00 - Court 13 [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/court-13-1629422703/1/playlist.m3u8
+#EXTINF:-1 tvg-name="NASCAR Presents Beyond the Wheel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",07:00 - NASCAR Presents Beyond the Wheel [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/nascar-presents-beyond-the-wheel/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Boston Fleet W v Toronto Sceptres W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:00 - Boston Fleet W v Toronto Sceptres W [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/boston-fleet-w-vs-toronto-sceptres-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New Jersey Devils v Boston Bruins" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:00 - New Jersey Devils v Boston Bruins [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/new-jersey-devils-vs-boston-bruins/1/playlist.m3u8
+#EXTINF:-1 tvg-name="New Jersey Devils v Boston Bruins" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",07:00 - New Jersey Devils v Boston Bruins [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/boston-bruins-vs-new-jersey-devils-1629422694/1/playlist.m3u8
+#EXTINF:-1 tvg-name="United States v Costa Rica" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",07:00 - United States v Costa Rica [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/united-states-vs-costa-rica/1/playlist.m3u8
+#EXTINF:-1 tvg-name="United States v Costa Rica" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",07:00 - United States v Costa Rica [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/united-states-vs-costa-rica-19362975/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Figueirense v Criciuma" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",07:00 - Figueirense v Criciuma [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/figueirense-vs-criciuma/1/playlist.m3u8
+#EXTINF:-1 tvg-name="CA Cerro v Ind. del Valle" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",07:00 - CA Cerro v Ind. del Valle [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/ca-cerro-vs-ind-del-valle/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mercer v UNCG" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Mercer v UNCG [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/mercer-vs-uncg/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Purdue Fort Wayne v Oakland" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Purdue Fort Wayne v Oakland [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/purdue-fort-wayne-vs-oakland/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Detroit Mercy v Cleveland State" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Detroit Mercy v Cleveland State [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/detroit-mercy-vs-cleveland-state/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Boston University v Navy" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Boston University v Navy [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/boston-university-vs-navy/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Virginia Tech v Georgia Tech" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Virginia Tech v Georgia Tech [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/virginia-tech-vs-georgia-tech/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Syracuse v Clemson" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Syracuse v Clemson [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/syracuse-vs-clemson/1/playlist.m3u8
+#EXTINF:-1 tvg-name="UNC Asheville v Gardner-Webb" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - UNC Asheville v Gardner-Webb [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/unc-asheville-vs-gardner-webb/1/playlist.m3u8
+#EXTINF:-1 tvg-name="High Point v USC Upstate" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - High Point v USC Upstate [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/high-point-vs-usc-upstate/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Xavier v 20 St. John's" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Xavier v 20 St. John's [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/xavier-vs-20-st-john-s/1/playlist.m3u8
+#EXTINF:-1 tvg-name="12 Kansas v TCU" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - 12 Kansas v TCU [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/12-kansas-vs-tcu/1/playlist.m3u8
+#EXTINF:-1 tvg-name="5 Florida v South Carolina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - 5 Florida v South Carolina [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/5-florida-vs-south-carolina/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Osceola Magic v Capital City Go-Go" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Osceola Magic v Capital City Go-Go [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/osceola-magic-vs-capital-city-go-go/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Osceola Magic v Capital City Go-Go" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Osceola Magic v Capital City Go-Go [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/capital-city-go-go-vs-osceola-magic-1629422693/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Long Island Nets v Windy City Bulls" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Long Island Nets v Windy City Bulls [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/long-island-nets-vs-windy-city-bulls/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Long Island Nets v Windy City Bulls" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - Long Island Nets v Windy City Bulls [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/windy-city-bulls-vs-long-island-nets-1629422691/1/playlist.m3u8
+#EXTINF:-1 tvg-name="College Park Skyhawks v Grand Rapids Gold" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - College Park Skyhawks v Grand Rapids Gold [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/college-park-skyhawks-vs-grand-rapids-gold/1/playlist.m3u8
+#EXTINF:-1 tvg-name="College Park Skyhawks v Grand Rapids Gold" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",07:00 - College Park Skyhawks v Grand Rapids Gold [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/grand-rapids-gold-vs-college-park-skyhawks-1629422692/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Boca Juniors v Argentino MM" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",07:10 - Boca Juniors v Argentino MM [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/boca-juniors-vs-argentino-mm/1/playlist.m3u8
