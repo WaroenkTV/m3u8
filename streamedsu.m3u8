@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Rod Laver Arena: Aryna Sabalenka v Paula Badosa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - Rod Laver Arena: Aryna Sabalenka v Paula Badosa [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/rod-laver-arena-aryna-sabalenka-vs-paula-badosa/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ras al Khaimah Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",15:30 - Ras al Khaimah Championship [Bravo] - (23/01/2025)
 https://rr.vipstreams.in/Bravo/js/1737621000000-ras-al-khaimah-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Australian Open v Rod Laver Arena Sabalenka - Badosa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - Australian Open v Rod Laver Arena Sabalenka - Badosa [Bravo] - (23/01/2025)
@@ -76,8 +78,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rod Laver Arena: Aryna Sabalenka v Paula Badosa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:45 - Rod Laver Arena: Aryna Sabalenka v Paula Badosa [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/rod-laver-arena-aryna-sabalenka-vs-paula-badosa/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rod Laver Arena: Madison Keys v Iga Swiatek" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:00 - Rod Laver Arena: Madison Keys v Iga Swiatek [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/rod-laver-arena-madison-keys-vs-iga-swiatek/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Shimane v SeaHorses Mikawa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:05 - Shimane v SeaHorses Mikawa [Alpha] - (23/01/2025)
@@ -130,3 +130,7 @@ https://rr.vipstreams.in/Alpha/js/karelian-hurmos-vs-hurrikaani/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/bedzin-vs-belchatow/1/playlist.m3u8
 #EXTINF:-1 tvg-name="CLS Invitational Group 6 | Day 4 (Session 2)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",23:30 - CLS Invitational Group 6 | Day 4 (Session 2) [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/cls-invitational-group-6-day-4-session-2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Farmers Insurance Open: Main Feed Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",23:45 - Farmers Insurance Open: Main Feed Second Round [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/farmers-insurance-open-main-feed-second-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Farmers Insurance Open: Main Feed Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",23:45 - Farmers Insurance Open: Main Feed Second Round [Charlie] - (23/01/2025)
+https://rr.vipstreams.in/Charlie/js/farmers-insurance-open-main-feed-second-round-1629422743/1/playlist.m3u8
