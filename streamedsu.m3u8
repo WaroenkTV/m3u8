@@ -78,10 +78,10 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rod Laver Arena: Madison Keys v Iga Swiatek" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:00 - Rod Laver Arena: Madison Keys v Iga Swiatek [Alpha] - (23/01/2025)
-https://rr.vipstreams.in/Alpha/js/rod-laver-arena-madison-keys-vs-iga-swiatek/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Shimane v SeaHorses Mikawa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",17:05 - Shimane v SeaHorses Mikawa [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/shimane-vs-seahorses-mikawa/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rod Laver Arena: Madison Keys v Iga Swiatek" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:15 - Rod Laver Arena: Madison Keys v Iga Swiatek [Alpha] - (23/01/2025)
+https://rr.vipstreams.in/Alpha/js/rod-laver-arena-madison-keys-vs-iga-swiatek/1/playlist.m3u8
 #EXTINF:-1 tvg-name="CLS Invitational Group 6 | Day 4 (Session 1)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",18:00 - CLS Invitational Group 6 | Day 4 (Session 1) [Alpha] - (23/01/2025)
 https://rr.vipstreams.in/Alpha/js/cls-invitational-group-6-day-4-session-1/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Lion City v Buriram" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",18:30 - Lion City v Buriram [Alpha] - (23/01/2025)
@@ -134,3 +134,29 @@ https://rr.vipstreams.in/Alpha/js/cls-invitational-group-6-day-4-session-2/1/pla
 https://rr.vipstreams.in/Alpha/js/farmers-insurance-open-main-feed-second-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Farmers Insurance Open: Main Feed Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",23:45 - Farmers Insurance Open: Main Feed Second Round [Charlie] - (23/01/2025)
 https://rr.vipstreams.in/Charlie/js/farmers-insurance-open-main-feed-second-round-1629422743/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Farmers Insurance Open: Featured Holes #3, #8, #11 & #16 (Second Round) (Featured Hole)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:00 - Farmers Insurance Open: Featured Holes #3, #8, #11 & #16 (Second Round) (Featured Hole) [Charlie] - (24/01/2025)
+https://rr.vipstreams.in/Charlie/js/farmers-insurance-open-featured-holes-3-8-11-and-16-second-round-featured-hole-1629422747/1/playlist.m3u8
+#EXTINF:-1 tvg-name="SS1 Digne-les-Bains/Chaudon Norante 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",00:00 - SS1 Digne-les-Bains/Chaudon Norante 1 [Charlie] - (24/01/2025)
+https://rr.vipstreams.in/Charlie/js/ss1-digne-les-bainschaudon-norante-1-1629422744/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Poland v Kuwait" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Poland v Kuwait [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/poland-vs-kuwait/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Netherlands v France" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Netherlands v France [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/netherlands-vs-france/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Italy v Germany" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Italy v Germany [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/italy-vs-germany/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Farmers Insurance Open: Finau & Homa Featured Groups Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:00 - Farmers Insurance Open: Finau & Homa Featured Groups Second Round [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/farmers-insurance-open-finau-homa-featured-groups-second-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Farmers Insurance Open: Featured Holes #3, #8, #11 & #16 Second Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:00 - Farmers Insurance Open: Featured Holes #3, #8, #11 & #16 Second Round [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/farmers-insurance-open-featured-holes-3-8-11-16-second-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rally Monte-Carlo: Stage 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",00:00 - Rally Monte-Carlo: Stage 1 [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/rally-monte-carlo-stage-1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pecsi VSK v DEAC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Pecsi VSK v DEAC [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/pecsi-vsk-vs-deac/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Teuta Durres v Beselidhja" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Teuta Durres v Beselidhja [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/teuta-durres-vs-beselidhja/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Najma v Al Hala" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Al Najma v Al Hala [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/al-najma-vs-al-hala/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plunges Olimpas v BC Olimpas Palanga" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Plunges Olimpas v BC Olimpas Palanga [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/plunges-olimpas-vs-bc-olimpas-palanga/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Farmers Insurance Open: Featured Groups (Second Round) (Featured Groups)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:15 - Farmers Insurance Open: Featured Groups (Second Round) (Featured Groups) [Charlie] - (24/01/2025)
+https://rr.vipstreams.in/Charlie/js/farmers-insurance-open-featured-groups-second-round-featured-groups-1629422748/1/playlist.m3u8
