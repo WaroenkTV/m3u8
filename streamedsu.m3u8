@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Al Nassr W v W Al-Amal W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:35 - Al Nassr W v W Al-Amal W [Alpha] - (24/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-nassr-w-vs-w-al-amal-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dalton Smith v Walid Ouizza: Weigh-In" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",20:00 - Dalton Smith v Walid Ouizza: Weigh-In [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/dalton-smith-vs-walid-ouizza-weigh-in/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Jagiellonia v Partizan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Jagiellonia v Partizan [Alpha] - (24/01/2025)
+https://rr.vipstreams.in/Alpha/js/jagiellonia-vs-partizan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth Day 1: Session 3" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",18:30 - Perth Day 1: Session 3 [Charlie] - (24/01/2025)
 https://rr.vipstreams.in/Charlie/js/perth-day-1-session-3-1629422817/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ONE 170" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",18:30 - ONE 170 [Alpha] - (24/01/2025)
@@ -54,10 +56,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Dalton Smith v Walid Ouizza: Weigh-In" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",20:00 - Dalton Smith v Walid Ouizza: Weigh-In [Alpha] - (24/01/2025)
-https://rr.vipstreams.in/Alpha/js/dalton-smith-vs-walid-ouizza-weigh-in/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Jagiellonia v Partizan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:00 - Jagiellonia v Partizan [Alpha] - (24/01/2025)
-https://rr.vipstreams.in/Alpha/js/jagiellonia-vs-partizan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Emirates v Knight Riders" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",21:00 - Emirates v Knight Riders [Charlie] - (24/01/2025)
 https://rr.vipstreams.in/Charlie/js/emirates-vs-knight-riders-1629422818/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rally Monte-Carlo: Stage 7" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",21:25 - Rally Monte-Carlo: Stage 7 [Alpha] - (24/01/2025)
@@ -360,3 +358,11 @@ https://rr.vipstreams.in/Charlie/js/arouca-vs-moreirense-19160667/1/playlist.m3u
 https://rr.vipstreams.in/Echo/js/arouca-moreirense-22377/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Arouca vs Moreirense" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmMHLgABjAkQvEFhDUQMEAcSJplwyyQUsIuYxT6OKHvvKNqcr3xWYDAPRjEIIA.webp" group-title="Football",03:15 - Arouca vs Moreirense [Foxtrot] - (25/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/arouca-vs-moreirense-202501252330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Joinville v Minas" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",04:00 - Joinville v Minas [Alpha] - (25/01/2025)
+https://rr.vipstreams.in/Alpha/js/joinville-vs-minas/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Diego Pacheco v Steven Nelson: Weigh-In" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",04:00 - Diego Pacheco v Steven Nelson: Weigh-In [Alpha] - (25/01/2025)
+https://rr.vipstreams.in/Alpha/js/diego-pacheco-vs-steven-nelson-weigh-in/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bolivia U20 v Ecuador U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Bolivia U20 v Ecuador U20 [Alpha] - (25/01/2025)
+https://rr.vipstreams.in/Alpha/js/bolivia-u20-vs-ecuador-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportivo Trinidense vs Sportivo Ameliano" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Sportivo Trinidense vs Sportivo Ameliano [Alpha] - (25/01/2025)
+https://rr.vipstreams.in/Alpha/js/sportivo-trinidense-vs-ameliano/1/playlist.m3u8
