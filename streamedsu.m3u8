@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Jannik Sinner v Alexander Zverev" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - Jannik Sinner v Alexander Zverev [Charlie] - (26/01/2025)
+https://rr.vipstreams.in/Charlie/js/jannik-sinner-vs-alexander-zverev-1629423083/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Australian Open Sinner v Zverev (eurosport)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - Australian Open Sinner v Zverev (eurosport) [Bravo] - (26/01/2025)
+https://rr.vipstreams.in/Bravo/js/1737880200000-australian-open-sinner-zverev/1/playlist.m3u8
+#EXTINF:-1 tvg-name="2025 Australian Open Mens Final: Jannik Sinner v Alexander Zverev" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - 2025 Australian Open Mens Final: Jannik Sinner v Alexander Zverev [Alpha] - (26/01/2025)
+https://rr.vipstreams.in/Alpha/js/2025-australian-open-mens-final-jannik-sinner-vs-alexander-zverev/1/playlist.m3u8
+#EXTINF:-1 tvg-name="2025 Australian Open Men's Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - 2025 Australian Open Men's Championship [Alpha] - (26/01/2025)
+https://rr.vipstreams.in/Alpha/js/2025-australian-open-men-s-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ras al Khaimah Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",15:00 - Ras al Khaimah Championship [Bravo] - (26/01/2025)
 https://rr.vipstreams.in/Bravo/js/1737878400000-ras-al-khaimah-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ras Al Khaimah Championship Final Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",15:00 - Ras Al Khaimah Championship Final Round [Alpha] - (26/01/2025)
@@ -26,8 +34,6 @@ https://rr.vipstreams.in/Foxtrot/js/western-sydney-wanderers-vs-auckland-2025012
 https://rr.vipstreams.in/Bravo/js/1737869400000-world-rugby-sevens-series-australia/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth SVNS Day 3" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Rugby",12:30 - Perth SVNS Day 3 [Alpha] - (26/01/2025)
 https://rr.vipstreams.in/Alpha/js/perth-svns-day-3/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Adelaide v New Zealand Breakers" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",12:30 - Adelaide v New Zealand Breakers [Alpha] - (26/01/2025)
-https://rr.vipstreams.in/Alpha/js/adelaide-vs-new-zealand-breakers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore v Court 1 Zheng - Sawangkaew" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - WTA Singapore v Court 1 Zheng - Sawangkaew [Bravo] - (26/01/2025)
 https://rr.vipstreams.in/Bravo/js/1737867600000-wta-singapore-court-1-zheng-sawangkaew/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore v Center Court Waltert - Eala" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - WTA Singapore v Center Court Waltert - Eala [Bravo] - (26/01/2025)
@@ -38,8 +44,6 @@ https://rr.vipstreams.in/Bravo/js/1737867600000-24-hours-of-daytona-race/1/playl
 https://rr.vipstreams.in/Alpha/js/imsa-rolex-24-part-3/1/playlist.m3u8
 #EXTINF:-1 tvg-name="IMSA Rolex 24: Part 3" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Motor Sports",12:00 - IMSA Rolex 24: Part 3 [Charlie] - (26/01/2025)
 https://rr.vipstreams.in/Charlie/js/imsa-rolex-24-part-3-1629423075/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Pakistan v West Indies" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",11:30 - Pakistan v West Indies [Alpha] - (26/01/2025)
-https://rr.vipstreams.in/Alpha/js/pakistan-vs-west-indies/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -80,12 +84,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Jannik Sinner v Alexander Zverev" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - Jannik Sinner v Alexander Zverev [Charlie] - (26/01/2025)
-https://rr.vipstreams.in/Charlie/js/jannik-sinner-vs-alexander-zverev-1629423083/1/playlist.m3u8
-#EXTINF:-1 tvg-name="2025 Australian Open Mens Final: Jannik Sinner v Alexander Zverev" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - 2025 Australian Open Mens Final: Jannik Sinner v Alexander Zverev [Alpha] - (26/01/2025)
-https://rr.vipstreams.in/Alpha/js/2025-australian-open-mens-final-jannik-sinner-vs-alexander-zverev/1/playlist.m3u8
-#EXTINF:-1 tvg-name="2025 Australian Open Men's Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - 2025 Australian Open Men's Championship [Alpha] - (26/01/2025)
-https://rr.vipstreams.in/Alpha/js/2025-australian-open-men-s-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth W v Brisbane Roar W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Brisbane Roar W [Alpha] - (26/01/2025)
 https://rr.vipstreams.in/Alpha/js/perth-w-vs-brisbane-roar-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Perth W v Brisbane Roar W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",16:00 - Perth W v Brisbane Roar W [Charlie] - (26/01/2025)
@@ -472,3 +470,27 @@ https://rr.vipstreams.in/Charlie/js/nantes-vs-olympique-lyonnais-19139815/1/play
 https://rr.vipstreams.in/Echo/js/nantes-lyon-22516/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nantes vs Lyon" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGCyQfEFj0heB6iET6UIE-oghpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",23:15 - Nantes vs Lyon [Foxtrot] - (26/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/nantes-vs-lyon-202501252330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Polabi v CZ.ACADEMY" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Polabi v CZ.ACADEMY [Alpha] - (26/01/2025)
+https://rr.vipstreams.in/Alpha/js/polabi-vs-cz-academy/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Anorthosis v Paralimni" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Anorthosis v Paralimni [Alpha] - (26/01/2025)
+https://rr.vipstreams.in/Alpha/js/anorthosis-vs-paralimni/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Vienna Basket v Oberwart Gunners" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Vienna Basket v Oberwart Gunners [Alpha] - (26/01/2025)
+https://rr.vipstreams.in/Alpha/js/vienna-basket-vs-oberwart-gunners/1/playlist.m3u8
+#EXTINF:-1 tvg-name="St Pauli vs Union Berlin" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJoMQm6hxC8QWENRAwDRkCjNWQi-MCQUsIuYxRhVKHp-KM9Yt4O9GCe4mIQQA.webp" group-title="Football",23:30 - St Pauli vs Union Berlin [Alpha] - (26/01/2025)
+https://rr.vipstreams.in/Alpha/js/st-pauli-vs-1-fc-union-berlin/1/playlist.m3u8
+#EXTINF:-1 tvg-name="St Pauli vs Union Berlin" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJoMQm6hxC8QWENRAwDRkCjNWQi-MCQUsIuYxRhVKHp-KM9Yt4O9GCe4mIQQA.webp" group-title="Football",23:30 - St Pauli vs Union Berlin [Charlie] - (26/01/2025)
+https://rr.vipstreams.in/Charlie/js/st-pauli-vs-fc-union-berlin-19154715/1/playlist.m3u8
+#EXTINF:-1 tvg-name="St Pauli vs Union Berlin" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJoMQm6hxC8QWENRAwDRkCjNWQi-MCQUsIuYxRhVKHp-KM9Yt4O9GCe4mIQQA.webp" group-title="Football",23:30 - St Pauli vs Union Berlin [Echo] - (26/01/2025)
+https://rr.vipstreams.in/Echo/js/fc-st-pauli-union-berlin-22526/1/playlist.m3u8
+#EXTINF:-1 tvg-name="St Pauli vs Union Berlin" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJoMQm6hxC8QWENRAwDRkCjNWQi-MCQUsIuYxRhVKHp-KM9Yt4O9GCe4mIQQA.webp" group-title="Football",23:30 - St Pauli vs Union Berlin [Foxtrot] - (26/01/2025)
+https://rr.vipstreams.in/Foxtrot/js/fc-st-pauli-vs-union-berlin-202501261600/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aston Villa vs West Ham" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmHnBN1PiES8QWEIZAgUIEpZM2sLJBTvtR4lGFUoe78o11jP+Kza7uJiEEA.webp" group-title="Football",23:30 - Aston Villa vs West Ham [Admin] - (26/01/2025)
+https://rr.vipstreams.in/Admin/js/admin-aston-villa-vs-west-ham/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aston Villa vs West Ham" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmHnBN1PiES8QWEIZAgUIEpZM2sLJBTvtR4lGFUoe78o11jP+Kza7uJiEEA.webp" group-title="Football",23:30 - Aston Villa vs West Ham [Alpha] - (26/01/2025)
+https://rr.vipstreams.in/Alpha/js/aston-villa-vs-west-ham-united/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aston Villa vs West Ham" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmHnBN1PiES8QWEIZAgUIEpZM2sLJBTvtR4lGFUoe78o11jP+Kza7uJiEEA.webp" group-title="Football",23:30 - Aston Villa vs West Ham [Charlie] - (26/01/2025)
+https://rr.vipstreams.in/Charlie/js/aston-villa-vs-west-ham-united-19134644/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aston Villa vs West Ham" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmHnBN1PiES8QWEIZAgUIEpZM2sLJBTvtR4lGFUoe78o11jP+Kza7uJiEEA.webp" group-title="Football",23:30 - Aston Villa vs West Ham [Echo] - (26/01/2025)
+https://rr.vipstreams.in/Echo/js/aston-villa-west-ham-22552/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aston Villa vs West Ham" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmHnBN1PiES8QWEIZAgUIEpZM2sLJBTvtR4lGFUoe78o11jP+Kza7uJiEEA.webp" group-title="Football",23:30 - Aston Villa vs West Ham [Foxtrot] - (26/01/2025)
+https://rr.vipstreams.in/Foxtrot/js/aston-villa-vs-west-ham-202501261600/1/playlist.m3u8
