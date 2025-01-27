@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Pakistan v West Indies" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",11:30 - Pakistan v West Indies [Alpha] - (27/01/2025)
+https://rr.vipstreams.in/Alpha/js/pakistan-vs-west-indies/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore: Heather Watson/Hailey Baptiste v Polina Kudermetova/Rebecca Marino" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:05 - WTA Singapore: Heather Watson/Hailey Baptiste v Polina Kudermetova/Rebecca Marino [Alpha] - (27/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-singapore-heather-watson-hailey-baptiste-vs-polina-kudermetova-rebecca-marino/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore: Camila Osorio v Bernarda Pera" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:05 - WTA Singapore: Camila Osorio v Bernarda Pera [Alpha] - (27/01/2025)
@@ -12,8 +14,6 @@ https://rr.vipstreams.in/Bravo/js/1737950400000-wta-singapore-centre-court-osori
 https://rr.vipstreams.in/Alpha/js/auckland-hearts-w-vs-wellington-blaze-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pachuca W v Atletico San Luis W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",10:10 - Pachuca W v Atletico San Luis W [Bravo] - (27/01/2025)
 https://rr.vipstreams.in/Bravo/js/1737947400000-pachuca-w-atletico-san-luis-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NFL PrimeTime" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",10:00 - NFL PrimeTime [Bravo] - (27/01/2025)
-https://rr.vipstreams.in/Bravo/js/1737946800000-nfl-primetime/1/playlist.m3u8
 #EXTINF:-1 tvg-name="England Women U19 v New Zealand Women U19" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",09:30 - England Women U19 v New Zealand Women U19 [Alpha] - (27/01/2025)
 https://rr.vipstreams.in/Alpha/js/england-women-u19-vs-new-zealand-women-u19/1/playlist.m3u8
 #EXTINF:-1 tvg-name="England v New Zealand" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",09:00 - England v New Zealand [Charlie] - (27/01/2025)
@@ -36,12 +36,6 @@ https://rr.vipstreams.in/Alpha/js/australian-open/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/tennis-channel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",WWE Network
 https://rr.vipstreams.in/Alpha/js/wwe-network/1/playlist.m3u8
-#EXTINF:-1 tvg-name="DAZN Formula 1 | DAZN F1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",DAZN Formula 1 | DAZN F1
-https://rr.vipstreams.in/Alpha/js/dazn-formula-1-dazn-f1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1 | Sky F1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports F1 | Sky F1
-https://rr.vipstreams.in/Alpha/js/sky-sports-f1-sky-f1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="NASCAR Racehub" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NASCAR Racehub
-https://rr.vipstreams.in/Alpha/js/nascar-racehub/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NHL Network
 https://rr.vipstreams.in/Alpha/js/nhl-network/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NFL Network
@@ -54,8 +48,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Pakistan v West Indies" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",11:30 - Pakistan v West Indies [Alpha] - (27/01/2025)
-https://rr.vipstreams.in/Alpha/js/pakistan-vs-west-indies/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pakistan v West Indies" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",12:00 - Pakistan v West Indies [Charlie] - (27/01/2025)
 https://rr.vipstreams.in/Charlie/js/pakistan-vs-west-indies-1629423146/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wang Xiyu/Zheng Saisai v Makoto Ninomiya/Tsao Chia-yi" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:30 - Wang Xiyu/Zheng Saisai v Makoto Ninomiya/Tsao Chia-yi [Alpha] - (27/01/2025)
@@ -98,3 +90,7 @@ https://rr.vipstreams.in/Alpha/js/beijing-vs-shanghai/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/wta-linz-aliaksandra-sasnovich-vs-ella-seidel/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Linz: Jodie Anna Burrage v Antonia Ruzic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",19:00 - WTA Linz: Jodie Anna Burrage v Antonia Ruzic [Alpha] - (27/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-linz-jodie-anna-burrage-vs-antonia-ruzic/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ATP Montpellier: Aleksandar Kovacevic v Pablo Carreno Busta" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",19:30 - ATP Montpellier: Aleksandar Kovacevic v Pablo Carreno Busta [Alpha] - (27/01/2025)
+https://rr.vipstreams.in/Alpha/js/atp-montpellier-aleksandar-kovacevic-vs-pablo-carreno-busta/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ATP Montpellier: Nikoloz Basilashvili v Titouan Droguet" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",19:30 - ATP Montpellier: Nikoloz Basilashvili v Titouan Droguet [Alpha] - (27/01/2025)
+https://rr.vipstreams.in/Alpha/js/atp-montpellier-nikoloz-basilashvili-vs-titouan-droguet/1/playlist.m3u8
