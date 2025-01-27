@@ -36,14 +36,8 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Linz: Aliaksandra Sasnovich v Ella Seidel" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",19:45 - WTA Linz: Aliaksandra Sasnovich v Ella Seidel [Alpha] - (27/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-linz-aliaksandra-sasnovich-vs-ella-seidel/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Montpellier: Nikoloz Basilashvili v Titouan Droguet" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",19:45 - ATP Montpellier: Nikoloz Basilashvili v Titouan Droguet [Alpha] - (27/01/2025)
-https://rr.vipstreams.in/Alpha/js/atp-montpellier-nikoloz-basilashvili-vs-titouan-droguet/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Singapore: AjlaTomljanovic v Simona Waltert" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:00 - WTA Singapore: AjlaTomljanovic v Simona Waltert [Alpha] - (27/01/2025)
+#EXTINF:-1 tvg-name="WTA Singapore: AjlaTomljanovic v Simona Waltert" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:30 - WTA Singapore: AjlaTomljanovic v Simona Waltert [Alpha] - (27/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-singapore-ajlatomljanovic-vs-simona-waltert/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Linz: Jodie Anna Burrage v Antonia Ruzic" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:00 - WTA Linz: Jodie Anna Burrage v Antonia Ruzic [Alpha] - (27/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-linz-jodie-anna-burrage-vs-antonia-ruzic/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Linz: Ulrikke Eikeri/Wu Fang-Hsien v Lyudmyla Kichenok/Nadiia Kichenok" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:30 - WTA Linz: Ulrikke Eikeri/Wu Fang-Hsien v Lyudmyla Kichenok/Nadiia Kichenok [Alpha] - (27/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-linz-ulrikke-eikeri-wu-fang-hsien-vs-lyudmyla-kichenok-nadiia-kichenok/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Linz: Viktoriya Tomova v Jessica Bouzas Maneiro" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:30 - WTA Linz: Viktoriya Tomova v Jessica Bouzas Maneiro [Alpha] - (27/01/2025)
@@ -156,3 +150,13 @@ https://rr.vipstreams.in/Charlie/js/avs-vs-gil-vicente-19160666/1/playlist.m3u8
 https://rr.vipstreams.in/Echo/js/avs-gil-vicente-22585/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AVS v Gil Vicente" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:15 - AVS v Gil Vicente [Foxtrot] - (28/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/avs-vs-gil-vicente-202501252330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chile U20 v Peru U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Chile U20 v Peru U20 [Alpha] - (28/01/2025)
+https://rr.vipstreams.in/Alpha/js/chile-u20-vs-peru-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Honduras U17 W v Belize U17 W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Honduras U17 W v Belize U17 W [Alpha] - (28/01/2025)
+https://rr.vipstreams.in/Alpha/js/honduras-u17-w-vs-belize-u17-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="El Salvador U17 W v Anguilla U17 W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - El Salvador U17 W v Anguilla U17 W [Alpha] - (28/01/2025)
+https://rr.vipstreams.in/Alpha/js/el-salvador-u17-w-vs-anguilla-u17-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cuba U17 W v Guyana U17 W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Cuba U17 W v Guyana U17 W [Alpha] - (28/01/2025)
+https://rr.vipstreams.in/Alpha/js/cuba-u17-w-vs-guyana-u17-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nova Iguacu v Boavista" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Nova Iguacu v Boavista [Alpha] - (28/01/2025)
+https://rr.vipstreams.in/Alpha/js/nova-iguacu-vs-boavista/1/playlist.m3u8
