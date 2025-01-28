@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Men's Giant Slalom Run 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:45 - Men's Giant Slalom Run 1 [Alpha] - (28/01/2025)
+https://rr.vipstreams.in/Alpha/js/men-s-giant-slalom-run-1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Elitzur Ashkelon v Ironi Nahariya" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:40 - Elitzur Ashkelon v Ironi Nahariya [Bravo] - (28/01/2025)
+https://rr.vipstreams.in/Bravo/js/1738082400000-elitzur-ashkelon-ironi-nahariya/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Spisska Nova Ves v Michalovce" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Spisska Nova Ves v Michalovce [Bravo] - (28/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738081800000-spisska-nova-ves-michalovce/1/playlist.m3u8
 #EXTINF:-1 tvg-name="SKA St. Petersburg v Vityaz Balashikha" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - SKA St. Petersburg v Vityaz Balashikha [Bravo] - (28/01/2025)
@@ -32,8 +36,6 @@ https://rr.vipstreams.in/Bravo/js/1738080000000-zabiny-brno-w-perfumerias-avenid
 https://rr.vipstreams.in/Bravo/js/1738080000000-cbk-mersin-w-landes-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bahcesehir Koleji v Ulm" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Bahcesehir Koleji v Ulm [Bravo] - (28/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738080000000-bahcesehir-koleji-ulm/1/playlist.m3u8
-#EXTINF:-1 tvg-name="LALIGA World" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - LALIGA World [Alpha] - (28/01/2025)
-https://rr.vipstreams.in/Alpha/js/laliga-world/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bahcesehir Kol. v Ulm" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Bahcesehir Kol. v Ulm [Alpha] - (28/01/2025)
 https://rr.vipstreams.in/Alpha/js/bahcesehir-kol-vs-ulm/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Poprad vs Nove Zamky" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmDD98IWZqwheIA4mkhzZiOeMgYLJBSwi5jFGFUoe78o2pzP+KzAmmKMoUA.webp" group-title="Hockey",23:00 - Poprad vs Nove Zamky [Bravo] - (28/01/2025)
@@ -98,20 +100,16 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Men's Giant Slalom Run 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:45 - Men's Giant Slalom Run 1 [Alpha] - (28/01/2025)
-https://rr.vipstreams.in/Alpha/js/men-s-giant-slalom-run-1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sassuolo W v Inter Milano W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Sassuolo W v Inter Milano W [Charlie] - (29/01/2025)
-https://rr.vipstreams.in/Charlie/js/sassuolo-w-vs-inter-milano-w-19325004/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kuwait v Japan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Kuwait v Japan [Alpha] - (29/01/2025)
 https://rr.vipstreams.in/Alpha/js/kuwait-vs-japan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Croatia v Hungary" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Croatia v Hungary [Alpha] - (29/01/2025)
 https://rr.vipstreams.in/Alpha/js/croatia-vs-hungary/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Linz: Anastasia Detiuc/Miriam Skoch v Anna Danilina/Irina Khromacheva" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:00 - WTA Linz: Anastasia Detiuc/Miriam Skoch v Anna Danilina/Irina Khromacheva [Alpha] - (29/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-linz-anastasia-de-iuc-miriam-skoch-vs-anna-danilina-irina-khromacheva/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sassuolo W v Internazionale W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Sassuolo W v Internazionale W [Alpha] - (29/01/2025)
 https://rr.vipstreams.in/Alpha/js/sassuolo-w-vs-internazionale-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wurzburg v Derthona" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:30 - Wurzburg v Derthona [Charlie] - (29/01/2025)
 https://rr.vipstreams.in/Charlie/js/wurzburg-vs-derthona-1629423665/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Linz: Anastasia Detiuc/Miriam Skoch v Anna Danilina/Irina Khromacheva" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:30 - WTA Linz: Anastasia Detiuc/Miriam Skoch v Anna Danilina/Irina Khromacheva [Alpha] - (29/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-linz-anastasia-de-iuc-miriam-skoch-vs-anna-danilina-irina-khromacheva/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wurzburg v Tortona" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:30 - Wurzburg v Tortona [Alpha] - (29/01/2025)
 https://rr.vipstreams.in/Alpha/js/wurzburg-vs-tortona/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cedevita Olimpija v Valencia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:30 - Cedevita Olimpija v Valencia [Alpha] - (29/01/2025)
