@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="GERMANY: German Masters" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",16:00 - GERMANY: German Masters [Alpha] - (28/01/2025)
+https://rr.vipstreams.in/Alpha/js/germany-german-masters/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore: Yuliia Starodubtseva v Tatjana Maria" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:35 - WTA Singapore: Yuliia Starodubtseva v Tatjana Maria [Alpha] - (28/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-singapore-yuliia-starodubtseva-vs-tatjana-maria/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore: Taylor Townsend v Elise Mertens" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:15 - WTA Singapore: Taylor Townsend v Elise Mertens [Alpha] - (28/01/2025)
@@ -12,10 +14,6 @@ https://rr.vipstreams.in/Bravo/js/1738045800000-wta-singapore-centre-court-towns
 https://rr.vipstreams.in/Alpha/js/india-w-u19-vs-scotland-w-u19/1/playlist.m3u8
 #EXTINF:-1 tvg-name="TBC v TBC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",13:15 - TBC v TBC [Charlie] - (28/01/2025)
 https://rr.vipstreams.in/Charlie/js/tbc-vs-tbc-1629423175/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Singapore v Court 1 Teichmann - Dart" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",13:00 - WTA Singapore v Court 1 Teichmann - Dart [Bravo] - (28/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738044000000-wta-singapore-court-1-teichmann-dart/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Singapore v Centre Court Marino - Wang" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",12:00 - WTA Singapore v Centre Court Marino - Wang [Bravo] - (28/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738040400000-wta-singapore-centre-court-marino-wang/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -42,8 +40,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="GERMANY: German Masters" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Billiards",16:00 - GERMANY: German Masters [Alpha] - (28/01/2025)
-https://rr.vipstreams.in/Alpha/js/germany-german-masters/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Linz Open - Day 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",18:00 - Linz Open - Day 1 [Alpha] - (28/01/2025)
 https://rr.vipstreams.in/Alpha/js/linz-open-day-1/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Linz Open - Day 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",18:00 - Linz Open - Day 1 [Charlie] - (28/01/2025)
@@ -104,3 +100,21 @@ https://rr.vipstreams.in/Alpha/js/laliga-world/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/bahcesehir-kol-vs-ulm/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Men's Giant Slalom Run 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:45 - Men's Giant Slalom Run 1 [Alpha] - (28/01/2025)
 https://rr.vipstreams.in/Alpha/js/men-s-giant-slalom-run-1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kuwait v Japan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Kuwait v Japan [Alpha] - (29/01/2025)
+https://rr.vipstreams.in/Alpha/js/kuwait-vs-japan/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Croatia v Hungary" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Croatia v Hungary [Alpha] - (29/01/2025)
+https://rr.vipstreams.in/Alpha/js/croatia-vs-hungary/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Linz: Olivia Nicholls/Tereza Mihalikova v Shuko Aoyama/Eri Hozumi" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:00 - WTA Linz: Olivia Nicholls/Tereza Mihalikova v Shuko Aoyama/Eri Hozumi [Alpha] - (29/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-linz-olivia-nicholls-tereza-mihalikova-vs-shuko-aoyama-eri-hozumi/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Stellenbosch v Kruger United" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Stellenbosch v Kruger United [Alpha] - (29/01/2025)
+https://rr.vipstreams.in/Alpha/js/stellenbosch-vs-kruger-united/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Magesi v Supersport Utd" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Magesi v Supersport Utd [Alpha] - (29/01/2025)
+https://rr.vipstreams.in/Alpha/js/magesi-vs-supersport-utd/1/playlist.m3u8
+#EXTINF:-1 tvg-name="AmaZulu v Mighty Eagles" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - AmaZulu v Mighty Eagles [Alpha] - (29/01/2025)
+https://rr.vipstreams.in/Alpha/js/amazulu-vs-mighty-eagles/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sassuolo W v Inter W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Sassuolo W v Inter W [Alpha] - (29/01/2025)
+https://rr.vipstreams.in/Alpha/js/sassuolo-w-vs-inter-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sassuolo W v Inter W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Sassuolo W v Inter W [Charlie] - (29/01/2025)
+https://rr.vipstreams.in/Charlie/js/sassuolo-w-vs-inter-milano-w-19325004/1/playlist.m3u8
+#EXTINF:-1 tvg-name="The Bare Knuckle Show with Brian Soscia: Season 2, Episode 87" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",00:05 - The Bare Knuckle Show with Brian Soscia: Season 2, Episode 87 [Alpha] - (29/01/2025)
+https://rr.vipstreams.in/Alpha/js/the-bare-knuckle-show-with-brian-soscia-season-2-episode-87/1/playlist.m3u8
