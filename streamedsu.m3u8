@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="WTA Linz v Center Court Tomova - Sakkari" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",23:55 - WTA Linz v Center Court Tomova - Sakkari [Bravo] - (29/01/2025)
+https://rr.vipstreams.in/Bravo/js/1738169700000-wta-linz-center-court-tomova-sakkari/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ATP Montpellier v Court 1 Griekspoor/Stevens - Frantzen/Jebens" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",23:40 - ATP Montpellier v Court 1 Griekspoor/Stevens - Frantzen/Jebens [Bravo] - (29/01/2025)
+https://rr.vipstreams.in/Bravo/js/1738168800000-atp-montpellier-court-1-griekspoor-stevens-frantzen-jebens/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Turk Telekom Ankara v Umana Reyer Venice" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Turk Telekom Ankara v Umana Reyer Venice [Charlie] - (29/01/2025)
 https://rr.vipstreams.in/Charlie/js/turk-telekom-ankara-vs-umana-reyer-venice-1629423712/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vsetin v Kolin" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",23:30 - Vsetin v Kolin [Bravo] - (29/01/2025)
@@ -40,10 +44,6 @@ https://rr.vipstreams.in/Bravo/js/1738166400000-western-michigan-w-buffalo-w-/1/
 https://rr.vipstreams.in/Alpha/js/all-american/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Montpellier v Court 1 Bu - Lestienne" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",22:50 - ATP Montpellier v Court 1 Bu - Lestienne [Bravo] - (29/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738165800000-atp-montpellier-court-1-bu-lestienne/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Linz: Clara Tauson v Sorana Cirstea" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",22:40 - WTA Linz: Clara Tauson v Sorana Cirstea [Alpha] - (29/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-linz-clara-tauson-vs-sorana-cirstea/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Montpellier: Andrey Rublev v Christopher Eubanks" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",22:30 - ATP Montpellier: Andrey Rublev v Christopher Eubanks [Alpha] - (29/01/2025)
-https://rr.vipstreams.in/Alpha/js/atp-montpellier-andrey-rublev-vs-christopher-eubanks/1/playlist.m3u8
 #EXTINF:-1 tvg-name="MI Cape Town vs Sunrisers Eastern Cape" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:30 - MI Cape Town vs Sunrisers Eastern Cape [Alpha] - (29/01/2025)
 https://rr.vipstreams.in/Alpha/js/mi-cape-town-vs-sunrisers-eastern-cape/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cape Town v Eastern Cape" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:20 - Cape Town v Eastern Cape [Charlie] - (29/01/2025)
@@ -52,8 +52,6 @@ https://rr.vipstreams.in/Charlie/js/cape-town-vs-eastern-cape-1629423711/1/playl
 https://rr.vipstreams.in/Bravo/js/1738164000000-atp-montpellier-court-patrice-dominguez-rublev-eubanks/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Linz v Center Court Tauson - Cirstea" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",22:10 - WTA Linz v Center Court Tauson - Cirstea [Bravo] - (29/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738163400000-wta-linz-center-court-tauson-cirstea/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cayman Islands W U17 v Puerto Rico W U17" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:30 - Cayman Islands W U17 v Puerto Rico W U17 [Alpha] - (29/01/2025)
-https://rr.vipstreams.in/Alpha/js/cayman-islands-w-u17-vs-puerto-rico-w-u17/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Desert Vipers vs Gulf Giants" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",21:30 - Desert Vipers vs Gulf Giants [Alpha] - (29/01/2025)
 https://rr.vipstreams.in/Alpha/js/desert-vipers-vs-gulf-giants/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vipers v Giants" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",21:00 - Vipers v Giants [Charlie] - (29/01/2025)
@@ -88,22 +86,14 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Montpellier: Tallon Griekspoor/Bart Stevens v Constantin Frantzen/Hendrik Jebens" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",23:50 - ATP Montpellier: Tallon Griekspoor/Bart Stevens v Constantin Frantzen/Hendrik Jebens [Alpha] - (29/01/2025)
-https://rr.vipstreams.in/Alpha/js/atp-montpellier-tallon-griekspoor-bart-stevens-vs-constantin-frantzen-hendrik-jebens/1/playlist.m3u8
 #EXTINF:-1 tvg-name="CSM Oradea v PAOK" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - CSM Oradea v PAOK [Delta] - (30/01/2025)
 https://rr.vipstreams.in/Delta/js/csm-oradea-vs-paok-basketball-431456/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tofas v FC Porto" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Tofas v FC Porto [Delta] - (30/01/2025)
 https://rr.vipstreams.in/Delta/js/tofas-vs-fc-porto-basketball-431453/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Roma W v Napoli W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Roma W v Napoli W [Charlie] - (30/01/2025)
-https://rr.vipstreams.in/Charlie/js/roma-w-vs-napoli-w-19325001/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Hapoel Shlomo Tel Aviv v Trefl Sopot" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Hapoel Shlomo Tel Aviv v Trefl Sopot [Charlie] - (30/01/2025)
-https://rr.vipstreams.in/Charlie/js/hapoel-shlomo-tel-aviv-vs-trefl-sopot-1629423742/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zawiercie v Milano" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:00 - Zawiercie v Milano [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/zawiercie-vs-milano/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Linz: Katarzyna Piter/Fanny Stollar v Sinja Kraus/Julia Grabher" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:00 - WTA Linz: Katarzyna Piter/Fanny Stollar v Sinja Kraus/Julia Grabher [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-linz-katarzyna-piter-fanny-stollar-vs-sinja-kraus-julia-grabher/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Linz: Viktoriya Tomova v Maria Sakkari" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:00 - WTA Linz: Viktoriya Tomova v Maria Sakkari [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-linz-viktoriya-tomova-vs-maria-sakkari/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AS Roma W v Napoli W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - AS Roma W v Napoli W [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/as-roma-w-vs-napoli-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Szombathely v Nymburk" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:00 - Szombathely v Nymburk [Alpha] - (30/01/2025)
@@ -120,18 +110,14 @@ https://rr.vipstreams.in/Alpha/js/hapoel-tel-aviv-vs-trefl-sopot/1/playlist.m3u8
 https://rr.vipstreams.in/Delta/js/hapoel-tel-aviv-vs-trefl-sopot-basketball-404525/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Oklahoma City Blue vs Memphis Hustle" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoPhhwvEImkhdBrCBPUQJPSBQgYhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Basketball",00:00 - Oklahoma City Blue vs Memphis Hustle [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/oklahoma-city-blue-vs-memphis-hustle/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Oklahoma City Blue vs Memphis Hustle" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoPhhwvEImkhdBrCBPUQJPSBQgYhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Basketball",00:00 - Oklahoma City Blue vs Memphis Hustle [Charlie] - (30/01/2025)
-https://rr.vipstreams.in/Charlie/js/memphis-hustle-vs-oklahoma-city-blue-1629423743/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Oklahoma City Blue vs Memphis Hustle" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoPhhwvEImkhdBrCBPUQJPSBQgYhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Basketball",00:00 - Oklahoma City Blue vs Memphis Hustle [Delta] - (30/01/2025)
 https://rr.vipstreams.in/Delta/js/oklahoma-city-blue-vs-memphis-hustle-basketball-420827/1/playlist.m3u8
-#EXTINF:-1 tvg-name="BC Lietkabelis vs U-BT Cluj-Napoca" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiGBJgsqGWoheILCAPSQKQyAhWYIGCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Basketball",00:00 - BC Lietkabelis vs U-BT Cluj-Napoca [Charlie] - (30/01/2025)
-https://rr.vipstreams.in/Charlie/js/7bet-lietkabelis-panevezys-vs-u-bt-cluj-napoca-1629423741/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Linz: Viktoriya Tomova v Maria Sakkari" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:15 - WTA Linz: Viktoriya Tomova v Maria Sakkari [Alpha] - (30/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-linz-viktoriya-tomova-vs-maria-sakkari/1/playlist.m3u8
 #EXTINF:-1 tvg-name="BC Kalev/Cramo v Dijon" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:30 - BC Kalev/Cramo v Dijon [Delta] - (30/01/2025)
 https://rr.vipstreams.in/Delta/js/bc-kalevcramo-vs-dijon-basketball-431458/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vero Monza v Giesen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",00:30 - Vero Monza v Giesen [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/vero-monza-vs-giesen/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATP Montpellier: Patrik Rikl/Petr Nouza v Luke Johnson/Sander Arends" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:30 - ATP Montpellier: Patrik Rikl/Petr Nouza v Luke Johnson/Sander Arends [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/atp-montpellier-patrik-rikl-petr-nouza-vs-luke-johnson-sander-arends/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Montpellier: Arthur Cazaux v Felix Auger Aliassime" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:30 - ATP Montpellier: Arthur Cazaux v Felix Auger Aliassime [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/atp-montpellier-arthur-cazaux-vs-felix-auger-aliassime/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rytas v Galatasaray" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",00:30 - Rytas v Galatasaray [Alpha] - (30/01/2025)
@@ -148,6 +134,8 @@ https://rr.vipstreams.in/Delta/js/buducnost-vs-joventut-badalona-basketball-4045
 https://rr.vipstreams.in/Alpha/js/aris-vs-hamburg/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Aris v Hamburg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:00 - Aris v Hamburg [Delta] - (30/01/2025)
 https://rr.vipstreams.in/Delta/js/aris-vs-hamburg-basketball-404523/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ATP Montpellier: Patrik Rikl/Petr Nouza v Luke Johnson/Sander Arends" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",01:10 - ATP Montpellier: Patrik Rikl/Petr Nouza v Luke Johnson/Sander Arends [Alpha] - (30/01/2025)
+https://rr.vipstreams.in/Alpha/js/atp-montpellier-patrik-rikl-petr-nouza-vs-luke-johnson-sander-arends/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Linz: Rebecca Sramkova v Anastasia Potapova" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",01:30 - WTA Linz: Rebecca Sramkova v Anastasia Potapova [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-linz-rebecca-sramkova-vs-anastasia-potapova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="JL Bourg v Hapoel Jerusalem" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:30 - JL Bourg v Hapoel Jerusalem [Alpha] - (30/01/2025)
