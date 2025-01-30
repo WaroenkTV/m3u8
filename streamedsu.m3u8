@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Sri Lanka v Australia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",11:30 - Sri Lanka v Australia [Alpha] - (30/01/2025)
+https://rr.vipstreams.in/Alpha/js/sri-lanka-vs-australia/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore v Centre Court Uchijima/Xu - Hibino/Kalashnikova" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:00 - WTA Singapore v Centre Court Uchijima/Xu - Hibino/Kalashnikova [Bravo] - (30/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738209600000-wta-singapore-centre-court-uchijima-xu-hibino-kalashnikova/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore: Moyuka Uchijima/XuYifan v Nao Hibino/Oksana Kalashnikova" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:00 - WTA Singapore: Moyuka Uchijima/XuYifan v Nao Hibino/Oksana Kalashnikova [Alpha] - (30/01/2025)
@@ -68,8 +70,6 @@ https://rr.vipstreams.in/Bravo/js/1738204200000-bakersfield-condors-henderson-si
 https://rr.vipstreams.in/Alpha/js/utah-hockey-club-vs-pittsburgh-penguins/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rip City Remix vs Austin Spurs" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:30 - Rip City Remix vs Austin Spurs [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/rip-city-remix-vs-austin-toros-spurs/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rip City Remix vs Austin Spurs" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:30 - Rip City Remix vs Austin Spurs [Bravo] - (30/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738204200000-rip-city-remix-austin-toros-spurs/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rip City Remix vs Austin Spurs" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:30 - Rip City Remix vs Austin Spurs [Charlie] - (30/01/2025)
 https://rr.vipstreams.in/Charlie/js/austin-spurs-vs-rip-city-remix-1629423779/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Saint Mary's v Santa Clara" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",09:00 - Saint Mary's v Santa Clara [Alpha] - (30/01/2025)
@@ -84,24 +84,16 @@ https://rr.vipstreams.in/Alpha/js/mexico-city-capitanes-vs-sioux-falls-skyforce/
 https://rr.vipstreams.in/Charlie/js/sioux-falls-skyforce-vs-mexico-city-capitanes-1629423778/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nashville Predators vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH4ghKMClKaQ0kChBYjh8xEOT8wJBSwi5jXav0cwZeEWpz9dvRgXuJiEEA.webp" group-title="Hockey",09:00 - Nashville Predators vs Vancouver Canucks [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/nashville-predators-vs-vancouver-canucks/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Nashville Predators vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH4ghKMClKaQ0kChBYjh8xEOT8wJBSwi5jXav0cwZeEWpz9dvRgXuJiEEA.webp" group-title="Hockey",09:00 - Nashville Predators vs Vancouver Canucks [Bravo] - (30/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738202400000-vancouver-canucks-vs-nashville-predators/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nashville Predators vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH4ghKMClKaQ0kChBYjh8xEOT8wJBSwi5jXav0cwZeEWpz9dvRgXuJiEEA.webp" group-title="Hockey",09:00 - Nashville Predators vs Vancouver Canucks [Charlie] - (30/01/2025)
 https://rr.vipstreams.in/Charlie/js/vancouver-canucks-vs-nashville-predators-1629423776/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Phoenix Suns vs Minnesota Timberwolves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqF5gkIMYhQheILCGohzRs2enGQi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",09:00 - Phoenix Suns vs Minnesota Timberwolves [Admin] - (30/01/2025)
 https://rr.vipstreams.in/Admin/js/admin-phoenix-suns-vs-minnesota-timberwolves/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Phoenix Suns vs Minnesota Timberwolves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqF5gkIMYhQheILCGohzRs2enGQi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",09:00 - Phoenix Suns vs Minnesota Timberwolves [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/phoenix-suns-vs-minnesota-timberwolves/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Phoenix Suns vs Minnesota Timberwolves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqF5gkIMYhQheILCGohzRs2enGQi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",09:00 - Phoenix Suns vs Minnesota Timberwolves [Bravo] - (30/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738202400000-minnesota-timberwolves-vs-phoenix-suns/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Phoenix Suns vs Minnesota Timberwolves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqF5gkIMYhQheILCGohzRs2enGQi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",09:00 - Phoenix Suns vs Minnesota Timberwolves [Charlie] - (30/01/2025)
 https://rr.vipstreams.in/Charlie/js/minnesota-timberwolves-vs-phoenix-suns-1629423775/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Phoenix Suns vs Minnesota Timberwolves" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqF5gkIMYhQheILCGohzRs2enGQi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Basketball",09:00 - Phoenix Suns vs Minnesota Timberwolves [Echo] - (30/01/2025)
 https://rr.vipstreams.in/Echo/js/phoenix-suns-minnesota-timberwolves-20063/1/playlist.m3u8
-#EXTINF:-1 tvg-name="AEW Dynamite" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",08:00 - AEW Dynamite [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/aew-dynamite/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sada Cruzeiro v Joinville" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",07:30 - Sada Cruzeiro v Joinville [Bravo] - (30/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738197000000-sada-cruzeiro-joinville/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -130,8 +122,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka v Australia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",11:30 - Sri Lanka v Australia [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/sri-lanka-vs-australia/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Singapore Open - Day 4" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",13:00 - Singapore Open - Day 4 [Charlie] - (30/01/2025)
 https://rr.vipstreams.in/Charlie/js/singapore-open-day-4-1629423842/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore: Hailey Baptiste v Kimberly Birrell" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",13:00 - WTA Singapore: Hailey Baptiste v Kimberly Birrell [Alpha] - (30/01/2025)
