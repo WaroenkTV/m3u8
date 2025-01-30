@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="San Lorenzo de Almagro v Ciudad Voley" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",04:00 - San Lorenzo de Almagro v Ciudad Voley [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/san-lorenzo-de-almagro-vs-ciudad-voley/1/playlist.m3u8
+#EXTINF:-1 tvg-name="OSU Orange Power Podcast" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",04:00 - OSU Orange Power Podcast [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/osu-orange-power-podcast/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guarani v General Caballero JLM" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Guarani v General Caballero JLM [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/guarani-vs-general-caballero-jlm/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guarani v General Caballero JLM" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Guarani v General Caballero JLM [Bravo] - (31/01/2025)
+https://rr.vipstreams.in/Bravo/js/1738270800000-guarani-general-caballero-jlm/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colombia U20 v Bolivia U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Colombia U20 v Bolivia U20 [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/colombia-u20-vs-bolivia-u20/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Colombia U20 v Bolivia U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Colombia U20 v Bolivia U20 [Bravo] - (31/01/2025)
+https://rr.vipstreams.in/Bravo/js/1738270800000-colombia-u20-bolivia-u20/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rangers v Union St. Gilloise" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Rangers v Union St. Gilloise [Echo] - (31/01/2025)
 https://rr.vipstreams.in/Echo/js/rangers-union-st-gilloise-22615/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rangers v Union St. Gilloise" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Rangers v Union St. Gilloise [Foxtrot] - (31/01/2025)
@@ -16,26 +28,26 @@ https://rr.vipstreams.in/Foxtrot/js/athletic-club-vs-plzen-202501301930/1/playli
 https://rr.vipstreams.in/Echo/js/olympiakos-piraeus-qarabag-22621/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Olympiakos Piraeus v Qarabag" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Olympiakos Piraeus v Qarabag [Foxtrot] - (31/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/olympiakos-piraeus-vs-qarabag-202501301930/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Olympiacos F.C. v Qarabag" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Olympiacos F.C. v Qarabag [Charlie] - (31/01/2025)
-https://rr.vipstreams.in/Charlie/js/olympiacos-fc-vs-qarabag-19296646/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Maccabi Tel Aviv v Porto" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Maccabi Tel Aviv v Porto [Charlie] - (31/01/2025)
-https://rr.vipstreams.in/Charlie/js/maccabi-tel-aviv-vs-porto-19296644/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ferencvarosi v AZ" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Ferencvarosi v AZ [Charlie] - (31/01/2025)
-https://rr.vipstreams.in/Charlie/js/ferencvarosi-vs-az-19296642/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Slavia Praha v Malmo FF" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Slavia Praha v Malmo FF [Charlie] - (31/01/2025)
 https://rr.vipstreams.in/Charlie/js/slavia-praha-vs-malmo-ff-19296651/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Slavia Praha v Malmo FF" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Slavia Praha v Malmo FF [Echo] - (31/01/2025)
 https://rr.vipstreams.in/Echo/js/slavia-praha-malmo-ff-22624/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Slavia Praha v Malmo FF" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Slavia Praha v Malmo FF [Foxtrot] - (31/01/2025)
 https://rr.vipstreams.in/Foxtrot/js/slavia-praha-vs-malmo-ff-202501301930/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ferencvarosi v AZ" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Ferencvarosi v AZ [Charlie] - (31/01/2025)
+https://rr.vipstreams.in/Charlie/js/ferencvarosi-vs-az-19296642/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Olympiacos F.C. v Qarabag" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Olympiacos F.C. v Qarabag [Charlie] - (31/01/2025)
+https://rr.vipstreams.in/Charlie/js/olympiacos-fc-vs-qarabag-19296646/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Maccabi Tel Aviv v Porto" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Maccabi Tel Aviv v Porto [Charlie] - (31/01/2025)
+https://rr.vipstreams.in/Charlie/js/maccabi-tel-aviv-vs-porto-19296644/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nice v Bodø / Glimt" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Nice v Bodø / Glimt [Charlie] - (31/01/2025)
 https://rr.vipstreams.in/Charlie/js/nice-vs-bodo-glimt-19296645/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",03:00 - AT&T Pebble Beach Pro-Am [Bravo] - (31/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738267200000-at-t-pebble-beach-pro-am/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",03:00 - AT&T Pebble Beach Pro-Am [Bravo] - (31/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738267200000-at-t-pebble-beach-pro-am-featured-group-1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",03:00 - AT&T Pebble Beach Pro-Am [Bravo] - (31/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738267200000-at-t-pebble-beach-pro-am-featured-group-2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",03:00 - AT&T Pebble Beach Pro-Am [Bravo] - (31/01/2025)
+https://rr.vipstreams.in/Bravo/js/1738267200000-at-t-pebble-beach-pro-am-featured-group-1/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rangers v Royale Union SG" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Rangers v Royale Union SG [Bravo] - (31/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738267200000-rangers-royale-union-sg/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Olympiacos Piraeus v Qarabag" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",03:00 - Olympiacos Piraeus v Qarabag [Bravo] - (31/01/2025)
@@ -266,12 +278,6 @@ https://rr.vipstreams.in/Bravo/js/1738263600000-german-masters-table-1/1/playlis
 https://rr.vipstreams.in/Bravo/js/1738263600000-norway-argentina-ruud-navone/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Montpellier v Court Patrice Dominguez Basilashvili - Rinderknech" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",02:00 - ATP Montpellier v Court Patrice Dominguez Basilashvili - Rinderknech [Bravo] - (31/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738263600000-atp-montpellier-court-patrice-dominguez-basilashvili-rinderknech/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Seattle U (W) v Grand Canyon (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - Seattle U (W) v Grand Canyon (W) [Bravo] - (31/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738263600000-seattle-u-w-grand-canyon-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Eastern Washington (W) v Idaho State (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - Eastern Washington (W) v Idaho State (W) [Bravo] - (31/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738263600000-eastern-washington-w-idaho-state-w-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cal State Northridge (W) v UC Santa Barbara (W)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - Cal State Northridge (W) v UC Santa Barbara (W) [Bravo] - (31/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738263600000-cal-state-northridge-w-uc-santa-barbara-w-/1/playlist.m3u8
 #EXTINF:-1 tvg-name="KV 61 W v KSV W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",02:00 - KV 61 W v KSV W [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/kv-61-w-vs-ksv-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Winmau World Masters | Day 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",02:00 - Winmau World Masters | Day 1 [Alpha] - (31/01/2025)
@@ -280,16 +286,10 @@ https://rr.vipstreams.in/Alpha/js/winmau-world-masters-day-1/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/atp-montpellier-nikoloz-basilashvili-vs-arthur-rinderknech/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Goteborg v Rosenborg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Goteborg v Rosenborg [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/goteborg-vs-rosenborg/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Goteborg v Rosenborg" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Goteborg v Rosenborg [Bravo] - (31/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738263600000-goteborg-rosenborg/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nova Iguacu v Bangu" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Nova Iguacu v Bangu [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/nova-iguacu-vs-bangu/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Nova Iguacu v Bangu" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",02:00 - Nova Iguacu v Bangu [Bravo] - (31/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738263600000-nova-iguacu-bangu/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vechta v Basketball Braunschweig" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - Vechta v Basketball Braunschweig [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/vechta-vs-basketball-braunschweig/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Vechta v Basketball Braunschweig" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",02:00 - Vechta v Basketball Braunschweig [Bravo] - (31/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738263600000-vechta-basketball-braunschweig/1/playlist.m3u8
 #EXTINF:-1 tvg-name="2025 Winmau World Masters Day One" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",01:45 - 2025 Winmau World Masters Day One [Charlie] - (31/01/2025)
 https://rr.vipstreams.in/Charlie/js/2025-winmau-world-masters-day-one-1629423792/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ES2, Courchevel, Slalom Women, Manche 2" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",01:45 - ES2, Courchevel, Slalom Women, Manche 2 [Alpha] - (31/01/2025)
@@ -304,10 +304,6 @@ https://rr.vipstreams.in/Alpha/js/franches-montagnes-w-vs-toggenburg-w/1/playlis
 https://rr.vipstreams.in/Alpha/js/tsv-jona-vs-schonenwerd/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Linz: Ekaterina Alexandrova v Aliaksandra Sasnovich" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",01:30 - WTA Linz: Ekaterina Alexandrova v Aliaksandra Sasnovich [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-linz-ekaterina-alexandrova-vs-aliaksandra-sasnovich/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Iserlohn Roosters vs Frankfurt Lowen" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijBIw4WrxAkQ+6SBQgIIE1kumQ10-mDaYAkXMabVKHmDLwi1HLejvRgvuJiEEA.webp" group-title="Hockey",01:30 - Iserlohn Roosters vs Frankfurt Lowen [Bravo] - (31/01/2025)
-https://rr.vipstreams.in/Bravo/js/1738261800000-iserlohn-roosters-frankfurt-lowen/1/playlist.m3u8
-#EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Featured Groups (First Round)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",01:15 - AT&T Pebble Beach Pro-Am: Featured Groups (First Round) [Charlie] - (31/01/2025)
-https://rr.vipstreams.in/Charlie/js/atandt-pebble-beach-pro-am-featured-groups-first-round-1629423790/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Finau & Hovland Featured Groups First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",01:15 - AT&T Pebble Beach Pro-Am: Finau & Hovland Featured Groups First Round [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/at-t-pebble-beach-pro-am-finau-hovland-featured-groups-first-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Stuttgart W v Dresdner SC W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",01:00 - Stuttgart W v Dresdner SC W [Alpha] - (31/01/2025)
@@ -320,6 +316,8 @@ https://rr.vipstreams.in/Alpha/js/wta-linz-katarzyna-piter-fanny-stollar-vs-lyud
 https://rr.vipstreams.in/Alpha/js/vaerlose-vs-amager/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zalgiris Kaunas v Bayern" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",01:00 - Zalgiris Kaunas v Bayern [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/zalgiris-kaunas-vs-bayern/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Linz: Anastasia Potapova/Yana Sizikova v Irina Khromacheva/Anna Danilina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:45 - WTA Linz: Anastasia Potapova/Yana Sizikova v Irina Khromacheva/Anna Danilina [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-linz-anastasia-potapova-yana-sizikova-vs-irina-khromacheva-anna-danilina/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Aurillac vs Mont-de-Marsan" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiBD0SIWbM29dIFCAhGYIHZp2T8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="Rugby",00:45 - Aurillac vs Mont-de-Marsan [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/aurillac-vs-mont-de-marsan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Montpellier v Court Patrice Dominguez Griekspoor - Gasquet" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:30 - ATP Montpellier v Court Patrice Dominguez Griekspoor - Gasquet [Bravo] - (31/01/2025)
@@ -332,16 +330,8 @@ https://rr.vipstreams.in/Alpha/js/pyrinto-tampere-2-vs-oulu/1/playlist.m3u8
 https://rr.vipstreams.in/Bravo/js/1738257600000-norway-argentina-budkov-kjaer-etcheverry/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Featured Holes #5, #7, #12 & #17 First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:15 - AT&T Pebble Beach Pro-Am: Featured Holes #5, #7, #12 & #17 First Round [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/at-t-pebble-beach-pro-am-featured-holes-5-7-12-17-first-round/1/playlist.m3u8
-#EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Featured Holes #5, #7, #12 & #17 First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:15 - AT&T Pebble Beach Pro-Am: Featured Holes #5, #7, #12 & #17 First Round [Charlie] - (31/01/2025)
-https://rr.vipstreams.in/Charlie/js/atandt-pebble-beach-pro-am-featured-holes-5-7-12-and-17-first-round-featured-hole-1629423789/1/playlist.m3u8
-#EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Marquee Groups (Marquee Group)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:00 - AT&T Pebble Beach Pro-Am: Marquee Groups (Marquee Group) [Charlie] - (31/01/2025)
-https://rr.vipstreams.in/Charlie/js/atandt-pebble-beach-pro-am-marquee-groups-marquee-group-1629423791/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Linz: Karolina Muchova v Sara Sorribes" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:00 - WTA Linz: Karolina Muchova v Sara Sorribes [Alpha] - (31/01/2025)
+#EXTINF:-1 tvg-name="WTA Linz: Karolina Muchova v Sara Sorribes" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:15 - WTA Linz: Karolina Muchova v Sara Sorribes [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-linz-karolina-muchova-vs-sara-sorribes/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Raed v Al Nassr" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Al Raed v Al Nassr [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-raed-vs-al-nassr/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Juventus W v Lazio W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Juventus W v Lazio W [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/juventus-w-vs-lazio-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
 https://rr.vipstreams.in/Alpha/js/sky-sports-darts/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Darts TV: All Darts Championship
@@ -370,16 +360,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Featured Group 2 (First Round)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - AT&T Pebble Beach Pro-Am: Featured Group 2 (First Round) [Charlie] - (31/01/2025)
-https://rr.vipstreams.in/Charlie/js/atandt-pebble-beach-pro-am-featured-group-2-first-round-1629423797/1/playlist.m3u8
-#EXTINF:-1 tvg-name="San Lorenzo de Almagro v Ciudad Voley" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",04:00 - San Lorenzo de Almagro v Ciudad Voley [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/san-lorenzo-de-almagro-vs-ciudad-voley/1/playlist.m3u8
-#EXTINF:-1 tvg-name="OSU Orange Power Podcast" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="American Football",04:00 - OSU Orange Power Podcast [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/osu-orange-power-podcast/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Guarani v General Caballero JLM" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Guarani v General Caballero JLM [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/guarani-vs-general-caballero-jlm/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Colombia U20 v Bolivia U20" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Colombia U20 v Bolivia U20 [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/colombia-u20-vs-bolivia-u20/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Minas v Blumenau" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",04:25 - Minas v Blumenau [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/minas-vs-blumenau/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Boavista v Madureira" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:30 - Boavista v Madureira [Alpha] - (31/01/2025)
@@ -590,8 +570,6 @@ https://rr.vipstreams.in/Alpha/js/uc-irvine-vs-long-beach-state/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/stockton-kings-vs-grand-rapids-gold/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Stockton Kings vs Grand Rapids Gold" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",10:00 - Stockton Kings vs Grand Rapids Gold [Charlie] - (31/01/2025)
 https://rr.vipstreams.in/Charlie/js/grand-rapids-gold-vs-stockton-kings-1629423827/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Australia W v England W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",10:30 - Australia W v England W [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/australia-w-vs-england-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Seattle Kraken vs San Jose Sharks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkhB9aWDEQQvTSBTaT1EJZghDJFkgpYRcxin0cUPfeUbU5XviswGAejAZAA.webp" group-title="Hockey",10:30 - Seattle Kraken vs San Jose Sharks [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/seattle-kraken-vs-san-jose-sharks/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Seattle Kraken vs San Jose Sharks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkhB9aWDEQQvTSBTaT1EJZghDJFkgpYRcxin0cUPfeUbU5XviswGAejAZAA.webp" group-title="Hockey",10:30 - Seattle Kraken vs San Jose Sharks [Charlie] - (31/01/2025)
@@ -600,5 +578,5 @@ https://rr.vipstreams.in/Charlie/js/san-jose-sharks-vs-seattle-kraken-1629423829
 https://rr.vipstreams.in/Alpha/js/oregon-vs-ucla/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Grand Canyon vs Seattle" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDIhgSMCmjSQvEIawgziY8ZLmTLXTAEi5jfapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Basketball",11:00 - Grand Canyon vs Seattle [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/seattle-u-vs-grand-canyon/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka v Australia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",11:30 - Sri Lanka v Australia [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/sri-lanka-vs-australia/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hawaii vs UC San Diego" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrRxQY4tCF4hpILMZDVT5kyjMskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Basketball",11:59 - Hawaii vs UC San Diego [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/uc-san-diego-vs-hawai-i/1/playlist.m3u8
