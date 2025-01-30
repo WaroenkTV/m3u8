@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="WTA Singapore: Tatjana Maria v Elise Mertens" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:50 - WTA Singapore: Tatjana Maria v Elise Mertens [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-singapore-tatjana-maria-vs-elise-mertens/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bahrain Championship" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",15:30 - Bahrain Championship [Bravo] - (30/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738225800000-bahrain-championship/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore v Court 1 Bucsa/Osorio - Dart/Lumsden" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",15:30 - WTA Singapore v Court 1 Bucsa/Osorio - Dart/Lumsden [Bravo] - (30/01/2025)
@@ -22,10 +20,6 @@ https://rr.vipstreams.in/Charlie/js/asian-tour-2025-international-series-india-p
 https://rr.vipstreams.in/Bravo/js/1738222200000-wta-singapore-centre-court-maria-mertens/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore v Court 1 Jiang/Zhu - Krawczyk/Olmos" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",14:00 - WTA Singapore v Court 1 Jiang/Zhu - Krawczyk/Olmos [Bravo] - (30/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738220400000-wta-singapore-court-1-jiang-zhu-krawczyk-olmos/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Singapore: Zhu Lin/Jiang Xinyu v Desirae Krawczyk/Giuliana Olmos" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",14:00 - WTA Singapore: Zhu Lin/Jiang Xinyu v Desirae Krawczyk/Giuliana Olmos [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-singapore-zhu-lin-jiang-xinyu-vs-desirae-krawczyk-giuliana-olmos/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Singapore: Hailey Baptiste v Kimberly Birrell" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",13:10 - WTA Singapore: Hailey Baptiste v Kimberly Birrell [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-singapore-hailey-baptiste-vs-kimberly-birrell/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore v Centre Court Baptiste - Birrell" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",13:00 - WTA Singapore v Centre Court Baptiste - Birrell [Bravo] - (30/01/2025)
 https://rr.vipstreams.in/Bravo/js/1738216800000-wta-singapore-centre-court-baptiste-birrell/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Singapore Open - Day 4" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",13:00 - Singapore Open - Day 4 [Alpha] - (30/01/2025)
@@ -60,8 +54,10 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Singapore: Camila Osorio/Cristina Bucsa v Harriet Dart/Maia Lumsden" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:00 - WTA Singapore: Camila Osorio/Cristina Bucsa v Harriet Dart/Maia Lumsden [Alpha] - (30/01/2025)
+#EXTINF:-1 tvg-name="WTA Singapore: Camila Osorio/Cristina Bucsa v Harriet Dart/Maia Lumsden" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:30 - WTA Singapore: Camila Osorio/Cristina Bucsa v Harriet Dart/Maia Lumsden [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-singapore-camila-osorio-cristina-buc-a-vs-harriet-dart-maia-lumsden/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Singapore: Tatjana Maria v Elise Mertens" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",16:30 - WTA Singapore: Tatjana Maria v Elise Mertens [Alpha] - (30/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-singapore-tatjana-maria-vs-elise-mertens/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore: Maya Joint v Wang Xinyu" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:00 - WTA Singapore: Maya Joint v Wang Xinyu [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-singapore-maya-joint-vs-wang-xinyu/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Singapore: Olivia Gadecki v Jil Teichmann" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",17:30 - WTA Singapore: Olivia Gadecki v Jil Teichmann [Alpha] - (30/01/2025)
@@ -86,10 +82,6 @@ https://rr.vipstreams.in/Charlie/js/linz-open-day-3-1629423844/1/playlist.m3u8
 https://rr.vipstreams.in/Alpha/js/wta-linz-dayana-yastremska-vs-antonia-ruzic/1/playlist.m3u8
 #EXTINF:-1 tvg-name="George Liddard v Derrick Osaze: Weigh-In" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",20:00 - George Liddard v Derrick Osaze: Weigh-In [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/george-liddard-vs-derrick-osaze-weigh-in/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Bataeh v Al-Ahli Dubai" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:15 - Al Bataeh v Al-Ahli Dubai [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-bataeh-vs-al-ahli-dubai/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Khorfakkan vs Al Ain" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxBxaUQYk3SQJEImpGTIM4hQskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Football",20:15 - Khorfakkan vs Al Ain [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/khorfakkan-vs-al-ain/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Montpellier Day 4" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:30 - Montpellier Day 4 [Charlie] - (30/01/2025)
 https://rr.vipstreams.in/Charlie/js/montpellier-day-4-1629423846/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Challenge Ciclista Mallorca | Ses Salines - Colonia de Sant Jordi Trophy" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",20:30 - Challenge Ciclista Mallorca | Ses Salines - Colonia de Sant Jordi Trophy [Alpha] - (30/01/2025)
@@ -102,14 +94,8 @@ https://rr.vipstreams.in/Alpha/js/atp-montpellier-jesper-de-jong-vs-flavio-cobol
 https://rr.vipstreams.in/Alpha/js/wta-linz-petra-martic-vs-elina-avanesyan/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Warriors v Knight Riders" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",21:00 - Warriors v Knight Riders [Charlie] - (30/01/2025)
 https://rr.vipstreams.in/Charlie/js/warriors-vs-knight-riders-1629423786/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Banfield v River Plate" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",21:00 - Banfield v River Plate [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/banfield-vs-river-plate/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Orobah v Al Ahli" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",21:00 - Al Orobah v Al Ahli [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/al-orobah-vs-al-ahli/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al-Rayyan v Al Khor" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",21:00 - Al-Rayyan v Al Khor [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-rayyan-vs-al-khor/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Sadd v Al-Ahli" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",21:30 - Al Sadd v Al-Ahli [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-sadd-vs-al-ahli/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sharjah Warriors vs Abu Dhabi Knight Riders" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",21:30 - Sharjah Warriors vs Abu Dhabi Knight Riders [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/sharjah-warriors-vs-abu-dhabi-knight-riders/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ATP Montpellier: Flavio Cobolli/Jonathan Eysseric v Sander Arends/Luke Johnson" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",22:00 - ATP Montpellier: Flavio Cobolli/Jonathan Eysseric v Sander Arends/Luke Johnson [Alpha] - (30/01/2025)
@@ -120,8 +106,6 @@ https://rr.vipstreams.in/Alpha/js/atp-montpellier-mattia-bellucci-vs-aleksandar-
 https://rr.vipstreams.in/Alpha/js/wta-linz-viktoriya-tomova-rebecca-sramkova-vs-tang-qianhui-emily-appleton/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Linz: Anna Blinkova v Elina Svitolina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",22:00 - WTA Linz: Anna Blinkova v Elina Svitolina [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-linz-anna-blinkova-vs-elina-svitolina/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ISSA Town v Bahrain Club" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",22:00 - ISSA Town v Bahrain Club [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/issa-town-vs-bahrain-club/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Riyadh v Al Wehda" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",22:15 - Al Riyadh v Al Wehda [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/al-riyadh-vs-al-wehda/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Super Kings v Royals" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",22:20 - Super Kings v Royals [Charlie] - (30/01/2025)
@@ -130,20 +114,8 @@ https://rr.vipstreams.in/Charlie/js/super-kings-vs-royals-1629423787/1/playlist.
 https://rr.vipstreams.in/Alpha/js/joburg-super-kings-vs-paarl-royals/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ES2, Courchevel, Slalom Women, Manche 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",22:45 - ES2, Courchevel, Slalom Women, Manche 1 [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/es2-courchevel-slalom-women-manche-1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al-Rayyan v Al Gharafa" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:00 - Al-Rayyan v Al Gharafa [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-rayyan-vs-al-gharafa/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Prerov W v TJ Sokol Sternberk W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:00 - Prerov W v TJ Sokol Sternberk W [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/prerov-w-vs-tj-sokol-sternberk-w/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Frydek-Mistek W v Selmy Brno W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:00 - Frydek-Mistek W v Selmy Brno W [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/frydek-mistek-w-vs-selmy-brno-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="LALIGA Show" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",23:00 - LALIGA Show [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/laliga-show/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Sadd v Al Wakrah" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:00 - Al Sadd v Al Wakrah [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-sadd-vs-al-wakrah/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Wasl vs Ittihad Kalba" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFqJEsgAwMQvENJAkQiaqfOaQKEIvzAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp" group-title="Football",23:00 - Al Wasl vs Ittihad Kalba [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/al-wasl-vs-ittihad-kalba/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Radom W v MKS Kalisz W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",23:30 - Radom W v MKS Kalisz W [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/radom-w-vs-mks-kalisz-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Main Feed First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",23:30 - AT&T Pebble Beach Pro-Am: Main Feed First Round [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/at-t-pebble-beach-pro-am-main-feed-first-round/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Main Feed First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",23:30 - AT&T Pebble Beach Pro-Am: Main Feed First Round [Charlie] - (30/01/2025)
@@ -154,7 +126,23 @@ https://rr.vipstreams.in/Alpha/js/hilton-grand-vacations-tournament-of-champions
 https://rr.vipstreams.in/Charlie/js/hilton-grand-vacations-tournament-of-champions-first-round-1629423788/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Linz: Anastasia Potapova/Yana Sizikova v Irina Khromacheva/Anna Danilina" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",23:30 - WTA Linz: Anastasia Potapova/Yana Sizikova v Irina Khromacheva/Anna Danilina [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/wta-linz-anastasia-potapova-yana-sizikova-vs-irina-khromacheva-anna-danilina/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lappeenranta v Huima" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",23:30 - Lappeenranta v Huima [Alpha] - (30/01/2025)
-https://rr.vipstreams.in/Alpha/js/lappeenranta-vs-huima/1/playlist.m3u8
 #EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: McIlroy Marquee Group" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",23:45 - AT&T Pebble Beach Pro-Am: McIlroy Marquee Group [Alpha] - (30/01/2025)
 https://rr.vipstreams.in/Alpha/js/at-t-pebble-beach-pro-am-mcilroy-marquee-group/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Linz: Karolina Muchova v Sara Sorribes" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",00:00 - WTA Linz: Karolina Muchova v Sara Sorribes [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-linz-karolina-muchova-vs-sara-sorribes/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Raed v Al Nassr" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Al Raed v Al Nassr [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/al-raed-vs-al-nassr/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Raed v Al Nassr" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Al Raed v Al Nassr [Charlie] - (31/01/2025)
+https://rr.vipstreams.in/Charlie/js/al-raed-vs-al-nassr-19191914/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Raed v Al Nassr" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Al Raed v Al Nassr [Echo] - (31/01/2025)
+https://rr.vipstreams.in/Echo/js/al-raed-al-nassr-24227/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Juventus W v Lazio W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Juventus W v Lazio W [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/juventus-w-vs-lazio-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Juventus W v Lazio W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",00:00 - Juventus W v Lazio W [Charlie] - (31/01/2025)
+https://rr.vipstreams.in/Charlie/js/juventus-w-vs-lazio-w-19325008/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al-Raed vs Al Nassr FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHr4QWECRAx5IXiGkgUICDtPGQdk-BZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Football",00:00 - Al-Raed vs Al Nassr FC [Foxtrot] - (31/01/2025)
+https://rr.vipstreams.in/Foxtrot/js/al-raed-vs-al-nassr-202501301630/1/playlist.m3u8
+#EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Featured Holes #5, #7, #12 & #17 First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:15 - AT&T Pebble Beach Pro-Am: Featured Holes #5, #7, #12 & #17 First Round [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/at-t-pebble-beach-pro-am-featured-holes-5-7-12-17-first-round/1/playlist.m3u8
+#EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Featured Holes #5, #7, #12 & #17 First Round" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",00:15 - AT&T Pebble Beach Pro-Am: Featured Holes #5, #7, #12 & #17 First Round [Charlie] - (31/01/2025)
+https://rr.vipstreams.in/Charlie/js/atandt-pebble-beach-pro-am-featured-holes-5-7-12-and-17-first-round-featured-hole-1629423789/1/playlist.m3u8
