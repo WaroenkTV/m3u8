@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="UFC Riyadh: Q&A" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",20:00 - UFC Riyadh: Q&A [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/ufc-riyadh-q-a/1/playlist.m3u8
 #EXTINF:-1 tvg-name="ONE Friday Fights 95" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",19:30 - ONE Friday Fights 95 [Alpha] - (31/01/2025)
 https://rr.vipstreams.in/Alpha/js/one-friday-fights-95/1/playlist.m3u8
 #EXTINF:-1 tvg-name="WTA Linz: Dayana Yastremska v Maria Sakkari" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",19:25 - WTA Linz: Dayana Yastremska v Maria Sakkari [Alpha] - (31/01/2025)
@@ -50,18 +52,14 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="India v England" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",20:00 - India v England [Charlie] - (31/01/2025)
-https://rr.vipstreams.in/Charlie/js/india-vs-england-1629423835/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Linz: Katerina Siniakova/Zhang Shuai v Emily Appleton/Tang Qianhui" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:00 - WTA Linz: Katerina Siniakova/Zhang Shuai v Emily Appleton/Tang Qianhui [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-linz-katerina-siniakova-zhang-shuai-vs-emily-appleton-tang-qianhui/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WTA Singapore: Camila Osorio v Elise Mertens" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:00 - WTA Singapore: Camila Osorio v Elise Mertens [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/wta-singapore-camila-osorio-vs-elise-mertens/1/playlist.m3u8
-#EXTINF:-1 tvg-name="UFC Riyadh: Q&A" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",20:00 - UFC Riyadh: Q&A [Alpha] - (31/01/2025)
-https://rr.vipstreams.in/Alpha/js/ufc-riyadh-q-a/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sharjah FC v Dibba Al Hisn" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",20:15 - Sharjah FC v Dibba Al Hisn [Delta] - (31/01/2025)
 https://rr.vipstreams.in/Delta/js/sharjah-fc-vs-dibba-al-hisn-football-1315746/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Linz: Katerina Siniakova/Zhang Shuai v Emily Appleton/Tang Qianhui" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:15 - WTA Linz: Katerina Siniakova/Zhang Shuai v Emily Appleton/Tang Qianhui [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-linz-katerina-siniakova-zhang-shuai-vs-emily-appleton-tang-qianhui/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ajman vs Al Wahda" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgYgYobSAgheIaSCymQJcyZNHm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football",20:15 - Ajman vs Al Wahda [Delta] - (31/01/2025)
 https://rr.vipstreams.in/Delta/js/ajman-vs-al-wahda-fc-football-1315747/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA Singapore: Camila Osorio v Elise Mertens" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:25 - WTA Singapore: Camila Osorio v Elise Mertens [Alpha] - (31/01/2025)
+https://rr.vipstreams.in/Alpha/js/wta-singapore-camila-osorio-vs-elise-mertens/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Montpellier QF 1" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",20:30 - Montpellier QF 1 [Charlie] - (31/01/2025)
 https://rr.vipstreams.in/Charlie/js/montpellier-qf-1-1629423836/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Challenge Ciclista Mallorca | Serra de Tramuntana Trophy" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Other",20:30 - Challenge Ciclista Mallorca | Serra de Tramuntana Trophy [Alpha] - (31/01/2025)
@@ -464,3 +462,13 @@ https://rr.vipstreams.in/Delta/js/boavista-vs-famalicao-football-1231901/1/playl
 https://rr.vipstreams.in/Echo/js/boavista-famalicao-22680/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Boavista vs Famalicao" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKsspgUYaTRC8QWENRAwQJEIkTSQtyfmBIKWEXMY7VKHmDLwi1HLejvRgvuJiEEA.webp" group-title="Football",03:15 - Boavista vs Famalicao [Foxtrot] - (01/02/2025)
 https://rr.vipstreams.in/Foxtrot/js/boavista-vs-famalicao-202502012330/1/playlist.m3u8
+#EXTINF:-1 tvg-name="AT&T Pebble Beach Pro-Am: Featured Group 2 (Second Round)" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Golf",04:00 - AT&T Pebble Beach Pro-Am: Featured Group 2 (Second Round) [Charlie] - (01/02/2025)
+https://rr.vipstreams.in/Charlie/js/atandt-pebble-beach-pro-am-featured-group-2-second-round-1629423966/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guyana U17 W v Turks and Caicos Islands U17 W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Guyana U17 W v Turks and Caicos Islands U17 W [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/guyana-u17-w-vs-turks-and-caicos-islands-u17-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Curacao U17 W v Anguilla U17 W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Curacao U17 W v Anguilla U17 W [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/curacao-u17-w-vs-anguilla-u17-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Belize U17 W v United States Virgin Islands U17 W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",04:00 - Belize U17 W v United States Virgin Islands U17 W [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/belize-u17-w-vs-united-states-virgin-islands-u17-w/1/playlist.m3u8
+#EXTINF:-1 tvg-name="WNBA Free Agency Special" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Basketball",04:00 - WNBA Free Agency Special [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/wnba-free-agency-special/1/playlist.m3u8
