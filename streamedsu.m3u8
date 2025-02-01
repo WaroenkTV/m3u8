@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Japan v Great Britain Nishioka - Fearnley" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Japan v Great Britain Nishioka - Fearnley [Bravo] - (01/02/2025)
+https://rr.vipstreams.in/Bravo/js/1738384200000-japan-great-britain-nishioka-fearnley/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Chinese Taipei v USA Tseng - Michelsen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Chinese Taipei v USA Tseng - Michelsen [Bravo] - (01/02/2025)
+https://rr.vipstreams.in/Bravo/js/1738384200000-chinese-taipei-usa-tseng-michelsen/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka v Australia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",11:30 - Sri Lanka v Australia [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/sri-lanka-vs-australia/1/playlist.m3u8
 #EXTINF:-1 tvg-name="GCW: Up All Night 2025" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",11:00 - GCW: Up All Night 2025 [Alpha] - (01/02/2025)
 https://rr.vipstreams.in/Alpha/js/gcw-up-all-night-2025/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Puerto Rico v Mexico" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Baseball",11:00 - Puerto Rico v Mexico [Alpha] - (01/02/2025)
@@ -88,22 +94,14 @@ https://rr.vipstreams.in/Charlie/js/phoenix-suns-vs-golden-state-warriors-162942
 https://rr.vipstreams.in/Delta/js/golden-state-warriors-vs-phoenix-suns-basketball-414558/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Golden State Warriors vs Phoenix Suns" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtQE1QYMShC8QWENRBnDp09JD6SLJBSwi5jFLo4oeu8o0175rMBg7oxiEEA.webp" group-title="Basketball",10:00 - Golden State Warriors vs Phoenix Suns [Echo] - (01/02/2025)
 https://rr.vipstreams.in/Echo/js/golden-state-warriors-phoenix-suns-20076/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Air Force vs RIT" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:05 - Air Force vs RIT [Bravo] - (01/02/2025)
-https://rr.vipstreams.in/Bravo/js/1738375500000-air-force-falcons-rit-tigers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Utah v Columbus Blue Jackets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:00 - Utah v Columbus Blue Jackets [Delta] - (01/02/2025)
 https://rr.vipstreams.in/Delta/js/utah-vs-columbus-blue-jackets-hockey-387054/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kevin Crespo v Diego Andrade Jr." tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",09:00 - Kevin Crespo v Diego Andrade Jr. [Bravo] - (01/02/2025)
 https://rr.vipstreams.in/Bravo/js/1738375200000-kevin-crespo-vs-diego-andrade-jr-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Columbus Blue Jackets v Utah HC" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:00 - Columbus Blue Jackets v Utah HC [Bravo] - (01/02/2025)
-https://rr.vipstreams.in/Bravo/js/1738375200000-columbus-blue-jackets-vs-utah-hc/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tucson Roadrunners vs Ontario Reign" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCChRZ4FCBgheILPs0hz5iCGlnJ+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Hockey",09:00 - Tucson Roadrunners vs Ontario Reign [Bravo] - (01/02/2025)
-https://rr.vipstreams.in/Bravo/js/1738375200000-tucson-roadrunners-ontario-reign/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Edmonton Oil Kings vs Calgary Hitmen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:00 - Edmonton Oil Kings vs Calgary Hitmen [Delta] - (01/02/2025)
 https://rr.vipstreams.in/Delta/js/edmonton-oil-kings-vs-calgary-hitmen-hockey-385951/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Colorado Avalanche vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhQDy8MCBC8Q0kChBYjBsyBgmQJFkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp" group-title="Hockey",09:00 - Colorado Avalanche vs St. Louis Blues [Alpha] - (01/02/2025)
 https://rr.vipstreams.in/Alpha/js/colorado-avalanche-vs-st-louis-blues/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Colorado Avalanche vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhQDy8MCBC8Q0kChBYjBsyBgmQJFkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp" group-title="Hockey",09:00 - Colorado Avalanche vs St. Louis Blues [Bravo] - (01/02/2025)
-https://rr.vipstreams.in/Bravo/js/1738375200000-st-louis-blues-vs-colorado-avalanche/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Colorado Avalanche vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhQDy8MCBC8Q0kChBYjBsyBgmQJFkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp" group-title="Hockey",09:00 - Colorado Avalanche vs St. Louis Blues [Charlie] - (01/02/2025)
 https://rr.vipstreams.in/Charlie/js/st-louis-blues-vs-colorado-avalanche-1629423988/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Colorado Avalanche vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhQDy8MCBC8Q0kChBYjBsyBgmQJFkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp" group-title="Hockey",09:00 - Colorado Avalanche vs St. Louis Blues [Delta] - (01/02/2025)
@@ -112,12 +110,6 @@ https://rr.vipstreams.in/Delta/js/colorado-avalanche-vs-st-louis-blues-hockey-38
 https://rr.vipstreams.in/Alpha/js/utah-hockey-club-vs-columbus-blue-jackets/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Utah Hockey Club vs Columbus Blue Jackets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvXiQQslMGkheILCGo7TIEpZApDIG-mBIKWEXMYowqvRy-lG1HJ6jvRgXuJiEEA.webp" group-title="Hockey",09:00 - Utah Hockey Club vs Columbus Blue Jackets [Charlie] - (01/02/2025)
 https://rr.vipstreams.in/Charlie/js/columbus-blue-jackets-vs-utah-hockey-club-1629423989/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Denver vs Omaha" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:00 - Denver vs Omaha [Bravo] - (01/02/2025)
-https://rr.vipstreams.in/Bravo/js/1738375200000-denver-pioneers-omaha-mavericks/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Colorado College vs Western Michigan" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:00 - Colorado College vs Western Michigan [Bravo] - (01/02/2025)
-https://rr.vipstreams.in/Bravo/js/1738375200000-colorado-college-tigers-western-michigan-broncos/1/playlist.m3u8
-#EXTINF:-1 tvg-name="WWE Friday Night Smackdown" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",08:00 - WWE Friday Night Smackdown [Alpha] - (01/02/2025)
-https://rr.vipstreams.in/Alpha/js/wwe-friday-night-smackdown/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Dallas Stars vs Vancouver Canucks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBDwwKELxqk9IaSF1ZjR8xEsskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp" group-title="Hockey",08:00 - Dallas Stars vs Vancouver Canucks [Charlie] - (01/02/2025)
 https://rr.vipstreams.in/Charlie/js/vancouver-canucks-vs-dallas-stars-1629423984/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",Sky Sports Darts
@@ -148,8 +140,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka v Australia" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Cricket",11:30 - Sri Lanka v Australia [Alpha] - (01/02/2025)
-https://rr.vipstreams.in/Alpha/js/sri-lanka-vs-australia/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Davis Cup: Yoshihito Nishioka v Jacob Fearnley" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:50 - Davis Cup: Yoshihito Nishioka v Jacob Fearnley [Alpha] - (01/02/2025)
 https://rr.vipstreams.in/Alpha/js/davis-cup-yoshihito-nishioka-vs-jacob-fearnley/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",12:50 - Central Coast Mariners W v Newcastle W [Alpha] - (01/02/2025)
@@ -314,3 +304,67 @@ https://rr.vipstreams.in/Delta/js/fortuna-dusseldorf-vs-ssv-ulm-1846-football-12
 https://rr.vipstreams.in/Echo/js/fortuna-dusseldorf-ssv-ulm-1846-22660/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rayong FC vs Uthai Thani" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:00 - Rayong FC vs Uthai Thani [Alpha] - (01/02/2025)
 https://rr.vipstreams.in/Alpha/js/rayong-fc-vs-uthai-thani/1/playlist.m3u8
+#EXTINF:-1 tvg-name="2025 Winmau World Masters Day Three" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Darts",19:30 - 2025 Winmau World Masters Day Three [Charlie] - (01/02/2025)
+https://rr.vipstreams.in/Charlie/js/2025-winmau-world-masters-day-three-1629424000/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oxford United v Bristol City" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Oxford United v Bristol City [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/oxford-united-vs-bristol-city/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oxford United v Bristol City" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Oxford United v Bristol City [Delta] - (01/02/2025)
+https://rr.vipstreams.in/Delta/js/oxford-united-vs-bristol-city-football-1216197/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oxford United v Bristol City" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Oxford United v Bristol City [Echo] - (01/02/2025)
+https://rr.vipstreams.in/Echo/js/oxford-united-bristol-city-22651/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oxford United v Bristol City" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",19:30 - Oxford United v Bristol City [Foxtrot] - (01/02/2025)
+https://rr.vipstreams.in/Foxtrot/js/oxford-united-vs-bristol-city-202502011200/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Watford vs Norwich" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlEbAwvEHBghdWQyBQgSIaXusgQ8FkgpYRcxijCqUPD+UbU5Xvis2h7iYhBAA.webp" group-title="Football",19:30 - Watford vs Norwich [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/watford-vs-norwich-city/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Watford vs Norwich" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlEbAwvEHBghdWQyBQgSIaXusgQ8FkgpYRcxijCqUPD+UbU5Xvis2h7iYhBAA.webp" group-title="Football",19:30 - Watford vs Norwich [Charlie] - (01/02/2025)
+https://rr.vipstreams.in/Charlie/js/watford-vs-norwich-city-19143014/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Watford vs Norwich" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlEbAwvEHBghdWQyBQgSIaXusgQ8FkgpYRcxijCqUPD+UbU5Xvis2h7iYhBAA.webp" group-title="Football",19:30 - Watford vs Norwich [Delta] - (01/02/2025)
+https://rr.vipstreams.in/Delta/js/watford-vs-norwich-football-1216202/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Watford vs Norwich" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlEbAwvEHBghdWQyBQgSIaXusgQ8FkgpYRcxijCqUPD+UbU5Xvis2h7iYhBAA.webp" group-title="Football",19:30 - Watford vs Norwich [Echo] - (01/02/2025)
+https://rr.vipstreams.in/Echo/js/watford-norwich-22650/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Watford vs Norwich" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlEbAwvEHBghdWQyBQgSIaXusgQ8FkgpYRcxijCqUPD+UbU5Xvis2h7iYhBAA.webp" group-title="Football",19:30 - Watford vs Norwich [Foxtrot] - (01/02/2025)
+https://rr.vipstreams.in/Foxtrot/js/watford-vs-norwich-202502011200/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plymouth vs West Brom" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGzikwaSBQheILIf0gSIPTBDWQNlkgpYRcxijCqUPD+UbU5XviswJpijGFAA.webp" group-title="Football",19:30 - Plymouth vs West Brom [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/plymouth-argyle-vs-west-bromwich-albion/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plymouth vs West Brom" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGzikwaSBQheILIf0gSIPTBDWQNlkgpYRcxijCqUPD+UbU5XviswJpijGFAA.webp" group-title="Football",19:30 - Plymouth vs West Brom [Charlie] - (01/02/2025)
+https://rr.vipstreams.in/Charlie/js/plymouth-argyle-vs-west-bromwich-albion-19143010/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plymouth vs West Brom" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGzikwaSBQheILIf0gSIPTBDWQNlkgpYRcxijCqUPD+UbU5XviswJpijGFAA.webp" group-title="Football",19:30 - Plymouth vs West Brom [Delta] - (01/02/2025)
+https://rr.vipstreams.in/Delta/js/plymouth-vs-west-brom-football-1216198/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plymouth vs West Brom" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGzikwaSBQheILIf0gSIPTBDWQNlkgpYRcxijCqUPD+UbU5XviswJpijGFAA.webp" group-title="Football",19:30 - Plymouth vs West Brom [Echo] - (01/02/2025)
+https://rr.vipstreams.in/Echo/js/plymouth-west-brom-22652/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Plymouth vs West Brom" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGzikwaSBQheILIf0gSIPTBDWQNlkgpYRcxijCqUPD+UbU5XviswJpijGFAA.webp" group-title="Football",19:30 - Plymouth vs West Brom [Foxtrot] - (01/02/2025)
+https://rr.vipstreams.in/Foxtrot/js/plymouth-vs-west-brom-202502011200/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Stevenage vs Exeter" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtNxiqYiCF4gs+kChAkQ0kNTMWTLJBSwi5jFGFUoe78o2pzP+KzAYO7iukA.webp" group-title="Football",19:30 - Stevenage vs Exeter [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/stevenage-vs-exeter-city/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Stevenage vs Exeter" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtNxiqYiCF4gs+kChAkQ0kNTMWTLJBSwi5jFGFUoe78o2pzP+KzAYO7iukA.webp" group-title="Football",19:30 - Stevenage vs Exeter [Delta] - (01/02/2025)
+https://rr.vipstreams.in/Delta/js/stevenage-vs-exeter-city-football-1216753/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Stevenage vs Exeter" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtNxiqYiCF4gs+kChAkQ0kNTMWTLJBSwi5jFGFUoe78o2pzP+KzAYO7iukA.webp" group-title="Football",19:30 - Stevenage vs Exeter [Foxtrot] - (01/02/2025)
+https://rr.vipstreams.in/Foxtrot/js/stevenage-vs-exeter-city-202502011200/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Barnsley vs Burton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihBwsIMZogheIHUc0kQ0kNV0XDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",19:30 - Barnsley vs Burton [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/barnsley-vs-burton-albion/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Barnsley vs Burton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihBwsIMZogheIHUc0kQ0kNV0XDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",19:30 - Barnsley vs Burton [Delta] - (01/02/2025)
+https://rr.vipstreams.in/Delta/js/barnsley-vs-burton-albion-football-1216743/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Barnsley vs Burton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihBwsIMZogheIHUc0kQ0kNV0XDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",19:30 - Barnsley vs Burton [Foxtrot] - (01/02/2025)
+https://rr.vipstreams.in/Foxtrot/js/barnsley-vs-burton-albion-202502011200/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gillingham vs Notts County" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkgyKClV4gDWQyBTbNICOYPwWSClhFzGu1Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Football",19:30 - Gillingham vs Notts County [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/gillingham-vs-notts-county/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gillingham vs Notts County" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkgyKClV4gDWQyBTbNICOYPwWSClhFzGu1Sh5gy8ItTnv8rMBgnuJiEEA.webp" group-title="Football",19:30 - Gillingham vs Notts County [Delta] - (01/02/2025)
+https://rr.vipstreams.in/Delta/js/gillingham-vs-notts-county-football-1217300/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cheltenham vs Chesterfield" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYGYFGBAha1ELxBZjIFCBIhpICFfPN8wJBSwi5jXapQ8wZeCJqOV9nejB-cTEIIA.webp" group-title="Football",19:30 - Cheltenham vs Chesterfield [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/cheltenham-town-vs-chesterfield/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cheltenham vs Chesterfield" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYGYFGBAha1ELxBZjIFCBIhpICFfPN8wJBSwi5jXapQ8wZeCJqOV9nejB-cTEIIA.webp" group-title="Football",19:30 - Cheltenham vs Chesterfield [Delta] - (01/02/2025)
+https://rr.vipstreams.in/Delta/js/cheltenham-vs-chesterfield-football-1217298/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Karvina vs Teplice" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdikpNWwJLBC8Q0kNRBYjFkiCshbLPTAEi5jFGFWaO78o2pzN+Dpg7uJiEEA.webp" group-title="Football",19:30 - Karvina vs Teplice [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/karvina-vs-teplice/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nottingham Forest vs Brighton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAhiYUNhC8Q0rSBQgYRkNRAkr5lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",19:30 - Nottingham Forest vs Brighton [Admin] - (01/02/2025)
+https://rr.vipstreams.in/Admin/js/admin-nottingham-forest-vs-brighton/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nottingham Forest vs Brighton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAhiYUNhC8Q0rSBQgYRkNRAkr5lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",19:30 - Nottingham Forest vs Brighton [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/nottingham-forest-vs-brighton-hove-albion/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nottingham Forest vs Brighton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAhiYUNhC8Q0rSBQgYRkNRAkr5lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",19:30 - Nottingham Forest vs Brighton [Charlie] - (01/02/2025)
+https://rr.vipstreams.in/Charlie/js/nottingham-forest-vs-brighton-and-hove-albion-19134571/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nottingham Forest vs Brighton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAhiYUNhC8Q0rSBQgYRkNRAkr5lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",19:30 - Nottingham Forest vs Brighton [Delta] - (01/02/2025)
+https://rr.vipstreams.in/Delta/js/nottingham-forest-vs-brighton-football-1208261/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nottingham Forest vs Brighton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAhiYUNhC8Q0rSBQgYRkNRAkr5lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",19:30 - Nottingham Forest vs Brighton [Echo] - (01/02/2025)
+https://rr.vipstreams.in/Echo/js/nottingham-forest-brighton-22648/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nottingham Forest vs Brighton" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAhiYUNhC8Q0rSBQgYRkNRAkr5lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football",19:30 - Nottingham Forest vs Brighton [Foxtrot] - (01/02/2025)
+https://rr.vipstreams.in/Foxtrot/js/nottingham-forest-vs-brighton-202502011430/1/playlist.m3u8
