@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Davis Cup: Yoshihito Nishioka v Jacob Fearnley" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:50 - Davis Cup: Yoshihito Nishioka v Jacob Fearnley [Alpha] - (01/02/2025)
+https://rr.vipstreams.in/Alpha/js/davis-cup-yoshihito-nishioka-vs-jacob-fearnley/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Japan v Great Britain Nishioka - Fearnley" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Japan v Great Britain Nishioka - Fearnley [Bravo] - (01/02/2025)
 https://rr.vipstreams.in/Bravo/js/1738384200000-japan-great-britain-nishioka-fearnley/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Chinese Taipei v USA Tseng - Michelsen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:30 - Chinese Taipei v USA Tseng - Michelsen [Bravo] - (01/02/2025)
@@ -94,18 +96,12 @@ https://rr.vipstreams.in/Charlie/js/phoenix-suns-vs-golden-state-warriors-162942
 https://rr.vipstreams.in/Delta/js/golden-state-warriors-vs-phoenix-suns-basketball-414558/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Golden State Warriors vs Phoenix Suns" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtQE1QYMShC8QWENRBnDp09JD6SLJBSwi5jFLo4oeu8o0175rMBg7oxiEEA.webp" group-title="Basketball",10:00 - Golden State Warriors vs Phoenix Suns [Echo] - (01/02/2025)
 https://rr.vipstreams.in/Echo/js/golden-state-warriors-phoenix-suns-20076/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Utah v Columbus Blue Jackets" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:00 - Utah v Columbus Blue Jackets [Delta] - (01/02/2025)
-https://rr.vipstreams.in/Delta/js/utah-vs-columbus-blue-jackets-hockey-387054/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kevin Crespo v Diego Andrade Jr." tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Fight",09:00 - Kevin Crespo v Diego Andrade Jr. [Bravo] - (01/02/2025)
 https://rr.vipstreams.in/Bravo/js/1738375200000-kevin-crespo-vs-diego-andrade-jr-/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Edmonton Oil Kings vs Calgary Hitmen" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Hockey",09:00 - Edmonton Oil Kings vs Calgary Hitmen [Delta] - (01/02/2025)
-https://rr.vipstreams.in/Delta/js/edmonton-oil-kings-vs-calgary-hitmen-hockey-385951/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Colorado Avalanche vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhQDy8MCBC8Q0kChBYjBsyBgmQJFkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp" group-title="Hockey",09:00 - Colorado Avalanche vs St. Louis Blues [Alpha] - (01/02/2025)
 https://rr.vipstreams.in/Alpha/js/colorado-avalanche-vs-st-louis-blues/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Colorado Avalanche vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhQDy8MCBC8Q0kChBYjBsyBgmQJFkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp" group-title="Hockey",09:00 - Colorado Avalanche vs St. Louis Blues [Charlie] - (01/02/2025)
 https://rr.vipstreams.in/Charlie/js/st-louis-blues-vs-colorado-avalanche-1629423988/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Colorado Avalanche vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjhQDy8MCBC8Q0kChBYjBsyBgmQJFkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp" group-title="Hockey",09:00 - Colorado Avalanche vs St. Louis Blues [Delta] - (01/02/2025)
-https://rr.vipstreams.in/Delta/js/colorado-avalanche-vs-st-louis-blues-hockey-387055/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Utah Hockey Club vs Columbus Blue Jackets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvXiQQslMGkheILCGo7TIEpZApDIG-mBIKWEXMYowqvRy-lG1HJ6jvRgXuJiEEA.webp" group-title="Hockey",09:00 - Utah Hockey Club vs Columbus Blue Jackets [Alpha] - (01/02/2025)
 https://rr.vipstreams.in/Alpha/js/utah-hockey-club-vs-columbus-blue-jackets/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Utah Hockey Club vs Columbus Blue Jackets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvXiQQslMGkheILCGo7TIEpZApDIG-mBIKWEXMYowqvRy-lG1HJ6jvRgXuJiEEA.webp" group-title="Hockey",09:00 - Utah Hockey Club vs Columbus Blue Jackets [Charlie] - (01/02/2025)
@@ -140,8 +136,6 @@ https://rr.vipstreams.in/Alpha/js/sky-sports-news-ssn-breaking-sports-news/1/pla
 https://rr.vipstreams.in/Alpha/js/espn-first-take/1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="24/7 Live",NBA TV
 https://rr.vipstreams.in/Alpha/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Davis Cup: Yoshihito Nishioka v Jacob Fearnley" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Tennis",11:50 - Davis Cup: Yoshihito Nishioka v Jacob Fearnley [Alpha] - (01/02/2025)
-https://rr.vipstreams.in/Alpha/js/davis-cup-yoshihito-nishioka-vs-jacob-fearnley/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",12:50 - Central Coast Mariners W v Newcastle W [Alpha] - (01/02/2025)
 https://rr.vipstreams.in/Alpha/js/central-coast-mariners-w-vs-newcastle-w/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners W v Newcastle W" tvg-logo="https://raw.githubusercontent.com/WaroenkTV/m3u8/refs/heads/main/LiveSports.png" group-title="Football",12:50 - Central Coast Mariners W v Newcastle W [Charlie] - (01/02/2025)
